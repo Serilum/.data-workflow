@@ -13,7 +13,8 @@ def main(mainpath):
 
 	print("\n" + fprefix + "Starting.\n")
 
-	output = {"data" : {}}
+	output = { "data" : { "mod-feature" : {}, "standalone-feature" : {}}}
+	issues_sorted_reaction_count = {}
 
 	# rootpath = mainpath + sep + "issue-tracker" # For dev
 	rootpath = "." + sep + "issue-tracker" # For production
@@ -29,8 +30,8 @@ def main(mainpath):
 			continue
 
 		# General Information
-		id = fr.id
-		number = fr.number
+		id = int(fr.id)
+		number = int(fr.number)
 		title = fr.title
 		openedby = fr.user.login
 		creationdate = str(fr.created_at).split(" ")[0]
@@ -46,6 +47,13 @@ def main(mainpath):
 			label = raw_label.name
 			if not label in labels:
 				labels.append(label)
+
+
+
+		# Determine if issue is a mod or standalone feature
+		data_field = "mod-feature"
+		if len(labels) == 1:
+			data_field = "standalone-feature"
 
 
 		# Reactions
@@ -109,6 +117,10 @@ def main(mainpath):
 		# print("User comment count:", user_comment_count)
 
 
+		# Add to issues_sorted_reaction_count dictionary
+		issues_sorted_reaction_count[number] = reaction_count
+
+
 		# Creating data entry in output
 		data = { "id" : id,
 				 "number" : number,
@@ -122,7 +134,11 @@ def main(mainpath):
 				 "user_comment_count" : user_comment_count
 			   }
 
-		output["data"][number] = data
+		output["data"][data_field][number] = data
+
+
+	# Sort issues_sorted_reaction_count
+	output["issues_sorted_reaction_count"] = list(reversed(sorted(issues_sorted_reaction_count.items(), key=lambda x:x[1])))
 
 
 	# Add last_updated to output
