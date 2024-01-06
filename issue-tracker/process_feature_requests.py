@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 from github						import Auth, Github
+from datetime					import datetime
 import json
 import os
 import sys
@@ -14,8 +15,8 @@ def main(mainpath):
 
 	output = {}
 
-	# rootpath = mainpath + sep + "issue-tracker"
-	rootpath = "." + sep + "issue-tracker"
+	# rootpath = mainpath + sep + "issue-tracker" # For dev
+	rootpath = "." + sep + "issue-tracker" # For production
 
 	gh_serilum = Github(auth=Auth.Token(os.environ["GH_SERILUM_DATA_WORKFLOW_API"]))
 	serilum_org = gh_serilum.get_organization("Serilum")
@@ -107,6 +108,7 @@ def main(mainpath):
 		# print("Total comment count:", total_comment_count)
 		# print("User comment count:", user_comment_count)
 
+
 		# Creating data entry in output
 		data = { "id" : id,
 				 "number" : number,
@@ -123,6 +125,14 @@ def main(mainpath):
 		output[number] = data
 
 
+	# Add last_updated to output
+	last_updated = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+
+	print(fprefix + "Last updated output:", last_updated)
+	output["last_updated"] = last_updated
+
+
+	# Write output to file
 	json_output_path = rootpath + sep + "data" + sep + "feature-request-data.json"
 
 	print(fprefix + "Writing output to: " + json_output_path)
