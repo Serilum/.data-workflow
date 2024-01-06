@@ -13,7 +13,7 @@ def main(mainpath):
 
 	print("\n" + fprefix + "Starting.\n")
 
-	output = {}
+	output = {"data" : {}}
 
 	# rootpath = mainpath + sep + "issue-tracker" # For dev
 	rootpath = "." + sep + "issue-tracker" # For production
@@ -122,7 +122,7 @@ def main(mainpath):
 				 "user_comment_count" : user_comment_count
 			   }
 
-		output[number] = data
+		output["data"][number] = data
 
 
 	# Add last_updated to output
