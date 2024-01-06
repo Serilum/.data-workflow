@@ -1,6 +1,10 @@
 name: Process Issue Tracker Feature Requests via Python
 
 on:
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: 'Manual run'
   schedule:
     - cron:  '20 */6 * * *'
 
