@@ -152,6 +152,9 @@ def main(mainpath):
 
 	print(fprefix + "Writing output to: " + json_output_path)
 	with open(json_output_path, "w") as datafile:
+		datafile.write(json.dumps(output, indent=2))
+
+	with open(json_output_path.replace(".json", ".min.json"), "w") as datafile:
 		datafile.write(json.dumps(output))
 
 	print("\n" + fprefix + "Finished.")
