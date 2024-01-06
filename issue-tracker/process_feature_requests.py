@@ -122,7 +122,6 @@ def main(mainpath):
 
 		output[number] = data
 
-		break
 
 	json_output_path = rootpath + sep + "data" + sep + "feature-request-data.json"
 
