@@ -14,7 +14,8 @@ def main(mainpath):
 
 	output = {}
 
-	rootpath = mainpath + sep + "issue-tracker"
+	# rootpath = mainpath + sep + "issue-tracker"
+	rootpath = "." + sep + "issue-tracker"
 
 	gh_serilum = Github(auth=Auth.Token(os.environ["GH_SERILUM_DATA_WORKFLOW_API"]))
 	serilum_org = gh_serilum.get_organization("Serilum")
