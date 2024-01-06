@@ -33,7 +33,7 @@ def main(mainpath):
 		title = fr.title
 		openedby = fr.user.login
 		creationdate = str(fr.created_at).split(" ")[0]
-		url = fr.html_url
+		# url = fr.html_url
 
 		print(fprefix + "Processing issue #" + str(number))
 
@@ -113,7 +113,6 @@ def main(mainpath):
 				 "title" : title,
 				 "opened_by" : openedby,
 				 "creation_date" : creationdate,
-				 "issue_url" : url,
 				 "labels" : labels,
 				 "reactions" : reactions,
 				 "reaction_count" : reaction_count,
