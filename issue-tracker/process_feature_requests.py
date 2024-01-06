@@ -35,6 +35,7 @@ def main(mainpath):
 		title = fr.title
 		openedby = fr.user.login
 		creationdate = str(fr.created_at).split(" ")[0]
+		modname = ""
 		# url = fr.html_url
 
 		print(fprefix + "Processing issue #" + str(number))
@@ -44,10 +45,12 @@ def main(mainpath):
 
 		raw_labels = fr.get_labels()
 		for raw_label in raw_labels:
-			label = raw_label.name
+			label = str(raw_label.name)
 			if not label in labels:
 				labels.append(label)
 
+			if "Mod: " in label:
+				modname = label.replace("Mod: ", "").strip()
 
 		# Determine if issue is a mod or standalone feature
 		data_field = "mod-feature"
@@ -127,6 +130,7 @@ def main(mainpath):
 				 "opened_by" : openedby,
 				 "creation_date" : creationdate,
 				 "labels" : labels,
+				 "mod_name" : modname,
 				 "reactions" : reactions,
 				 "reaction_count" : reaction_count,
 				 "total_comment_count" : total_comment_count,
