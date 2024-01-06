@@ -49,7 +49,6 @@ def main(mainpath):
 				labels.append(label)
 
 
-
 		# Determine if issue is a mod or standalone feature
 		data_field = "mod-feature"
 		if len(labels) == 1:
