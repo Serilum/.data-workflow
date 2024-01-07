@@ -60,7 +60,9 @@
           "Mod: Realistic Bees"
         ],
         "mod_name": "Realistic Bees",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -1988,7 +1990,7 @@
         ],
         "mod_name": "Eroding Stone Entities",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
         "reaction_count": 2,
         "total_comment_count": 3,
@@ -2330,7 +2332,9 @@
           "Mod: Random Village Names"
         ],
         "mod_name": "Random Village Names",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 2
@@ -2380,7 +2384,8 @@
         ],
         "mod_name": "Beautified Chat [Client]",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "heart": 1
         },
         "reaction_count": 2,
         "total_comment_count": 3,
@@ -2447,7 +2452,7 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -2933,9 +2938,10 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "heart": 1
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 6,
         "user_comment_count": 1
       },
@@ -3064,8 +3070,10 @@
           "Mod: Death Backup"
         ],
         "mod_name": "Death Backup",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -3080,7 +3088,9 @@
           "Mod: Followers Teleport Too"
         ],
         "mod_name": "Followers Teleport Too",
-        "reactions": {},
+        "reactions": {
+          "hooray": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 6,
         "user_comment_count": 3
@@ -3338,7 +3348,9 @@
           "Mod: Areas"
         ],
         "mod_name": "Areas",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 4,
         "user_comment_count": 2
@@ -3386,7 +3398,9 @@
           "Mod: Villager Names"
         ],
         "mod_name": "Villager Names",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -3418,7 +3432,9 @@
           "Mod: Beautified Chat [Client]"
         ],
         "mod_name": "Beautified Chat [Client]",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -3856,7 +3872,9 @@
           "Mod: Snowballs Freeze Mobs"
         ],
         "mod_name": "Snowballs Freeze Mobs",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 4,
         "user_comment_count": 2
@@ -5196,7 +5214,9 @@
           "Mod: Just Player Heads"
         ],
         "mod_name": "Just Player Heads",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 4,
         "user_comment_count": 2
@@ -5487,7 +5507,10 @@
           "Mod: Just Player Heads"
         ],
         "mod_name": "Just Player Heads",
-        "reactions": {},
+        "reactions": {
+          "+1": 1,
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -5519,7 +5542,9 @@
           "Mod: Beautified Chat [Server]"
         ],
         "mod_name": "Beautified Chat [Server]",
-        "reactions": {},
+        "reactions": {
+          "rocket": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -5669,7 +5694,9 @@
           "Mod: Bottled Air"
         ],
         "mod_name": "Bottled Air",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 4,
         "user_comment_count": 1
@@ -5850,7 +5877,9 @@
           "Mod: Trample Everything"
         ],
         "mod_name": "Trample Everything",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 5,
         "user_comment_count": 2
@@ -6708,7 +6737,7 @@
         ],
         "mod_name": "Mineral Chance",
         "reactions": {
-          "+1": 2,
+          "+1": 3,
           "eyes": 2,
           "heart": 1
         },
@@ -7298,7 +7327,9 @@
           "Mod: Giant Spawn"
         ],
         "mod_name": "Giant Spawn",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 4,
         "user_comment_count": 2
@@ -7331,7 +7362,9 @@
           "Mod: Set World Spawn Point"
         ],
         "mod_name": "Set World Spawn Point",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 5,
         "user_comment_count": 2
@@ -7364,7 +7397,8 @@
         ],
         "mod_name": "Starter Kit",
         "reactions": {
-          "+1": 1
+          "+1": 3,
+          "heart": 1
         },
         "reaction_count": 2,
         "total_comment_count": 5,
@@ -7415,7 +7449,9 @@
           "Mod: Nether Portal Spread"
         ],
         "mod_name": "Nether Portal Spread",
-        "reactions": {},
+        "reactions": {
+          "+1": 2
+        },
         "reaction_count": 1,
         "total_comment_count": 8,
         "user_comment_count": 1
@@ -7463,7 +7499,9 @@
           "Feature Request"
         ],
         "mod_name": "",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -7584,7 +7622,7 @@
         ],
         "mod_name": "",
         "reactions": {
-          "+1": 1
+          "+1": 3
         },
         "reaction_count": 2,
         "total_comment_count": 3,
@@ -7870,7 +7908,9 @@
           "Feature Request"
         ],
         "mod_name": "",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -7930,8 +7970,10 @@
           "Feature Request"
         ],
         "mod_name": "",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       }
@@ -7996,6 +8038,10 @@
     ],
     [
       203,
+      2
+    ],
+    [
+      252,
       2
     ],
     [
@@ -8064,6 +8110,14 @@
     ],
     [
       1347,
+      2
+    ],
+    [
+      1358,
+      2
+    ],
+    [
+      1380,
       2
     ],
     [
@@ -8156,10 +8210,6 @@
     ],
     [
       246,
-      1
-    ],
-    [
-      252,
       1
     ],
     [
@@ -9211,10 +9261,6 @@
       1
     ],
     [
-      1358,
-      1
-    ],
-    [
       1359,
       1
     ],
@@ -9240,10 +9286,6 @@
     ],
     [
       1374,
-      1
-    ],
-    [
-      1380,
       1
     ],
     [
@@ -9895,5 +9937,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-07 18:39:47"
+  "last_updated": "2024-01-07 19:11:26"
 }
