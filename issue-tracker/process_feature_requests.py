@@ -156,8 +156,6 @@ def main(mainpath):
 
 		output["data"][data_field][number] = data
 
-		break
-
 
 	# Sort issues_sorted_reaction_count
 	output["issues_sorted_reaction_count"] = list(reversed(sorted(issues_sorted_reaction_count.items(), key=lambda x:x[1])))
