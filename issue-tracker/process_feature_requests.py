@@ -73,15 +73,10 @@ def main(mainpath):
 					reactions[rc] += 1
 
 				if rc != "-1" and rc != "confused":
-					username = raw_reaction.user.login
+					reaction_username = raw_reaction.user.login
 
-					if not username in reacted_users:
-						reacted_users.append(username)
-
-		if not openedby in reacted_users: # Add issue creator to reaction count as +1
-			reacted_users.append(openedby)
-
-		reaction_count = len(reacted_users)
+					if not reaction_username in reacted_users:
+						reacted_users.append(reaction_username)
 
 		# Issue Comments
 		commented_users = []
@@ -90,6 +85,22 @@ def main(mainpath):
 		user_comment_count = 0
 		for raw_comment in fr.get_comments():
 			total_comment_count += 1
+
+			raw_comment_reactions = raw_comment.get_reactions()
+			if raw_comment_reactions.totalCount > 0:
+				for raw_comment_reaction in raw_comment_reactions:
+					rc = raw_comment_reaction.content
+
+					if not rc in reactions:
+						reactions[rc] = 1
+					else:
+						reactions[rc] += 1
+
+					if rc != "-1" and rc != "confused":
+						comment_reaction_username = raw_comment_reaction.user.login
+
+						if not comment_reaction_username in reacted_users:
+							reacted_users.append(comment_reaction_username)
 
 			issue_comment_user = raw_comment.user.login
 			if issue_comment_user == "ricksouth":
@@ -103,6 +114,12 @@ def main(mainpath):
 			commented_users.append(openedby)
 			total_comment_count += 1
 			user_comment_count += 1
+
+
+		if not openedby in reacted_users: # Add issue creator to reaction count as +1
+			reacted_users.append(openedby)
+
+		reaction_count = len(reacted_users)
 
 
 		# Information Overview
@@ -138,6 +155,8 @@ def main(mainpath):
 			   }
 
 		output["data"][data_field][number] = data
+
+		break
 
 
 	# Sort issues_sorted_reaction_count
