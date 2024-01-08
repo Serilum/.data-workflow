@@ -12,8 +12,10 @@
           "Mod: First Join Message"
         ],
         "mod_name": "First Join Message",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -61,7 +63,7 @@
         ],
         "mod_name": "Realistic Bees",
         "reactions": {
-          "heart": 1
+          "heart": 2
         },
         "reaction_count": 1,
         "total_comment_count": 3,
@@ -78,7 +80,9 @@
           "Mod: Spiders Produce Webs"
         ],
         "mod_name": "Spiders Produce Webs",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -94,7 +98,9 @@
           "Mod: Tree Harvester"
         ],
         "mod_name": "Tree Harvester",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -142,7 +148,9 @@
           "Mod: Milk All the Mobs"
         ],
         "mod_name": "Milk All the Mobs",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -449,7 +457,9 @@
           "Mod: Persistent Inventory Search"
         ],
         "mod_name": "Persistent Inventory Search",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -577,7 +587,9 @@
           "Mod: Difficulty Lock"
         ],
         "mod_name": "Difficulty Lock",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -1004,10 +1016,10 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 1,
-          "heart": 1
+          "+1": 2,
+          "heart": 2
         },
-        "reaction_count": 3,
+        "reaction_count": 4,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -1636,7 +1648,9 @@
           "Mod: Just Mob Heads"
         ],
         "mod_name": "Just Mob Heads",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -1668,7 +1682,9 @@
           "Mod: Starter Structure"
         ],
         "mod_name": "Starter Structure",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -1700,7 +1716,9 @@
           "Mod: Campfire Spawn and Tweaks"
         ],
         "mod_name": "Campfire Spawn and Tweaks",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -3349,7 +3367,7 @@
         ],
         "mod_name": "Areas",
         "reactions": {
-          "heart": 1
+          "heart": 2
         },
         "reaction_count": 1,
         "total_comment_count": 4,
@@ -3757,9 +3775,9 @@
         ],
         "mod_name": "Automatic Doors",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -3856,7 +3874,9 @@
           "Mod: Set World Spawn Point"
         ],
         "mod_name": "Set World Spawn Point",
-        "reactions": {},
+        "reactions": {
+          "rocket": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -4597,7 +4617,9 @@
           "Mod: Bigger Sponge Absorption Radius"
         ],
         "mod_name": "Bigger Sponge Absorption Radius",
-        "reactions": {},
+        "reactions": {
+          "rocket": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -5068,7 +5090,9 @@
           "Mod: Naturally Charged Creepers"
         ],
         "mod_name": "Naturally Charged Creepers",
-        "reactions": {},
+        "reactions": {
+          "rocket": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -5085,7 +5109,8 @@
         ],
         "mod_name": "Infinite Trading",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "rocket": 1
         },
         "reaction_count": 2,
         "total_comment_count": 3,
@@ -5102,7 +5127,9 @@
           "Mod: Campfire Spawn and Tweaks"
         ],
         "mod_name": "Campfire Spawn and Tweaks",
-        "reactions": {},
+        "reactions": {
+          "rocket": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -5475,7 +5502,9 @@
           "Mod: Death Backup"
         ],
         "mod_name": "Death Backup",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 5,
         "user_comment_count": 1
@@ -7997,6 +8026,10 @@
       4
     ],
     [
+      1908,
+      4
+    ],
+    [
       371,
       3
     ],
@@ -8021,15 +8054,15 @@
       3
     ],
     [
+      1228,
+      3
+    ],
+    [
       1423,
       3
     ],
     [
       1434,
-      3
-    ],
-    [
-      1908,
       3
     ],
     [
@@ -8098,10 +8131,6 @@
     ],
     [
       1016,
-      2
-    ],
-    [
-      1228,
       2
     ],
     [
@@ -8174,6 +8203,10 @@
     ],
     [
       1955,
+      2
+    ],
+    [
+      2154,
       2
     ],
     [
@@ -9931,11 +9964,7 @@
     [
       2153,
       1
-    ],
-    [
-      2154,
-      1
     ]
   ],
-  "last_updated": "2024-01-07 19:11:26"
+  "last_updated": "2024-01-08 01:53:05"
 }
