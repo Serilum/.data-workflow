@@ -13,9 +13,9 @@
         ],
         "mod_name": "First Join Message",
         "reactions": {
-          "+1": 1
+          "+1": 4
         },
-        "reaction_count": 2,
+        "reaction_count": 5,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -8016,6 +8016,10 @@
       6
     ],
     [
+      2154,
+      5
+    ],
+    [
       295,
       4
     ],
@@ -8205,10 +8209,6 @@
     ],
     [
       1955,
-      2
-    ],
-    [
-      2154,
       2
     ],
     [
@@ -9968,5 +9968,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-08 06:49:58"
+  "last_updated": "2024-01-08 13:03:10"
 }
