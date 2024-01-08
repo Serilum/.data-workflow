@@ -1863,7 +1863,9 @@
           "Mod: Zombie Horse Spawn"
         ],
         "mod_name": "Zombie Horse Spawn",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -9966,5 +9968,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-08 01:53:05"
+  "last_updated": "2024-01-08 06:49:58"
 }
