@@ -13,9 +13,9 @@
         ],
         "mod_name": "First Join Message",
         "reactions": {
-          "+1": 4
+          "+1": 7
         },
-        "reaction_count": 5,
+        "reaction_count": 8,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4754,8 +4754,10 @@
           "Mod: End Portal Recipe"
         ],
         "mod_name": "End Portal Recipe",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8012,12 +8014,12 @@
   },
   "issues_sorted_reaction_count": [
     [
-      743,
-      6
+      2154,
+      8
     ],
     [
-      2154,
-      5
+      743,
+      6
     ],
     [
       295,
@@ -8125,6 +8127,10 @@
     ],
     [
       895,
+      2
+    ],
+    [
+      948,
       2
     ],
     [
@@ -8869,10 +8875,6 @@
     ],
     [
       941,
-      1
-    ],
-    [
-      948,
       1
     ],
     [
@@ -9968,5 +9970,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-08 13:03:10"
+  "last_updated": "2024-01-08 18:48:39"
 }
