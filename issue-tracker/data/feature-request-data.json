@@ -582,24 +582,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2023": {
-        "id": 1973202324,
-        "number": 2023,
-        "title": "[Difficulty Lock] Harcore locking as an option",
-        "opened_by": "MetalKnight56",
-        "creation_date": "2023-11-01",
-        "labels": [
-          "Feature Request",
-          "Mod: Difficulty Lock"
-        ],
-        "mod_name": "Difficulty Lock",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2019": {
         "id": 1969467475,
         "number": 2019,
@@ -2595,7 +2577,8 @@
         ],
         "mod_name": "Stack Refill",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "heart": 1
         },
         "reaction_count": 2,
         "total_comment_count": 5,
@@ -9845,10 +9828,6 @@
       1
     ],
     [
-      2023,
-      1
-    ],
-    [
       2029,
       1
     ],
@@ -9981,5 +9960,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-09 06:48:48"
+  "last_updated": "2024-01-09 18:46:19"
 }
