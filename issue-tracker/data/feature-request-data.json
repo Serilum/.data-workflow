@@ -657,7 +657,9 @@
           "Mod: Death Backup"
         ],
         "mod_name": "Death Backup",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -5971,7 +5973,9 @@
           "Mod: Replanting Crops"
         ],
         "mod_name": "Replanting Crops",
-        "reactions": {},
+        "reactions": {
+          "+1": 2
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -9960,5 +9964,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-11 13:03:37"
+  "last_updated": "2024-01-11 18:48:08"
 }
