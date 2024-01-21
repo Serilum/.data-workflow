@@ -986,7 +986,9 @@
           "Library: Collective"
         ],
         "mod_name": "",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -10169,5 +10171,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-20 18:48:44"
+  "last_updated": "2024-01-21 01:58:57"
 }
