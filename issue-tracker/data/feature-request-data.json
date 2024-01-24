@@ -7214,8 +7214,10 @@
           "Mod: Enchanting Commands"
         ],
         "mod_name": "Enchanting Commands",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -8263,6 +8265,10 @@
       2
     ],
     [
+      344,
+      2
+    ],
+    [
       430,
       2
     ],
@@ -8520,10 +8526,6 @@
     ],
     [
       343,
-      1
-    ],
-    [
-      344,
       1
     ],
     [
@@ -10171,5 +10173,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-23 18:53:04"
+  "last_updated": "2024-01-24 01:54:52"
 }
