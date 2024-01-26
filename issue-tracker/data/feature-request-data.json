@@ -2775,8 +2775,10 @@
           "Mod: Hoe Tweaks"
         ],
         "mod_name": "Hoe Tweaks",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -3565,7 +3567,7 @@
         "id": 1348828626,
         "number": 1278,
         "title": "[Feature Request] Toggle: Name only / Name + Profession / Name + Level / Name + Profession & Level ",
-        "opened_by": "Cymophic",
+        "opened_by": "cymophic",
         "creation_date": "2022-08-24",
         "labels": [
           "Feature Request",
@@ -8361,6 +8363,10 @@
       2
     ],
     [
+      1498,
+      2
+    ],
+    [
       1505,
       2
     ],
@@ -9545,10 +9551,6 @@
       1
     ],
     [
-      1498,
-      1
-    ],
-    [
       1500,
       1
     ],
@@ -10173,5 +10175,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-26 12:58:37"
+  "last_updated": "2024-01-26 18:45:49"
 }
