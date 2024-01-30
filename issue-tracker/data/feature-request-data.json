@@ -1192,22 +1192,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "1895": {
-        "id": 1822933176,
-        "number": 1895,
-        "title": "Trigger Message",
-        "opened_by": "MadisonMadi",
-        "creation_date": "2023-07-26",
-        "labels": [
-          "Feature Request",
-          "Mod: Welcome Message"
-        ],
-        "mod_name": "Welcome Message",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "1894": {
         "id": 1818407372,
         "number": 1894,
@@ -9903,10 +9887,6 @@
       1
     ],
     [
-      1895,
-      1
-    ],
-    [
       1896,
       1
     ],
@@ -10175,5 +10155,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-29 18:45:25"
+  "last_updated": "2024-01-30 01:45:14"
 }
