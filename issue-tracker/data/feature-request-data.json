@@ -2130,8 +2130,10 @@
           "Mod: Double Doors"
         ],
         "mod_name": "Double Doors",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -8375,6 +8377,10 @@
       2
     ],
     [
+      1675,
+      2
+    ],
+    [
       1828,
       2
     ],
@@ -9659,10 +9665,6 @@
       1
     ],
     [
-      1675,
-      1
-    ],
-    [
       1678,
       1
     ],
@@ -10155,5 +10157,5 @@
       1
     ]
   ],
-  "last_updated": "2024-01-30 01:45:14"
+  "last_updated": "2024-01-30 06:47:23"
 }
