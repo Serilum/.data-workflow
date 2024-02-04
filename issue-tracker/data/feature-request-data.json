@@ -2945,7 +2945,8 @@
         ],
         "mod_name": "Just Mob Heads",
         "reactions": {
-          "+1": 2
+          "+1": 2,
+          "laugh": 1
         },
         "reaction_count": 3,
         "total_comment_count": 2,
@@ -10157,5 +10158,5 @@
       1
     ]
   ],
-  "last_updated": "2024-02-03 18:44:41"
+  "last_updated": "2024-02-04 01:49:33"
 }
