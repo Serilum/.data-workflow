@@ -4664,7 +4664,7 @@
         "id": 1210492161,
         "number": 1039,
         "title": "Ability to reload welcome config",
-        "opened_by": "ZachTheDev",
+        "opened_by": "zachthedev",
         "creation_date": "2022-04-21",
         "labels": [
           "Feature Request",
@@ -10158,5 +10158,5 @@
       1
     ]
   ],
-  "last_updated": "2024-02-08 18:46:15"
+  "last_updated": "2024-02-09 01:43:52"
 }
