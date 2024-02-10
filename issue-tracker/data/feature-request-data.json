@@ -7055,8 +7055,10 @@
           "Mod: Humbling Bundle"
         ],
         "mod_name": "Humbling Bundle",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -8258,6 +8260,10 @@
       2
     ],
     [
+      393,
+      2
+    ],
+    [
       430,
       2
     ],
@@ -8563,10 +8569,6 @@
     ],
     [
       390,
-      1
-    ],
-    [
-      393,
       1
     ],
     [
@@ -10158,5 +10160,5 @@
       1
     ]
   ],
-  "last_updated": "2024-02-10 06:45:06"
+  "last_updated": "2024-02-10 12:59:44"
 }
