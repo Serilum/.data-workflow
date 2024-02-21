@@ -174,7 +174,9 @@
           "Mod: Double Doors"
         ],
         "mod_name": "Double Doors",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -10484,5 +10486,5 @@
       1
     ]
   ],
-  "last_updated": "2024-02-20 18:50:14"
+  "last_updated": "2024-02-21 01:49:17"
 }
