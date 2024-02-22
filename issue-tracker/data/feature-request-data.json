@@ -2939,9 +2939,9 @@
         ],
         "mod_name": "Fire Spread Tweaks",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4591,8 +4591,10 @@
           "Mod: Fire Spread Tweaks"
         ],
         "mod_name": "Fire Spread Tweaks",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8502,6 +8504,10 @@
       3
     ],
     [
+      1512,
+      3
+    ],
+    [
       199,
       2
     ],
@@ -8586,6 +8592,10 @@
       2
     ],
     [
+      1127,
+      2
+    ],
+    [
       1186,
       2
     ],
@@ -8623,10 +8633,6 @@
     ],
     [
       1505,
-      2
-    ],
-    [
-      1512,
       2
     ],
     [
@@ -9455,10 +9461,6 @@
     ],
     [
       1126,
-      1
-    ],
-    [
-      1127,
       1
     ],
     [
@@ -10486,5 +10488,5 @@
       1
     ]
   ],
-  "last_updated": "2024-02-21 18:47:26"
+  "last_updated": "2024-02-22 01:44:24"
 }
