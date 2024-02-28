@@ -28,9 +28,11 @@
           "Mod: Starter Kit"
         ],
         "mod_name": "Starter Kit",
-        "reactions": {},
+        "reactions": {
+          "heart": 2
+        },
         "reaction_count": 1,
-        "total_comment_count": 3,
+        "total_comment_count": 4,
         "user_comment_count": 1
       },
       "2217": {
@@ -10321,5 +10323,5 @@
       1
     ]
   ],
-  "last_updated": "2024-02-28 01:44:45"
+  "last_updated": "2024-02-28 06:46:11"
 }
