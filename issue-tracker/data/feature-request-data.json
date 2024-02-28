@@ -1,6 +1,22 @@
 {
   "data": {
     "mod-feature": {
+      "2230": {
+        "id": 2158187235,
+        "number": 2230,
+        "title": "Curios support for starter kit mod",
+        "opened_by": "JustKenjiX",
+        "creation_date": "2024-02-28",
+        "labels": [
+          "Feature Request",
+          "Mod: Starter Kit"
+        ],
+        "mod_name": "Starter Kit",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "2223": {
         "id": 2150302568,
         "number": 2223,
@@ -10321,7 +10337,11 @@
     [
       2223,
       1
+    ],
+    [
+      2230,
+      1
     ]
   ],
-  "last_updated": "2024-02-28 06:46:11"
+  "last_updated": "2024-02-28 12:58:57"
 }
