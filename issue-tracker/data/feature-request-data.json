@@ -4748,22 +4748,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "1070": {
-        "id": 1236548128,
-        "number": 1070,
-        "title": "Your Items Are Safe (Fabric) -- X/Y/Z position in SuccessMessage",
-        "opened_by": "SushiKishi",
-        "creation_date": "2022-05-16",
-        "labels": [
-          "Feature Request",
-          "Mod: Your Items are Safe"
-        ],
-        "mod_name": "Your Items are Safe",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "1067": {
         "id": 1234535445,
         "number": 1067,
@@ -9243,10 +9227,6 @@
       1
     ],
     [
-      1070,
-      1
-    ],
-    [
       1072,
       1
     ],
@@ -10323,5 +10303,5 @@
       1
     ]
   ],
-  "last_updated": "2024-03-01 13:02:41"
+  "last_updated": "2024-03-01 18:51:07"
 }
