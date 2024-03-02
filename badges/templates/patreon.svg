@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="115" height="28" role="img" aria-label="PATREON" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>PATREON</title>
+  <g shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
+    <rect width="115" height="28" fill="#f96854"/>
+  </g>
+  <image x="7" y="7" width="14" height="14" style="" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlBhdHJlb248L3RpdGxlPjxwYXRoIGQ9Ik0wIC40OHYyMy4wNGg0LjIyVi40OHptMTUuMzg1IDBjLTQuNzY0IDAtOC42NDEgMy44OC04LjY0MSA4LjY1IDAgNC43NTUgMy44NzcgOC42MjMgOC42NDEgOC42MjMgNC43NSAwIDguNjE1LTMuODY4IDguNjE1LTguNjIzQzI0IDQuMzYgMjAuMTM2LjQ4IDE1LjM4NS40OHoiLz48L3N2Zz4="/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
+    <text x="550" y="175" textLength="800" fill="#fff" font-weight="bold" style="white-space: pre;" transform="scale(.1)">PATRONS</text>
+  </g>
+</svg>

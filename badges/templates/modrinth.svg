@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="115" height="28" role="img" aria-label="PATREON" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="121.656" y="10.118" angle="90"/>
+    <bx:guide x="127.198" y="17.628" angle="90"/>
+    <bx:guide x="8.199" y="-3.08" angle="0"/>
+    <bx:guide x="20.449" y="-4.101" angle="0"/>
+    <bx:guide x="121.656" y="10.118" angle="90"/>
+    <bx:guide x="127.198" y="17.628" angle="90"/>
+    <bx:guide x="8.199" y="-3.08" angle="0"/>
+    <bx:guide x="20.449" y="-4.101" angle="0"/>
+  </defs>
+  <title>PATREON</title>
+  <g shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
+    <rect width="115" height="28" style="fill: rgb(0, 175, 92);"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
+    <text textLength="800" style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="550" y="175">DOWNLOADS</text>
+  </g>
+  <title>PATREON</title>
+  <g fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" transform="matrix(1, 0, 0, 1, -0.489655, 0.549452)">
+    <path fill="none" d="M 8.199 7.432 L 20.846 7.432 L 20.846 20.079 L 8.199 20.079 L 8.199 7.432 Z" style=""/>
+    <g clip-path="url(#a)" transform="matrix(0.126469, 0, 0, 0.126469, 8.198999, 7.431019)" style="">
+      <path fill="#ffffff" d="M50 17c18.207 0 32.988 14.787 32.988 33S68.207 83 50 83 17.012 68.213 17.012 50 31.793 17 50 17Zm0 9c13.24 0 23.988 10.755 23.988 24S63.24 74 50 74 26.012 63.245 26.012 50 36.76 26 50 26Z"/>
+    </g>
+    <g clip-path="url(#b)" transform="matrix(0.126469, 0, 0, 0.126469, 8.198999, 7.431019)" style="">
+      <path fill="#ffffff" d="M50 0c27.596 0 50 22.404 50 50s-22.404 50-50 50S0 77.596 0 50 22.404 0 50 0Zm0 9c22.629 0 41 18.371 41 41S72.629 91 50 91 9 72.629 9 50 27.371 9 50 9Z"/>
+    </g>
+    <g clip-path="url(#c)" transform="matrix(0.112383, 0, 0, 0.122032, 8.268063, 7.737635)" style="">
+      <path fill="none" stroke="#ffffff" stroke-width="9" d="M 50 50 L 5.171 75.882"/>
+    </g>
+    <path fill="#ffffff" d="M 12.909 14.103 L 12.625 13.123 L 13.637 11.985 L 15.028 11.605 L 15.534 12.111 L 14.775 12.87 L 14.269 12.996 L 13.89 13.502 L 14.032 14.038 L 14.425 14.429 L 15.053 14.354 L 15.415 13.979 L 16.452 13.701 L 16.637 14.392 L 15.613 15.407 L 14.121 15.714 L 13.415 14.979 L 12.909 14.103 Z" style=""/>
+    <clipPath id="clip-1">
+      <path d="M50 0c27.596 0 50 22.404 50 50s-22.404 50-50 50S0 77.596 0 50 22.404 0 50 0Zm0 39.549c5.768 0 10.451 4.683 10.451 10.451 0 5.768-4.683 10.451-10.451 10.451-5.768 0-10.451-4.683-10.451-10.451 0-5.768 4.683-10.451 10.451-10.451Z"/>
+    </clipPath>
+    <g clip-path="url(#clip-1)" transform="matrix(0.064459, 0.010209, -0.018807, 0.118741, -9.215255, -61.728252)" style="transform-origin: 27.9845px 74.1765px;">
+      <path fill="none" stroke="#ffffff" stroke-width="9" d="M 49.29 67.75 L 6.679 80.603" style=""/>
+    </g>
+  </g>
+  <clipPath id="a">
+    <path fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" d="M100 0H0v100h100V0ZM46.002 49.295l.076 1.757 8.83 32.963 7.843-2.102-8.596-32.094 5.804-32.932-7.997-1.41-5.96 33.818Z"/>
+  </clipPath>
+  <clipPath id="b">
+    <path d="M0 0v46h50l1.368.241L99 63.578l-2.736 7.517L49.295 54H0v46h100V0H0Z"/>
+  </clipPath>
+  <clipPath id="c">
+    <path d="M50 0c27.596 0 50 22.404 50 50s-22.404 50-50 50S0 77.596 0 50 22.404 0 50 0Zm0 39.549c5.768 0 10.451 4.683 10.451 10.451 0 5.768-4.683 10.451-10.451 10.451-5.768 0-10.451-4.683-10.451-10.451 0-5.768 4.683-10.451 10.451-10.451Z"/>
+  </clipPath>
+</svg>

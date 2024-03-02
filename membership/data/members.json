@@ -1,0 +1,40 @@
+{
+    "github": [
+        "aternosorg"
+    ],
+    "patreon": [
+        "Alister",
+        "Andrean Olgo",
+        "Cherriesaurus",
+        "Jack",
+        "Kreezxil",
+        "Michael W. S.",
+        "Mir3JonCZ",
+        "Shana Gitnick",
+        "Tyler Behl"
+    ],
+    "combined": [
+        "Alister",
+        "Andrean Olgo",
+        "aternosorg",
+        "Cherriesaurus",
+        "Jack",
+        "Kreezxil",
+        "Michael W. S.",
+        "Mir3JonCZ",
+        "Shana Gitnick",
+        "Tyler Behl"
+    ],
+    "combined_specific": {
+        "Alister": "Patreon",
+        "Andrean Olgo": "Patreon",
+        "aternosorg": "Github Sponsors",
+        "Cherriesaurus": "Patreon",
+        "Jack": "Patreon",
+        "Kreezxil": "Patreon",
+        "Michael W. S.": "Patreon",
+        "Mir3JonCZ": "Patreon",
+        "Shana Gitnick": "Patreon",
+        "Tyler Behl": "Patreon"
+    }
+}

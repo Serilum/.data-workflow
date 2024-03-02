@@ -16,8 +16,11 @@ def main(mainpath):
 	output = { "data" : { "mod-feature" : {}, "standalone-feature" : {}}}
 	issues_sorted_reaction_count = {}
 
-	# rootpath = mainpath + sep + "issue-tracker" # For dev
+
 	rootpath = "." + sep + "issue-tracker" # For production
+	if os.environ['IS_PRODUCTION'] == "false":
+		rootpath = mainpath + sep + "issue-tracker" # For dev
+
 
 	gh_serilum = Github(auth=Auth.Token(os.environ["GH_SERILUM_DATA_WORKFLOW_API"]))
 	serilum_org = gh_serilum.get_organization("Serilum")
@@ -183,4 +186,4 @@ def main(mainpath):
 
 
 if __name__ == "__main__":
-	main()
+	main("")

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="115" height="28" role="img" aria-label="YOUTUBE" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:guide x="121.656" y="10.118" angle="90"/>
+    <bx:guide x="127.198" y="17.628" angle="90"/>
+  </defs>
+  <title>YOUTUBE</title>
+  <g shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
+    <rect width="115" height="28" style="fill: rgb(223, 47, 47);"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
+    <polygon fill="#FFFFFF" points="-4.886 7.398 -4.886 20.795 7.395 14.097"/>
+    <text textLength="840" style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="540" y="175">SUBSCRIBERS</text>
+  </g>
+</svg>
