@@ -2644,22 +2644,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "1624": {
-        "id": 1585771847,
-        "number": 1624,
-        "title": "Pumpkillager's Quest get books via command",
-        "opened_by": "ricksouth",
-        "creation_date": "2023-02-15",
-        "labels": [
-          "Feature Request",
-          "Mod: Pumpkillager's Quest"
-        ],
-        "mod_name": "Pumpkillager's Quest",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "1622": {
         "id": 1584897724,
         "number": 1622,
@@ -9691,10 +9675,6 @@
       1
     ],
     [
-      1624,
-      1
-    ],
-    [
       1629,
       1
     ],
@@ -10303,5 +10283,5 @@
       1
     ]
   ],
-  "last_updated": "2024-03-01 18:51:07"
+  "last_updated": "2024-03-02 01:42:38"
 }
