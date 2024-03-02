@@ -25,7 +25,14 @@ jobs:
           
       - name: execute py script
         env:
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+          GH_API: ${{ secrets.GH_API }}
           GH_SERILUM_DATA_WORKFLOW_API: ${{ secrets.GH_SERILUM_DATA_WORKFLOW_API }}
+          MR_API_KEY: ${{ secrets.MR_API_KEY }}
+          PATREON_API: ${{ secrets.PATREON_API }}
+          RICK_GH_API: ${{ secrets.RICK_GH_API }}
+          RICK_YT_API_KEY: ${{ secrets.RICK_YT_API_KEY }}
+          IS_PRODUCTION: ${{ variables.IS_PRODUCTION }}
         run: python main.py
           
       - name: commit files
