@@ -32,7 +32,7 @@ jobs:
           PATREON_API: ${{ secrets.PATREON_API }}
           RICK_GH_API: ${{ secrets.RICK_GH_API }}
           RICK_YT_API_KEY: ${{ secrets.RICK_YT_API_KEY }}
-          IS_PRODUCTION: ${{ variables.IS_PRODUCTION }}
+          IS_PRODUCTION: ${{ vars.IS_PRODUCTION }}
         run: python main.py
           
       - name: commit files
