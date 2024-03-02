@@ -4,7 +4,6 @@ from decimal 						import *
 import requests
 import json
 import patreon
-import svgwrite
 import os
 import sys
 
