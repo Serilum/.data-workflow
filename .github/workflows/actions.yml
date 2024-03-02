@@ -1,4 +1,4 @@
-name: Process Issue Tracker Feature Requests via Python
+name: Run Data Workflow via Python
 
 on:
   workflow_dispatch:
