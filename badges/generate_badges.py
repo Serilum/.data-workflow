@@ -26,13 +26,16 @@ def main(mainpath):
 
 	curseForgeDownloadCount = formatToReadableNumber(getCurseForgeDownloadCount())
 
-	with open(rootpath + sep + "templates" + sep + "curseforge.svg", 'r') as curseForgeSvgTemplateFile:
-		curseForgeSvgTemplate = curseForgeSvgTemplateFile.read()
+	if curseForgeDownloadCount >= 0:
+		with open(rootpath + sep + "templates" + sep + "curseforge.svg", 'r') as curseForgeSvgTemplateFile:
+			curseForgeSvgTemplate = curseForgeSvgTemplateFile.read()
 
-	with open(rootpath + sep + "svg" + sep + "curseforge.svg", 'w') as curseForgeSvgFile:
-		curseForgeSvgFile.write(curseForgeSvgTemplate.replace("%N", curseForgeDownloadCount.upper()))
+		with open(rootpath + sep + "svg" + sep + "curseforge.svg", 'w') as curseForgeSvgFile:
+			curseForgeSvgFile.write(curseForgeSvgTemplate.replace("%N", curseForgeDownloadCount.upper()))
 
-	print(fprefix + "Created the CurseForge SVG file with " + curseForgeDownloadCount + " downloads.")
+		print(fprefix + "Created the CurseForge SVG file with " + curseForgeDownloadCount + " downloads.")
+	else:
+		print(fprefix + "The CurseForge count returned -1. Ignoring.")
 
 
 
@@ -40,13 +43,16 @@ def main(mainpath):
 
 	modrinthDownloadCount = formatToReadableNumber(getModrinthDownloadCount())
 
-	with open(rootpath + sep + "templates" + sep + "modrinth.svg", 'r') as modrinthSvgTemplateFile:
-		modrinthSvgTemplate = modrinthSvgTemplateFile.read()
+	if modrinthDownloadCount >= 0:
+		with open(rootpath + sep + "templates" + sep + "modrinth.svg", 'r') as modrinthSvgTemplateFile:
+			modrinthSvgTemplate = modrinthSvgTemplateFile.read()
 
-	with open(rootpath + sep + "svg" + sep + "modrinth.svg", 'w') as modrinthSvgFile:
-		modrinthSvgFile.write(modrinthSvgTemplate.replace("%N", modrinthDownloadCount.upper()))
+		with open(rootpath + sep + "svg" + sep + "modrinth.svg", 'w') as modrinthSvgFile:
+			modrinthSvgFile.write(modrinthSvgTemplate.replace("%N", modrinthDownloadCount.upper()))
 
-	print(fprefix + "Created the Modrinth SVG file with " + modrinthDownloadCount + " downloads.")
+		print(fprefix + "Created the Modrinth SVG file with " + modrinthDownloadCount + " downloads.")
+	else:
+		print(fprefix + "The Modrinth count returned -1. Ignoring.")
 
 
 
@@ -54,13 +60,16 @@ def main(mainpath):
 
 	patreonCount = formatToReadableNumber(getAllPatreonMemberCount())
 
-	with open(rootpath + sep + "templates" + sep + "patreon.svg", 'r') as patreonSvgTemplateFile:
-		patreonSvgTemplate = patreonSvgTemplateFile.read()
+	if patreonCount >= 0:
+		with open(rootpath + sep + "templates" + sep + "patreon.svg", 'r') as patreonSvgTemplateFile:
+			patreonSvgTemplate = patreonSvgTemplateFile.read()
 
-	with open(rootpath + sep + "svg" + sep + "patreon.svg", 'w') as patreonSvgFile:
-		patreonSvgFile.write(patreonSvgTemplate.replace("%N", patreonCount.upper()))
+		with open(rootpath + sep + "svg" + sep + "patreon.svg", 'w') as patreonSvgFile:
+			patreonSvgFile.write(patreonSvgTemplate.replace("%N", patreonCount.upper()))
 
-	print(fprefix + "Created the Patreon SVG file with " + patreonCount + " members.")
+		print(fprefix + "Created the Patreon SVG file with " + patreonCount + " members.")
+	else:
+		print(fprefix + "The Patreon count returned -1. Ignoring.")
 
 
 
@@ -68,14 +77,16 @@ def main(mainpath):
 
 	youtubeSubCountFormatted = formatToReadableNumber(getYoutubeSubscriberCount())
 
-	with open(rootpath + sep + "templates" + sep + "youtube.svg", 'r') as youtubeSvgTemplateFile:
-		youtubeSvgTemplate = youtubeSvgTemplateFile.read()
+	if youtubeSubCountFormatted >= 0:
+		with open(rootpath + sep + "templates" + sep + "youtube.svg", 'r') as youtubeSvgTemplateFile:
+			youtubeSvgTemplate = youtubeSvgTemplateFile.read()
 
-	with open(rootpath + sep + "svg" + sep + "youtube.svg", 'w') as youtubeSvgFile:
-		youtubeSvgFile.write(youtubeSvgTemplate.replace("%N", youtubeSubCountFormatted.upper()))
+		with open(rootpath + sep + "svg" + sep + "youtube.svg", 'w') as youtubeSvgFile:
+			youtubeSvgFile.write(youtubeSvgTemplate.replace("%N", youtubeSubCountFormatted.upper()))
 
-	print(fprefix + "Created the YouTube SVG file with " + youtubeSubCountFormatted + " subscribers.")
-
+		print(fprefix + "Created the YouTube SVG file with " + youtubeSubCountFormatted + " subscribers.")
+	else:
+		print(fprefix + "The Youtube count returned -1. Ignoring.")
 
 	print("\n" + fprefix + "Done with generating the SVG badges!")
 	return
