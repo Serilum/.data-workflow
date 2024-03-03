@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg width="130" height="28" role="img" aria-label="PATREON" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <style> g:not(.noshadow) { filter: drop-shadow(1px 1.5px 1px black); } </style>
+  <style> g:not(.noshadow) { filter: drop-shadow(0.1px 0.1px 0.5px black); } </style>
   <title>PATREON</title>
   <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
     <rect x="1" y="1" width="119" height="26" style="fill: #f96854;" rx="3px" ry="3px"/>
-    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.6);" rx="2px" ry="2px"/>
+    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.7);" rx="2px" ry="2px"/>
   </g>
   <g>
     <image x="10" y="7" width="14" height="14" style="" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPlBhdHJlb248L3RpdGxlPjxwYXRoIGQ9Ik0wIC40OHYyMy4wNGg0LjIyVi40OHptMTUuMzg1IDBjLTQuNzY0IDAtOC42NDEgMy44OC04LjY0MSA4LjY1IDAgNC43NTUgMy44NzcgOC42MjMgOC42NDEgOC42MjMgNC43NSAwIDguNjE1LTMuODY4IDguNjE1LTguNjIzQzI0IDQuMzYgMjAuMTM2LjQ4IDE1LjM4NS40OHoiLz48L3N2Zz4="/>

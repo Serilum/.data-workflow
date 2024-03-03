@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg width="130" height="28" role="img" aria-label="YOUTUBE" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <style> g:not(.noshadow) { filter: drop-shadow(1px 1.5px 1px black); } </style>
+  <style> g:not(.noshadow) { filter: drop-shadow(0.1px 0.1px 0.5px black); } </style>
   <defs>
     <bx:guide x="121.656" y="10.118" angle="90"/>
     <bx:guide x="127.198" y="17.628" angle="90"/>
@@ -8,7 +8,7 @@
   <title>YOUTUBE</title>
   <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
     <rect x="1" y="1" width="119" height="26" style="fill: rgb(223, 47, 47);" rx="3px" ry="3px"/>
-    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.6);" rx="2px" ry="2px"/>
+    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.7);" rx="2px" ry="2px"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
     <polygon fill="#FFFFFF" points="-4.886 7.398 -4.886 20.795 7.395 14.097"/>

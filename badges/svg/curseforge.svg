@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg width="130" height="28" role="img" aria-label="CURSEFORGE" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <style> g:not(.noshadow) { filter: drop-shadow(1px 1.5px 1px black); } </style>
+  <style> g:not(.noshadow) { filter: drop-shadow(0.1px 0.1px 0.5px black); } </style>
   <defs>
     <bx:guide x="121.656" y="10.118" angle="90"/>
     <bx:guide x="127.198" y="17.628" angle="90"/>
@@ -10,7 +10,7 @@
   <title>CURSEFORGE</title>
   <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
     <rect x="1" y="1" width="119" height="26" style="fill: rgb(255, 120, 77);" rx="3px" ry="3px"/>
-    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.6);" rx="2px" ry="2px"/>
+    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.7);" rx="2px" ry="2px"/>
   </g>
   
   <g style="">
