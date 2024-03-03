@@ -37,7 +37,7 @@ def main(mainpath):
 		number = int(fr.number)
 		title = fr.title
 		openedby = fr.user.login
-		creationdate = str(fr.created_at).split(" ")[0]
+		creationdate = fr.created_at.strftime('%Y-%m-%d')
 		modname = ""
 		# url = fr.html_url
 
