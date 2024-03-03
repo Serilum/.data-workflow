@@ -13,8 +13,8 @@
   </defs>
   <title>MODRINTH</title>
   <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
-    <rect x="1" y="1" width="119" height="26" style="fill: rgb(0, 175, 92);" rx="3px" ry="3px"/>
-    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.7);" rx="2px" ry="2px"/>
+    <rect x="1" y="1" width="119" height="26" style="fill: rgb(0, 175, 92);" />
+    <rect x="1.5" y="1.5" width="118" height="25" style="fill: none; stroke: rgba(0, 0, 0, 0.7);" />
   </g>
   
   <g fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" transform="matrix(1, 0, 0, 1, -0.489655, 0.549452)">
