@@ -15,7 +15,6 @@
   </g>
 
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
-    <text style="font-size: 80px; font-weight: 700; white-space: auto;  white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="245" y="175">259M</text>
-    <text textLength="580" style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="670" y="175">DOWNLOADS</text>
+    <text style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="560" y="175" letter-spacing="5">259M DOWNLOADS</text>
   </g>
 </svg>
