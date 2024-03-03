@@ -13,17 +13,16 @@ sep = os.path.sep
 def main(mainpath):
 	fprefix = " [Generate Badges] "
 
-	print("\n" + fprefix + "Starting.\n")
+	print("\n" + fprefix + "Starting the generation.")
 
 	rootpath = "." + sep + "badges"
 	if os.environ['IS_PRODUCTION'] == "false": # For dev
 		rootpath = mainpath + sep + "badges"
 
-
 	Path(rootpath + sep + "svg").mkdir(parents=True, exist_ok=True)
 
 
-	print("Starting the SVG file creation for CurseForge.")
+	print("\n" + fprefix + "Starting the SVG file creation for CurseForge.")
 
 	curseForgeDownloadCount = formatToReadableNumber(getCurseForgeDownloadCount())
 
@@ -31,13 +30,13 @@ def main(mainpath):
 		curseForgeSvgTemplate = curseForgeSvgTemplateFile.read()
 
 	with open(rootpath + sep + "svg" + sep + "curseforge.svg", 'w') as curseForgeSvgFile:
-		curseForgeSvgFile.write(curseForgeSvgTemplate.replace("DOWNLOADS", curseForgeDownloadCount.upper() + " DOWNLOADS"))
+		curseForgeSvgFile.write(curseForgeSvgTemplate.replace("%N", curseForgeDownloadCount.upper()))
 
-	print("Created the CurseForge SVG file with " + curseForgeDownloadCount + " downloads.")
+	print(fprefix + "Created the CurseForge SVG file with " + curseForgeDownloadCount + " downloads.")
 
 
 
-	print("Starting the SVG file creation for Modrinth.")
+	print("\n" + fprefix + "Starting the SVG file creation for Modrinth.")
 
 	modrinthDownloadCount = formatToReadableNumber(getModrinthDownloadCount())
 
@@ -45,13 +44,13 @@ def main(mainpath):
 		modrinthSvgTemplate = modrinthSvgTemplateFile.read()
 
 	with open(rootpath + sep + "svg" + sep + "modrinth.svg", 'w') as modrinthSvgFile:
-		modrinthSvgFile.write(modrinthSvgTemplate.replace("DOWNLOADS", modrinthDownloadCount.upper() + " DOWNLOADS"))
+		modrinthSvgFile.write(modrinthSvgTemplate.replace("%N", modrinthDownloadCount.upper()))
 
-	print("Created the Modrinth SVG file with " + modrinthDownloadCount + " downloads.")
+	print(fprefix + "Created the Modrinth SVG file with " + modrinthDownloadCount + " downloads.")
 
 
 
-	print("Starting the SVG file creation for Patreon.")
+	print("\n" + fprefix + "Starting the SVG file creation for Patreon.")
 
 	patreonCount = formatToReadableNumber(getAllPatreonMemberCount())
 
@@ -59,13 +58,13 @@ def main(mainpath):
 		patreonSvgTemplate = patreonSvgTemplateFile.read()
 
 	with open(rootpath + sep + "svg" + sep + "patreon.svg", 'w') as patreonSvgFile:
-		patreonSvgFile.write(patreonSvgTemplate.replace("MEMBERS", patreonCount.upper() + " MEMBERS"))
+		patreonSvgFile.write(patreonSvgTemplate.replace("%N", patreonCount.upper()))
 
-	print("Created the Patreon SVG file with " + patreonCount + " patrons.")
+	print(fprefix + "Created the Patreon SVG file with " + patreonCount + " members.")
 
 
 
-	print("Starting the SVG file creation for YouTube.")
+	print("\n" + fprefix + "Starting the SVG file creation for YouTube.")
 
 	youtubeSubCountFormatted = formatToReadableNumber(getYoutubeSubscriberCount())
 
@@ -73,11 +72,12 @@ def main(mainpath):
 		youtubeSvgTemplate = youtubeSvgTemplateFile.read()
 
 	with open(rootpath + sep + "svg" + sep + "youtube.svg", 'w') as youtubeSvgFile:
-		youtubeSvgFile.write(youtubeSvgTemplate.replace("SUBSCRIBERS", youtubeSubCountFormatted.upper() + " SUBSCRIBERS"))
+		youtubeSvgFile.write(youtubeSvgTemplate.replace("%N", youtubeSubCountFormatted.upper()))
 
-	print("Created the YouTube SVG file with " + youtubeSubCountFormatted + " subscribers.")
+	print(fprefix + "Created the YouTube SVG file with " + youtubeSubCountFormatted + " subscribers.")
 
 
+	print("\n" + fprefix + "Done with generating the SVG badges!")
 	return
 
 def getYoutubeSubscriberCount():

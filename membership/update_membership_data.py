@@ -13,7 +13,9 @@ import sys
 sep = os.path.sep
 
 def main(mainpath):
-	print("Starting to receive Github Sponsors, Ko-Fi Members and Patreons.\n")
+	fprefix = " [Update Membership Data] "
+
+	print("\n" + fprefix + "Starting to receive Github Sponsors and Patreons.\n")
 
 	rootpath = "." + sep + "membership" # For production
 	if os.environ['IS_PRODUCTION'] == "false":
@@ -54,6 +56,7 @@ def main(mainpath):
 	githubsponsors = naturalsort(githubsponsors)
 	patrons = naturalsort(patrons)
 
+	print(fprefix + "Received membership data from GitHub and Patreon.")
 
 	dataout = {}
 	dataout["github"] = githubsponsors
@@ -73,7 +76,7 @@ def main(mainpath):
 			if member not in previousmembers["patreon"]:
 				newmembers.append([member, "patreon"])
 
-
+	print(fprefix + "Checking if the feed page needs to be updated.")
 	if len(newmembers) > 0:
 		ymd = datetime.now(timezone('Europe/Amsterdam')).strftime("%Y%m%d")
 		
@@ -97,7 +100,7 @@ def main(mainpath):
 		with open(rootpath + sep + "data" + sep + "feed.json", "w") as feedfile:
 			json.dump(feed, feedfile, indent=4, sort_keys=True)
 
-		print("Updated feed.json file.")
+		print(fprefix + "Updated feed.json file.")
 		
 
 	dataout["combined"] = combinedlist
@@ -106,7 +109,7 @@ def main(mainpath):
 	with open(rootpath + sep + "data" + sep + "members.json", "w") as memberfile:
 		memberfile.write(json.dumps(dataout, indent=4))
 
-	print("Finished receiving Github Sponsors, Ko-Fi Members and Patreons.")
+	print("\n" + fprefix + "Finished receiving Github Sponsors and Patreons.")
 	return
 
 def queryGithub():
@@ -132,7 +135,7 @@ def queryGithub():
 
 	request = requests.post('https://api.github.com/graphql', json={'query': githubquery}, headers=githubheaders)
 	
-	print("GitHub API response:", request.json())
+	# print("GitHub API response:", request.json())
 	
 	if request.status_code == 200:
 		return request.json()

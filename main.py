@@ -21,8 +21,9 @@ def main():
     # Generate project description badges:
     generate_badges.main(rootpath)
 
-    # Process the requests from the .issue-tracker repo on GitHub:
-    process_feature_requests.main(rootpath)
+    if os.environ['IS_PRODUCTION'] == "true":
+        # Process the requests from the .issue-tracker repo on GitHub:
+        process_feature_requests.main(rootpath)
 
     return
 

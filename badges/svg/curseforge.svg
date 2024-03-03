@@ -10,10 +10,12 @@
   <g shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
     <rect width="115" height="28" style="fill: rgb(255, 120, 77);"/>
   </g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
-    <text textLength="800" style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="550" y="175">259M DOWNLOADS</text>
-  </g>
   <g style="">
     <path class="st1" d="M 19.416 12.071 C 19.416 12.071 22.882 11.52 23.433 9.895 L 18.11 9.895 L 18.11 8.604 L 6.433 8.604 L 7.868 10.301 L 7.868 12.041 C 7.868 12.041 11.495 11.853 12.903 12.927 C 14.832 14.74 10.741 17.177 10.741 17.177 L 10.044 19.541 C 11.147 18.482 13.236 17.119 17.065 17.177 C 15.615 17.641 14.135 18.366 13.005 19.541 L 20.75 19.541 L 20.024 17.191 C 20.01 17.191 14.396 13.841 19.416 12.071 Z" style="fill: rgb(255, 255, 255);"/>
+  </g>
+
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
+    <text style="font-size: 80px; font-weight: 700; white-space: auto;  white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="245" y="175">259M</text>
+    <text textLength="580" style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="670" y="175">DOWNLOADS</text>
   </g>
 </svg>

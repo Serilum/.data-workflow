@@ -14,10 +14,6 @@
   <g shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
     <rect width="115" height="28" style="fill: rgb(0, 175, 92);"/>
   </g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
-    <text textLength="800" style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="550" y="175">DOWNLOADS</text>
-  </g>
-  <title>PATREON</title>
   <g fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" transform="matrix(1, 0, 0, 1, -0.489655, 0.549452)">
     <path fill="none" d="M 8.199 7.432 L 20.846 7.432 L 20.846 20.079 L 8.199 20.079 L 8.199 7.432 Z" style=""/>
     <g clip-path="url(#a)" transform="matrix(0.126469, 0, 0, 0.126469, 8.198999, 7.431019)" style="">
@@ -46,4 +42,9 @@
   <clipPath id="c">
     <path d="M50 0c27.596 0 50 22.404 50 50s-22.404 50-50 50S0 77.596 0 50 22.404 0 50 0Zm0 39.549c5.768 0 10.451 4.683 10.451 10.451 0 5.768-4.683 10.451-10.451 10.451-5.768 0-10.451-4.683-10.451-10.451 0-5.768 4.683-10.451 10.451-10.451Z"/>
   </clipPath>
+  
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
+    <text style="font-size: 80px; font-weight: 700; white-space: auto;  white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="230" y="175">%N</text>
+    <text textLength="580" style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="670" y="175">DOWNLOADS</text>
+  </g>
 </svg>
