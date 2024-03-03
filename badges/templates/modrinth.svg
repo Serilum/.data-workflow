@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg width="130" height="28" role="img" aria-label="MODRINTH" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg width="140" height="30" role="img" aria-label="MODRINTH" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
     <style> g:not(.noshadow) { filter: drop-shadow(0.1px 0.1px 0.5px black); } </style>
   <defs>
     <bx:guide x="121.656" y="10.118" angle="90"/>
@@ -13,11 +13,11 @@
   </defs>
   <title>MODRINTH</title>
   <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
-    <rect x="1" y="1" width="119" height="26" style="fill: rgb(0, 175, 92);" />
-    <rect x="2" y="2" width="117" height="24" style="fill: none; stroke-width:2px; stroke: rgba(0, 0, 0, 0.7);" />
+    <rect x="1" y="1" width="128" height="28" style="fill: rgb(0, 175, 92);" />
+    <rect x="2" y="2" width="126" height="26" style="fill: none; stroke-width:2px; stroke: rgba(0, 0, 0, 0.6);" />
   </g>
   
-  <g fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" transform="matrix(1, 0, 0, 1, -0.489655, 0.549452)">
+  <g fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" transform="matrix(1, 0, 0, 1, -0.489655, 1)">
     <path fill="none" d="M 8.199 7.432 L 20.846 7.432 L 20.846 20.079 L 8.199 20.079 L 8.199 7.432 Z" style=""/>
     <g clip-path="url(#a)" transform="matrix(0.126469, 0, 0, 0.126469, 8.198999, 7.431019)" style="">
       <path fill="#ffffff" d="M50 17c18.207 0 32.988 14.787 32.988 33S68.207 83 50 83 17.012 68.213 17.012 50 31.793 17 50 17Zm0 9c13.24 0 23.988 10.755 23.988 24S63.24 74 50 74 26.012 63.245 26.012 50 36.76 26 50 26Z"/>
@@ -49,6 +49,6 @@
     </g>
   
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
-    <text style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="620" y="175" letter-spacing="5">%N DOWNLOADS</text>
+    <text style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="655" y="185" letter-spacing="5">%N DOWNLOADS</text>
   </g>
 </svg>
