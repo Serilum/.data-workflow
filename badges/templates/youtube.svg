@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg width="140" height="30" role="img" aria-label="YOUTUBE" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <style> g:not(.noshadow) { filter: drop-shadow(0.1px 0.1px 0.5px black); } </style>
+  <style> g:not(.noshadow) { filter: drop-shadow(0.5px 0.5px 1.0px black); } </style>
   <defs>
     <bx:guide x="121.656" y="10.118" angle="90"/>
     <bx:guide x="127.198" y="17.628" angle="90"/>
@@ -10,10 +10,10 @@
     <rect x="1" y="1" width="128" height="28" style="fill: rgb(223, 47, 47);" />
     <rect x="2" y="2" width="126" height="26" style="fill: none; stroke-width:2px; stroke: rgba(0, 0, 0, 0.6);" />
   </g>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 1)">
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 14, 1)">
     <polygon fill="#FFFFFF" points="-4.886 7.398 -4.886 20.795 7.395 14.097"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
-<text style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="657" y="185" letter-spacing="5">%N SUBSCRIBERS</text>
+<text style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="662" y="185" letter-spacing="5">%N SUBSCRIBERS</text>
   </g>
 </svg>

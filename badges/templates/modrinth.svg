@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg width="140" height="30" role="img" aria-label="MODRINTH" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-    <style> g:not(.noshadow) { filter: drop-shadow(0.1px 0.1px 0.5px black); } </style>
+    <style> g:not(.noshadow) { filter: drop-shadow(0.5px 0.5px 1.0px black); } </style>
   <defs>
     <bx:guide x="121.656" y="10.118" angle="90"/>
     <bx:guide x="127.198" y="17.628" angle="90"/>
@@ -13,7 +13,7 @@
   </defs>
   <title>MODRINTH</title>
   <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
-    <rect x="1" y="1" width="128" height="28" style="fill: rgb(0, 175, 92);" />
+    <rect x="1" y="1" width="128" height="28" style="fill: #128a51;" />
     <rect x="2" y="2" width="126" height="26" style="fill: none; stroke-width:2px; stroke: rgba(0, 0, 0, 0.6);" />
   </g>
   
