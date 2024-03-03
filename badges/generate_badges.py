@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
+from pathlib 						import Path
 from decimal 						import *
 import requests
 import json
@@ -17,6 +18,9 @@ def main(mainpath):
 	rootpath = "." + sep + "badges"
 	if os.environ['IS_PRODUCTION'] == "false": # For dev
 		rootpath = mainpath + sep + "badges"
+
+
+	Path(rootpath + sep + "svg").mkdir(parents=True, exist_ok=True)
 
 
 	print("Starting the SVG file creation for CurseForge.")
