@@ -59,7 +59,7 @@ def main(mainpath):
 		patreonSvgTemplate = patreonSvgTemplateFile.read()
 
 	with open(rootpath + sep + "svg" + sep + "patreon.svg", 'w') as patreonSvgFile:
-		patreonSvgFile.write(patreonSvgTemplate.replace("PATRONS", patreonCount.upper() + " PATRONS"))
+		patreonSvgFile.write(patreonSvgTemplate.replace("MEMBERS", patreonCount.upper() + " MEMBERS"))
 
 	print("Created the Patreon SVG file with " + patreonCount + " patrons.")
 
