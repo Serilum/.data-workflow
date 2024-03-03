@@ -37,7 +37,12 @@ def main(mainpath):
 		number = int(fr.number)
 		title = fr.title
 		openedby = fr.user.login
-		creationdate = fr.created_at.strftime('%Y-%m-%d')
+		
+		try:
+			creationdate = str(fr.created_at).split(" ")[0]
+		except github.GithubException.BadAttributeException:
+			creationdate = ""
+
 		modname = ""
 		# url = fr.html_url
 
