@@ -37,10 +37,10 @@ def main(mainpath):
 		number = int(fr.number)
 		title = fr.title
 		openedby = fr.user.login
-		
+
 		try:
 			creationdate = str(fr.created_at).split(" ")[0]
-		except github.GithubException.BadAttributeException:
+		except Exception:
 			creationdate = ""
 
 		modname = ""
