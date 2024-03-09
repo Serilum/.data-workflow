@@ -1,6 +1,107 @@
 {
   "data": {
     "mod-feature": {
+      "2246": {
+        "id": 2174349384,
+        "number": 2246,
+        "title": "Fixed Anvil Repair Cost - New config options",
+        "opened_by": "Silvertide7",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Fixed Anvil Repair Cost"
+        ],
+        "mod_name": "Fixed Anvil Repair Cost",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2243": {
+        "id": 2167819134,
+        "number": 2243,
+        "title": "Possible Hoe Tweaks Compat for Modded Hoes",
+        "opened_by": "Gamemassa",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Hoe Tweaks"
+        ],
+        "mod_name": "Hoe Tweaks",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2242": {
+        "id": 2165096031,
+        "number": 2242,
+        "title": "Does Fortune 3 on the axe affect Tree Harvester leaves drops?",
+        "opened_by": "ftab",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Tree Harvester"
+        ],
+        "mod_name": "Tree Harvester",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2239": {
+        "id": 2164793658,
+        "number": 2239,
+        "title": "Player Death Kick but client-side",
+        "opened_by": "Nuaja",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Player Death Kick"
+        ],
+        "mod_name": "Player Death Kick",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2236": {
+        "id": 2163996978,
+        "number": 2236,
+        "title": "Keybind for Move Boat/Boat with Chest",
+        "opened_by": "mikes4b22",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Move Boats",
+          "Mod: Move Minecarts"
+        ],
+        "mod_name": "Move Minecarts",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2235": {
+        "id": 2163976821,
+        "number": 2235,
+        "title": "When dying to the void, place blocks from the player's inventory instead of just cobblestone",
+        "opened_by": "James103",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Your Items are Safe"
+        ],
+        "mod_name": "Your Items are Safe",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "2230": {
         "id": 2158187235,
         "number": 2230,
@@ -263,24 +364,6 @@
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 4,
-        "user_comment_count": 1
-      },
-      "2185": {
-        "id": 2097413433,
-        "number": 2185,
-        "title": "Slowness instead of damage when riding bareback",
-        "opened_by": "AlexanderwithaA",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Bareback Horse Riding"
-        ],
-        "mod_name": "Bareback Horse Riding",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
         "user_comment_count": 1
       },
       "2180": {
@@ -8510,11 +8593,15 @@
       2
     ],
     [
-      2185,
+      2230,
       2
     ],
     [
-      2230,
+      2235,
+      2
+    ],
+    [
+      2246,
       2
     ],
     [
@@ -10288,7 +10375,23 @@
     [
       2223,
       1
+    ],
+    [
+      2236,
+      1
+    ],
+    [
+      2239,
+      1
+    ],
+    [
+      2242,
+      1
+    ],
+    [
+      2243,
+      1
     ]
   ],
-  "last_updated": "2024-03-09 06:47:58"
+  "last_updated": "2024-03-09 12:55:43"
 }
