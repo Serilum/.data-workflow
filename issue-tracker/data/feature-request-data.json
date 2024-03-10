@@ -30,8 +30,10 @@
           "Mod: Hoe Tweaks"
         ],
         "mod_name": "Hoe Tweaks",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8601,6 +8603,10 @@
       2
     ],
     [
+      2243,
+      2
+    ],
+    [
       2246,
       2
     ],
@@ -10387,11 +10393,7 @@
     [
       2242,
       1
-    ],
-    [
-      2243,
-      1
     ]
   ],
-  "last_updated": "2024-03-10 12:55:49"
+  "last_updated": "2024-03-10 18:46:01"
 }
