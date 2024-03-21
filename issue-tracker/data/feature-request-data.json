@@ -793,8 +793,10 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -1550,8 +1552,10 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -3874,8 +3878,10 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -4416,8 +4422,10 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -7602,8 +7610,10 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -8440,6 +8450,10 @@
       2
     ],
     [
+      302,
+      2
+    ],
+    [
       337,
       2
     ],
@@ -8516,7 +8530,15 @@
       2
     ],
     [
+      1183,
+      2
+    ],
+    [
       1186,
+      2
+    ],
+    [
+      1274,
       2
     ],
     [
@@ -8592,6 +8614,10 @@
       2
     ],
     [
+      1909,
+      2
+    ],
+    [
       1912,
       2
     ],
@@ -8601,6 +8627,10 @@
     ],
     [
       2062,
+      2
+    ],
+    [
+      2093,
       2
     ],
     [
@@ -8697,10 +8727,6 @@
     ],
     [
       300,
-      1
-    ],
-    [
-      302,
       1
     ],
     [
@@ -9448,10 +9474,6 @@
       1
     ],
     [
-      1183,
-      1
-    ],
-    [
       1191,
       1
     ],
@@ -9581,10 +9603,6 @@
     ],
     [
       1272,
-      1
-    ],
-    [
-      1274,
       1
     ],
     [
@@ -10060,10 +10078,6 @@
       1
     ],
     [
-      1909,
-      1
-    ],
-    [
       1911,
       1
     ],
@@ -10232,10 +10246,6 @@
       1
     ],
     [
-      2093,
-      1
-    ],
-    [
       2094,
       1
     ],
@@ -10400,5 +10410,5 @@
       1
     ]
   ],
-  "last_updated": "2024-03-21 13:02:12"
+  "last_updated": "2024-03-21 18:47:01"
 }
