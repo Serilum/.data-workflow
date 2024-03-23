@@ -3311,9 +3311,10 @@
         ],
         "mod_name": "Village Spawn Point",
         "reactions": {
-          "heart": 2
+          "heart": 3,
+          "+1": 1
         },
-        "reaction_count": 3,
+        "reaction_count": 4,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -8410,6 +8411,10 @@
       4
     ],
     [
+      1423,
+      4
+    ],
+    [
       1512,
       4
     ],
@@ -8431,10 +8436,6 @@
     ],
     [
       1380,
-      3
-    ],
-    [
-      1423,
       3
     ],
     [
@@ -10410,5 +10411,5 @@
       1
     ]
   ],
-  "last_updated": "2024-03-23 12:58:30"
+  "last_updated": "2024-03-23 18:45:32"
 }
