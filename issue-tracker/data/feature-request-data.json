@@ -475,8 +475,10 @@
           "Mod: Configurable Extra Mob Drops"
         ],
         "mod_name": "Configurable Extra Mob Drops",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -6154,8 +6156,10 @@
           "Mod: Configurable Extra Mob Drops"
         ],
         "mod_name": "Configurable Extra Mob Drops",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8502,6 +8506,10 @@
       2
     ],
     [
+      681,
+      2
+    ],
+    [
       705,
       2
     ],
@@ -8643,6 +8651,10 @@
     ],
     [
       2119,
+      2
+    ],
+    [
+      2166,
       2
     ],
     [
@@ -9071,10 +9083,6 @@
     ],
     [
       675,
-      1
-    ],
-    [
-      681,
       1
     ],
     [
@@ -10318,10 +10326,6 @@
       1
     ],
     [
-      2166,
-      1
-    ],
-    [
       2169,
       1
     ],
@@ -10414,5 +10418,5 @@
       1
     ]
   ],
-  "last_updated": "2024-03-26 18:47:40"
+  "last_updated": "2024-03-27 01:45:52"
 }
