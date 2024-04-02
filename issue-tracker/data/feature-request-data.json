@@ -4933,7 +4933,9 @@
           "Mod: Welcome Message"
         ],
         "mod_name": "Welcome Message",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -10418,5 +10420,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-02 06:52:15"
+  "last_updated": "2024-04-02 13:01:47"
 }
