@@ -225,6 +225,12 @@
                 "name": "BirdieMiner",
                 "platform": "patreon"
             }
+        ],
+        "20240405": [
+            {
+                "name": "Jeremy Langford",
+                "platform": "patreon"
+            }
         ]
     },
     "keys": [
@@ -264,6 +270,7 @@
         "20230807",
         "20230910",
         "20240220",
-        "20240316"
+        "20240316",
+        "20240405"
     ]
 }
