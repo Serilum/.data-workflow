@@ -7372,7 +7372,7 @@
         ],
         "mod_name": "Mineral Chance",
         "reactions": {
-          "eyes": 1,
+          "eyes": 2,
           "+1": 2
         },
         "reaction_count": 4,
@@ -10420,5 +10420,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-06 12:57:44"
+  "last_updated": "2024-04-06 18:45:40"
 }
