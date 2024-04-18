@@ -1342,7 +1342,8 @@
         ],
         "mod_name": "Milk All the Mobs",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "heart": 1
         },
         "reaction_count": 2,
         "total_comment_count": 2,
@@ -10420,5 +10421,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-17 18:47:20"
+  "last_updated": "2024-04-18 01:46:56"
 }
