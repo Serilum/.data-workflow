@@ -1,6 +1,312 @@
 {
   "data": {
     "mod-feature": {
+      "2319": {
+        "id": 2255442349,
+        "number": 2319,
+        "title": "[Flower Mimics] Option to not rename mobs",
+        "opened_by": "nco2k",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Flower Mimics"
+        ],
+        "mod_name": "Flower Mimics",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2316": {
+        "id": 2254631057,
+        "number": 2316,
+        "title": "[Feature Idea] Just Player Heads: Re:Skin mod compatibility",
+        "opened_by": "SalmonFishTV",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Just Player Heads"
+        ],
+        "mod_name": "Just Player Heads",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2314": {
+        "id": 2251034770,
+        "number": 2314,
+        "title": "[Beautified Chat Client] Other Players Username Color",
+        "opened_by": "nco2k",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Beautified Chat [Client]"
+        ],
+        "mod_name": "Beautified Chat [Client]",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2313": {
+        "id": 2249698397,
+        "number": 2313,
+        "title": "Add support to Curios in Your Items Are Safe",
+        "opened_by": "Igor-Fam",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Your Items are Safe"
+        ],
+        "mod_name": "Your Items are Safe",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2311": {
+        "id": 2246863231,
+        "number": 2311,
+        "title": "[Feature Request] [Starter Kit] Starter kits on respawn",
+        "opened_by": "GeorgeBaker1",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Starter Kit"
+        ],
+        "mod_name": "Starter Kit",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 5,
+        "user_comment_count": 1
+      },
+      "2310": {
+        "id": 2245858495,
+        "number": 2310,
+        "title": "[GiantSpawn] Texture",
+        "opened_by": "nco2k",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Giant Spawn"
+        ],
+        "mod_name": "Giant Spawn",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2304": {
+        "id": 2231777177,
+        "number": 2304,
+        "title": "[Compact Help Command] Changing color only applies after restart",
+        "opened_by": "nco2k",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Compact Help Command"
+        ],
+        "mod_name": "Compact Help Command",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2299": {
+        "id": 2226933877,
+        "number": 2299,
+        "title": "Infinite Trading Fabric server 1.20.4 10x the vanilla amount",
+        "opened_by": "Jarrose37",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Infinite Trading"
+        ],
+        "mod_name": "Infinite Trading",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2298": {
+        "id": 2226831802,
+        "number": 2298,
+        "title": "Is there a plan to add sounds to all mob heads?",
+        "opened_by": "CaliberMC",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Just Mob Heads"
+        ],
+        "mod_name": "Just Mob Heads",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2296": {
+        "id": 2220119531,
+        "number": 2296,
+        "title": "[Just Player Heads] Alternate rate limiting",
+        "opened_by": "PCSpinner",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Just Player Heads"
+        ],
+        "mod_name": "Just Player Heads",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2285": {
+        "id": 2204210341,
+        "number": 2285,
+        "title": "Luckperms compatibility with Beautified Chat [Server]",
+        "opened_by": "creaper3",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Beautified Chat [Server]"
+        ],
+        "mod_name": "Beautified Chat [Server]",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2282": {
+        "id": 2203567504,
+        "number": 2282,
+        "title": "Add attribute/conditions for entity CEMD",
+        "opened_by": "pontorka",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Configurable Extra Mob Drops"
+        ],
+        "mod_name": "Configurable Extra Mob Drops",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2274": {
+        "id": 2193656617,
+        "number": 2274,
+        "title": "[1.20.1] [ Realistic Bees] Increased Honey \"Requirement\"",
+        "opened_by": "Sandriell",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Realistic Bees"
+        ],
+        "mod_name": "Realistic Bees",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2270": {
+        "id": 2190838254,
+        "number": 2270,
+        "title": "[FEATURE] GUI Clock show day on same line",
+        "opened_by": "nco2k",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: GUI Clock"
+        ],
+        "mod_name": "GUI Clock",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2268": {
+        "id": 2190299063,
+        "number": 2268,
+        "title": "How to disable username colour? Beautifed Chat",
+        "opened_by": "TruePureGold",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Beautified Chat [Client]"
+        ],
+        "mod_name": "Beautified Chat [Client]",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2264": {
+        "id": 2189518404,
+        "number": 2264,
+        "title": "Entity Information Config",
+        "opened_by": "gwynhefar",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Entity Information"
+        ],
+        "mod_name": "Entity Information",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2263": {
+        "id": 2187761367,
+        "number": 2263,
+        "title": "Use water bottles as an option for transcending tridents",
+        "opened_by": "Shan-Q",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Transcending Trident"
+        ],
+        "mod_name": "Transcending Trident",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2260": {
+        "id": 2184651411,
+        "number": 2260,
+        "title": "Manure Block?",
+        "opened_by": "Dumpling00",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Manure"
+        ],
+        "mod_name": "Manure",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2250": {
+        "id": 2177909367,
+        "number": 2250,
+        "title": "Add a visual border display",
+        "opened_by": "ksk-waqs",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: World Border"
+        ],
+        "mod_name": "World Border",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "2246": {
         "id": 2174349384,
         "number": 2246,
@@ -8681,6 +8987,10 @@
       2
     ],
     [
+      2319,
+      2
+    ],
+    [
       129,
       1
     ],
@@ -10419,7 +10729,79 @@
     [
       2242,
       1
+    ],
+    [
+      2250,
+      1
+    ],
+    [
+      2260,
+      1
+    ],
+    [
+      2263,
+      1
+    ],
+    [
+      2264,
+      1
+    ],
+    [
+      2268,
+      1
+    ],
+    [
+      2270,
+      1
+    ],
+    [
+      2274,
+      1
+    ],
+    [
+      2282,
+      1
+    ],
+    [
+      2285,
+      1
+    ],
+    [
+      2296,
+      1
+    ],
+    [
+      2298,
+      1
+    ],
+    [
+      2299,
+      1
+    ],
+    [
+      2304,
+      1
+    ],
+    [
+      2310,
+      1
+    ],
+    [
+      2311,
+      1
+    ],
+    [
+      2313,
+      1
+    ],
+    [
+      2314,
+      1
+    ],
+    [
+      2316,
+      1
     ]
   ],
-  "last_updated": "2024-04-22 06:51:34"
+  "last_updated": "2024-04-22 13:02:53"
 }
