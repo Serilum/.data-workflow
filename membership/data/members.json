@@ -1,5 +1,8 @@
 {
-    "github": [],
+    "github": [
+        "aternosorg",
+        "pepe1191"
+    ],
     "patreon": [
         "Alister",
         "Andrean Olgo",
@@ -14,22 +17,26 @@
     "combined": [
         "Alister",
         "Andrean Olgo",
+        "aternosorg",
         "BirdieMiner",
         "Cherriesaurus",
         "Jack",
         "Jeremy Langford",
         "Michael W. S.",
+        "pepe1191",
         "Shana Gitnick",
         "Tyler Behl"
     ],
     "combined_specific": {
         "Alister": "Patreon",
         "Andrean Olgo": "Patreon",
+        "aternosorg": "Github Sponsors",
         "BirdieMiner": "Patreon",
         "Cherriesaurus": "Patreon",
         "Jack": "Patreon",
         "Jeremy Langford": "Patreon",
         "Michael W. S.": "Patreon",
+        "pepe1191": "Github Sponsors",
         "Shana Gitnick": "Patreon",
         "Tyler Behl": "Patreon"
     }

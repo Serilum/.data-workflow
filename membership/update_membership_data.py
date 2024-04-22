@@ -36,8 +36,8 @@ def main(mainpath):
 	githubresult = queryGithub()
 	if 'data' in githubresult:
 		ghdata = githubresult['data']
-		if 'user' in ghdata:
-			ghuser = ghdata['user']
+		if 'organization' in ghdata:
+			ghuser = ghdata['organization']
 			if 'sponsors' in ghuser:
 				ghsponsors = ghuser['sponsors']
 				if 'nodes' in ghsponsors:
@@ -113,10 +113,10 @@ def main(mainpath):
 	return
 
 def queryGithub():
-	githubheaders = {"Authorization": "bearer " + os.environ['GH_API']}
+	githubheaders = {"Authorization": "bearer " + os.environ['GH_SERILUM_DATA_WORKFLOW_API']}
 	githubquery = """
 	{  
-		user(login: "ricksouth") {
+		organization(login: "serilum") {
 			... on Sponsorable {
 				sponsors(first: 100) {
 					totalCount

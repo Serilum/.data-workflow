@@ -231,6 +231,16 @@
                 "name": "Jeremy Langford",
                 "platform": "patreon"
             }
+        ],
+        "20240422": [
+            {
+                "name": "aternosorg",
+                "platform": "github"
+            },
+            {
+                "name": "pepe1191",
+                "platform": "github"
+            }
         ]
     },
     "keys": [
@@ -271,6 +281,7 @@
         "20230910",
         "20240220",
         "20240316",
-        "20240405"
+        "20240405",
+        "20240422"
     ]
 }
