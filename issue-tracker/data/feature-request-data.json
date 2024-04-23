@@ -158,7 +158,9 @@
           "Mod: Just Player Heads"
         ],
         "mod_name": "Just Player Heads",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -10803,5 +10805,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-22 18:47:01"
+  "last_updated": "2024-04-23 01:53:55"
 }
