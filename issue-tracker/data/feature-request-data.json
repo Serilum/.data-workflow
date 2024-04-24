@@ -2806,9 +2806,13 @@
         ],
         "mod_name": "Double Doors",
         "reactions": {
-          "+1": 2
+          "+1": 2,
+          "laugh": 1,
+          "hooray": 1,
+          "heart": 1,
+          "eyes": 1
         },
-        "reaction_count": 3,
+        "reaction_count": 4,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -3642,8 +3646,10 @@
           "Mod: Beautified Chat [Server]"
         ],
         "mod_name": "Beautified Chat [Server]",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -8741,6 +8747,10 @@
       4
     ],
     [
+      1675,
+      4
+    ],
+    [
       438,
       3
     ],
@@ -8758,10 +8768,6 @@
     ],
     [
       1380,
-      3
-    ],
-    [
-      1675,
       3
     ],
     [
@@ -8886,6 +8892,10 @@
     ],
     [
       1396,
+      2
+    ],
+    [
+      1420,
       2
     ],
     [
@@ -10049,10 +10059,6 @@
       1
     ],
     [
-      1420,
-      1
-    ],
-    [
       1433,
       1
     ],
@@ -10805,5 +10811,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-24 01:51:51"
+  "last_updated": "2024-04-24 06:54:09"
 }
