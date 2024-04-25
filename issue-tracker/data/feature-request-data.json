@@ -212,7 +212,9 @@
           "Mod: Realistic Bees"
         ],
         "mod_name": "Realistic Bees",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -10815,5 +10817,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-25 12:55:17"
+  "last_updated": "2024-04-25 18:49:34"
 }
