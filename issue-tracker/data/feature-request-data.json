@@ -64,7 +64,9 @@
           "Mod: Your Items are Safe"
         ],
         "mod_name": "Your Items are Safe",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -10813,5 +10815,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-25 01:52:20"
+  "last_updated": "2024-04-25 06:52:24"
 }
