@@ -3792,10 +3792,12 @@
           "Mod: Replanting Crops"
         ],
         "mod_name": "Replanting Crops",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "1367": {
         "id": 1409773955,
@@ -8893,6 +8895,10 @@
       2
     ],
     [
+      1369,
+      2
+    ],
+    [
       1389,
       2
     ],
@@ -10049,10 +10055,6 @@
       1
     ],
     [
-      1369,
-      1
-    ],
-    [
       1374,
       1
     ],
@@ -10817,5 +10819,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-28 06:49:42"
+  "last_updated": "2024-04-28 13:01:35"
 }
