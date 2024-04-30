@@ -1,6 +1,22 @@
 {
   "data": {
     "mod-feature": {
+      "2325": {
+        "id": 2263853795,
+        "number": 2325,
+        "title": "More Heads",
+        "opened_by": "Nickstertjefloor",
+        "creation_date": "2024-04-25",
+        "labels": [
+          "Feature Request",
+          "Mod: Just Mob Heads"
+        ],
+        "mod_name": "Just Mob Heads",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
       "2319": {
         "id": 2255442349,
         "number": 2319,
@@ -10817,7 +10833,11 @@
     [
       2316,
       1
+    ],
+    [
+      2325,
+      1
     ]
   ],
-  "last_updated": "2024-04-30 06:51:14"
+  "last_updated": "2024-04-30 13:06:03"
 }
