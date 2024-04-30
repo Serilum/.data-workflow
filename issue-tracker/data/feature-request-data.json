@@ -452,22 +452,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2223": {
-        "id": 2150302568,
-        "number": 2223,
-        "title": " Configurable Despawn Timer",
-        "opened_by": "Dheamm",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Configurable Despawn Timer"
-        ],
-        "mod_name": "Configurable Despawn Timer",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2219": {
         "id": 2143717022,
         "number": 2219,
@@ -1592,22 +1576,6 @@
         "reactions": {
           "+1": 1
         },
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "1981": {
-        "id": 1927581316,
-        "number": 1981,
-        "title": "Make the mod also handle experience orbs",
-        "opened_by": "Answordy",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Configurable Despawn Timer"
-        ],
-        "mod_name": "Configurable Despawn Timer",
-        "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -3966,22 +3934,6 @@
         "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 3
-      },
-      "1338": {
-        "id": 1390095298,
-        "number": 1338,
-        "title": "Configurable Despawn Timer extended config",
-        "opened_by": "Aethamus",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Configurable Despawn Timer"
-        ],
-        "mod_name": "Configurable Despawn Timer",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
       },
       "1334": {
         "id": 1388481425,
@@ -10039,10 +9991,6 @@
       1
     ],
     [
-      1338,
-      1
-    ],
-    [
       1349,
       1
     ],
@@ -10495,10 +10443,6 @@
       1
     ],
     [
-      1981,
-      1
-    ],
-    [
       1998,
       1
     ],
@@ -10747,10 +10691,6 @@
       1
     ],
     [
-      2223,
-      1
-    ],
-    [
       2236,
       1
     ],
@@ -10839,5 +10779,5 @@
       1
     ]
   ],
-  "last_updated": "2024-04-30 13:06:03"
+  "last_updated": "2024-04-30 18:53:49"
 }
