@@ -1793,8 +1793,10 @@
           "Mod: Infinite Trading"
         ],
         "mod_name": "Infinite Trading",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -9013,6 +9015,10 @@
       2
     ],
     [
+      1916,
+      2
+    ],
+    [
       1955,
       2
     ],
@@ -10425,10 +10431,6 @@
       1
     ],
     [
-      1916,
-      1
-    ],
-    [
       1925,
       1
     ],
@@ -10805,5 +10807,5 @@
       1
     ]
   ],
-  "last_updated": "2024-05-17 18:50:40"
+  "last_updated": "2024-05-18 01:51:27"
 }
