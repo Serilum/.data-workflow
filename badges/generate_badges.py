@@ -2,6 +2,7 @@
 #!/usr/bin/env python
 from pathlib 						import Path
 from decimal 						import *
+import cloudscraper
 import requests
 import json
 import patreon
@@ -123,7 +124,8 @@ def getPatreonCount(members_json_file_path):
 	return -1
 
 def getAllPatreonMemberCount():
-	rawPatreonRequest = requests.get("https://patreon.com/serilum")
+	scraper = cloudscraper.create_scraper()
+	rawPatreonRequest = scraper.get("https://patreon.com/serilum") # requests.get("https://patreon.com/serilum")
 	rawPatreonPageData = rawPatreonRequest.text
 
 	for rawSpan in rawPatreonPageData.split("<span "):
