@@ -134,6 +134,9 @@ def getAllPatreonMemberCount():
 			if patreonCount.isnumeric():
 				return int(patreonCount)
 
+	print("\n\nPatreon returns -1. Raw page data:\n\n")
+	print(rawPatreonPageData)
+	print("\n\n\n")
 	return -1
 
 def getCurseForgeDownloadCount():
