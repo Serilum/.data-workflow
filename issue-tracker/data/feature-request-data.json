@@ -3597,11 +3597,11 @@
         ],
         "mod_name": "Just Mob Heads",
         "reactions": {
-          "+1": 6,
+          "+1": 7,
           "laugh": 1,
           "heart": 2
         },
-        "reaction_count": 8,
+        "reaction_count": 9,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -8713,7 +8713,7 @@
     ],
     [
       1434,
-      8
+      9
     ],
     [
       1908,
@@ -10808,5 +10808,5 @@
       1
     ]
   ],
-  "last_updated": "2024-05-23 18:50:30"
+  "last_updated": "2024-05-24 01:54:38"
 }
