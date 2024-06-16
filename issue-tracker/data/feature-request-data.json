@@ -7274,8 +7274,10 @@
           "Mod: TNT Breaks Bedrock"
         ],
         "mod_name": "TNT Breaks Bedrock",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -8883,6 +8885,10 @@
       2
     ],
     [
+      467,
+      2
+    ],
+    [
       469,
       2
     ],
@@ -9316,10 +9322,6 @@
     ],
     [
       461,
-      1
-    ],
-    [
-      467,
       1
     ],
     [
@@ -10839,5 +10841,5 @@
       1
     ]
   ],
-  "last_updated": "2024-06-16 13:07:17"
+  "last_updated": "2024-06-16 18:50:31"
 }
