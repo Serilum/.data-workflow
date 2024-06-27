@@ -99,9 +99,9 @@
         ],
         "mod_name": "Starter Kit",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 5,
         "user_comment_count": 1
       },
@@ -148,22 +148,6 @@
           "Mod: Infinite Trading"
         ],
         "mod_name": "Infinite Trading",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
-      "2298": {
-        "id": 2226831802,
-        "number": 2298,
-        "title": "Is there a plan to add sounds to all mob heads?",
-        "opened_by": "CaliberMC",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Just Mob Heads"
-        ],
-        "mod_name": "Just Mob Heads",
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 3,
@@ -2097,10 +2081,12 @@
           "Mod: Just Player Heads"
         ],
         "mod_name": "Just Player Heads",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "reactions": {
+          "+1": 2
+        },
+        "reaction_count": 2,
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "1848": {
         "id": 1781361820,
@@ -3604,26 +3590,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "1434": {
-        "id": 1462774920,
-        "number": 1434,
-        "title": "Just Mob Heads: Mob Sounds",
-        "opened_by": "BeeFox-sys",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Just Mob Heads"
-        ],
-        "mod_name": "Just Mob Heads",
-        "reactions": {
-          "+1": 8,
-          "laugh": 1,
-          "heart": 2
-        },
-        "reaction_count": 10,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "1433": {
         "id": 1458744526,
         "number": 1433,
@@ -3758,9 +3724,10 @@
         ],
         "mod_name": "Just Player Heads",
         "reactions": {
-          "+1": 1
+          "+1": 2,
+          "rocket": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -6258,12 +6225,13 @@
         ],
         "mod_name": "Just Player Heads",
         "reactions": {
+          "eyes": 1,
           "+1": 1,
           "heart": 1
         },
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
+        "reaction_count": 2,
+        "total_comment_count": 4,
+        "user_comment_count": 2
       },
       "721": {
         "id": 1009811143,
@@ -7359,11 +7327,11 @@
         ],
         "mod_name": "Starter Kit",
         "reactions": {
-          "+1": 8,
+          "+1": 9,
           "eyes": 2,
           "heart": 1
         },
-        "reaction_count": 10,
+        "reaction_count": 11,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -7415,8 +7383,10 @@
           "Mod: Just Player Heads"
         ],
         "mod_name": "Just Player Heads",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 5,
         "user_comment_count": 2
       },
@@ -8738,11 +8708,7 @@
   "issues_sorted_reaction_count": [
     [
       441,
-      10
-    ],
-    [
-      1434,
-      10
+      11
     ],
     [
       1908,
@@ -8813,6 +8779,10 @@
       3
     ],
     [
+      1389,
+      3
+    ],
+    [
       1396,
       3
     ],
@@ -8877,6 +8847,10 @@
       2
     ],
     [
+      434,
+      2
+    ],
+    [
       435,
       2
     ],
@@ -8918,6 +8892,10 @@
     ],
     [
       721,
+      2
+    ],
+    [
+      725,
       2
     ],
     [
@@ -8993,10 +8971,6 @@
       2
     ],
     [
-      1389,
-      2
-    ],
-    [
       1390,
       2
     ],
@@ -9061,6 +9035,10 @@
       2
     ],
     [
+      1853,
+      2
+    ],
+    [
       1879,
       2
     ],
@@ -9118,6 +9096,10 @@
     ],
     [
       2246,
+      2
+    ],
+    [
+      2311,
       2
     ],
     [
@@ -9306,10 +9288,6 @@
     ],
     [
       433,
-      1
-    ],
-    [
-      434,
       1
     ],
     [
@@ -9546,10 +9524,6 @@
     ],
     [
       719,
-      1
-    ],
-    [
-      725,
       1
     ],
     [
@@ -10413,10 +10387,6 @@
       1
     ],
     [
-      1853,
-      1
-    ],
-    [
       1855,
       1
     ],
@@ -10805,10 +10775,6 @@
       1
     ],
     [
-      2298,
-      1
-    ],
-    [
       2299,
       1
     ],
@@ -10818,10 +10784,6 @@
     ],
     [
       2310,
-      1
-    ],
-    [
-      2311,
       1
     ],
     [
@@ -10841,5 +10803,5 @@
       1
     ]
   ],
-  "last_updated": "2024-06-27 13:06:00"
+  "last_updated": "2024-06-27 18:50:17"
 }
