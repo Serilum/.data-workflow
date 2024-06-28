@@ -2846,7 +2846,9 @@
           "Mod: Respawn Delay"
         ],
         "mod_name": "Respawn Delay",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -4150,24 +4152,6 @@
         ],
         "mod_name": "Ice Prevents Crop Growth",
         "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
-      "1278": {
-        "id": 1348828626,
-        "number": 1278,
-        "title": "[Feature Request] Toggle: Name only / Name + Profession / Name + Level / Name + Profession & Level ",
-        "opened_by": "cymophic",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Villager Names"
-        ],
-        "mod_name": "Villager Names",
-        "reactions": {
-          "heart": 1
-        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -6226,7 +6210,7 @@
         "mod_name": "Just Player Heads",
         "reactions": {
           "eyes": 1,
-          "+1": 1,
+          "+1": 2,
           "heart": 1
         },
         "reaction_count": 2,
@@ -10003,10 +9987,6 @@
       1
     ],
     [
-      1278,
-      1
-    ],
-    [
       1279,
       1
     ],
@@ -10803,5 +10783,5 @@
       1
     ]
   ],
-  "last_updated": "2024-06-28 06:56:46"
+  "last_updated": "2024-06-28 13:06:14"
 }
