@@ -5965,8 +5965,10 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8892,6 +8894,10 @@
       2
     ],
     [
+      795,
+      2
+    ],
+    [
       853,
       2
     ],
@@ -9565,10 +9571,6 @@
     ],
     [
       792,
-      1
-    ],
-    [
-      795,
       1
     ],
     [
@@ -10784,5 +10786,5 @@
       1
     ]
   ],
-  "last_updated": "2024-07-10 18:57:29"
+  "last_updated": "2024-07-11 02:00:00"
 }
