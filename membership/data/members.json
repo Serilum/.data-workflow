@@ -1,7 +1,6 @@
 {
     "github": [
-        "aternosorg",
-        "Sukhmai"
+        "aternosorg"
     ],
     "patreon": [
         "Alister",
@@ -20,7 +19,6 @@
         "Cherriesaurus",
         "Michael W. S.",
         "Shana Gitnick",
-        "Sukhmai",
         "Tyler Behl"
     ],
     "combined_specific": {
@@ -31,7 +29,6 @@
         "Cherriesaurus": "Patreon",
         "Michael W. S.": "Patreon",
         "Shana Gitnick": "Patreon",
-        "Sukhmai": "Github Sponsors",
         "Tyler Behl": "Patreon"
     }
 }
