@@ -7335,9 +7335,9 @@
         "mod_name": "Mineral Chance",
         "reactions": {
           "eyes": 1,
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 3,
+        "reaction_count": 4,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -7591,9 +7591,9 @@
         ],
         "mod_name": "Humbling Bundle",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -8007,9 +8007,9 @@
         ],
         "mod_name": "Nether Portal Spread",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8726,6 +8726,10 @@
       4
     ],
     [
+      438,
+      4
+    ],
+    [
       496,
       4
     ],
@@ -8750,7 +8754,11 @@
       4
     ],
     [
-      438,
+      246,
+      3
+    ],
+    [
+      393,
       3
     ],
     [
@@ -8806,10 +8814,6 @@
       2
     ],
     [
-      246,
-      2
-    ],
-    [
       252,
       2
     ],
@@ -8827,10 +8831,6 @@
     ],
     [
       344,
-      2
-    ],
-    [
-      393,
       2
     ],
     [
@@ -10786,5 +10786,5 @@
       1
     ]
   ],
-  "last_updated": "2024-07-18 02:00:07"
+  "last_updated": "2024-07-18 06:57:53"
 }
