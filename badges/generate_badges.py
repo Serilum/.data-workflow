@@ -125,6 +125,24 @@ def getPatreonCount(members_json_file_path):
 
 def getAllPatreonMemberCount():
 	scraper = cloudscraper.create_scraper()
+	rawPatreonRequest = scraper.get("https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dserilum%26type%3Dpatrons&style=flat") # requests.get("https://patreon.com/serilum")
+	rawPatreonPageData = rawPatreonRequest.text
+
+	for pSpl in rawPatreonPageData.split(">"):
+		inside = pSpl.split("<")[0]
+
+		if "patrons" in inside:
+			patreonCount = inside.split(" ")[0]
+			if patreonCount.isnumeric():
+				return int(patreonCount)			
+
+	print("\n\nPatreon returns -1. Raw page data:\n\n")
+	print(rawPatreonPageData)
+	print("\n\n\n")
+	return -1
+
+def oldGetAllPatreonMemberCount():
+	scraper = cloudscraper.create_scraper()
 	rawPatreonRequest = scraper.get("https://patreon.com/serilum") # requests.get("https://patreon.com/serilum")
 	rawPatreonPageData = rawPatreonRequest.text
 
