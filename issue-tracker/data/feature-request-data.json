@@ -744,8 +744,10 @@
           "Mod: Areas"
         ],
         "mod_name": "Areas",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 2
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -9088,6 +9090,10 @@
       2
     ],
     [
+      2170,
+      2
+    ],
+    [
       2235,
       2
     ],
@@ -10640,10 +10646,6 @@
       1
     ],
     [
-      2170,
-      1
-    ],
-    [
       2173,
       1
     ],
@@ -10792,5 +10794,5 @@
       1
     ]
   ],
-  "last_updated": "2024-07-29 02:07:21"
+  "last_updated": "2024-07-29 06:59:17"
 }
