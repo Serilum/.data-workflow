@@ -3740,8 +3740,8 @@
           "eyes": 1
         },
         "reaction_count": 4,
-        "total_comment_count": 3,
-        "user_comment_count": 2
+        "total_comment_count": 4,
+        "user_comment_count": 3
       },
       "1380": {
         "id": 1417337842,
@@ -10796,5 +10796,5 @@
       1
     ]
   ],
-  "last_updated": "2024-08-01 18:52:53"
+  "last_updated": "2024-08-02 02:01:14"
 }
