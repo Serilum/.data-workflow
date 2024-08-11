@@ -2950,8 +2950,15 @@
           "Mod: Superflat World No Slimes"
         ],
         "mod_name": "Superflat World No Slimes",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1,
+          "heart": 1,
+          "hooray": 1,
+          "rocket": 1,
+          "laugh": 1,
+          "eyes": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -9020,6 +9027,10 @@
       2
     ],
     [
+      1644,
+      2
+    ],
+    [
       1668,
       2
     ],
@@ -10204,10 +10215,6 @@
       1
     ],
     [
-      1644,
-      1
-    ],
-    [
       1648,
       1
     ],
@@ -10796,5 +10803,5 @@
       1
     ]
   ],
-  "last_updated": "2024-08-11 13:08:33"
+  "last_updated": "2024-08-11 18:54:32"
 }
