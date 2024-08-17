@@ -3669,8 +3669,11 @@
           "Mod: Furnace Recycle"
         ],
         "mod_name": "Furnace Recycle",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1,
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -8987,6 +8990,10 @@
       2
     ],
     [
+      1406,
+      2
+    ],
+    [
       1420,
       2
     ],
@@ -10103,10 +10110,6 @@
       1
     ],
     [
-      1406,
-      1
-    ],
-    [
       1433,
       1
     ],
@@ -10803,5 +10806,5 @@
       1
     ]
   ],
-  "last_updated": "2024-08-17 01:58:56"
+  "last_updated": "2024-08-17 06:53:01"
 }
