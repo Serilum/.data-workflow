@@ -4648,7 +4648,7 @@
         ],
         "mod_name": "Snowballs Freeze Mobs",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
         "reaction_count": 1,
         "total_comment_count": 4,
@@ -10806,5 +10806,5 @@
       1
     ]
   ],
-  "last_updated": "2024-08-31 18:51:55"
+  "last_updated": "2024-09-01 02:22:31"
 }
