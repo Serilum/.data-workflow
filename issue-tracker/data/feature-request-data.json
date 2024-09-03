@@ -4976,7 +4976,9 @@
           "Mod: Fixed Anvil Repair Cost"
         ],
         "mod_name": "Fixed Anvil Repair Cost",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 4,
         "user_comment_count": 2
@@ -10806,5 +10808,5 @@
       1
     ]
   ],
-  "last_updated": "2024-09-03 13:10:56"
+  "last_updated": "2024-09-03 18:55:31"
 }
