@@ -502,8 +502,10 @@
           "Mod: GUI Compass"
         ],
         "mod_name": "GUI Compass",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -3131,7 +3133,7 @@
         "id": 1563400072,
         "number": 1587,
         "title": "Can you make Automatic Doors mod open doors only if you looking in it's direction?",
-        "opened_by": "StellarHarbour",
+        "opened_by": "ghost",
         "creation_date": "2023-01-31",
         "labels": [
           "Feature Request",
@@ -9120,6 +9122,10 @@
       2
     ],
     [
+      2213,
+      2
+    ],
+    [
       2235,
       2
     ],
@@ -10716,10 +10722,6 @@
       1
     ],
     [
-      2213,
-      1
-    ],
-    [
       2217,
       1
     ],
@@ -10808,5 +10810,5 @@
       1
     ]
   ],
-  "last_updated": "2024-09-07 18:53:19"
+  "last_updated": "2024-09-08 02:18:12"
 }
