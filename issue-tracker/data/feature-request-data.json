@@ -5107,7 +5107,7 @@
         "id": 1242948760,
         "number": 1076,
         "title": "Allow spawning in villages added by mods or datapacks",
-        "opened_by": "HaXrBOT",
+        "opened_by": "HaXrDEV",
         "creation_date": "",
         "labels": [
           "Feature Request",
@@ -10810,5 +10810,5 @@
       1
     ]
   ],
-  "last_updated": "2024-09-10 13:12:15"
+  "last_updated": "2024-09-10 18:59:27"
 }
