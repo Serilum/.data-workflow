@@ -5243,9 +5243,9 @@
         ],
         "mod_name": "Welcome Message",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8958,6 +8958,10 @@
       2
     ],
     [
+      1039,
+      2
+    ],
+    [
       1127,
       2
     ],
@@ -9771,10 +9775,6 @@
     ],
     [
       1025,
-      1
-    ],
-    [
-      1039,
       1
     ],
     [
@@ -10810,5 +10810,5 @@
       1
     ]
   ],
-  "last_updated": "2024-09-12 13:11:18"
+  "last_updated": "2024-09-12 19:01:54"
 }
