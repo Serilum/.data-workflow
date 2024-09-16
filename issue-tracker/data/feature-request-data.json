@@ -4190,9 +4190,9 @@
         ],
         "mod_name": "World Border",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -7947,9 +7947,9 @@
         ],
         "mod_name": "World Border",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -8786,6 +8786,10 @@
       3
     ],
     [
+      302,
+      3
+    ],
+    [
       393,
       3
     ],
@@ -8803,6 +8807,10 @@
     ],
     [
       1228,
+      3
+    ],
+    [
+      1274,
       3
     ],
     [
@@ -8855,10 +8863,6 @@
     ],
     [
       259,
-      2
-    ],
-    [
-      302,
       2
     ],
     [
@@ -8967,10 +8971,6 @@
     ],
     [
       1186,
-      2
-    ],
-    [
-      1274,
       2
     ],
     [
@@ -10810,5 +10810,5 @@
       1
     ]
   ],
-  "last_updated": "2024-09-16 02:16:22"
+  "last_updated": "2024-09-16 07:03:33"
 }
