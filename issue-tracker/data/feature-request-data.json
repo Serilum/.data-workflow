@@ -1537,7 +1537,8 @@
         ],
         "mod_name": "Death Backup",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "-1": 1
         },
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -6207,9 +6208,10 @@
         ],
         "mod_name": "Death Backup",
         "reactions": {
-          "+1": 3
+          "+1": 4,
+          "-1": 1
         },
-        "reaction_count": 3,
+        "reaction_count": 4,
         "total_comment_count": 5,
         "user_comment_count": 1
       },
@@ -8783,6 +8785,10 @@
       4
     ],
     [
+      736,
+      4
+    ],
+    [
       769,
       4
     ],
@@ -8804,10 +8810,6 @@
     ],
     [
       393,
-      3
-    ],
-    [
-      736,
       3
     ],
     [
@@ -10815,5 +10817,5 @@
       1
     ]
   ],
-  "last_updated": "2024-10-07 18:57:44"
+  "last_updated": "2024-10-08 02:15:42"
 }
