@@ -3365,9 +3365,9 @@
         ],
         "mod_name": "Grindstone Sharper Tools",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -5267,9 +5267,9 @@
         ],
         "mod_name": "Grindstone Sharper Tools",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8821,6 +8821,10 @@
       3
     ],
     [
+      1031,
+      3
+    ],
+    [
       1228,
       3
     ],
@@ -8850,6 +8854,10 @@
     ],
     [
       1498,
+      3
+    ],
+    [
+      1511,
       3
     ],
     [
@@ -8969,10 +8977,6 @@
       2
     ],
     [
-      1031,
-      2
-    ],
-    [
       1039,
       2
     ],
@@ -9038,10 +9042,6 @@
     ],
     [
       1510,
-      2
-    ],
-    [
-      1511,
       2
     ],
     [
@@ -10817,5 +10817,5 @@
       1
     ]
   ],
-  "last_updated": "2024-10-09 07:04:01"
+  "last_updated": "2024-10-09 13:12:52"
 }
