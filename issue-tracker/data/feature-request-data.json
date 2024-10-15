@@ -4126,9 +4126,9 @@
         ],
         "mod_name": "Beautified Chat [Server]",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 7,
         "user_comment_count": 3
       },
@@ -8833,6 +8833,10 @@
       3
     ],
     [
+      1285,
+      3
+    ],
+    [
       1347,
       3
     ],
@@ -8990,10 +8994,6 @@
     ],
     [
       1255,
-      2
-    ],
-    [
-      1285,
       2
     ],
     [
@@ -10817,5 +10817,5 @@
       1
     ]
   ],
-  "last_updated": "2024-10-15 06:59:33"
+  "last_updated": "2024-10-15 13:13:58"
 }
