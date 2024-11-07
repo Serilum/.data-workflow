@@ -4138,24 +4138,6 @@
         "total_comment_count": 7,
         "user_comment_count": 3
       },
-      "1283": {
-        "id": 1352909921,
-        "number": 1283,
-        "title": "Is it possible to add like an option to protect the region created?  ",
-        "opened_by": "Lion4K",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Areas"
-        ],
-        "mod_name": "Areas",
-        "reactions": {
-          "heart": 2
-        },
-        "reaction_count": 1,
-        "total_comment_count": 4,
-        "user_comment_count": 2
-      },
       "1281": {
         "id": 1351081100,
         "number": 1281,
@@ -8239,23 +8221,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "1284": {
-        "id": 1352911079,
-        "number": 1284,
-        "title": "Can you please make a mod like Tree Harvester but for Ores? ",
-        "opened_by": "Lion4K",
-        "creation_date": "2022-08-27",
-        "labels": [
-          "Feature Request"
-        ],
-        "mod_name": "",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "1272": {
         "id": 1345333721,
         "number": 1272,
@@ -10087,14 +10052,6 @@
       1
     ],
     [
-      1283,
-      1
-    ],
-    [
-      1284,
-      1
-    ],
-    [
       1290,
       1
     ],
@@ -10823,5 +10780,5 @@
       1
     ]
   ],
-  "last_updated": "2024-11-06 19:02:12"
+  "last_updated": "2024-11-07 02:12:23"
 }
