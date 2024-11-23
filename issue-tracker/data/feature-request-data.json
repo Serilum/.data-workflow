@@ -3408,9 +3408,10 @@
         "mod_name": "Stack Refill",
         "reactions": {
           "+1": 1,
+          "hooray": 1,
           "heart": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 5,
         "user_comment_count": 4
       },
@@ -7545,8 +7546,10 @@
           "Mod: Stack Refill"
         ],
         "mod_name": "Stack Refill",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "hooray": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8834,6 +8837,10 @@
       3
     ],
     [
+      1505,
+      3
+    ],
+    [
       1511,
       3
     ],
@@ -8875,6 +8882,10 @@
     ],
     [
       397,
+      2
+    ],
+    [
+      407,
       2
     ],
     [
@@ -9011,10 +9022,6 @@
     ],
     [
       1471,
-      2
-    ],
-    [
-      1505,
       2
     ],
     [
@@ -9323,10 +9330,6 @@
     ],
     [
       402,
-      1
-    ],
-    [
-      407,
       1
     ],
     [
@@ -10782,5 +10785,5 @@
       1
     ]
   ],
-  "last_updated": "2024-11-23 13:10:54"
+  "last_updated": "2024-11-23 18:59:50"
 }
