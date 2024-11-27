@@ -6306,9 +6306,9 @@
         ],
         "mod_name": "Eroding Stone Entities",
         "reactions": {
-          "+1": 4
+          "+1": 5
         },
-        "reaction_count": 5,
+        "reaction_count": 6,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -7410,8 +7410,10 @@
           "Mod: Eroding Stone Entities"
         ],
         "mod_name": "Eroding Stone Entities",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -7479,11 +7481,11 @@
         ],
         "mod_name": "Mineral Chance",
         "reactions": {
-          "+1": 4,
+          "+1": 5,
           "eyes": 2,
           "heart": 1
         },
-        "reaction_count": 5,
+        "reaction_count": 6,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -8709,16 +8711,16 @@
       8
     ],
     [
-      1423,
+      426,
       6
     ],
     [
-      426,
-      5
+      712,
+      6
     ],
     [
-      712,
-      5
+      1423,
+      6
     ],
     [
       1183,
@@ -8890,6 +8892,10 @@
     ],
     [
       430,
+      2
+    ],
+    [
+      433,
       2
     ],
     [
@@ -9346,10 +9352,6 @@
     ],
     [
       432,
-      1
-    ],
-    [
-      433,
       1
     ],
     [
@@ -10785,5 +10787,5 @@
       1
     ]
   ],
-  "last_updated": "2024-11-27 02:28:44"
+  "last_updated": "2024-11-27 07:03:20"
 }
