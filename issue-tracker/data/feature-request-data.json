@@ -1074,10 +1074,13 @@
           "Mod: Ore Discovery Broadcast"
         ],
         "mod_name": "Ore Discovery Broadcast",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "reactions": {
+          "rocket": 1,
+          "+1": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "2094": {
         "id": 2034575451,
@@ -9141,6 +9144,10 @@
       2
     ],
     [
+      2096,
+      2
+    ],
+    [
       2119,
       2
     ],
@@ -10597,10 +10604,6 @@
       1
     ],
     [
-      2096,
-      1
-    ],
-    [
       2112,
       1
     ],
@@ -10789,5 +10792,5 @@
       1
     ]
   ],
-  "last_updated": "2024-12-15 13:13:16"
+  "last_updated": "2024-12-15 18:59:21"
 }
