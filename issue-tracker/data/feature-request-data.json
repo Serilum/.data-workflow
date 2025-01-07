@@ -3462,9 +3462,9 @@
         ],
         "mod_name": "Hoe Tweaks",
         "reactions": {
-          "+1": 2
+          "+1": 3
         },
-        "reaction_count": 3,
+        "reaction_count": 4,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -8796,6 +8796,10 @@
       4
     ],
     [
+      1498,
+      4
+    ],
+    [
       1512,
       4
     ],
@@ -8857,10 +8861,6 @@
     ],
     [
       1445,
-      3
-    ],
-    [
-      1498,
       3
     ],
     [
@@ -10812,5 +10812,5 @@
       1
     ]
   ],
-  "last_updated": "2025-01-05 18:54:55"
+  "last_updated": "2025-01-07 20:36:28"
 }
