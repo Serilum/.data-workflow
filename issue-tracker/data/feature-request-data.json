@@ -231,9 +231,9 @@
         ],
         "mod_name": "Realistic Bees",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -949,9 +949,9 @@
         ],
         "mod_name": "Realistic Bees",
         "reactions": {
-          "heart": 2
+          "heart": 4
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -9172,6 +9172,10 @@
       2
     ],
     [
+      2140,
+      2
+    ],
+    [
       2145,
       2
     ],
@@ -9197,6 +9201,10 @@
     ],
     [
       2246,
+      2
+    ],
+    [
+      2274,
       2
     ],
     [
@@ -10636,10 +10644,6 @@
       1
     ],
     [
-      2140,
-      1
-    ],
-    [
       2153,
       1
     ],
@@ -10768,10 +10772,6 @@
       1
     ],
     [
-      2274,
-      1
-    ],
-    [
       2282,
       1
     ],
@@ -10812,5 +10812,5 @@
       1
     ]
   ],
-  "last_updated": "2025-01-25 18:53:03"
+  "last_updated": "2025-01-26 02:13:59"
 }
