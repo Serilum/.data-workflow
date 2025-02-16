@@ -30,7 +30,7 @@
         "mod_name": "Spiders Produce Webs",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 3,
+        "total_comment_count": 4,
         "user_comment_count": 1
       },
       "2905": {
@@ -156,7 +156,10 @@
           "Mod: Beautified Chat [Server]"
         ],
         "mod_name": "Beautified Chat [Server]",
-        "reactions": {},
+        "reactions": {
+          "+1": 1,
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -349,8 +352,10 @@
           "Mod: Ore Harvester"
         ],
         "mod_name": "Ore Harvester",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "rocket": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -848,7 +853,9 @@
           "Mod: End Portal Recipe"
         ],
         "mod_name": "End Portal Recipe",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -1434,9 +1441,10 @@
         ],
         "mod_name": "Death Backup",
         "reactions": {
-          "+1": 1
+          "+1": 2,
+          "eyes": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -1597,8 +1605,10 @@
           "Mod: Crying Portals"
         ],
         "mod_name": "Crying Portals",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -1996,9 +2006,10 @@
         ],
         "mod_name": "Ore Harvester",
         "reactions": {
-          "heart": 1
+          "heart": 1,
+          "rocket": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -11189,11 +11200,19 @@
       3
     ],
     [
+      2392,
+      3
+    ],
+    [
       2397,
       3
     ],
     [
       2507,
+      3
+    ],
+    [
+      2558,
       3
     ],
     [
@@ -11537,10 +11556,6 @@
       2
     ],
     [
-      2392,
-      2
-    ],
-    [
       2401,
       2
     ],
@@ -11549,11 +11564,11 @@
       2
     ],
     [
-      2555,
+      2520,
       2
     ],
     [
-      2558,
+      2555,
       2
     ],
     [
@@ -11570,6 +11585,10 @@
     ],
     [
       2737,
+      2
+    ],
+    [
+      2822,
       2
     ],
     [
@@ -13281,10 +13300,6 @@
       1
     ],
     [
-      2520,
-      1
-    ],
-    [
       2529,
       1
     ],
@@ -13569,10 +13584,6 @@
       1
     ],
     [
-      2822,
-      1
-    ],
-    [
       2823,
       1
     ],
@@ -13657,5 +13668,5 @@
       1
     ]
   ],
-  "last_updated": "2025-02-15 19:01:59"
+  "last_updated": "2025-02-16 02:24:38"
 }
