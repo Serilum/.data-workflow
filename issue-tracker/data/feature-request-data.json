@@ -271,7 +271,9 @@
           "Mod: Healing Campfire"
         ],
         "mod_name": "Healing Campfire",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -3665,8 +3667,10 @@
           "Mod: Automatic Doors"
         ],
         "mod_name": "Automatic Doors",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -11471,6 +11475,10 @@
       2
     ],
     [
+      2037,
+      2
+    ],
+    [
       2045,
       2
     ],
@@ -12955,10 +12963,6 @@
       1
     ],
     [
-      2037,
-      1
-    ],
-    [
       2047,
       1
     ],
@@ -13671,5 +13675,5 @@
       1
     ]
   ],
-  "last_updated": "2025-02-16 13:13:05"
+  "last_updated": "2025-02-16 18:59:10"
 }
