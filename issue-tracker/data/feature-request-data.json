@@ -494,7 +494,7 @@
       "2790": {
         "id": 2727836321,
         "number": 2790,
-        "title": "Compatibility with \"Mobs Of mythology\"",
+        "title": "No Hostiles Around Campfire : Add configuration for mob Blacklist.",
         "opened_by": "Akinesis",
         "creation_date": "",
         "labels": [
@@ -502,7 +502,9 @@
           "Mod: No Hostiles Around Campfire"
         ],
         "mod_name": "No Hostiles Around Campfire",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -582,8 +584,10 @@
           "Mod: No Hostiles Around Campfire"
         ],
         "mod_name": "No Hostiles Around Campfire",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4571,8 +4575,10 @@
           "Mod: No Hostiles Around Campfire"
         ],
         "mod_name": "No Hostiles Around Campfire",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -11449,6 +11455,10 @@
       2
     ],
     [
+      1826,
+      2
+    ],
+    [
       1828,
       2
     ],
@@ -11598,6 +11608,10 @@
     ],
     [
       2737,
+      2
+    ],
+    [
+      2777,
       2
     ],
     [
@@ -12789,10 +12803,6 @@
       1
     ],
     [
-      1826,
-      1
-    ],
-    [
       1829,
       1
     ],
@@ -13537,10 +13547,6 @@
       1
     ],
     [
-      2777,
-      1
-    ],
-    [
       2780,
       1
     ],
@@ -13677,5 +13683,5 @@
       1
     ]
   ],
-  "last_updated": "2025-02-17 07:04:26"
+  "last_updated": "2025-02-17 13:18:51"
 }
