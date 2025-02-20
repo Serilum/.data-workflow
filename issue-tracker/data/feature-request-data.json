@@ -1486,9 +1486,10 @@
         ],
         "mod_name": "Areas",
         "reactions": {
-          "heart": 2
+          "heart": 3,
+          "+1": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -11233,6 +11234,10 @@
       3
     ],
     [
+      2555,
+      3
+    ],
+    [
       2558,
       3
     ],
@@ -11590,10 +11595,6 @@
     ],
     [
       2520,
-      2
-    ],
-    [
-      2555,
       2
     ],
     [
@@ -13685,5 +13686,5 @@
       1
     ]
   ],
-  "last_updated": "2025-02-19 19:03:26"
+  "last_updated": "2025-02-20 02:20:19"
 }
