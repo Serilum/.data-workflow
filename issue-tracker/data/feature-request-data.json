@@ -1,6 +1,72 @@
 {
   "data": {
     "mod-feature": {
+      "2930": {
+        "id": 2866182796,
+        "number": 2930,
+        "title": "Item Drops Nearby option for Tree Harvester",
+        "opened_by": "sternschnaube",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Tree Harvester"
+        ],
+        "mod_name": "Tree Harvester",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2929": {
+        "id": 2866176014,
+        "number": 2929,
+        "title": "Allow custom blocks",
+        "opened_by": "sternschnaube",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Ore Harvester"
+        ],
+        "mod_name": "Ore Harvester",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2922": {
+        "id": 2857183000,
+        "number": 2922,
+        "title": "Compatibility with Traveler\u2019s Titles",
+        "opened_by": "Hxllandz",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Random Village Names"
+        ],
+        "mod_name": "Random Village Names",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2921": {
+        "id": 2856557249,
+        "number": 2921,
+        "title": "Healing Campfire: separate config options for soul campfire",
+        "opened_by": "Viidost",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Healing Campfire"
+        ],
+        "mod_name": "Healing Campfire",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "2920": {
         "id": 2853430851,
         "number": 2920,
@@ -11616,6 +11682,10 @@
       2
     ],
     [
+      2921,
+      2
+    ],
+    [
       129,
       1
     ],
@@ -13682,7 +13752,19 @@
     [
       2920,
       1
+    ],
+    [
+      2922,
+      1
+    ],
+    [
+      2929,
+      1
+    ],
+    [
+      2930,
+      1
     ]
   ],
-  "last_updated": "2025-02-22 13:14:44"
+  "last_updated": "2025-02-22 18:59:22"
 }
