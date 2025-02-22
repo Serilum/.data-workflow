@@ -3374,10 +3374,8 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4163,10 +4161,8 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -6503,9 +6499,9 @@
         ],
         "mod_name": "World Border",
         "reactions": {
-          "+1": 2
+          "+1": 1
         },
-        "reaction_count": 3,
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -7049,10 +7045,10 @@
         ],
         "mod_name": "World Border",
         "reactions": {
-          "+1": 5,
-          "laugh": 1
+          "laugh": 1,
+          "+1": 4
         },
-        "reaction_count": 6,
+        "reaction_count": 5,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -10271,9 +10267,9 @@
         ],
         "mod_name": "World Border",
         "reactions": {
-          "+1": 3
+          "+1": 2
         },
-        "reaction_count": 4,
+        "reaction_count": 3,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -11056,10 +11052,6 @@
       6
     ],
     [
-      1183,
-      6
-    ],
-    [
       1423,
       6
     ],
@@ -11072,15 +11064,15 @@
       5
     ],
     [
+      1183,
+      5
+    ],
+    [
       1266,
       5
     ],
     [
       246,
-      4
-    ],
-    [
-      302,
       4
     ],
     [
@@ -11148,6 +11140,10 @@
       3
     ],
     [
+      302,
+      3
+    ],
+    [
       393,
       3
     ],
@@ -11165,10 +11161,6 @@
     ],
     [
       1228,
-      3
-    ],
-    [
-      1274,
       3
     ],
     [
@@ -11380,6 +11372,10 @@
       2
     ],
     [
+      1274,
+      2
+    ],
+    [
       1354,
       2
     ],
@@ -11480,10 +11476,6 @@
       2
     ],
     [
-      1909,
-      2
-    ],
-    [
       1912,
       2
     ],
@@ -11513,10 +11505,6 @@
     ],
     [
       2080,
-      2
-    ],
-    [
-      2093,
       2
     ],
     [
@@ -12888,6 +12876,10 @@
       1
     ],
     [
+      1909,
+      1
+    ],
+    [
       1911,
       1
     ],
@@ -13033,6 +13025,10 @@
     ],
     [
       2084,
+      1
+    ],
+    [
+      2093,
       1
     ],
     [
@@ -13688,5 +13684,5 @@
       1
     ]
   ],
-  "last_updated": "2025-02-21 19:03:37"
+  "last_updated": "2025-02-22 02:15:44"
 }
