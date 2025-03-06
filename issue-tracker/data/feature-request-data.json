@@ -1,6 +1,86 @@
 {
   "data": {
     "mod-feature": {
+      "2956": {
+        "id": 2896005927,
+        "number": 2956,
+        "title": "Extended Beacon Range",
+        "opened_by": "echoless3484",
+        "creation_date": "2025-03-05",
+        "labels": [
+          "Feature Request",
+          "Mod: Better Beacon Placement"
+        ],
+        "mod_name": "Better Beacon Placement",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2954": {
+        "id": 2893727879,
+        "number": 2954,
+        "title": "Limited trades option - Wandering Trader May Leave",
+        "opened_by": "KhriszB",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Wandering Trader May Leave"
+        ],
+        "mod_name": "Wandering Trader May Leave",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2953": {
+        "id": 2893681975,
+        "number": 2953,
+        "title": "Spawner reactivation option.",
+        "opened_by": "meyverick",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Better Spawner Control"
+        ],
+        "mod_name": "Better Spawner Control",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "2942": {
+        "id": 2888062855,
+        "number": 2942,
+        "title": "Anvil Restoration Balancing",
+        "opened_by": "138151337",
+        "creation_date": "2025-02-28",
+        "labels": [
+          "Feature Request",
+          "Mod: Anvil Restoration"
+        ],
+        "mod_name": "Anvil Restoration",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "2940": {
+        "id": 2883181209,
+        "number": 2940,
+        "title": "Search highlight suggestion",
+        "opened_by": "Nuaja",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Persistent Inventory Search"
+        ],
+        "mod_name": "Persistent Inventory Search",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "2930": {
         "id": 2866182796,
         "number": 2930,
@@ -5348,8 +5428,10 @@
           "Mod: Giant Spawn"
         ],
         "mod_name": "Giant Spawn",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -9028,8 +9110,10 @@
           "Mod: Giant Spawn"
         ],
         "mod_name": "Giant Spawn",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -9830,9 +9914,9 @@
         ],
         "mod_name": "Giant Spawn",
         "reactions": {
-          "+1": 3
+          "+1": 4
         },
-        "reaction_count": 4,
+        "reaction_count": 5,
         "total_comment_count": 8,
         "user_comment_count": 5
       },
@@ -9970,9 +10054,9 @@
         ],
         "mod_name": "Giant Spawn",
         "reactions": {
-          "heart": 1
+          "heart": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -11134,6 +11218,10 @@
       6
     ],
     [
+      431,
+      5
+    ],
+    [
       736,
       5
     ],
@@ -11151,10 +11239,6 @@
     ],
     [
       371,
-      4
-    ],
-    [
-      431,
       4
     ],
     [
@@ -11215,6 +11299,10 @@
     ],
     [
       393,
+      3
+    ],
+    [
+      397,
       3
     ],
     [
@@ -11330,10 +11418,6 @@
       2
     ],
     [
-      397,
-      2
-    ],
-    [
       407,
       2
     ],
@@ -11375,6 +11459,10 @@
     ],
     [
       644,
+      2
+    ],
+    [
+      650,
       2
     ],
     [
@@ -11511,6 +11599,10 @@
     ],
     [
       1638,
+      2
+    ],
+    [
+      1643,
       2
     ],
     [
@@ -12023,10 +12115,6 @@
     ],
     [
       646,
-      1
-    ],
-    [
-      650,
       1
     ],
     [
@@ -12727,10 +12815,6 @@
     ],
     [
       1637,
-      1
-    ],
-    [
-      1643,
       1
     ],
     [
@@ -13768,7 +13852,27 @@
     [
       2930,
       1
+    ],
+    [
+      2940,
+      1
+    ],
+    [
+      2942,
+      1
+    ],
+    [
+      2953,
+      1
+    ],
+    [
+      2954,
+      1
+    ],
+    [
+      2956,
+      1
     ]
   ],
-  "last_updated": "2025-03-06 13:19:46"
+  "last_updated": "2025-03-06 19:04:52"
 }
