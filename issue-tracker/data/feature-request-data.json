@@ -28,7 +28,9 @@
           "Mod: Wandering Trader May Leave"
         ],
         "mod_name": "Wandering Trader May Leave",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -13874,5 +13876,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-07 19:07:23"
+  "last_updated": "2025-03-08 02:04:45"
 }
