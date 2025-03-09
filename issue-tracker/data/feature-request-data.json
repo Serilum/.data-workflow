@@ -62,7 +62,9 @@
           "Mod: Anvil Restoration"
         ],
         "mod_name": "Anvil Restoration",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -13876,5 +13878,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-09 06:58:30"
+  "last_updated": "2025-03-09 13:08:51"
 }
