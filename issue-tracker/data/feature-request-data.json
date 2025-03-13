@@ -10682,8 +10682,10 @@
           "Mod: Altered Damage"
         ],
         "mod_name": "Altered Damage",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       }
@@ -11398,6 +11400,10 @@
       3
     ],
     [
+      129,
+      2
+    ],
+    [
       199,
       2
     ],
@@ -11788,10 +11794,6 @@
     [
       2921,
       2
-    ],
-    [
-      129,
-      1
     ],
     [
       181,
@@ -13878,5 +13880,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-13 07:05:25"
+  "last_updated": "2025-03-13 13:21:52"
 }
