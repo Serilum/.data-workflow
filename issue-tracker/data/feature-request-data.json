@@ -46,7 +46,9 @@
           "Mod: Better Spawner Control"
         ],
         "mod_name": "Better Spawner Control",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -13880,5 +13882,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-18 07:11:24"
+  "last_updated": "2025-03-18 13:26:20"
 }
