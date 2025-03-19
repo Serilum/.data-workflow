@@ -1471,8 +1471,10 @@
           "Mod: What Durability?"
         ],
         "mod_name": "What Durability?",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -11774,6 +11776,10 @@
       2
     ],
     [
+      2587,
+      2
+    ],
+    [
       2588,
       2
     ],
@@ -13542,10 +13548,6 @@
       1
     ],
     [
-      2587,
-      1
-    ],
-    [
       2592,
       1
     ],
@@ -13882,5 +13884,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-18 19:06:26"
+  "last_updated": "2025-03-19 02:26:30"
 }
