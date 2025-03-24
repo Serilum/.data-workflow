@@ -1539,9 +1539,9 @@
         ],
         "mod_name": "Easy Elytra Takeoff",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -11416,6 +11416,10 @@
       3
     ],
     [
+      2566,
+      3
+    ],
+    [
       129,
       2
     ],
@@ -11809,10 +11813,6 @@
     ],
     [
       2559,
-      2
-    ],
-    [
-      2566,
       2
     ],
     [
@@ -13896,5 +13896,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-24 13:23:31"
+  "last_updated": "2025-03-24 19:06:28"
 }
