@@ -1693,7 +1693,7 @@
         ],
         "mod_name": "Nether Portal Spread",
         "reactions": {
-          "heart": 1
+          "heart": 2
         },
         "reaction_count": 1,
         "total_comment_count": 3,
@@ -2108,8 +2108,8 @@
         "mod_name": "Villager Names",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "2401": {
         "id": 2326200988,
@@ -10408,9 +10408,9 @@
         ],
         "mod_name": "Villager Names",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -11442,6 +11442,10 @@
       2
     ],
     [
+      307,
+      2
+    ],
+    [
       310,
       2
     ],
@@ -11907,10 +11911,6 @@
     ],
     [
       303,
-      1
-    ],
-    [
-      307,
       1
     ],
     [
@@ -13898,5 +13898,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-25 07:07:37"
+  "last_updated": "2025-03-25 13:22:38"
 }
