@@ -3253,8 +3253,13 @@
           "Mod: Areas"
         ],
         "mod_name": "Areas",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 2,
+          "heart": 1,
+          "rocket": 1,
+          "eyes": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -8945,8 +8950,11 @@
           "Mod: Areas"
         ],
         "mod_name": "Areas",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1,
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -11518,6 +11526,10 @@
       2
     ],
     [
+      683,
+      2
+    ],
+    [
       705,
       2
     ],
@@ -11751,6 +11763,10 @@
     ],
     [
       2145,
+      2
+    ],
+    [
+      2158,
       2
     ],
     [
@@ -12203,10 +12219,6 @@
     ],
     [
       675,
-      1
-    ],
-    [
-      683,
       1
     ],
     [
@@ -13258,10 +13270,6 @@
       1
     ],
     [
-      2158,
-      1
-    ],
-    [
       2160,
       1
     ],
@@ -13898,5 +13906,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-28 07:09:09"
+  "last_updated": "2025-03-28 13:20:38"
 }
