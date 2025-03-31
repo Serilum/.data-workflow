@@ -28,7 +28,9 @@
           "Mod: Areas"
         ],
         "mod_name": "Areas",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -14172,5 +14174,5 @@
       1
     ]
   ],
-  "last_updated": "2025-03-30 19:08:07"
+  "last_updated": "2025-03-31 02:41:55"
 }
