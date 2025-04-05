@@ -100,8 +100,12 @@
         ],
         "mod_name": "Player Tracking Compass",
         "reactions": {
-          "heart": 1,
-          "rocket": 1
+          "heart": 2,
+          "rocket": 1,
+          "laugh": 1,
+          "hooray": 1,
+          "eyes": 1,
+          "+1": 1
         },
         "reaction_count": 2,
         "total_comment_count": 2,
@@ -14176,5 +14180,5 @@
       1
     ]
   ],
-  "last_updated": "2025-04-05 02:25:39"
+  "last_updated": "2025-04-05 07:09:33"
 }
