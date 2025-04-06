@@ -12,7 +12,10 @@
           "Mod: Automatic Doors"
         ],
         "mod_name": "Automatic Doors",
-        "reactions": {},
+        "reactions": {
+          "+1": 1,
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -44,7 +47,9 @@
           "Mod: Configurable Extra Mob Drops"
         ],
         "mod_name": "Configurable Extra Mob Drops",
-        "reactions": {},
+        "reactions": {
+          "heart": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 1
@@ -14240,5 +14245,5 @@
       1
     ]
   ],
-  "last_updated": "2025-04-06 13:16:33"
+  "last_updated": "2025-04-06 19:03:37"
 }
