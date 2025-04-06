@@ -1,6 +1,54 @@
 {
   "data": {
     "mod-feature": {
+      "3014": {
+        "id": 2974276362,
+        "number": 3014,
+        "title": "Edit distance?",
+        "opened_by": "ErythroCraft",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Automatic Doors"
+        ],
+        "mod_name": "Automatic Doors",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "3011": {
+        "id": 2972844946,
+        "number": 3011,
+        "title": "[Feature] Add the option of Chorus Flower dropping",
+        "opened_by": "Nightmon-Cactus",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Chorus Fruit Drops Nearby"
+        ],
+        "mod_name": "Chorus Fruit Drops Nearby",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3010": {
+        "id": 2968820231,
+        "number": 3010,
+        "title": "[Forge 1.20.1] About specific mob drop - Configurable Extra Mob Drops",
+        "opened_by": "KViputh",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Configurable Extra Mob Drops"
+        ],
+        "mod_name": "Configurable Extra Mob Drops",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
       "2995": {
         "id": 2958022741,
         "number": 2995,
@@ -14178,7 +14226,19 @@
     [
       2995,
       1
+    ],
+    [
+      3010,
+      1
+    ],
+    [
+      3011,
+      1
+    ],
+    [
+      3014,
+      1
     ]
   ],
-  "last_updated": "2025-04-06 07:05:34"
+  "last_updated": "2025-04-06 13:16:33"
 }
