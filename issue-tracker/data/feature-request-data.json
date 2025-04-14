@@ -7625,8 +7625,10 @@
           "Mod: Respawn Delay"
         ],
         "mod_name": "Respawn Delay",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -11886,6 +11888,10 @@
       2
     ],
     [
+      1141,
+      2
+    ],
+    [
       1186,
       2
     ],
@@ -12839,10 +12845,6 @@
     ],
     [
       1139,
-      1
-    ],
-    [
-      1141,
       1
     ],
     [
@@ -14250,5 +14252,5 @@
       1
     ]
   ],
-  "last_updated": "2025-04-13 19:04:02"
+  "last_updated": "2025-04-14 02:39:46"
 }
