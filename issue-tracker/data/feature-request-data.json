@@ -2574,25 +2574,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2365": {
-        "id": 2297718409,
-        "number": 2365,
-        "title": "Villagers Open Only One Door",
-        "opened_by": "Fyoncle",
-        "creation_date": "2024-05-15",
-        "labels": [
-          "Feature Request",
-          "Mod: Double Doors"
-        ],
-        "mod_name": "Double Doors",
-        "reactions": {
-          "heart": 3,
-          "eyes": 2
-        },
-        "reaction_count": 3,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2358": {
         "id": 2289723453,
         "number": 2358,
@@ -3329,24 +3310,6 @@
         ],
         "mod_name": "Healing Campfire",
         "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2188": {
-        "id": 2101257918,
-        "number": 2188,
-        "title": "Make villager open double door instead of just one",
-        "opened_by": "Jemy191",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Double Doors"
-        ],
-        "mod_name": "Double Doors",
-        "reactions": {
-          "+1": 1
-        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -11700,10 +11663,6 @@
       3
     ],
     [
-      2365,
-      3
-    ],
-    [
       2397,
       3
     ],
@@ -13592,10 +13551,6 @@
       1
     ],
     [
-      2188,
-      1
-    ],
-    [
       2190,
       1
     ],
@@ -14252,5 +14207,5 @@
       1
     ]
   ],
-  "last_updated": "2025-04-17 19:10:43"
+  "last_updated": "2025-04-18 02:33:07"
 }
