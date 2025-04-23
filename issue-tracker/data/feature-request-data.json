@@ -1521,8 +1521,10 @@
           "Mod: Tree Harvester"
         ],
         "mod_name": "Tree Harvester",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12109,6 +12111,10 @@
       2
     ],
     [
+      2653,
+      2
+    ],
+    [
       2660,
       2
     ],
@@ -13873,10 +13879,6 @@
       1
     ],
     [
-      2653,
-      1
-    ],
-    [
       2657,
       1
     ],
@@ -14209,5 +14211,5 @@
       1
     ]
   ],
-  "last_updated": "2025-04-22 19:07:41"
+  "last_updated": "2025-04-23 02:37:02"
 }
