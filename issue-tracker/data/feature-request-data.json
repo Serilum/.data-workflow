@@ -1063,8 +1063,10 @@
           "Mod: Followers Teleport Too"
         ],
         "mod_name": "Followers Teleport Too",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12129,6 +12131,10 @@
       2
     ],
     [
+      2771,
+      2
+    ],
+    [
       2777,
       2
     ],
@@ -13985,10 +13991,6 @@
       1
     ],
     [
-      2771,
-      1
-    ],
-    [
       2775,
       1
     ],
@@ -14213,5 +14215,5 @@
       1
     ]
   ],
-  "last_updated": "2025-05-02 07:10:34"
+  "last_updated": "2025-05-02 13:28:21"
 }
