@@ -3659,9 +3659,9 @@
         ],
         "mod_name": "Tree Harvester",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12023,6 +12023,10 @@
       2
     ],
     [
+      2134,
+      2
+    ],
+    [
       2140,
       2
     ],
@@ -13519,10 +13523,6 @@
       1
     ],
     [
-      2134,
-      1
-    ],
-    [
       2137,
       1
     ],
@@ -14215,5 +14215,5 @@
       1
     ]
   ],
-  "last_updated": "2025-05-02 19:08:00"
+  "last_updated": "2025-05-03 02:36:33"
 }
