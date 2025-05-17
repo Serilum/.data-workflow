@@ -1916,8 +1916,8 @@
         "mod_name": "Your Items are Safe",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "2613": {
         "id": 2489454240,
@@ -14560,5 +14560,5 @@
       1
     ]
   ],
-  "last_updated": "2025-05-16 19:09:20"
+  "last_updated": "2025-05-17 02:40:03"
 }
