@@ -665,8 +665,10 @@
           "Mod: Ore Harvester"
         ],
         "mod_name": "Ore Harvester",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12428,6 +12430,10 @@
       2
     ],
     [
+      2929,
+      2
+    ],
+    [
       2976,
       2
     ],
@@ -14416,10 +14422,6 @@
       1
     ],
     [
-      2929,
-      1
-    ],
-    [
       2930,
       1
     ],
@@ -14560,5 +14562,5 @@
       1
     ]
   ],
-  "last_updated": "2025-05-24 13:21:15"
+  "last_updated": "2025-05-24 19:08:27"
 }
