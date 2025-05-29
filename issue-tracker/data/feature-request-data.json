@@ -3463,9 +3463,9 @@
         ],
         "mod_name": "GUI Compass",
         "reactions": {
-          "+1": 3
+          "+1": 4
         },
-        "reaction_count": 4,
+        "reaction_count": 5,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -6605,10 +6605,10 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 4,
-          "heart": 1
+          "+1": 6,
+          "heart": 3
         },
-        "reaction_count": 4,
+        "reaction_count": 6,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -11786,6 +11786,10 @@
       6
     ],
     [
+      1445,
+      6
+    ],
+    [
       1675,
       6
     ],
@@ -11818,6 +11822,10 @@
       5
     ],
     [
+      2213,
+      5
+    ],
+    [
       2397,
       5
     ],
@@ -11846,10 +11854,6 @@
       4
     ],
     [
-      1445,
-      4
-    ],
-    [
       1498,
       4
     ],
@@ -11859,10 +11863,6 @@
     ],
     [
       1955,
-      4
-    ],
-    [
-      2213,
       4
     ],
     [
@@ -14562,5 +14562,5 @@
       1
     ]
   ],
-  "last_updated": "2025-05-29 02:44:29"
+  "last_updated": "2025-05-29 07:13:07"
 }
