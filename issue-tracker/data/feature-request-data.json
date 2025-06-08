@@ -2567,8 +2567,10 @@
           "Mod: Replanting Crops"
         ],
         "mod_name": "Replanting Crops",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12382,6 +12384,10 @@
       2
     ],
     [
+      2432,
+      2
+    ],
+    [
       2474,
       2
     ],
@@ -14030,10 +14036,6 @@
       1
     ],
     [
-      2432,
-      1
-    ],
-    [
       2452,
       1
     ],
@@ -14562,5 +14564,5 @@
       1
     ]
   ],
-  "last_updated": "2025-06-08 13:22:00"
+  "last_updated": "2025-06-08 19:07:22"
 }
