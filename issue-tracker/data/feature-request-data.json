@@ -11069,9 +11069,9 @@
         ],
         "mod_name": "Nether Portal Spread",
         "reactions": {
-          "+1": 4
+          "+1": 5
         },
-        "reaction_count": 5,
+        "reaction_count": 6,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -11225,9 +11225,9 @@
         ],
         "mod_name": "Nether Portal Spread",
         "reactions": {
-          "+1": 7
+          "+1": 8
         },
-        "reaction_count": 5,
+        "reaction_count": 6,
         "total_comment_count": 8,
         "user_comment_count": 1
       },
@@ -11772,6 +11772,14 @@
       7
     ],
     [
+      151,
+      6
+    ],
+    [
+      246,
+      6
+    ],
+    [
       496,
       6
     ],
@@ -11794,14 +11802,6 @@
     [
       1675,
       6
-    ],
-    [
-      151,
-      5
-    ],
-    [
-      246,
-      5
     ],
     [
       431,
@@ -14564,5 +14564,5 @@
       1
     ]
   ],
-  "last_updated": "2025-06-09 13:29:25"
+  "last_updated": "2025-06-09 19:10:34"
 }
