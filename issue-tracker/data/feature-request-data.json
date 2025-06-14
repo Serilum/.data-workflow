@@ -392,10 +392,10 @@
         ],
         "mod_name": "Mineral Chance",
         "reactions": {
-          "heart": 1,
-          "+1": 1
+          "heart": 2,
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -1325,8 +1325,10 @@
           "Mod: Mineral Chance"
         ],
         "mod_name": "Mineral Chance",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4130,8 +4132,10 @@
           "Mod: Mineral Chance"
         ],
         "mod_name": "Mineral Chance",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -11984,6 +11988,10 @@
       3
     ],
     [
+      2983,
+      3
+    ],
+    [
       129,
       2
     ],
@@ -12292,6 +12300,10 @@
       2
     ],
     [
+      2078,
+      2
+    ],
+    [
       2080,
       2
     ],
@@ -12424,6 +12436,10 @@
       2
     ],
     [
+      2775,
+      2
+    ],
+    [
       2777,
       2
     ],
@@ -12445,10 +12461,6 @@
     ],
     [
       2982,
-      2
-    ],
-    [
-      2983,
       2
     ],
     [
@@ -13792,10 +13804,6 @@
       1
     ],
     [
-      2078,
-      1
-    ],
-    [
       2082,
       1
     ],
@@ -14280,10 +14288,6 @@
       1
     ],
     [
-      2775,
-      1
-    ],
-    [
       2776,
       1
     ],
@@ -14564,5 +14568,5 @@
       1
     ]
   ],
-  "last_updated": "2025-06-13 19:10:15"
+  "last_updated": "2025-06-14 02:43:28"
 }
