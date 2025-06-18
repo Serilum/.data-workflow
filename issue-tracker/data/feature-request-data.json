@@ -8403,10 +8403,12 @@
           "Mod: Bottle Your Xp"
         ],
         "mod_name": "Bottle Your Xp",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 4,
+        "user_comment_count": 2
       },
       "988": {
         "id": 1168474502,
@@ -12127,6 +12129,10 @@
       2
     ],
     [
+      994,
+      2
+    ],
+    [
       1016,
       2
     ],
@@ -13036,10 +13042,6 @@
     ],
     [
       988,
-      1
-    ],
-    [
-      994,
       1
     ],
     [
@@ -14571,5 +14573,5 @@
       1
     ]
   ],
-  "last_updated": "2025-06-18 13:30:50"
+  "last_updated": "2025-06-18 19:11:57"
 }
