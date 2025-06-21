@@ -2039,11 +2039,11 @@
         ],
         "mod_name": "What Durability?",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "reaction_count": 3,
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "2575": {
         "id": 2459419566,
@@ -11991,6 +11991,10 @@
       3
     ],
     [
+      2587,
+      3
+    ],
+    [
       2921,
       3
     ],
@@ -12420,10 +12424,6 @@
     ],
     [
       2559,
-      2
-    ],
-    [
-      2587,
       2
     ],
     [
@@ -14575,5 +14575,5 @@
       1
     ]
   ],
-  "last_updated": "2025-06-21 13:23:33"
+  "last_updated": "2025-06-21 19:07:37"
 }
