@@ -307,7 +307,9 @@
           "Mod: Chorus Fruit Drops Nearby"
         ],
         "mod_name": "Chorus Fruit Drops Nearby",
-        "reactions": {},
+        "reactions": {
+          "eyes": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -2064,7 +2066,7 @@
         "id": 2455420695,
         "number": 2570,
         "title": "Enchanting Commands - Unenchant",
-        "opened_by": "codyisreallycool",
+        "opened_by": "codyiscod",
         "creation_date": "",
         "labels": [
           "Feature Request",
@@ -14573,5 +14575,5 @@
       1
     ]
   ],
-  "last_updated": "2025-06-20 19:10:36"
+  "last_updated": "2025-06-21 02:43:34"
 }
