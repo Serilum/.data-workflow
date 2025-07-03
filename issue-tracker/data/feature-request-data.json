@@ -1,6 +1,331 @@
 {
   "data": {
     "mod-feature": {
+      "3180": {
+        "id": 3196820416,
+        "number": 3180,
+        "title": "Durability Key bind",
+        "opened_by": "TheDarkPanther",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: What Durability?"
+        ],
+        "mod_name": "What Durability?",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3175": {
+        "id": 3176834429,
+        "number": 3175,
+        "title": "Ore Harvester Config",
+        "opened_by": "ImpulsiveLad",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Ore Harvester"
+        ],
+        "mod_name": "Ore Harvester",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3170": {
+        "id": 3167041182,
+        "number": 3170,
+        "title": "Areas: Named & notification for square areas.",
+        "opened_by": "dahneta",
+        "creation_date": "2025-06-23",
+        "labels": [
+          "Feature Request",
+          "Mod: Areas"
+        ],
+        "mod_name": "Areas",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3162": {
+        "id": 3158064202,
+        "number": 3162,
+        "title": "Better config for adjusting which difficulty should be for mod to work",
+        "opened_by": "VaOnechezz",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Random Mob Effects"
+        ],
+        "mod_name": "Random Mob Effects",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3155": {
+        "id": 3148103832,
+        "number": 3155,
+        "title": "Quick Right-Click Idea",
+        "opened_by": "MafaTTV",
+        "creation_date": "2025-06-15",
+        "labels": [
+          "Feature Request",
+          "Mod: Quick Right-Click"
+        ],
+        "mod_name": "Quick Right-Click",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3149": {
+        "id": 3139584808,
+        "number": 3149,
+        "title": "certain loot drops from mobs with certain potion effects",
+        "opened_by": "lupusui",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Configurable Extra Mob Drops"
+        ],
+        "mod_name": "Configurable Extra Mob Drops",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3147": {
+        "id": 3135095884,
+        "number": 3147,
+        "title": "Whitelist and blacklist for preventing mob spawns with campfire",
+        "opened_by": "johalun",
+        "creation_date": "2025-06-11",
+        "labels": [
+          "Feature Request",
+          "Mod: No Hostiles Around Campfire"
+        ],
+        "mod_name": "No Hostiles Around Campfire",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3146": {
+        "id": 3135088780,
+        "number": 3146,
+        "title": "Require sky access for campfire to prevent hostile mob spawn",
+        "opened_by": "johalun",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: No Hostiles Around Campfire"
+        ],
+        "mod_name": "No Hostiles Around Campfire",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3141": {
+        "id": 3125980761,
+        "number": 3141,
+        "title": "Totems in shulkers",
+        "opened_by": "Tinyme65536",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Inventory Totem"
+        ],
+        "mod_name": "Inventory Totem",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3134": {
+        "id": 3103053586,
+        "number": 3134,
+        "title": "Villager Names: Don't use vertical bar as separator in villager GUI",
+        "opened_by": "bravely-beep",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Villager Names"
+        ],
+        "mod_name": "Villager Names",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3115": {
+        "id": 3071154127,
+        "number": 3115,
+        "title": "Change key for Tree & Ore Harvester",
+        "opened_by": "penturt",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Tree Harvester"
+        ],
+        "mod_name": "Tree Harvester",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "3114": {
+        "id": 3070792649,
+        "number": 3114,
+        "title": "\"Campfire Spawn and Tweaks\" Feature suggestion",
+        "opened_by": "tEMMIE6823",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Campfire Spawn and Tweaks"
+        ],
+        "mod_name": "Campfire Spawn and Tweaks",
+        "reactions": {
+          "eyes": 1,
+          "+1": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3113": {
+        "id": 3070176452,
+        "number": 3113,
+        "title": "GiantSpawn config for drops",
+        "opened_by": "Reed-012",
+        "creation_date": "2025-05-17",
+        "labels": [
+          "Feature Request",
+          "Mod: Giant Spawn"
+        ],
+        "mod_name": "Giant Spawn",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3109": {
+        "id": 3068486334,
+        "number": 3109,
+        "title": "Show icon AND text in GUI Clock",
+        "opened_by": "LexFH",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: GUI Clock"
+        ],
+        "mod_name": "GUI Clock",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3108": {
+        "id": 3066419123,
+        "number": 3108,
+        "title": "Add support for curios mod[Save and Load Inventories]",
+        "opened_by": "QLNPLUS",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Save and Load Inventories"
+        ],
+        "mod_name": "Save and Load Inventories",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3107": {
+        "id": 3061657932,
+        "number": 3107,
+        "title": "Mineral Chance Config option",
+        "opened_by": "Hexblood",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Mineral Chance"
+        ],
+        "mod_name": "Mineral Chance",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3101": {
+        "id": 3053446422,
+        "number": 3101,
+        "title": "Options for how/when doors auto-open",
+        "opened_by": "DecoMocha",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Automatic Doors"
+        ],
+        "mod_name": "Automatic Doors",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3097": {
+        "id": 3044093375,
+        "number": 3097,
+        "title": "Configure order starter kits appear on selection screen",
+        "opened_by": "Naixatloz",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Starter Kit"
+        ],
+        "mod_name": "Starter Kit",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3096": {
+        "id": 3043262508,
+        "number": 3096,
+        "title": "Nether Portal Spread - blocktags in spreadsettings",
+        "opened_by": "LughtMon",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Nether Portal Spread"
+        ],
+        "mod_name": "Nether Portal Spread",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "3094": {
+        "id": 3042575728,
+        "number": 3094,
+        "title": "Only harvest tree above cut",
+        "opened_by": "Some-Doofus",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Tree Harvester"
+        ],
+        "mod_name": "Tree Harvester",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3085": {
         "id": 3037432396,
         "number": 3085,
@@ -12488,6 +12813,14 @@
       2
     ],
     [
+      3109,
+      2
+    ],
+    [
+      3114,
+      2
+    ],
+    [
       181,
       1
     ],
@@ -14574,7 +14907,79 @@
     [
       3085,
       1
+    ],
+    [
+      3094,
+      1
+    ],
+    [
+      3096,
+      1
+    ],
+    [
+      3097,
+      1
+    ],
+    [
+      3101,
+      1
+    ],
+    [
+      3107,
+      1
+    ],
+    [
+      3108,
+      1
+    ],
+    [
+      3113,
+      1
+    ],
+    [
+      3115,
+      1
+    ],
+    [
+      3134,
+      1
+    ],
+    [
+      3141,
+      1
+    ],
+    [
+      3146,
+      1
+    ],
+    [
+      3147,
+      1
+    ],
+    [
+      3149,
+      1
+    ],
+    [
+      3155,
+      1
+    ],
+    [
+      3162,
+      1
+    ],
+    [
+      3170,
+      1
+    ],
+    [
+      3175,
+      1
+    ],
+    [
+      3180,
+      1
     ]
   ],
-  "last_updated": "2025-07-03 07:13:38"
+  "last_updated": "2025-07-03 13:33:15"
 }
