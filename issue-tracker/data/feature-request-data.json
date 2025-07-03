@@ -1578,22 +1578,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2784": {
-        "id": 2723907204,
-        "number": 2784,
-        "title": "[Simple Menu] Expand Mods Button",
-        "opened_by": "Aulberon",
-        "creation_date": "",
-        "labels": [
-          "Feature Request",
-          "Mod: Simple Menu"
-        ],
-        "mod_name": "Simple Menu",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2780": {
         "id": 2714855720,
         "number": 2780,
@@ -14645,10 +14629,6 @@
       1
     ],
     [
-      2784,
-      1
-    ],
-    [
       2785,
       1
     ],
@@ -14981,5 +14961,5 @@
       1
     ]
   ],
-  "last_updated": "2025-07-03 13:33:15"
+  "last_updated": "2025-07-03 19:11:23"
 }
