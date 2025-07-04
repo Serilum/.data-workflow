@@ -13,7 +13,8 @@
         ],
         "mod_name": "What Durability?",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "laugh": 1
         },
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -14963,5 +14964,5 @@
       1
     ]
   ],
-  "last_updated": "2025-07-04 02:48:00"
+  "last_updated": "2025-07-04 07:19:34"
 }
