@@ -3043,9 +3043,9 @@
         ],
         "mod_name": "Stack Refill",
         "reactions": {
-          "+1": 5
+          "+1": 6
         },
-        "reaction_count": 6,
+        "reaction_count": 7,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -12105,6 +12105,10 @@
       7
     ],
     [
+      2397,
+      7
+    ],
+    [
       151,
       6
     ],
@@ -12142,10 +12146,6 @@
     ],
     [
       1675,
-      6
-    ],
-    [
-      2397,
       6
     ],
     [
@@ -14973,5 +14973,5 @@
       1
     ]
   ],
-  "last_updated": "2025-07-13 19:14:31"
+  "last_updated": "2025-07-14 03:04:51"
 }
