@@ -1944,8 +1944,10 @@
           "Mod: Village Spawn Point"
         ],
         "mod_name": "Village Spawn Point",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -2224,8 +2226,10 @@
           "Mod: Village Spawn Point"
         ],
         "mod_name": "Village Spawn Point",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12757,11 +12761,19 @@
       2
     ],
     [
+      2620,
+      2
+    ],
+    [
       2653,
       2
     ],
     [
       2660,
+      2
+    ],
+    [
+      2708,
       2
     ],
     [
@@ -14509,10 +14521,6 @@
       1
     ],
     [
-      2620,
-      1
-    ],
-    [
       2622,
       1
     ],
@@ -14570,10 +14578,6 @@
     ],
     [
       2707,
-      1
-    ],
-    [
-      2708,
       1
     ],
     [
@@ -14973,5 +14977,5 @@
       1
     ]
   ],
-  "last_updated": "2025-07-20 03:11:49"
+  "last_updated": "2025-07-20 07:12:14"
 }
