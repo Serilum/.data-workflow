@@ -10482,9 +10482,9 @@
         ],
         "mod_name": "Random Village Names",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 5,
         "user_comment_count": 2
       },
@@ -12249,6 +12249,10 @@
       3
     ],
     [
+      497,
+      3
+    ],
+    [
       683,
       3
     ],
@@ -12398,10 +12402,6 @@
     ],
     [
       469,
-      2
-    ],
-    [
-      497,
       2
     ],
     [
@@ -14977,5 +14977,5 @@
       1
     ]
   ],
-  "last_updated": "2025-07-24 07:17:38"
+  "last_updated": "2025-07-24 13:38:32"
 }
