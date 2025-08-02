@@ -10022,8 +10022,15 @@
           "Mod: Zombie Villagers From Spawner"
         ],
         "mod_name": "Zombie Villagers From Spawner",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1,
+          "laugh": 1,
+          "heart": 1,
+          "hooray": 1,
+          "rocket": 1,
+          "eyes": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -12413,6 +12420,10 @@
       2
     ],
     [
+      646,
+      2
+    ],
+    [
       650,
       2
     ],
@@ -13142,10 +13153,6 @@
     ],
     [
       640,
-      1
-    ],
-    [
-      646,
       1
     ],
     [
@@ -14977,5 +14984,5 @@
       1
     ]
   ],
-  "last_updated": "2025-08-01 19:17:14"
+  "last_updated": "2025-08-02 02:54:50"
 }
