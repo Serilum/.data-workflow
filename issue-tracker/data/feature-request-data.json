@@ -329,8 +329,10 @@
           "Mod: Tree Harvester"
         ],
         "mod_name": "Tree Harvester",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -3047,9 +3049,10 @@
         ],
         "mod_name": "Stack Refill",
         "reactions": {
-          "+1": 6
+          "+1": 7,
+          "rocket": 1
         },
-        "reaction_count": 7,
+        "reaction_count": 8,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -12108,15 +12111,15 @@
       9
     ],
     [
+      2397,
+      8
+    ],
+    [
       426,
       7
     ],
     [
       1266,
-      7
-    ],
-    [
-      2397,
       7
     ],
     [
@@ -12829,6 +12832,10 @@
     ],
     [
       3047,
+      2
+    ],
+    [
+      3094,
       2
     ],
     [
@@ -14916,10 +14923,6 @@
       1
     ],
     [
-      3094,
-      1
-    ],
-    [
       3096,
       1
     ],
@@ -14984,5 +14987,5 @@
       1
     ]
   ],
-  "last_updated": "2025-08-03 03:10:08"
+  "last_updated": "2025-08-03 07:13:12"
 }
