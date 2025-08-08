@@ -24,7 +24,7 @@
         "id": 3176834429,
         "number": 3175,
         "title": "Ore Harvester Config",
-        "opened_by": "ImpulsiveLad",
+        "opened_by": "ImpulsiveLass",
         "creation_date": "",
         "labels": [
           "Feature Request",
@@ -1067,7 +1067,7 @@
         "id": 2840402926,
         "number": 2907,
         "title": "Spiders Only make web underground",
-        "opened_by": "ImpulsiveLad",
+        "opened_by": "ImpulsiveLass",
         "creation_date": "",
         "labels": [
           "Feature Request",
@@ -14991,5 +14991,5 @@
       1
     ]
   ],
-  "last_updated": "2025-08-08 07:21:41"
+  "last_updated": "2025-08-08 13:36:19"
 }
