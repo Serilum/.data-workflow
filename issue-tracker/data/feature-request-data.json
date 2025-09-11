@@ -3107,8 +3107,10 @@
           "Mod: Smaller Nether Portals"
         ],
         "mod_name": "Smaller Nether Portals",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12765,6 +12767,10 @@
       2
     ],
     [
+      2385,
+      2
+    ],
+    [
       2401,
       2
     ],
@@ -14401,10 +14407,6 @@
       1
     ],
     [
-      2385,
-      1
-    ],
-    [
       2389,
       1
     ],
@@ -14997,5 +14999,5 @@
       1
     ]
   ],
-  "last_updated": "2025-09-11 13:26:31"
+  "last_updated": "2025-09-11 19:08:24"
 }
