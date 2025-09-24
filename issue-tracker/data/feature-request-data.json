@@ -219,8 +219,10 @@
           "Mod: Giant Spawn"
         ],
         "mod_name": "Giant Spawn",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -6319,9 +6321,9 @@
         ],
         "mod_name": "Giant Spawn",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -7854,8 +7856,10 @@
           "Mod: Giant Spawn"
         ],
         "mod_name": "Giant Spawn",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -10021,9 +10025,9 @@
         ],
         "mod_name": "Giant Spawn",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -12277,6 +12281,10 @@
       3
     ],
     [
+      650,
+      3
+    ],
+    [
       683,
       3
     ],
@@ -12326,6 +12334,10 @@
     ],
     [
       1512,
+      3
+    ],
+    [
+      1643,
       3
     ],
     [
@@ -12445,10 +12457,6 @@
       2
     ],
     [
-      650,
-      2
-    ],
-    [
       656,
       2
     ],
@@ -12537,6 +12545,10 @@
       2
     ],
     [
+      1230,
+      2
+    ],
+    [
       1255,
       2
     ],
@@ -12602,10 +12614,6 @@
     ],
     [
       1638,
-      2
-    ],
-    [
-      1643,
       2
     ],
     [
@@ -12866,6 +12874,10 @@
     ],
     [
       3109,
+      2
+    ],
+    [
+      3113,
       2
     ],
     [
@@ -13618,10 +13630,6 @@
     ],
     [
       1229,
-      1
-    ],
-    [
-      1230,
       1
     ],
     [
@@ -14965,10 +14973,6 @@
       1
     ],
     [
-      3113,
-      1
-    ],
-    [
       3115,
       1
     ],
@@ -15001,5 +15005,5 @@
       1
     ]
   ],
-  "last_updated": "2025-09-24 13:28:01"
+  "last_updated": "2025-09-24 19:10:55"
 }
