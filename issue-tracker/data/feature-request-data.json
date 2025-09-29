@@ -7114,14 +7114,14 @@
         ],
         "mod_name": "Just Player Heads",
         "reactions": {
-          "+1": 4,
+          "+1": 5,
           "rocket": 2,
           "laugh": 1,
           "hooray": 1,
           "heart": 1,
           "eyes": 1
         },
-        "reaction_count": 5,
+        "reaction_count": 6,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -12177,6 +12177,10 @@
       6
     ],
     [
+      1389,
+      6
+    ],
+    [
       1505,
       6
     ],
@@ -12186,10 +12190,6 @@
     ],
     [
       431,
-      5
-    ],
-    [
-      1389,
       5
     ],
     [
@@ -15005,5 +15005,5 @@
       1
     ]
   ],
-  "last_updated": "2025-09-29 02:38:45"
+  "last_updated": "2025-09-29 07:14:51"
 }
