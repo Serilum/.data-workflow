@@ -2922,8 +2922,10 @@
           "Mod: GUI Clock"
         ],
         "mod_name": "GUI Clock",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -5211,11 +5213,11 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 5,
+          "+1": 6,
           "heart": 5,
           "eyes": 2
         },
-        "reaction_count": 9,
+        "reaction_count": 10,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -12126,7 +12128,7 @@
     ],
     [
       1908,
-      9
+      10
     ],
     [
       426,
@@ -12786,6 +12788,10 @@
     ],
     [
       2401,
+      2
+    ],
+    [
+      2424,
       2
     ],
     [
@@ -14445,10 +14451,6 @@
       1
     ],
     [
-      2424,
-      1
-    ],
-    [
       2452,
       1
     ],
@@ -15005,5 +15007,5 @@
       1
     ]
   ],
-  "last_updated": "2025-09-29 07:14:51"
+  "last_updated": "2025-09-29 13:35:52"
 }
