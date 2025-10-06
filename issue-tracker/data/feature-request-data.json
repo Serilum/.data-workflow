@@ -815,6 +815,22 @@
         "total_comment_count": 4,
         "user_comment_count": 1
       },
+      "2969": {
+        "id": 2919380032,
+        "number": 2969,
+        "title": "May Leave suport for Rats",
+        "opened_by": "2el222",
+        "creation_date": "",
+        "labels": [
+          "Feature Request",
+          "Mod: Wandering Trader May Leave"
+        ],
+        "mod_name": "Wandering Trader May Leave",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "2966": {
         "id": 2912896509,
         "number": 2966,
@@ -14839,6 +14855,10 @@
       1
     ],
     [
+      2969,
+      1
+    ],
+    [
       2971,
       1
     ],
@@ -14987,5 +15007,5 @@
       1
     ]
   ],
-  "last_updated": "2025-10-06 07:14:13"
+  "last_updated": "2025-10-06 13:31:26"
 }
