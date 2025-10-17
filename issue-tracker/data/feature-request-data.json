@@ -435,7 +435,9 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -2153,8 +2155,10 @@
           "Mod: World Border"
         ],
         "mod_name": "World Border",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12819,6 +12823,10 @@
       2
     ],
     [
+      2650,
+      2
+    ],
+    [
       2653,
       2
     ],
@@ -14583,10 +14591,6 @@
       1
     ],
     [
-      2650,
-      1
-    ],
-    [
       2657,
       1
     ],
@@ -15007,5 +15011,5 @@
       1
     ]
   ],
-  "last_updated": "2025-10-16 19:13:09"
+  "last_updated": "2025-10-17 02:38:19"
 }
