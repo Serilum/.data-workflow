@@ -7660,8 +7660,10 @@
           "Mod: Snowballs Freeze Mobs"
         ],
         "mod_name": "Snowballs Freeze Mobs",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -12567,6 +12569,10 @@
       2
     ],
     [
+      1263,
+      2
+    ],
+    [
       1274,
       2
     ],
@@ -13716,10 +13722,6 @@
     ],
     [
       1261,
-      1
-    ],
-    [
-      1263,
       1
     ],
     [
@@ -15019,5 +15021,5 @@
       1
     ]
   ],
-  "last_updated": "2025-10-23 02:43:38"
+  "last_updated": "2025-10-23 07:14:00"
 }
