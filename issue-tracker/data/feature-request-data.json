@@ -2380,11 +2380,11 @@
         ],
         "mod_name": "What Durability?",
         "reactions": {
-          "+1": 3
+          "+1": 4
         },
-        "reaction_count": 4,
-        "total_comment_count": 3,
-        "user_comment_count": 2
+        "reaction_count": 5,
+        "total_comment_count": 4,
+        "user_comment_count": 3
       },
       "2575": {
         "id": 2459419566,
@@ -3192,9 +3192,9 @@
         ],
         "mod_name": "What Durability?",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12221,6 +12221,10 @@
       5
     ],
     [
+      2587,
+      5
+    ],
+    [
       302,
       4
     ],
@@ -12286,10 +12290,6 @@
     ],
     [
       2566,
-      4
-    ],
-    [
-      2587,
       4
     ],
     [
@@ -12378,6 +12378,10 @@
     ],
     [
       2313,
+      3
+    ],
+    [
+      2373,
       3
     ],
     [
@@ -12790,10 +12794,6 @@
     ],
     [
       2343,
-      2
-    ],
-    [
-      2373,
       2
     ],
     [
@@ -15021,5 +15021,5 @@
       1
     ]
   ],
-  "last_updated": "2025-10-25 19:07:36"
+  "last_updated": "2025-10-26 02:49:30"
 }
