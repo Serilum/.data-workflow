@@ -3818,9 +3818,9 @@
         ],
         "mod_name": "GUI Compass",
         "reactions": {
-          "+1": 4
+          "+1": 5
         },
-        "reaction_count": 5,
+        "reaction_count": 6,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12205,6 +12205,10 @@
       6
     ],
     [
+      2213,
+      6
+    ],
+    [
       431,
       5
     ],
@@ -12214,10 +12218,6 @@
     ],
     [
       1853,
-      5
-    ],
-    [
-      2213,
       5
     ],
     [
@@ -15021,5 +15021,5 @@
       1
     ]
   ],
-  "last_updated": "2025-11-03 07:15:09"
+  "last_updated": "2025-11-03 13:36:43"
 }
