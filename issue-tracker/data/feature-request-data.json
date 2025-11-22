@@ -5792,8 +5792,10 @@
           "Mod: Hidden Recipe Book"
         ],
         "mod_name": "Hidden Recipe Book",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12663,6 +12665,10 @@
       2
     ],
     [
+      1788,
+      2
+    ],
+    [
       1796,
       2
     ],
@@ -14015,10 +14021,6 @@
       1
     ],
     [
-      1788,
-      1
-    ],
-    [
       1795,
       1
     ],
@@ -15023,5 +15025,5 @@
       1
     ]
   ],
-  "last_updated": "2025-11-22 02:37:19"
+  "last_updated": "2025-11-22 07:09:43"
 }
