@@ -340,7 +340,7 @@
         ],
         "mod_name": "Tree Harvester",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
         "reaction_count": 2,
         "total_comment_count": 2,
@@ -540,9 +540,10 @@
         ],
         "mod_name": "Tree Harvester",
         "reactions": {
-          "heart": 1
+          "heart": 1,
+          "+1": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12405,6 +12406,10 @@
       3
     ],
     [
+      3047,
+      3
+    ],
+    [
       129,
       2
     ],
@@ -12906,10 +12911,6 @@
     ],
     [
       2990,
-      2
-    ],
-    [
-      3047,
       2
     ],
     [
@@ -15025,5 +15026,5 @@
       1
     ]
   ],
-  "last_updated": "2025-12-01 07:24:47"
+  "last_updated": "2025-12-01 13:41:14"
 }
