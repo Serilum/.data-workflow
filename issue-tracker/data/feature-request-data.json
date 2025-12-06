@@ -9720,9 +9720,9 @@
         ],
         "mod_name": "Rain Be Gone Ritual",
         "reactions": {
-          "eyes": 1
+          "eyes": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -12326,6 +12326,10 @@
       3
     ],
     [
+      707,
+      3
+    ],
+    [
       970,
       3
     ],
@@ -12499,10 +12503,6 @@
     ],
     [
       705,
-      2
-    ],
-    [
-      707,
       2
     ],
     [
@@ -15026,5 +15026,5 @@
       1
     ]
   ],
-  "last_updated": "2025-12-06 07:11:39"
+  "last_updated": "2025-12-06 13:25:11"
 }
