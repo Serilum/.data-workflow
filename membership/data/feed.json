@@ -324,6 +324,10 @@
             {
                 "name": "akrigline",
                 "platform": "github"
+            },
+            {
+                "name": "MWS",
+                "platform": "patreon"
             }
         ]
     },
