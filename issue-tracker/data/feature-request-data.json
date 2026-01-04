@@ -7304,10 +7304,12 @@
         ],
         "mod_name": "Followers Teleport Too",
         "reactions": {
-          "laugh": 1,
+          "laugh": 2,
+          "+1": 1,
+          "heart": 1,
           "hooray": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 6,
         "user_comment_count": 3
       },
@@ -12357,6 +12359,10 @@
       3
     ],
     [
+      1354,
+      3
+    ],
+    [
       1358,
       3
     ],
@@ -12606,10 +12612,6 @@
     ],
     [
       1352,
-      2
-    ],
-    [
-      1354,
       2
     ],
     [
@@ -15033,5 +15035,5 @@
       1
     ]
   ],
-  "last_updated": "2026-01-03 19:13:21"
+  "last_updated": "2026-01-04 03:07:43"
 }
