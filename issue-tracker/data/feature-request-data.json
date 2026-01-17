@@ -936,9 +936,10 @@
         ],
         "mod_name": "Wandering Trader May Leave",
         "reactions": {
+          "+1": 1,
           "heart": 1
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -3074,10 +3075,10 @@
         ],
         "mod_name": "Stack Refill",
         "reactions": {
-          "+1": 11,
+          "+1": 13,
           "rocket": 1
         },
-        "reaction_count": 10,
+        "reaction_count": 11,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -6428,10 +6429,12 @@
           "Mod: Infinite Trading"
         ],
         "mod_name": "Infinite Trading",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "1629": {
         "id": 1589155323,
@@ -7924,8 +7927,8 @@
           "+1": 2
         },
         "reaction_count": 3,
-        "total_comment_count": 3,
-        "user_comment_count": 1
+        "total_comment_count": 4,
+        "user_comment_count": 2
       },
       "1227": {
         "id": 1330639071,
@@ -12155,11 +12158,11 @@
       22
     ],
     [
-      1908,
-      10
+      2397,
+      11
     ],
     [
-      2397,
+      1908,
       10
     ],
     [
@@ -12663,6 +12666,10 @@
       2
     ],
     [
+      1631,
+      2
+    ],
+    [
       1638,
       2
     ],
@@ -12916,6 +12923,10 @@
     ],
     [
       2929,
+      2
+    ],
+    [
+      2954,
       2
     ],
     [
@@ -13927,10 +13938,6 @@
       1
     ],
     [
-      1631,
-      1
-    ],
-    [
       1635,
       1
     ],
@@ -14879,10 +14886,6 @@
       1
     ],
     [
-      2954,
-      1
-    ],
-    [
       2956,
       1
     ],
@@ -15035,5 +15038,5 @@
       1
     ]
   ],
-  "last_updated": "2026-01-17 13:30:58"
+  "last_updated": "2026-01-17 19:13:04"
 }
