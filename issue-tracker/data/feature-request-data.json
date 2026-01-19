@@ -7924,7 +7924,7 @@
         ],
         "mod_name": "Automatic Doors",
         "reactions": {
-          "+1": 2
+          "+1": 3
         },
         "reaction_count": 3,
         "total_comment_count": 4,
@@ -15038,5 +15038,5 @@
       1
     ]
   ],
-  "last_updated": "2026-01-18 19:14:36"
+  "last_updated": "2026-01-19 03:03:23"
 }
