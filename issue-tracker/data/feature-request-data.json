@@ -306,11 +306,11 @@
         ],
         "mod_name": "Starter Kit",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
+        "reaction_count": 3,
+        "total_comment_count": 3,
+        "user_comment_count": 2
       },
       "3096": {
         "id": 3043262508,
@@ -12434,6 +12434,10 @@
       3
     ],
     [
+      3097,
+      3
+    ],
+    [
       129,
       2
     ],
@@ -12951,10 +12955,6 @@
     ],
     [
       3094,
-      2
-    ],
-    [
-      3097,
       2
     ],
     [
@@ -15038,5 +15038,5 @@
       1
     ]
   ],
-  "last_updated": "2026-01-20 19:44:53"
+  "last_updated": "2026-01-21 03:00:40"
 }
