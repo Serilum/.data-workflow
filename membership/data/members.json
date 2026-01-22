@@ -1,7 +1,6 @@
 {
     "github": [
         "akanealw",
-        "akrigline",
         "aternosorg",
         "Kyanos-Para"
     ],
@@ -17,7 +16,6 @@
     ],
     "combined": [
         "akanealw",
-        "akrigline",
         "Alister",
         "Andrean Olgo",
         "aternosorg",
@@ -31,7 +29,6 @@
     ],
     "combined_specific": {
         "akanealw": "Github Sponsors",
-        "akrigline": "Github Sponsors",
         "Alister": "Patreon",
         "Andrean Olgo": "Patreon",
         "aternosorg": "Github Sponsors",
