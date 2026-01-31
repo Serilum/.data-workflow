@@ -3800,7 +3800,7 @@
         "id": 2135132336,
         "number": 2215,
         "title": "[Enhancement - Spiders Produce Webs] Make Spiders shoot webs at players that are far away!",
-        "opened_by": "MetalKnight56",
+        "opened_by": "guivnf",
         "creation_date": "",
         "labels": [
           "Feature Request",
@@ -6187,13 +6187,13 @@
         ],
         "mod_name": "Double Doors",
         "reactions": {
-          "+1": 4,
+          "+1": 5,
           "laugh": 1,
           "hooray": 1,
-          "heart": 2,
-          "eyes": 1
+          "heart": 3,
+          "eyes": 2
         },
-        "reaction_count": 7,
+        "reaction_count": 8,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -10785,10 +10785,11 @@
         ],
         "mod_name": "Mineral Chance",
         "reactions": {
-          "eyes": 1,
-          "+1": 2
+          "eyes": 2,
+          "+1": 3,
+          "heart": 1
         },
-        "reaction_count": 4,
+        "reaction_count": 5,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -10910,11 +10911,11 @@
         ],
         "mod_name": "Mineral Chance",
         "reactions": {
-          "+1": 7,
-          "eyes": 2,
-          "heart": 1
+          "+1": 8,
+          "eyes": 3,
+          "heart": 2
         },
-        "reaction_count": 8,
+        "reaction_count": 9,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -12170,11 +12171,15 @@
       10
     ],
     [
+      426,
+      9
+    ],
+    [
       1266,
       9
     ],
     [
-      426,
+      1675,
       8
     ],
     [
@@ -12191,10 +12196,6 @@
     ],
     [
       1445,
-      7
-    ],
-    [
-      1675,
       7
     ],
     [
@@ -12242,6 +12243,10 @@
       5
     ],
     [
+      438,
+      5
+    ],
+    [
       1423,
       5
     ],
@@ -12263,10 +12268,6 @@
     ],
     [
       371,
-      4
-    ],
-    [
-      438,
       4
     ],
     [
@@ -15042,5 +15043,5 @@
       1
     ]
   ],
-  "last_updated": "2026-01-30 19:35:29"
+  "last_updated": "2026-01-31 03:17:53"
 }
