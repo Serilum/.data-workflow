@@ -1023,9 +1023,9 @@
         ],
         "mod_name": "Ore Harvester",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -3097,9 +3097,9 @@
         "reactions": {
           "heart": 1,
           "rocket": 1,
-          "+1": 4
+          "+1": 5
         },
-        "reaction_count": 7,
+        "reaction_count": 8,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -12184,6 +12184,10 @@
       8
     ],
     [
+      2392,
+      8
+    ],
+    [
       496,
       7
     ],
@@ -12197,10 +12201,6 @@
     ],
     [
       1445,
-      7
-    ],
-    [
-      2392,
       7
     ],
     [
@@ -12433,6 +12433,10 @@
     ],
     [
       2921,
+      3
+    ],
+    [
+      2929,
       3
     ],
     [
@@ -12937,10 +12941,6 @@
     ],
     [
       2841,
-      2
-    ],
-    [
-      2929,
       2
     ],
     [
@@ -15044,5 +15044,5 @@
       1
     ]
   ],
-  "last_updated": "2026-02-18 19:49:09"
+  "last_updated": "2026-02-19 03:45:12"
 }
