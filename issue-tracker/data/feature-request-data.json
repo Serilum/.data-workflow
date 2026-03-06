@@ -3076,10 +3076,10 @@
         ],
         "mod_name": "Stack Refill",
         "reactions": {
-          "+1": 13,
+          "+1": 14,
           "rocket": 1
         },
-        "reaction_count": 11,
+        "reaction_count": 12,
         "total_comment_count": 3,
         "user_comment_count": 2
       },
@@ -12165,7 +12165,7 @@
     ],
     [
       2397,
-      11
+      12
     ],
     [
       1908,
@@ -15044,5 +15044,5 @@
       1
     ]
   ],
-  "last_updated": "2026-03-05 20:10:46"
+  "last_updated": "2026-03-06 03:35:16"
 }
