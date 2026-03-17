@@ -6188,13 +6188,13 @@
         ],
         "mod_name": "Double Doors",
         "reactions": {
-          "+1": 5,
+          "+1": 6,
           "laugh": 1,
           "hooray": 1,
           "heart": 3,
           "eyes": 2
         },
-        "reaction_count": 8,
+        "reaction_count": 9,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -12181,7 +12181,7 @@
     ],
     [
       1675,
-      8
+      9
     ],
     [
       2392,
@@ -15044,5 +15044,5 @@
       1
     ]
   ],
-  "last_updated": "2026-03-16 20:00:24"
+  "last_updated": "2026-03-17 03:41:30"
 }
