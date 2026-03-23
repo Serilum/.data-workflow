@@ -147,8 +147,10 @@
           "Mod: Inventory Totem"
         ],
         "mod_name": "Inventory Totem",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12992,6 +12994,10 @@
       2
     ],
     [
+      3141,
+      2
+    ],
+    [
       3146,
       2
     ],
@@ -15016,10 +15022,6 @@
       1
     ],
     [
-      3141,
-      1
-    ],
-    [
       3147,
       1
     ],
@@ -15044,5 +15046,5 @@
       1
     ]
   ],
-  "last_updated": "2026-03-22 19:24:36"
+  "last_updated": "2026-03-23 03:57:11"
 }
