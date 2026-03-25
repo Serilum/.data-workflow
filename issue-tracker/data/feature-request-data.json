@@ -2691,10 +2691,10 @@
         ],
         "mod_name": "Crying Portals",
         "reactions": {
-          "+1": 1,
+          "+1": 2,
           "heart": 1
         },
-        "reaction_count": 3,
+        "reaction_count": 4,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12318,6 +12318,10 @@
       4
     ],
     [
+      2520,
+      4
+    ],
+    [
       2555,
       4
     ],
@@ -12423,10 +12427,6 @@
     ],
     [
       2507,
-      3
-    ],
-    [
-      2520,
       3
     ],
     [
@@ -15046,5 +15046,5 @@
       1
     ]
   ],
-  "last_updated": "2026-03-25 08:01:06"
+  "last_updated": "2026-03-25 14:21:08"
 }
