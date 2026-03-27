@@ -1,193 +1,243 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
-from github						import Auth, Github
-from datetime					import datetime
+from datetime import datetime
 import json
 import os
-import sys
+import requests
 
 sep = os.path.sep
 
-def main(mainpath):
-	fprefix = " [Process Feature Requests] "
+GRAPHQL_URL = "https://api.github.com/graphql"
 
-	print("\n" + fprefix + "Starting.\n")
+QUERY = """
+query($cursor: String) {
+  repository(owner: "Serilum", name: ".issue-tracker") {
+    issues(first: 100, after: $cursor, states: CLOSED, labels: ["Feature Request"], orderBy: {field: CREATED_AT, direction: DESC}) {
+      pageInfo {
+        hasNextPage
+        endCursor
+      }
+      nodes {
+        databaseId
+        number
+        title
+        createdAt
+        stateReason
+        author { login }
+        labels(first: 10) {
+          nodes { name }
+        }
+        reactions(first: 100) {
+          nodes {
+            content
+            user { login }
+          }
+        }
+        comments(first: 100) {
+          nodes {
+            author { login }
+            reactions(first: 100) {
+              nodes {
+                content
+                user { login }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+"""
 
-	output = { "data" : { "mod-feature" : {}, "standalone-feature" : {}}}
-	issues_sorted_reaction_count = {}
+# Map GraphQL reaction names to PyGithub-style names (keeps output identical)
+REACTION_MAP = {
+	"THUMBS_UP": "+1",
+	"THUMBS_DOWN": "-1",
+	"LAUGH": "laugh",
+	"HOORAY": "hooray",
+	"CONFUSED": "confused",
+	"HEART": "heart",
+	"ROCKET": "rocket",
+	"EYES": "eyes",
+}
 
 
-	rootpath = "." + sep + "issue-tracker" # For production
-	if os.environ['IS_PRODUCTION'] == "false":
-		rootpath = mainpath + sep + "issue-tracker" # For dev
+def fetch_all_issues(token):
+	headers = {"Authorization": "bearer " + token}
+	all_issues = []
+	cursor = None
+
+	while True:
+		variables = {"cursor": cursor}
+		resp = requests.post(GRAPHQL_URL, json={"query": QUERY, "variables": variables}, headers=headers)
+
+		if resp.status_code != 200:
+			print("  GraphQL request failed:", resp.status_code, resp.text)
+			break
+
+		data = resp.json()
+		if "errors" in data:
+			print("  GraphQL errors:", data["errors"])
+			break
+
+		issues_data = data["data"]["repository"]["issues"]
+		all_issues.extend(issues_data["nodes"])
+
+		page_info = issues_data["pageInfo"]
+		if not page_info["hasNextPage"]:
+			break
+
+		cursor = page_info["endCursor"]
+		print("  Fetched", len(all_issues), "issues so far...")
+
+	return all_issues
 
 
-	gh_serilum = Github(auth=Auth.Token(os.environ["GH_SERILUM_DATA_WORKFLOW_API"]))
-	serilum_org = gh_serilum.get_organization("Serilum")
+def process_issue(issue):
+	if issue["stateReason"] != "NOT_PLANNED":
+		return None
 
-	issue_tracker_repo = serilum_org.get_repo(".issue-tracker")
-	
-	feature_requests = issue_tracker_repo.get_issues(state="closed", labels=["Feature Request"])
-	for fr in feature_requests:
-		if fr.state_reason != "not_planned": # Means, not implemented.
+	number = issue["number"]
+	db_id = issue["databaseId"]
+	title = issue["title"]
+	openedby = issue["author"]["login"] if issue["author"] else "ghost"
+
+	try:
+		creationdate = issue["createdAt"].split("T")[0]
+	except Exception:
+		creationdate = ""
+
+	# Labels
+	modname = ""
+	labels = []
+	for label_node in issue["labels"]["nodes"]:
+		name = label_node["name"]
+		if name not in labels:
+			labels.append(name)
+		if "Mod: " in name:
+			modname = name.replace("Mod: ", "").strip()
+
+	data_field = "standalone-feature" if len(labels) == 1 else "mod-feature"
+
+	# Reactions on the issue itself
+	reacted_users = []
+	reactions = {}
+
+	for r in issue["reactions"]["nodes"]:
+		rc = REACTION_MAP.get(r["content"], r["content"])
+		reactions[rc] = reactions.get(rc, 0) + 1
+
+		if rc != "-1" and rc != "confused":
+			username = r["user"]["login"] if r["user"] else "ghost"
+			if username not in reacted_users:
+				reacted_users.append(username)
+
+	# Comments and their reactions
+	commented_users = []
+	total_comment_count = 0
+	user_comment_count = 0
+
+	for comment in issue["comments"]["nodes"]:
+		total_comment_count += 1
+
+		# Comment reactions
+		for cr in comment["reactions"]["nodes"]:
+			rc = REACTION_MAP.get(cr["content"], cr["content"])
+			reactions[rc] = reactions.get(rc, 0) + 1
+
+			if rc != "-1" and rc != "confused":
+				username = cr["user"]["login"] if cr["user"] else "ghost"
+				if username not in reacted_users:
+					reacted_users.append(username)
+
+		comment_user = comment["author"]["login"] if comment["author"] else "ghost"
+		if comment_user == "ricksouth":
 			continue
 
-		# General Information
-		id = int(fr.id)
-		number = int(fr.number)
-		title = fr.title
-		openedby = fr.user.login
-
-		try:
-			creationdate = str(fr.created_at).split(" ")[0]
-		except Exception:
-			creationdate = ""
-
-		modname = ""
-		# url = fr.html_url
-
-		print(fprefix + "Processing issue #" + str(number))
-
-		# Labels
-		labels = []
-
-		raw_labels = fr.get_labels()
-		for raw_label in raw_labels:
-			label = str(raw_label.name)
-			if not label in labels:
-				labels.append(label)
-
-			if "Mod: " in label:
-				modname = label.replace("Mod: ", "").strip()
-
-		# Determine if issue is a mod or standalone feature
-		data_field = "mod-feature"
-		if len(labels) == 1:
-			data_field = "standalone-feature"
-
-
-		# Reactions
-		reacted_users = []
-		reactions = {}
-
-		raw_reactions = fr.get_reactions()
-		if raw_reactions.totalCount > 0:
-			for raw_reaction in raw_reactions:
-				rc = raw_reaction.content
-
-				if not rc in reactions:
-					reactions[rc] = 1
-				else:
-					reactions[rc] += 1
-
-				if rc != "-1" and rc != "confused":
-					reaction_username = raw_reaction.user.login
-
-					if not reaction_username in reacted_users:
-						reacted_users.append(reaction_username)
-
-		# Issue Comments
-		commented_users = []
-
-		total_comment_count = 0
-		user_comment_count = 0
-		for raw_comment in fr.get_comments():
-			total_comment_count += 1
-
-			raw_comment_reactions = raw_comment.get_reactions()
-			if raw_comment_reactions.totalCount > 0:
-				for raw_comment_reaction in raw_comment_reactions:
-					rc = raw_comment_reaction.content
-
-					if not rc in reactions:
-						reactions[rc] = 1
-					else:
-						reactions[rc] += 1
-
-					if rc != "-1" and rc != "confused":
-						comment_reaction_username = raw_comment_reaction.user.login
-
-						if not comment_reaction_username in reacted_users:
-							reacted_users.append(comment_reaction_username)
-
-			issue_comment_user = raw_comment.user.login
-			if issue_comment_user == "ricksouth":
-				continue
-
-			if not issue_comment_user in commented_users:
-				commented_users.append(issue_comment_user)
-				user_comment_count += 1
-
-		if not openedby in commented_users: # Add issue creator post to comment count as +1
-			commented_users.append(openedby)
-			total_comment_count += 1
+		if comment_user not in commented_users:
+			commented_users.append(comment_user)
 			user_comment_count += 1
 
+	# Add issue creator to comment count as +1
+	if openedby not in commented_users:
+		commented_users.append(openedby)
+		total_comment_count += 1
+		user_comment_count += 1
 
-		if not openedby in reacted_users: # Add issue creator to reaction count as +1
-			reacted_users.append(openedby)
+	# Add issue creator to reaction count as +1
+	if openedby not in reacted_users:
+		reacted_users.append(openedby)
 
-		reaction_count = len(reacted_users)
+	reaction_count = len(reacted_users)
 
-
-		# Information Overview
-		# print("ID:", id)
-		# print("Number:", number)
-		# print("Title:", title)
-		# print("Opened by:", openedby)
-		# print("Creation date:", creationdate)
-		# print("URL:", url)
-		# print("Labels:", labels)
-		# print("Reaction count:", reaction_count)
-		# print("Reactions:", reactions)
-		# print("Total comment count:", total_comment_count)
-		# print("User comment count:", user_comment_count)
-
-
-		# Add to issues_sorted_reaction_count dictionary
-		issues_sorted_reaction_count[number] = reaction_count
-
-
-		# Creating data entry in output
-		data = { "id" : id,
-				 "number" : number,
-				 "title" : title,
-				 "opened_by" : openedby,
-				 "creation_date" : creationdate,
-				 "labels" : labels,
-				 "mod_name" : modname,
-				 "reactions" : reactions,
-				 "reaction_count" : reaction_count,
-				 "total_comment_count" : total_comment_count,
-				 "user_comment_count" : user_comment_count
-			   }
-
-		output["data"][data_field][number] = data
+	return {
+		"data_field": data_field,
+		"number": number,
+		"entry": {
+			"id": db_id,
+			"number": number,
+			"title": title,
+			"opened_by": openedby,
+			"creation_date": creationdate,
+			"labels": labels,
+			"mod_name": modname,
+			"reactions": reactions,
+			"reaction_count": reaction_count,
+			"total_comment_count": total_comment_count,
+			"user_comment_count": user_comment_count,
+		},
+	}
 
 
-	# Sort issues_sorted_reaction_count
-	output["issues_sorted_reaction_count"] = list(reversed(sorted(issues_sorted_reaction_count.items(), key=lambda x:x[1])))
+def main(mainpath):
+	fprefix = " [Process Feature Requests] "
+	print("\n" + fprefix + "Starting.\n")
 
+	rootpath = "." + sep + "issue-tracker"
+	if os.environ["IS_PRODUCTION"] == "false":
+		rootpath = mainpath + sep + "issue-tracker"
 
-	# Add last_updated to output
-	last_updated = datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')
+	token = os.environ["GH_SERILUM_DATA_WORKFLOW_API"]
 
+	# Fetch everything in a few paginated GraphQL calls
+	print(fprefix + "Fetching issues via GraphQL...")
+	all_issues = fetch_all_issues(token)
+	print(fprefix + "Fetched " + str(len(all_issues)) + " total closed feature requests.")
+
+	output = {"data": {"mod-feature": {}, "standalone-feature": {}}}
+	issues_sorted_reaction_count = {}
+
+	for issue in all_issues:
+		result = process_issue(issue)
+		if result is None:
+			continue
+
+		number = result["number"]
+		print(fprefix + "Processing issue #" + str(number))
+
+		output["data"][result["data_field"]][number] = result["entry"]
+		issues_sorted_reaction_count[number] = result["entry"]["reaction_count"]
+
+	# Sort by reaction count descending
+	output["issues_sorted_reaction_count"] = list(
+		reversed(sorted(issues_sorted_reaction_count.items(), key=lambda x: x[1]))
+	)
+
+	last_updated = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S")
 	print(fprefix + "Last updated output:", last_updated)
 	output["last_updated"] = last_updated
 
-
-	# Write output to file
 	json_output_path = rootpath + sep + "data" + sep + "feature-request-data.json"
-
 	print(fprefix + "Writing output to: " + json_output_path)
-	with open(json_output_path, "w") as datafile:
-		datafile.write(json.dumps(output, indent=2))
 
-	with open(json_output_path.replace(".json", ".min.json"), "w") as datafile:
-		datafile.write(json.dumps(output))
+	with open(json_output_path, "w") as f:
+		f.write(json.dumps(output, indent=2))
+
+	with open(json_output_path.replace(".json", ".min.json"), "w") as f:
+		f.write(json.dumps(output))
 
 	print("\n" + fprefix + "Finished.")
-	return
 
 
 if __name__ == "__main__":
