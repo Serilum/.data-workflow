@@ -93,6 +93,26 @@ def main(mainpath):
 	else:
 		print(fprefix + "The Youtube count returned < 0. Ignoring.")
 
+
+
+	print("\n" + fprefix + "Converting SVG badges to PNG.")
+	try:
+		import cairosvg
+		pngpath = rootpath + sep + "png"
+		Path(pngpath).mkdir(parents=True, exist_ok=True)
+		for svgfile in os.listdir(rootpath + sep + "svg"):
+			if svgfile.endswith(".svg"):
+				cairosvg.svg2png(
+					url=rootpath + sep + "svg" + sep + svgfile,
+					write_to=pngpath + sep + svgfile.replace(".svg", ".png"),
+					output_width=200,
+				)
+				print(fprefix + "Converted " + svgfile + " to PNG.")
+	except Exception as e:
+		print(fprefix + "PNG conversion failed: " + str(e))
+		
+
+
 	print("\n" + fprefix + "Done with generating the SVG badges!")
 	return
 
