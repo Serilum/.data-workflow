@@ -12,7 +12,7 @@ GRAPHQL_URL = "https://api.github.com/graphql"
 QUERY = """
 query($cursor: String) {
   repository(owner: "Serilum", name: ".issue-tracker") {
-    issues(first: 100, after: $cursor, states: CLOSED, labels: ["Feature Request"], orderBy: {field: CREATED_AT, direction: DESC}) {
+    issues(first: 25, after: $cursor, states: CLOSED, labels: ["Feature Request"], orderBy: {field: CREATED_AT, direction: DESC}) {
       pageInfo {
         hasNextPage
         endCursor
