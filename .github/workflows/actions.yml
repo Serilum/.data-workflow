@@ -37,13 +37,13 @@ jobs:
       - name: convert badge SVGs to PNGs
         run: |
           pip install cairosvg
-          python -c "
-import cairosvg, os
-os.makedirs('badges/png', exist_ok=True)
-for svg in os.listdir('badges/svg'):
-    if svg.endswith('.svg'):
-        cairosvg.svg2png(url='badges/svg/' + svg, write_to='badges/png/' + svg.replace('.svg', '.png'), output_width=200)
-"
+          python << 'PYEOF'
+          import cairosvg, os
+          os.makedirs('badges/png', exist_ok=True)
+          for svg in os.listdir('badges/svg'):
+              if svg.endswith('.svg'):
+                  cairosvg.svg2png(url='badges/svg/' + svg, write_to='badges/png/' + svg.replace('.svg', '.png'), output_width=200)
+          PYEOF
 
       - name: commit files
         run: |
