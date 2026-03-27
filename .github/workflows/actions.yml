@@ -34,6 +34,15 @@ jobs:
           IS_PRODUCTION: ${{ vars.IS_PRODUCTION }}
         run: python main.py
           
+      - name: convert badge SVGs to PNGs
+        run: |
+          sudo apt-get install -y librsvg2-bin
+          mkdir -p badges/png
+          for svg in badges/svg/*.svg; do
+            filename=$(basename "$svg" .svg)
+            rsvg-convert "$svg" -w 200 -h 43 -o "badges/png/${filename}.png"
+          done
+
       - name: commit files
         run: |
           git config --local user.email "action@github.com"
