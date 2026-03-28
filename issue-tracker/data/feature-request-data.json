@@ -1216,7 +1216,9 @@
           "Mod: Manure"
         ],
         "mod_name": "Manure",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -16893,5 +16895,5 @@
       1
     ]
   ],
-  "last_updated": "2026-03-27 19:13:35"
+  "last_updated": "2026-03-28 03:18:13"
 }
