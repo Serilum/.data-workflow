@@ -438,7 +438,9 @@
           "Mod: Zombie Proof Doors"
         ],
         "mod_name": "Zombie Proof Doors",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -16895,5 +16897,5 @@
       1
     ]
   ],
-  "last_updated": "2026-03-28 03:18:13"
+  "last_updated": "2026-03-28 07:16:22"
 }
