@@ -3543,8 +3543,10 @@
           "Mod: Better Beacon Placement"
         ],
         "mod_name": "Better Beacon Placement",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -14413,6 +14415,10 @@
       2
     ],
     [
+      2687,
+      2
+    ],
+    [
       2708,
       2
     ],
@@ -16249,10 +16255,6 @@
       1
     ],
     [
-      2687,
-      1
-    ],
-    [
       2695,
       1
     ],
@@ -16897,5 +16899,5 @@
       1
     ]
   ],
-  "last_updated": "2026-04-03 13:40:18"
+  "last_updated": "2026-04-03 19:08:14"
 }
