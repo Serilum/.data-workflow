@@ -916,8 +916,10 @@
           "Mod: Starter Structure"
         ],
         "mod_name": "Starter Structure",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -13090,9 +13092,9 @@
         ],
         "mod_name": "Set World Spawn Point",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -13827,6 +13829,10 @@
       4
     ],
     [
+      199,
+      3
+    ],
+    [
       393,
       3
     ],
@@ -13960,10 +13966,6 @@
     ],
     [
       129,
-      2
-    ],
-    [
-      199,
       2
     ],
     [
@@ -14540,6 +14542,10 @@
     ],
     [
       3298,
+      2
+    ],
+    [
+      3302,
       2
     ],
     [
@@ -16719,10 +16725,6 @@
       1
     ],
     [
-      3302,
-      1
-    ],
-    [
       3304,
       1
     ],
@@ -16899,5 +16901,5 @@
       1
     ]
   ],
-  "last_updated": "2026-04-04 19:03:36"
+  "last_updated": "2026-04-05 03:39:45"
 }
