@@ -169,7 +169,7 @@ def getCurseForgeDownloadCount():
 	while hasNextPage:
 		index += 50
 
-		cfResponse = requests.get("https://api.curseforge.com/v1/mods/search?gameId=432&primaryAuthorId=7049004&index=" + str(index), headers = { "x-api-key" : os.environ["CF_API_KEY"], "Accept" : "application/json" })
+		cfResponse = requests.get("https://api.curseforge.com/v1/mods/search?gameId=432&primaryAuthorId=7049004&index=" + str(index), headers = { "x-api-key" : os.environ["CURSEFORGE_API_KEY"], "Accept" : "application/json" })
 		cfJson = cfResponse.json()
 
 		if "data" in cfJson:
