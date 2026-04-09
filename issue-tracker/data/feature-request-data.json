@@ -1,6 +1,54 @@
 {
   "data": {
     "mod-feature": {
+      "3669": {
+        "id": 4203882336,
+        "number": 3669,
+        "title": "Tree Harvester really needs smarter detection",
+        "opened_by": "winterdrake",
+        "creation_date": "2026-04-04",
+        "labels": [
+          "Feature Request",
+          "Mod: Tree Harvester"
+        ],
+        "mod_name": "Tree Harvester",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3668": {
+        "id": 4200908104,
+        "number": 3668,
+        "title": "Break blocks config",
+        "opened_by": "Leefy1",
+        "creation_date": "2026-04-03",
+        "labels": [
+          "Feature Request",
+          "Mod: Better Beacon Placement"
+        ],
+        "mod_name": "Better Beacon Placement",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3666": {
+        "id": 4199810382,
+        "number": 3666,
+        "title": "Show which type of mob killed a villager?",
+        "opened_by": "nyanpasu64",
+        "creation_date": "2026-04-03",
+        "labels": [
+          "Feature Request",
+          "Mod: Villager Death Messages"
+        ],
+        "mod_name": "Villager Death Messages",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3644": {
         "id": 4122079624,
         "number": 3644,
@@ -76,6 +124,23 @@
           "Mod: Hidden Recipe Book"
         ],
         "mod_name": "Hidden Recipe Book",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3613": {
+        "id": 3993208706,
+        "number": 3613,
+        "title": "HuskSpawn Extra Configurations",
+        "opened_by": "Mediocre-Mr-Fish",
+        "creation_date": "2026-02-26",
+        "labels": [
+          "Feature Request",
+          "Mod: Husk Spawn",
+          "Mod: Stray Spawn"
+        ],
+        "mod_name": "Stray Spawn",
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -181,6 +246,38 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
+      "3575": {
+        "id": 3904927032,
+        "number": 3575,
+        "title": "Clock curios",
+        "opened_by": "Ser-Nick-22",
+        "creation_date": "2026-02-06",
+        "labels": [
+          "Feature Request",
+          "Mod: GUI Clock"
+        ],
+        "mod_name": "GUI Clock",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3572": {
+        "id": 3885244662,
+        "number": 3572,
+        "title": "Pl3xmap support",
+        "opened_by": "SwordfishBE",
+        "creation_date": "2026-02-02",
+        "labels": [
+          "Feature Request",
+          "Mod: World Border"
+        ],
+        "mod_name": "World Border",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3566": {
         "id": 3880168638,
         "number": 3566,
@@ -212,6 +309,22 @@
           "heart": 1
         },
         "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3562": {
+        "id": 3875515878,
+        "number": 3562,
+        "title": "Admin Only Command Control",
+        "opened_by": "Bobcatnesti",
+        "creation_date": "2026-01-30",
+        "labels": [
+          "Feature Request",
+          "Mod: Death Backup"
+        ],
+        "mod_name": "Death Backup",
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -294,6 +407,38 @@
           "+1": 1
         },
         "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3527": {
+        "id": 3814497890,
+        "number": 3527,
+        "title": "achievements for mob heads",
+        "opened_by": "Wisefish8",
+        "creation_date": "2026-01-14",
+        "labels": [
+          "Feature Request",
+          "Mod: Just Mob Heads"
+        ],
+        "mod_name": "Just Mob Heads",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
+      "3525": {
+        "id": 3811048158,
+        "number": 3525,
+        "title": "[Fabric][1.20.1][Macaw's Doors] Sliding Doors",
+        "opened_by": "NFLD99",
+        "creation_date": "2026-01-14",
+        "labels": [
+          "Feature Request",
+          "Mod: Double Doors"
+        ],
+        "mod_name": "Double Doors",
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -558,6 +703,23 @@
           "heart": 1
         },
         "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3462": {
+        "id": 3740882323,
+        "number": 3462,
+        "title": "Clock GUI/Compass GUI",
+        "opened_by": "CraftyjrN8",
+        "creation_date": "2025-12-18",
+        "labels": [
+          "Feature Request",
+          "Mod: GUI Compass",
+          "Mod: GUI Clock"
+        ],
+        "mod_name": "GUI Clock",
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -16793,6 +16955,10 @@
       1
     ],
     [
+      3462,
+      1
+    ],
+    [
       3464,
       1
     ],
@@ -16845,6 +17011,14 @@
       1
     ],
     [
+      3525,
+      1
+    ],
+    [
+      3527,
+      1
+    ],
+    [
       3550,
       1
     ],
@@ -16861,7 +17035,19 @@
       1
     ],
     [
+      3562,
+      1
+    ],
+    [
       3566,
+      1
+    ],
+    [
+      3572,
+      1
+    ],
+    [
+      3575,
       1
     ],
     [
@@ -16878,6 +17064,10 @@
     ],
     [
       3611,
+      1
+    ],
+    [
+      3613,
       1
     ],
     [
@@ -16899,7 +17089,19 @@
     [
       3644,
       1
+    ],
+    [
+      3666,
+      1
+    ],
+    [
+      3668,
+      1
+    ],
+    [
+      3669,
+      1
     ]
   ],
-  "last_updated": "2026-04-09 07:57:07"
+  "last_updated": "2026-04-09 14:31:39"
 }
