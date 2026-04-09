@@ -10,7 +10,7 @@ import sys
 
 sep = os.path.sep
 
-PARSE_LEGACY_FABRIC = True
+PARSE_LEGACY_FABRIC = False
 
 def main(mainPath):
 	fprefix = " [Update Latest Mod Versions] "
