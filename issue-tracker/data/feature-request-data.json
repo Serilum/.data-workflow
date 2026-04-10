@@ -323,7 +323,9 @@
           "Mod: Death Backup"
         ],
         "mod_name": "Death Backup",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -17103,5 +17105,5 @@
       1
     ]
   ],
-  "last_updated": "2026-04-10 03:45:01"
+  "last_updated": "2026-04-10 08:02:42"
 }
