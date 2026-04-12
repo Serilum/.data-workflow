@@ -1,9 +1,9 @@
 {
   "1.20.1": {
-    "Fabric": "3.3",
-    "Forge": "3.3",
-    "NeoForge": "3.3",
-    "Quilt": "3.3"
+    "Fabric": "3.4",
+    "Forge": "3.4",
+    "NeoForge": "3.4",
+    "Quilt": "3.4"
   },
   "1.20": {
     "Fabric": "3.0",
