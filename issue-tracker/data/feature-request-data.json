@@ -9065,8 +9065,10 @@
           "Mod: Welcome Message"
         ],
         "mod_name": "Welcome Message",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 2
+        },
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 1
       },
@@ -11014,8 +11016,10 @@
           "Mod: Welcome Message"
         ],
         "mod_name": "Welcome Message",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 2
+        },
+        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -14229,6 +14233,10 @@
       2
     ],
     [
+      807,
+      2
+    ],
+    [
       853,
       2
     ],
@@ -14306,6 +14314,10 @@
     ],
     [
       1274,
+      2
+    ],
+    [
+      1324,
       2
     ],
     [
@@ -15197,10 +15209,6 @@
       1
     ],
     [
-      807,
-      1
-    ],
-    [
       830,
       1
     ],
@@ -15594,10 +15602,6 @@
     ],
     [
       1322,
-      1
-    ],
-    [
-      1324,
       1
     ],
     [
@@ -17109,5 +17113,5 @@
       1
     ]
   ],
-  "last_updated": "2026-04-21 03:49:05"
+  "last_updated": "2026-04-21 08:11:50"
 }
