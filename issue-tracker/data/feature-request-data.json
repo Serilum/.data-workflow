@@ -4538,11 +4538,11 @@
         ],
         "mod_name": "Areas",
         "reactions": {
-          "+1": 4
+          "+1": 6
         },
-        "reaction_count": 4,
-        "total_comment_count": 3,
-        "user_comment_count": 2
+        "reaction_count": 5,
+        "total_comment_count": 4,
+        "user_comment_count": 3
       },
       "2455": {
         "id": 2368287071,
@@ -13929,6 +13929,10 @@
       5
     ],
     [
+      2460,
+      5
+    ],
+    [
       2558,
       5
     ],
@@ -13982,10 +13986,6 @@
     ],
     [
       2313,
-      4
-    ],
-    [
-      2460,
       4
     ],
     [
@@ -17113,5 +17113,5 @@
       1
     ]
   ],
-  "last_updated": "2026-04-21 19:40:37"
+  "last_updated": "2026-04-22 03:44:59"
 }
