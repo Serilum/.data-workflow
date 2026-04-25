@@ -4,6 +4,9 @@
     "project_type": "mod",
     "slug": "collective",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Collective",
     "description": "\ud83c\udf93 Collective is a shared library with common code for all of Serilum's mods.",
     "categories": [
@@ -49,8 +52,8 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 47155028,
-    "follows": 4659,
+    "downloads": 47186109,
+    "follows": 4661,
     "icon_url": "https://cdn.modrinth.com/data/e0M1UDsY/f5e4fe9ac298e2c14591920d6bda937c566accd0_96.webp",
     "date_created": "2022-08-30T10:44:01.264939+00:00",
     "date_modified": "2026-04-14T10:05:14.217252+00:00",
@@ -67,6 +70,9 @@
     "project_type": "mod",
     "slug": "villager-names-serilum",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Villager Names",
     "description": "\ud83e\uddd1\u200d\ud83c\udf3e Gives all villager entities a default or custom name to liven up the world.",
     "categories": [
@@ -116,7 +122,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 8972633,
+    "downloads": 8977216,
     "follows": 1607,
     "icon_url": "https://cdn.modrinth.com/data/gqRXDo8B/44a24693e277ae99295054691d0acbbbf0d56774_96.webp",
     "date_created": "2022-09-01T16:22:54.147555+00:00",
@@ -134,6 +140,9 @@
     "project_type": "mod",
     "slug": "starter-kit",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Starter Kit",
     "description": "\ud83d\udce6 Give all new players joining the world configurable starter gear, items and/or potion effects. It can overwrite the initial inventory, or add the items after. Compatible with FTB Team Islands.",
     "categories": [
@@ -183,8 +192,8 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 8648812,
-    "follows": 401,
+    "downloads": 8651817,
+    "follows": 402,
     "icon_url": "https://cdn.modrinth.com/data/6L3ydNi8/946acc868c947e5f3ff7a1c1ccb268d09a14f6e5_96.webp",
     "date_created": "2022-08-31T18:56:28.424726+00:00",
     "date_modified": "2026-04-09T22:26:04.488076+00:00",
@@ -201,6 +210,9 @@
     "project_type": "mod",
     "slug": "double-doors",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Double Doors",
     "description": "\ud83d\udeaa Multiple identical double doors, trapdoors and fence gates can be opened simultaneously.",
     "categories": [
@@ -248,7 +260,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 6359694,
+    "downloads": 6363681,
     "follows": 1906,
     "icon_url": "https://cdn.modrinth.com/data/JrvR9OHr/bf25550d32342e00b8a8065a99f83f22e34b3d88_96.webp",
     "date_created": "2022-09-01T14:30:59.023932+00:00",
@@ -266,6 +278,9 @@
     "project_type": "mod",
     "slug": "difficulty-lock",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Difficulty Lock",
     "description": "\ud83d\udd12 Sets a difficulty in any world, optionally locked, or force a hardcore mode requirement.",
     "categories": [
@@ -313,7 +328,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 4890128,
+    "downloads": 4894241,
     "follows": 43,
     "icon_url": "https://cdn.modrinth.com/data/9yvZtixz/icon.png",
     "date_created": "2022-09-01T14:35:13.806261+00:00",
@@ -331,6 +346,9 @@
     "project_type": "mod",
     "slug": "tree-harvester",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Tree Harvester",
     "description": "\ud83c\udf32 Harvest full trees and huge mushrooms instantly with an axe. Includes fast leaf decay and sapling placement.",
     "categories": [
@@ -378,7 +396,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 4757000,
+    "downloads": 4760116,
     "follows": 2001,
     "icon_url": "https://cdn.modrinth.com/data/abooMhox/d23c284917ab08182332006fd0e1dc62d258c99d_96.webp",
     "date_created": "2022-08-31T18:38:04.949652+00:00",
@@ -396,6 +414,9 @@
     "project_type": "mod",
     "slug": "full-brightness-toggle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Full Brightness Toggle",
     "description": "\ud83d\udd06 Press G to toggle the brightness/gamma in-game to maximum and get fullbright night vision.",
     "categories": [
@@ -441,7 +462,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 4517273,
+    "downloads": 4521145,
     "follows": 976,
     "icon_url": "https://cdn.modrinth.com/data/aEK1KhsC/d1124e6ed9eb24a9e11649159cd7c7b26cf1a6be_96.webp",
     "date_created": "2022-09-01T13:49:42.592596+00:00",
@@ -459,6 +480,9 @@
     "project_type": "mod",
     "slug": "dismount-entity",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Dismount Entity",
     "description": "\ud83d\ude8f Allows players to dismount/remove/exit entities/mobs from mounted entities without breaking them.",
     "categories": [
@@ -506,7 +530,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 3579789,
+    "downloads": 3580301,
     "follows": 571,
     "icon_url": "https://cdn.modrinth.com/data/H7N61Wcl/6c57013ab20342502a79713c341d2acc8dbb954a_96.webp",
     "date_created": "2022-09-01T14:33:12.156907+00:00",
@@ -524,6 +548,9 @@
     "project_type": "mod",
     "slug": "superflat-world-no-slimes",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Superflat World No Slimes",
     "description": "\ud83d\ude45 Removes those pesky slimes when you're trying to be creative in a superflat world.",
     "categories": [
@@ -573,7 +600,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 3304669,
+    "downloads": 3305164,
     "follows": 156,
     "icon_url": "https://cdn.modrinth.com/data/7lrBqj5C/069d6d465bff19c45a4573bb0054369f261ec1fd_96.webp",
     "date_created": "2022-08-31T18:51:22.694720+00:00",
@@ -591,6 +618,9 @@
     "project_type": "mod",
     "slug": "healing-campfire",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Healing Campfire",
     "description": "\ud83d\udd25\ud83e\ude79 Creates an area around the (soul) campfire where players and passive mobs receive regeneration.",
     "categories": [
@@ -640,7 +670,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 2496349,
+    "downloads": 2497260,
     "follows": 761,
     "icon_url": "https://cdn.modrinth.com/data/kOuPUitF/b85e2aa910202cffc6a5b9569dbd578480decad8_96.webp",
     "date_created": "2022-09-01T13:26:56.104570+00:00",
@@ -658,6 +688,9 @@
     "project_type": "mod",
     "slug": "inventory-totem",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Inventory Totem",
     "description": "\ud83c\udfb4 Makes the totem of undying effect work when it's anywhere in the inventory.",
     "categories": [
@@ -705,7 +738,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 2366731,
+    "downloads": 2368073,
     "follows": 871,
     "icon_url": "https://cdn.modrinth.com/data/yQj7xqEM/icon.png",
     "date_created": "2022-09-01T13:03:12.467696+00:00",
@@ -723,6 +756,9 @@
     "project_type": "mod",
     "slug": "easy-elytra-takeoff",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Easy Elytra Takeoff",
     "description": "\ud83d\udeeb Allows easy takeoff by elytra/colytra with a firework from the ground without jumping.",
     "categories": [
@@ -772,8 +808,8 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1858370,
-    "follows": 455,
+    "downloads": 1859068,
+    "follows": 456,
     "icon_url": "https://cdn.modrinth.com/data/3hqwGCUB/fbcd6cd4822316ee5530687729ec8969dca409e0_96.webp",
     "date_created": "2022-09-01T14:26:04.077179+00:00",
     "date_modified": "2026-04-09T23:56:03.931794+00:00",
@@ -790,6 +826,9 @@
     "project_type": "mod",
     "slug": "infinite-trading",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Infinite Trading",
     "description": "\u267e Prevents villager trades from locking up, making them always available. Trade away!",
     "categories": [
@@ -837,7 +876,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1735774,
+    "downloads": 1736932,
     "follows": 1148,
     "icon_url": "https://cdn.modrinth.com/data/U3eoZT3o/f296f38b5d5f1af699b3a8e290805d06fb2c3d8e_96.webp",
     "date_created": "2022-09-01T13:05:25.114116+00:00",
@@ -855,6 +894,9 @@
     "project_type": "mod",
     "slug": "dragon-drops-elytra",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Dragon Drops Elytra",
     "description": "\ud83d\udc09 A minimalistic mod that makes the Ender Dragon drop an elytra on death.",
     "categories": [
@@ -904,7 +946,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1525920,
+    "downloads": 1526497,
     "follows": 172,
     "icon_url": "https://cdn.modrinth.com/data/DPkbo3dg/8beeec13d1a1733b1e7188785dc14b5af6666efe_96.webp",
     "date_created": "2022-09-01T14:28:29.611225+00:00",
@@ -922,6 +964,9 @@
     "project_type": "mod",
     "slug": "stack-refill",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Stack Refill",
     "description": "\ud83d\udcda Automatically refills the player's hand when using the final item if a replacement exists.",
     "categories": [
@@ -967,7 +1012,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1485970,
+    "downloads": 1486937,
     "follows": 804,
     "icon_url": "https://cdn.modrinth.com/data/mQWkB9ON/629d108902dcfee2378c7ee0e48460ad80a369fa_96.webp",
     "date_created": "2022-08-31T19:00:29.974555+00:00",
@@ -985,6 +1030,9 @@
     "project_type": "mod",
     "slug": "village-spawn-point",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Village Spawn Point",
     "description": "\ud83c\udfd9 Sets the spawn point in a new world to the center of a village.",
     "categories": [
@@ -1034,7 +1082,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1277694,
+    "downloads": 1278258,
     "follows": 429,
     "icon_url": "https://cdn.modrinth.com/data/KplTt9Ku/d182b43a621ede83c53e8d6fcf3f5cf2376ea519_96.webp",
     "date_created": "2022-08-31T17:55:42.602557+00:00",
@@ -1052,6 +1100,9 @@
     "project_type": "mod",
     "slug": "fish-on-the-line",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Fish On The Line",
     "description": "\ud83d\udc1f Rings a bell held in the offhand when something's on the line while fishing.",
     "categories": [
@@ -1101,7 +1152,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1154031,
+    "downloads": 1154578,
     "follows": 276,
     "icon_url": "https://cdn.modrinth.com/data/R6PYx1PW/326fb03ca6e54ce124f153880e712f894edcafa3_96.webp",
     "date_created": "2022-09-01T13:55:01.573448+00:00",
@@ -1119,6 +1170,9 @@
     "project_type": "mod",
     "slug": "passive-shield",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Passive Shield",
     "description": "\ud83d\udee1 The shield is hidden and provides protection passively when held idle in the offhand.",
     "categories": [
@@ -1166,8 +1220,8 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1132935,
-    "follows": 323,
+    "downloads": 1133496,
+    "follows": 322,
     "icon_url": "https://cdn.modrinth.com/data/iQBrasyH/8a36d1dda1f0196fc1b63db829ad5b63badf0c71_96.webp",
     "date_created": "2022-09-01T10:01:33.577853+00:00",
     "date_modified": "2026-04-09T22:58:57.855570+00:00",
@@ -1184,6 +1238,9 @@
     "project_type": "mod",
     "slug": "realistic-bees",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Realistic Bees",
     "description": "\ud83d\udc1d Tiny bees, or big! Bigger group spawns, increased hive space, stinger functionality and more.",
     "categories": [
@@ -1233,7 +1290,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1121547,
+    "downloads": 1122203,
     "follows": 597,
     "icon_url": "https://cdn.modrinth.com/data/tG6HkcWx/b08580e8e7c38d2491ce93cb6ca2a642b881077e_96.webp",
     "date_created": "2022-09-01T09:29:31.569435+00:00",
@@ -1251,6 +1308,9 @@
     "project_type": "mod",
     "slug": "just-player-heads",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Just Player Heads",
     "description": "\ud83d\uddff Allows the collection of player heads via command or death event.",
     "categories": [
@@ -1301,7 +1361,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1109533,
+    "downloads": 1109880,
     "follows": 307,
     "icon_url": "https://cdn.modrinth.com/data/YdVBZMNR/a73dd2c85fe93e1f4bdfbb5ef08249299784031e_96.webp",
     "date_created": "2022-09-01T10:48:52.454591+00:00",
@@ -1319,6 +1379,9 @@
     "project_type": "mod",
     "slug": "biome-spawn-point",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Biome Spawn Point",
     "description": "\ud83c\udf32 Allows specifying which biome players will spawn in on new world creation.",
     "categories": [
@@ -1368,7 +1431,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1100802,
+    "downloads": 1101583,
     "follows": 192,
     "icon_url": "https://cdn.modrinth.com/data/mtfbtanr/983b3c1bdd63328088769c36f8a37c86e6c33f87_96.webp",
     "date_created": "2022-10-30T16:16:07.571757+00:00",
@@ -1386,6 +1449,9 @@
     "project_type": "mod",
     "slug": "weaker-spiderwebs",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Weaker Spiderwebs",
     "description": "\ud83d\udd78 Breaks spider webs/cobwebs with a configurable delay when walking through.",
     "categories": [
@@ -1433,7 +1499,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1075300,
+    "downloads": 1075599,
     "follows": 181,
     "icon_url": "https://cdn.modrinth.com/data/7L1HalIW/b98764ee54757ee13dc5ddf558ffd00abbcbb3c0_96.webp",
     "date_created": "2022-08-31T17:30:26.732142+00:00",
@@ -1451,6 +1517,9 @@
     "project_type": "mod",
     "slug": "scaffolding-drops-nearby",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Scaffolding Drops Nearby",
     "description": "\ud83c\udfd7 When breaking a scaffolding block, all chained blocks will drop at the block's position.",
     "categories": [
@@ -1496,7 +1565,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 995653,
+    "downloads": 995989,
     "follows": 412,
     "icon_url": "https://cdn.modrinth.com/data/uO522mgw/2faf4d3942f0edda2d88515b5cc1fb716b0dd3f1_96.webp",
     "date_created": "2022-09-01T09:07:15.311605+00:00",
@@ -1514,6 +1583,9 @@
     "project_type": "mod",
     "slug": "zombie-horse-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Zombie Horse Spawn",
     "description": "\ud83e\udddf\u200d\u2642\ud83d\udc34 Allows zombie horses to spawn with a zombie riding it and other tweaks.",
     "categories": [
@@ -1561,7 +1633,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 926963,
+    "downloads": 927285,
     "follows": 366,
     "icon_url": "https://cdn.modrinth.com/data/owDBGfRd/d78c8cbacb6bde5cfac9d65431b459216ead5071_96.webp",
     "date_created": "2022-08-31T17:04:48.837131+00:00",
@@ -1579,6 +1651,9 @@
     "project_type": "mod",
     "slug": "ore-harvester",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Ore Harvester",
     "description": "\u26cf\ufe0f Harvest entire ore veins instantly and drop ore items at the initial block position. An updated alternative to the vein miner / veinminer mods.",
     "categories": [
@@ -1618,7 +1693,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 912753,
+    "downloads": 913346,
     "follows": 529,
     "icon_url": "https://cdn.modrinth.com/data/Xiv4r347/6c92a717968467d811cb96d4f11f99256fe9665e_96.webp",
     "date_created": "2024-05-24T22:02:27.988829+00:00",
@@ -1636,6 +1711,9 @@
     "project_type": "mod",
     "slug": "skeleton-horse-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Skeleton Horse Spawn",
     "description": "\u2620\ud83d\udc34 Allows skeleton horses to spawn naturally with a skeleton riding it and other tweaks.",
     "categories": [
@@ -1683,7 +1761,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 864438,
+    "downloads": 864640,
     "follows": 354,
     "icon_url": "https://cdn.modrinth.com/data/ZcqNoW8j/d9a8c687ac9a02f2655e61ab73bfdef0573ba2b8_96.webp",
     "date_created": "2022-09-01T08:54:19.416156+00:00",
@@ -1701,6 +1779,9 @@
     "project_type": "mod",
     "slug": "shulker-drops-two",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Shulker Drops Two",
     "description": "\ud83d\udfea Allows Shulkers to drop two or more shells and ignore their default drop chance.",
     "categories": [
@@ -1748,7 +1829,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 848487,
+    "downloads": 849078,
     "follows": 274,
     "icon_url": "https://cdn.modrinth.com/data/UjXIyw47/a93abd8f006590e9bedbf8ffda5849c136a8e39e_96.webp",
     "date_created": "2022-09-01T09:02:59.893303+00:00",
@@ -1766,6 +1847,9 @@
     "project_type": "mod",
     "slug": "areas",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Areas",
     "description": "\u270d\ufe0f Create custom named regions/towns/zones with a radius using signs, with join/leave messages via GUI.",
     "categories": [
@@ -1815,7 +1899,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 847975,
+    "downloads": 848141,
     "follows": 446,
     "icon_url": "https://cdn.modrinth.com/data/NWvsqJ2Z/ac38a0abdb2ad76c014f3221fa82c649b220f192_96.webp",
     "date_created": "2022-09-01T15:43:14.157586+00:00",
@@ -1833,6 +1917,9 @@
     "project_type": "mod",
     "slug": "keep-my-soil-tilled",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Keep My Soil Tilled",
     "description": "\ud83c\udf31 Keeps farmland soil tilled below a stem block (melon/pumpkin) after harvesting.",
     "categories": [
@@ -1880,7 +1967,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 833673,
+    "downloads": 833928,
     "follows": 266,
     "icon_url": "https://cdn.modrinth.com/data/OC5Zubbe/3267eb5c895aba79777b5719fc26d50cd3547def_96.webp",
     "date_created": "2022-09-01T10:45:41.241251+00:00",
@@ -1898,6 +1985,9 @@
     "project_type": "mod",
     "slug": "just-mob-heads",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Just Mob Heads",
     "description": "\ud83d\uddff Adds a configurable chance for mobs to drop their head, using vanilla resources only.",
     "categories": [
@@ -1947,8 +2037,8 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 825789,
-    "follows": 458,
+    "downloads": 826053,
+    "follows": 459,
     "icon_url": "https://cdn.modrinth.com/data/jzTUm9hE/cb957412f605d0f74f10bd263c17198760fc2919_96.webp",
     "date_created": "2022-09-01T13:01:13.157733+00:00",
     "date_modified": "2026-04-09T23:21:11.730310+00:00",
@@ -1965,6 +2055,9 @@
     "project_type": "mod",
     "slug": "no-animal-tempt-delay",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "No Animal Tempt Delay",
     "description": "\ud83d\ude0d Removes the cooldown in between trying to attract animals with their desired food.",
     "categories": [
@@ -2008,7 +2101,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 785711,
+    "downloads": 786297,
     "follows": 264,
     "icon_url": "https://cdn.modrinth.com/data/7YM5AXYm/8d37f3454bf7c4e304060c7457dede25b6d5de55_96.webp",
     "date_created": "2023-12-24T06:43:59.577444+00:00",
@@ -2026,6 +2119,9 @@
     "project_type": "mod",
     "slug": "advancement-screenshot",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Advancement Screenshot",
     "description": "\ud83d\udcf8 Takes a screenshot every time an advancement is achieved. Document your progress!",
     "categories": [
@@ -2073,7 +2169,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 772522,
+    "downloads": 772611,
     "follows": 203,
     "icon_url": "https://cdn.modrinth.com/data/lU8KbfG2/e5ee1b50379623f906c0e46882b827ece26c8dc8_96.webp",
     "date_created": "2022-09-01T15:56:35.859396+00:00",
@@ -2091,6 +2187,9 @@
     "project_type": "mod",
     "slug": "grass-seeds",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Grass Seeds",
     "description": "\ud83c\udf31 Allows players to use normal seeds to transform dirt into (tall) grass.",
     "categories": [
@@ -2138,7 +2237,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 692265,
+    "downloads": 692670,
     "follows": 181,
     "icon_url": "https://cdn.modrinth.com/data/Y6d4uRJn/2adca83ef0059dd8d0a0267404cc329f809f13db_96.webp",
     "date_created": "2022-09-01T13:40:14.588433+00:00",
@@ -2156,6 +2255,9 @@
     "project_type": "mod",
     "slug": "gui-clock",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "GUI Clock",
     "description": "\u23f0 Shows the time/days played in the GUI/HUD with a clock in the inventory.",
     "categories": [
@@ -2202,7 +2304,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 632749,
+    "downloads": 632942,
     "follows": 561,
     "icon_url": "https://cdn.modrinth.com/data/g1yXisD2/5d3d238c75fd69a4939e17e81bcbe16c7cfc4ee3_96.webp",
     "date_created": "2022-09-01T13:35:51.900902+00:00",
@@ -2220,6 +2322,9 @@
     "project_type": "mod",
     "slug": "crying-portals",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Crying Portals",
     "description": "\ud83d\udfe3 Allows the creation of nether portals with crying obsidian blocks.",
     "categories": [
@@ -2267,7 +2372,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 629038,
+    "downloads": 629233,
     "follows": 228,
     "icon_url": "https://cdn.modrinth.com/data/3RkVNglH/6978d30c5b0ea1360ed49263a44fb83af8a89a82_96.webp",
     "date_created": "2022-09-01T14:46:14.711007+00:00",
@@ -2285,6 +2390,9 @@
     "project_type": "mod",
     "slug": "mooshroom-tweaks",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Mooshroom Tweaks",
     "description": "\ud83d\udc2e\ud83c\udf44 Allows both red and brown mooshrooms to spawn naturally in their biome.",
     "categories": [
@@ -2332,7 +2440,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 624970,
+    "downloads": 625139,
     "follows": 242,
     "icon_url": "https://cdn.modrinth.com/data/B10lMHiA/f98167c7e754265e9d744ff531969ac1dfc13de3_96.webp",
     "date_created": "2022-09-01T10:32:46.575749+00:00",
@@ -2350,6 +2458,9 @@
     "project_type": "mod",
     "slug": "no-hostiles-around-campfire",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "No Hostiles Around Campfire",
     "description": "\ud83d\udd25 Prevents hostile mob spawns and burns them around the campfire in a configurable radius.",
     "categories": [
@@ -2400,7 +2511,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 621532,
+    "downloads": 621752,
     "follows": 444,
     "icon_url": "https://cdn.modrinth.com/data/EJqeyaVz/cb29afc3c4fcd9929ef8ce5461afb0088be49586_96.webp",
     "date_created": "2022-09-01T10:15:22.548943+00:00",
@@ -2418,6 +2529,9 @@
     "project_type": "mod",
     "slug": "nether-portal-spread",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Nether Portal Spread",
     "description": "\ud83d\udd2e Spreads (nether) blocks to the overworld around nether portals in a configurable radius.",
     "categories": [
@@ -2467,7 +2581,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 596011,
+    "downloads": 596126,
     "follows": 237,
     "icon_url": "https://cdn.modrinth.com/data/z7UX4SHt/2be900e78b2d93430a76e635485b7b31a349f50c_96.webp",
     "date_created": "2022-09-01T10:18:31.843473+00:00",
@@ -2485,6 +2599,9 @@
     "project_type": "mod",
     "slug": "snowballs-freeze-mobs",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Snowballs Freeze Mobs",
     "description": "\u2603\ufe0f Hitting mobs with a snowball will freeze them for a configurable amount of time.",
     "categories": [
@@ -2532,7 +2649,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 589539,
+    "downloads": 589712,
     "follows": 155,
     "icon_url": "https://cdn.modrinth.com/data/ETKe9DNz/2bd8b13e3f8da2ff17f531ca7a9516c750f6c75b_96.webp",
     "date_created": "2022-09-01T08:44:55.426711+00:00",
@@ -2550,6 +2667,9 @@
     "project_type": "mod",
     "slug": "configurable-extra-mob-drops",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Configurable Extra Mob Drops",
     "description": "\u270f\ufe0f Add any extra item drops to entities via commands and config, drop chance supported.",
     "categories": [
@@ -2599,7 +2719,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 573525,
+    "downloads": 573884,
     "follows": 97,
     "icon_url": "https://cdn.modrinth.com/data/Gch9FNn6/9682f3ac26d6e3c5f015cecdf8a012c357a5a2f5_96.webp",
     "date_created": "2022-09-01T14:59:56.327908+00:00",
@@ -2617,6 +2737,9 @@
     "project_type": "mod",
     "slug": "despawning-eggs-hatch",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Despawning Eggs Hatch",
     "description": "\ud83e\udd5a Chicken eggs on hay blocks hatch safely into chicks just before they despawn.",
     "categories": [
@@ -2666,7 +2789,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 565093,
+    "downloads": 565244,
     "follows": 248,
     "icon_url": "https://cdn.modrinth.com/data/iKRtwScn/f1e3047b963f6fda356ced9e38be7600794e8489_96.webp",
     "date_created": "2022-09-01T14:37:22.755432+00:00",
@@ -2684,6 +2807,9 @@
     "project_type": "mod",
     "slug": "gui-compass",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "GUI Compass",
     "description": "\ud83e\udded Shows direction and coordinates in the GUI/HUD with a compass in the inventory.",
     "categories": [
@@ -2733,7 +2859,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 551575,
+    "downloads": 551681,
     "follows": 399,
     "icon_url": "https://cdn.modrinth.com/data/ZORMkttv/970eb687a664528252be5d77337badc505500584_96.webp",
     "date_created": "2022-09-01T13:33:41.561466+00:00",
@@ -2751,6 +2877,9 @@
     "project_type": "mod",
     "slug": "anvil-restoration",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Anvil Restoration",
     "description": "\ud83d\udd28 Repair placed anvils with iron ingots and damage them with obsidian.",
     "categories": [
@@ -2800,7 +2929,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 511813,
+    "downloads": 511926,
     "follows": 513,
     "icon_url": "https://cdn.modrinth.com/data/bd8nwTGy/f93ebbbfb43dbe7dd841666fdd5399009a7f805c_96.webp",
     "date_created": "2022-09-01T15:45:42.885714+00:00",
@@ -2818,6 +2947,9 @@
     "project_type": "mod",
     "slug": "replanting-crops",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Replanting Crops",
     "description": "\ud83c\udf31 Automatically replants/replaces/reseeds crops harvested with a hoe by using the drops. Works with wheat, carrots, potatoes, beetroots, netherwart and cocoa beans.",
     "categories": [
@@ -2865,7 +2997,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 507092,
+    "downloads": 507508,
     "follows": 471,
     "icon_url": "https://cdn.modrinth.com/data/EXzIPtJo/b9984c91f53225fb1f7167593942d85fe2b0b45e_96.webp",
     "date_created": "2022-09-01T09:18:47.242739+00:00",
@@ -2883,6 +3015,9 @@
     "project_type": "mod",
     "slug": "extended-bone-meal",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Extended Bone Meal",
     "description": "\u2618 Extends bonemeal behaviour. Instant grow with sneak, grow netherwart+cacti+sugarcane and other tweaks.",
     "categories": [
@@ -2930,7 +3065,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 492465,
+    "downloads": 492600,
     "follows": 157,
     "icon_url": "https://cdn.modrinth.com/data/bHkCoxMs/471a655b1abc8fc78e117db888512bc468b6c5c8_96.webp",
     "date_created": "2022-09-01T14:08:13.157990+00:00",
@@ -2948,6 +3083,9 @@
     "project_type": "mod",
     "slug": "hide-experimental-warning",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Hide Experimental Warning",
     "description": "\u274c Hides the Experimental Settings Warning when trying to create or load a modded world.",
     "categories": [
@@ -2986,7 +3124,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 482092,
+    "downloads": 482949,
     "follows": 165,
     "icon_url": "https://cdn.modrinth.com/data/Rm4OOdHd/5b8f8ce544079bceea65d17f603e65bc6eaa168b.png",
     "date_created": "2024-04-29T01:33:21.738178+00:00",
@@ -3004,6 +3142,9 @@
     "project_type": "mod",
     "slug": "random-village-names",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Random Village Names",
     "description": "\ud83c\udf06 All villages receive a randomized name, shown in the GUI via the Areas mod.",
     "categories": [
@@ -3053,7 +3194,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 481194,
+    "downloads": 481281,
     "follows": 279,
     "icon_url": "https://cdn.modrinth.com/data/N0ytbukx/a37c0884f37e224b236536869c27580cf4bf5784_96.webp",
     "date_created": "2022-09-01T16:10:24.886322+00:00",
@@ -3071,6 +3212,9 @@
     "project_type": "mod",
     "slug": "grindstone-sharper-tools",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Grindstone Sharper Tools",
     "description": "\u2694 The grindstone (wet stone) can temporarily increase the damage of tools used on it.",
     "categories": [
@@ -3118,7 +3262,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 471582,
+    "downloads": 471709,
     "follows": 161,
     "icon_url": "https://cdn.modrinth.com/data/p6y1z1Qa/53650f5969f17ccc2db1f9bf74ebf461f41a3361_96.webp",
     "date_created": "2022-09-01T13:37:56.984651+00:00",
@@ -3136,6 +3280,9 @@
     "project_type": "mod",
     "slug": "fixed-anvil-repair-cost",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Fixed Anvil Repair Cost",
     "description": "\ud83d\udcb0 Patches the anvil to set the default level cost, material cost and percentage repaired.",
     "categories": [
@@ -3183,7 +3330,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 438676,
+    "downloads": 438813,
     "follows": 229,
     "icon_url": "https://cdn.modrinth.com/data/jmLyNFBG/75bb048ffd21fa394c6a384d528af96b7e29e3e1_96.webp",
     "date_created": "2022-09-01T13:52:05.673144+00:00",
@@ -3201,6 +3348,9 @@
     "project_type": "mod",
     "slug": "random-shulker-colours",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Random Shulker Colours",
     "description": "\ud83c\udfb2 Gives new shulker spawns a random shell color based on a configurable list.",
     "categories": [
@@ -3248,7 +3398,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 432972,
+    "downloads": 433094,
     "follows": 80,
     "icon_url": "https://cdn.modrinth.com/data/mT4tJQIo/6bc04aeedfd3e7b927988f21a19e366e3036a945_96.webp",
     "date_created": "2022-09-01T09:31:21.793198+00:00",
@@ -3266,6 +3416,9 @@
     "project_type": "mod",
     "slug": "simple-menu",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Simple Menu",
     "description": "\ud83d\uddbc\ufe0f Adds basic functionality to edit the style and buttons of Minecraft's main menu, change the window title and set a new icon.",
     "categories": [
@@ -3307,7 +3460,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 412074,
+    "downloads": 412343,
     "follows": 62,
     "icon_url": "https://cdn.modrinth.com/data/6pdhya1q/1e72c37b247e7b09ad156e1b8ada3c937543ba6e.png",
     "date_created": "2024-02-25T23:35:44.204214+00:00",
@@ -3325,6 +3478,9 @@
     "project_type": "mod",
     "slug": "more-zombie-villagers",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "More Zombie Villagers",
     "description": "\ud83e\udddf\u200d\u2640\ufe0f\ud83c\udf3e Allows changing the default chance a zombie spawns as the villager variant.",
     "categories": [
@@ -3370,7 +3526,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 380976,
+    "downloads": 381060,
     "follows": 123,
     "icon_url": "https://cdn.modrinth.com/data/xu15hkKT/fe0143f7bdce61d73b9952876ecaafe68b51f704_96.webp",
     "date_created": "2022-09-01T10:30:05.764533+00:00",
@@ -3388,6 +3544,9 @@
     "project_type": "mod",
     "slug": "giant-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Giant Spawn",
     "description": "\ud83e\udddf\u200d\u2642\ufe0f Allows giants to spawn naturally with custom AI (based on zombies) and other tweaks.",
     "categories": [
@@ -3433,7 +3592,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 376990,
+    "downloads": 377069,
     "follows": 190,
     "icon_url": "https://cdn.modrinth.com/data/iWwn7s9U/9febacb7443fbf3d823ea8c0b7549d7f1ea9d7dc_96.webp",
     "date_created": "2022-09-01T13:42:53.432995+00:00",
@@ -3451,6 +3610,9 @@
     "project_type": "mod",
     "slug": "followers-teleport-too",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Followers Teleport Too",
     "description": "\ud83d\udc3a Whenever a player is teleported via a command, their pets will be teleported alongside them.",
     "categories": [
@@ -3500,7 +3662,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 369084,
+    "downloads": 369202,
     "follows": 385,
     "icon_url": "https://cdn.modrinth.com/data/E5YVNsbH/7ca2c975910f4d74290d3644d3a12070efd92513_96.webp",
     "date_created": "2022-09-27T21:49:37.174932+00:00",
@@ -3518,6 +3680,9 @@
     "project_type": "mod",
     "slug": "first-join-message",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "First Join Message",
     "description": "\ud83d\udcac Sends players who join a world for the first time a configurable message.",
     "categories": [
@@ -3567,7 +3732,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 358032,
+    "downloads": 358117,
     "follows": 110,
     "icon_url": "https://cdn.modrinth.com/data/Ppny3rjF/1c2f36ebbf34329c88fd500aff570b3b0a352e61_96.webp",
     "date_created": "2022-09-01T13:57:07.914191+00:00",
@@ -3585,6 +3750,9 @@
     "project_type": "mod",
     "slug": "spiders-produce-webs",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Spiders Produce Webs",
     "description": "\ud83d\udd77 Spiders and cave spiders can periodically produce a cobweb/spiderweb when a player is close.",
     "categories": [
@@ -3632,7 +3800,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 342931,
+    "downloads": 343074,
     "follows": 197,
     "icon_url": "https://cdn.modrinth.com/data/NoznOJXq/5d300edf228dc458ed97cade5647bb041b62bdc7_96.webp",
     "date_created": "2022-09-01T08:37:01.106535+00:00",
@@ -3650,6 +3818,9 @@
     "project_type": "mod",
     "slug": "grabby-mobs",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Grabby Mobs",
     "description": "\ud83d\udc7e Allows all mobs which can carry equipment to pick up items from the floor.",
     "categories": [
@@ -3697,7 +3868,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 336157,
+    "downloads": 336228,
     "follows": 191,
     "icon_url": "https://cdn.modrinth.com/data/O6Sh7btX/b4f2a56ef6bb9024b457ad5db218fea74817f9f5_96.webp",
     "date_created": "2023-06-27T01:10:59.288940+00:00",
@@ -3715,6 +3886,9 @@
     "project_type": "mod",
     "slug": "name-tag-tweaks",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Name Tag Tweaks",
     "description": "\ud83d\udcdb Adds nametag crafting recipe, command, and named entities drop their tag on death.",
     "categories": [
@@ -3762,7 +3936,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 329576,
+    "downloads": 329844,
     "follows": 188,
     "icon_url": "https://cdn.modrinth.com/data/LrLZEnPl/bf6e7d4d1634dac20848db354a55343cf6323a05_96.webp",
     "date_created": "2022-09-01T10:24:07.551385+00:00",
@@ -3780,6 +3954,9 @@
     "project_type": "mod",
     "slug": "better-conduit-placement",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Better Conduit Placement",
     "description": "\u2714\ufe0f Place conduits in front, makes placing conduit prismarine blocks easier and other tweaks.",
     "categories": [
@@ -3825,7 +4002,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 328595,
+    "downloads": 328714,
     "follows": 69,
     "icon_url": "https://cdn.modrinth.com/data/lRF5nzIz/d409e68a29c2ab75ae7e0dcff0f6c1773d3c4fc2_96.webp",
     "date_created": "2022-09-01T15:29:19.951120+00:00",
@@ -3843,6 +4020,9 @@
     "project_type": "mod",
     "slug": "smaller-nether-portals",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Smaller Nether Portals",
     "description": "\ud83d\udd2e Allows the creation of smaller nether portals, specifically 1x2, 1x3 and 2x2.",
     "categories": [
@@ -3890,7 +4070,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 325850,
+    "downloads": 325996,
     "follows": 174,
     "icon_url": "https://cdn.modrinth.com/data/fYAofsi6/bc6a8bbca8d0ae8fb4800ac30918910d06e60a37_96.webp",
     "date_created": "2022-09-01T08:48:40.475454+00:00",
@@ -3908,6 +4088,9 @@
     "project_type": "mod",
     "slug": "overworld-piglins",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Overworld Piglins",
     "description": "\ud83d\udc37 Makes Piglins and Hoglins be able to survive in the overworld, unless they're weakened.",
     "categories": [
@@ -3954,7 +4137,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 322288,
+    "downloads": 322358,
     "follows": 96,
     "icon_url": "https://cdn.modrinth.com/data/jKFstkn1/acc10e9a33963282209acc6ca4c4a09e87c667f0_96.webp",
     "date_created": "2023-06-29T01:19:32.453243+00:00",
@@ -3972,6 +4155,9 @@
     "project_type": "mod",
     "slug": "furnace-recycle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Furnace Recycle",
     "description": "\ud83d\udd28 All metal-containing items are recyclable in a furnace and return raw materials.",
     "categories": [
@@ -4017,7 +4203,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 312837,
+    "downloads": 312952,
     "follows": 249,
     "icon_url": "https://cdn.modrinth.com/data/HyKmtI3L/a30124c0ece399b86c8f7dac935499357d355373_96.webp",
     "date_created": "2022-09-01T13:46:40.243166+00:00",
@@ -4035,6 +4221,9 @@
     "project_type": "mod",
     "slug": "surface-mushrooms",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Surface Mushrooms",
     "description": "\ud83c\udf44 Mushrooms can be placed on the surface in daylight and in any brightness.",
     "categories": [
@@ -4082,7 +4271,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 308158,
+    "downloads": 308268,
     "follows": 81,
     "icon_url": "https://cdn.modrinth.com/data/Jch00SNX/d6e056b3573e2dc44738f1109dbdf7644f27d5cd_96.webp",
     "date_created": "2022-08-31T18:49:04.407348+00:00",
@@ -4100,6 +4289,9 @@
     "project_type": "mod",
     "slug": "naturally-charged-creepers",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Naturally Charged Creepers",
     "description": "\ud83d\udd0b Allows creepers to spawn charged in order to increase the game's difficulty.",
     "categories": [
@@ -4147,7 +4339,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 298457,
+    "downloads": 298546,
     "follows": 201,
     "icon_url": "https://cdn.modrinth.com/data/j5LquiGA/e7d76bc90694dbdf81d52e5ddb5f4f01b94225a7_96.webp",
     "date_created": "2022-09-01T10:21:47.086235+00:00",
@@ -4165,6 +4357,9 @@
     "project_type": "mod",
     "slug": "move-boats",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Move Boats",
     "description": "\ud83d\udef6 Allows players to easily move boats without breaking them by holding right click.",
     "categories": [
@@ -4210,7 +4405,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 286868,
+    "downloads": 286907,
     "follows": 170,
     "icon_url": "https://cdn.modrinth.com/data/7qPEjpyt/3566e5cd23163fc4ebdc383b0f81730f58827418_96.webp",
     "date_created": "2022-09-01T10:28:09.175049+00:00",
@@ -4228,6 +4423,9 @@
     "project_type": "mod",
     "slug": "beautified-chat-client",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Beautified Chat [Client]",
     "description": "\ud83d\udcac A highly configurable mod to change the chat style and colour on the client.",
     "categories": [
@@ -4273,7 +4471,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 279836,
+    "downloads": 280003,
     "follows": 182,
     "icon_url": "https://cdn.modrinth.com/data/mtIxmNw5/0494a6ad27a330998c34055b8a99598f8711c07d_96.webp",
     "date_created": "2022-09-01T15:38:52.832104+00:00",
@@ -4291,6 +4489,9 @@
     "project_type": "mod",
     "slug": "move-minecarts",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Move Minecarts",
     "description": "\ud83d\uded2 Easily pick up and move minecarts without breaking them by holding right click.",
     "categories": [
@@ -4336,7 +4537,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 273478,
+    "downloads": 273493,
     "follows": 130,
     "icon_url": "https://cdn.modrinth.com/data/JpVB2WA8/179ca42fec002f42eaeec5357fce558de42cb14b_96.webp",
     "date_created": "2022-09-01T10:26:35.907184+00:00",
@@ -4354,6 +4555,9 @@
     "project_type": "mod",
     "slug": "softer-hay-bales",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Softer Hay Bales",
     "description": "\ud83c\udf3e Makes hay bales negate fall damage entirely, Assassin's Creed style.",
     "categories": [
@@ -4403,7 +4607,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 272229,
+    "downloads": 272333,
     "follows": 167,
     "icon_url": "https://cdn.modrinth.com/data/RtmujAUl/0905f5f2f4798b795d0b0b8ef5134eb4668eb64f_96.webp",
     "date_created": "2022-09-01T08:42:36.910947+00:00",
@@ -4421,6 +4625,9 @@
     "project_type": "mod",
     "slug": "bouncier-beds",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Bouncier Beds",
     "description": "\ud83d\udecf Makes players bounce configurably higher on beds and prevents fall damage on them.",
     "categories": [
@@ -4468,7 +4675,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 268146,
+    "downloads": 268197,
     "follows": 68,
     "icon_url": "https://cdn.modrinth.com/data/DqIJgy14/e310e6320a09508fce3ec044817d08c8d4415a3f_96.webp",
     "date_created": "2022-09-01T15:16:35.713821+00:00",
@@ -4486,6 +4693,9 @@
     "project_type": "mod",
     "slug": "zombie-villagers-from-spawner",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Zombie Villagers From Spawner",
     "description": "\ud83e\udddf\u200d\u2642 Returns the ability for zombie spawners to spawn the villager variant, removed in 1.11.",
     "categories": [
@@ -4531,7 +4741,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 253388,
+    "downloads": 253558,
     "follows": 100,
     "icon_url": "https://cdn.modrinth.com/data/wQlT8uIq/88f708cf6ad6186527080dab4a830ef375789611_96.webp",
     "date_created": "2022-08-31T16:54:13.892323+00:00",
@@ -4549,6 +4759,9 @@
     "project_type": "mod",
     "slug": "sleep-sooner",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Sleep Sooner",
     "description": "\ud83d\udecc Also Sleep Later! Make players go to bed at a different time.",
     "categories": [
@@ -4598,7 +4811,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 252832,
+    "downloads": 252889,
     "follows": 108,
     "icon_url": "https://cdn.modrinth.com/data/NHjSAFFN/84c50520332a68af16219348099e5f5f9bc28faa_96.webp",
     "date_created": "2022-09-01T08:52:09.121706+00:00",
@@ -4616,6 +4829,9 @@
     "project_type": "mod",
     "slug": "cycle-paintings",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Cycle Paintings",
     "description": "\ud83d\uddbc\ufe0f Easily cycle through placed paintings by right-clicking them with another painting in hand.",
     "categories": [
@@ -4662,7 +4878,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 232983,
+    "downloads": 233070,
     "follows": 385,
     "icon_url": "https://cdn.modrinth.com/data/c85whkNB/419e8bc32e8ab5b7b63a7388c1319106365f99e1_96.webp",
     "date_created": "2022-09-01T14:43:37.108560+00:00",
@@ -4680,6 +4896,9 @@
     "project_type": "mod",
     "slug": "welcome-message",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Welcome Message",
     "description": "\u2709\ufe0f Easy to configure welcome messages for server players logging in with URL support.",
     "categories": [
@@ -4727,7 +4946,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 230719,
+    "downloads": 231227,
     "follows": 103,
     "icon_url": "https://cdn.modrinth.com/data/DMK2eYu7/d8fc979809590ace6c14f52c300841da4f3d62c1_96.webp",
     "date_created": "2022-08-31T17:22:00.607882+00:00",
@@ -4745,6 +4964,9 @@
     "project_type": "mod",
     "slug": "bigger-sponge-absorption-radius",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Bigger Sponge Absorption Radius",
     "description": "\ud83e\uddfd Each extra sponge block placed next to one another increases the water absorption radius.",
     "categories": [
@@ -4792,7 +5014,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 221781,
+    "downloads": 221883,
     "follows": 116,
     "icon_url": "https://cdn.modrinth.com/data/3PLAyBxz/f2778bac8c7be0e293724f7fa440079daa4177f9_96.webp",
     "date_created": "2022-09-01T15:23:56.996963+00:00",
@@ -4810,6 +5032,9 @@
     "project_type": "mod",
     "slug": "better-spawner-control",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Better Spawner Control",
     "description": "\u2714\ufe0f Disables mob spawners whenever they are surrounded by 5 torches.",
     "categories": [
@@ -4859,7 +5084,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 212387,
+    "downloads": 212437,
     "follows": 261,
     "icon_url": "https://cdn.modrinth.com/data/hmAeYRJT/6579aad851762ac90f8a8eb6ffc784d59eb43eb3_96.webp",
     "date_created": "2022-09-01T15:26:00.327749+00:00",
@@ -4877,6 +5102,9 @@
     "project_type": "mod",
     "slug": "campfire-spawn-and-tweaks",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Campfire Spawn and Tweaks",
     "description": "\ud83d\udd25 Respawn interdimensionally with short fire resistance inside a preferred campfire with altered block mechanics. Place unlit, lighting it will create a home camp spawn point. Remove waterlogging.",
     "categories": [
@@ -4924,7 +5152,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 212192,
+    "downloads": 212434,
     "follows": 79,
     "icon_url": "https://cdn.modrinth.com/data/wcTF0Tg1/0a230566303e27c4c6729f91787aec670506cadf_96.webp",
     "date_created": "2022-09-01T15:10:19.697281+00:00",
@@ -4942,6 +5170,9 @@
     "project_type": "mod",
     "slug": "crying-ghasts",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Crying Ghasts",
     "description": "\ud83d\ude2d Ghasts drop their tears periodically when a player is close, allowing sustainable farming.",
     "categories": [
@@ -4989,7 +5220,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 210873,
+    "downloads": 210901,
     "follows": 146,
     "icon_url": "https://cdn.modrinth.com/data/SFBuyD9e/043740c058ff08374a51234fd9308140f3538db6_96.webp",
     "date_created": "2022-09-01T14:48:28.287048+00:00",
@@ -5007,6 +5238,9 @@
     "project_type": "mod",
     "slug": "wool-tweaks",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Wool Tweaks",
     "description": "\ud83d\udc11 Makes various changes to wool-type block recipes, string conversion and the dyeing process.",
     "categories": [
@@ -5056,7 +5290,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 210240,
+    "downloads": 210276,
     "follows": 158,
     "icon_url": "https://cdn.modrinth.com/data/lqQsKUma/0f45c713121b7ae655977ec2566f954d7e570dbd_96.webp",
     "date_created": "2022-08-31T17:19:34.961082+00:00",
@@ -5074,6 +5308,9 @@
     "project_type": "mod",
     "slug": "better-beacon-placement",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Better Beacon Placement",
     "description": "\u2714\ufe0f Easily place beacon bases by right-clicking the beacons with mineral blocks.",
     "categories": [
@@ -5119,7 +5356,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 208251,
+    "downloads": 208334,
     "follows": 236,
     "icon_url": "https://cdn.modrinth.com/data/GOKA9KZY/6c4fe0b8f6b498fb0a7f3090b60dabb2494cd886_96.webp",
     "date_created": "2022-09-01T15:34:01.320118+00:00",
@@ -5137,6 +5374,9 @@
     "project_type": "mod",
     "slug": "underwater-enchanting",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Underwater Enchanting",
     "description": "\ud83c\udf0a Allows the use of the enchantment table under water with maximum levels via bookshelves.",
     "categories": [
@@ -5179,7 +5419,7 @@
       "1.21.10",
       "1.21.11"
     ],
-    "downloads": 205673,
+    "downloads": 205755,
     "follows": 81,
     "icon_url": "https://cdn.modrinth.com/data/e8JtTY4h/d453e51aee56d79bafad1fa9827247a028b63dc5_96.webp",
     "date_created": "2022-08-31T18:32:44.456254+00:00",
@@ -5197,6 +5437,9 @@
     "project_type": "mod",
     "slug": "hide-hands",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Hide Hands",
     "description": "\ud83d\ude4c Hide your offhand and/or main hand in first person, optionally while holding specific items like a torch, totem of undying or a shield.",
     "categories": [
@@ -5246,7 +5489,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 203973,
+    "downloads": 204019,
     "follows": 81,
     "icon_url": "https://cdn.modrinth.com/data/HIhV91PH/addb3586c49120daf416c85b788da78edb82ec34_96.webp",
     "date_created": "2022-09-01T13:19:15.399074+00:00",
@@ -5264,6 +5507,9 @@
     "project_type": "mod",
     "slug": "zombie-proof-doors",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Zombie Proof Doors",
     "description": "\ud83e\udddf\u200d\u2642 Prevents zombies from targeting and breaking down doors.",
     "categories": [
@@ -5311,7 +5557,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 202398,
+    "downloads": 202493,
     "follows": 111,
     "icon_url": "https://cdn.modrinth.com/data/hDKfXb0T/d8820ca1edaf557d58e6df5bb5a6f8982162ed85_96.webp",
     "date_created": "2022-08-31T17:00:37.708560+00:00",
@@ -5329,6 +5575,9 @@
     "project_type": "mod",
     "slug": "your-items-are-safe",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Your Items Are Safe",
     "description": "\ud83d\udc80 Spawns a chest and armor stand with player items on death, a gravestone alternative.",
     "categories": [
@@ -5378,7 +5627,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 169906,
+    "downloads": 169958,
     "follows": 301,
     "icon_url": "https://cdn.modrinth.com/data/lL35xmSR/5305dd29b04284516c992303eb9cea9d802e1f70_96.webp",
     "date_created": "2022-08-31T17:10:29.823506+00:00",
@@ -5396,6 +5645,9 @@
     "project_type": "mod",
     "slug": "flower-mimics",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Flower Mimics",
     "description": "\ud83d\udc7b SpookyJam 2023: Be careful around flowers at night.. they might transform into monsters!",
     "categories": [
@@ -5443,7 +5695,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 167839,
+    "downloads": 167897,
     "follows": 90,
     "icon_url": "https://cdn.modrinth.com/data/1r5vvCad/e3f1b4c0dda6b63bd95873ce752dc83029493baf_96.webp",
     "date_created": "2023-10-31T14:55:43.224302+00:00",
@@ -5461,6 +5713,9 @@
     "project_type": "mod",
     "slug": "mineral-chance",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Mineral Chance",
     "description": "\ud83d\udc8e Players can find minerals inside stone-type blocks when mining in the overworld and nether.",
     "categories": [
@@ -5508,7 +5763,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 161103,
+    "downloads": 161159,
     "follows": 211,
     "icon_url": "https://cdn.modrinth.com/data/bu1hACOl/be4c19e4f4952b2d0bf35f4cb1b1da24860fe55a_96.webp",
     "date_created": "2022-09-01T10:37:23.346021+00:00",
@@ -5526,6 +5781,9 @@
     "project_type": "mod",
     "slug": "extract-poison",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Extract Poison",
     "description": "\ud83d\udc0d Extract poison from cave spiders, pufferfish and bees with an empty glass bottle.",
     "categories": [
@@ -5575,7 +5833,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 153145,
+    "downloads": 153163,
     "follows": 119,
     "icon_url": "https://cdn.modrinth.com/data/S4eFpJFD/7e7e2c6a8d256147146ae67b21466f48ce50f032_96.webp",
     "date_created": "2022-09-01T14:03:50.354474+00:00",
@@ -5593,6 +5851,9 @@
     "project_type": "mod",
     "slug": "husk-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Husk Spawn",
     "description": "\ud83c\udfdc Adds a chance for husks to spawn naturally everywhere in place of a zombie.",
     "categories": [
@@ -5638,7 +5899,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 152635,
+    "downloads": 152668,
     "follows": 67,
     "icon_url": "https://cdn.modrinth.com/data/pfNveXQV/6e240288397147999a168112d389a39eb1e2e35d_96.webp",
     "date_created": "2022-09-01T13:12:15.032501+00:00",
@@ -5656,6 +5917,9 @@
     "project_type": "mod",
     "slug": "quick-right-click",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Quick Right-Click",
     "description": "\u270b Adds a portable functionality to certain items, which allows for quick access without placement. Works with beds, crafting tables, ender chests and shulker boxes among others.",
     "categories": [
@@ -5700,7 +5964,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 149105,
+    "downloads": 149179,
     "follows": 184,
     "icon_url": "https://cdn.modrinth.com/data/e8mI328p/48cd9f410b080324394c27fbb2fd5e34dde706fa_96.webp",
     "date_created": "2023-06-25T19:43:39.006658+00:00",
@@ -5718,6 +5982,9 @@
     "project_type": "mod",
     "slug": "random-bone-meal-flowers",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Random Bone Meal Flowers",
     "description": "\ud83c\udfb2 Randomizes the flowers spawned by bonemeal, allowing all (modded) types to spawn everywhere.",
     "categories": [
@@ -5767,7 +6034,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 148034,
+    "downloads": 148066,
     "follows": 170,
     "icon_url": "https://cdn.modrinth.com/data/17enPZMC/8e621f9d6994ef5d51f3b6dff5e68cc1a60f2d93_96.webp",
     "date_created": "2022-09-01T09:39:57.607988+00:00",
@@ -5785,6 +6052,9 @@
     "project_type": "mod",
     "slug": "bottle-your-xp",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Bottle Your Xp",
     "description": "\ud83c\udf7e Allows the creation of experience bottles (bottles o' enchanting) from your own gathered xp.",
     "categories": [
@@ -5832,7 +6102,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 144663,
+    "downloads": 144699,
     "follows": 268,
     "icon_url": "https://cdn.modrinth.com/data/bG2afBot/2d76f4be03173eb4b3761e2da4c0e6456d8ad239_96.webp",
     "date_created": "2022-09-01T15:21:55.206592+00:00",
@@ -5850,6 +6120,9 @@
     "project_type": "mod",
     "slug": "bottled-air",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Bottled Air",
     "description": "\ud83c\udf7e Allows players to breathe in empty glass bottles under water for more oxygen.",
     "categories": [
@@ -5899,7 +6172,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 140606,
+    "downloads": 140659,
     "follows": 203,
     "icon_url": "https://cdn.modrinth.com/data/hvrrNux3/be30640d7deee15e50118e6703e16ff59e56f923_96.webp",
     "date_created": "2022-09-01T15:19:41.643216+00:00",
@@ -5917,6 +6190,9 @@
     "project_type": "mod",
     "slug": "starter-structure",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Starter Structure",
     "description": "\ud83c\udfdb\ufe0f Allows the creation of buildings on initial world generation at spawn via schematic files.",
     "categories": [
@@ -5963,7 +6239,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 138071,
+    "downloads": 138131,
     "follows": 94,
     "icon_url": "https://cdn.modrinth.com/data/gi80Z09B/786e8993a8b269838353dc105e947be6a01ed835.png",
     "date_created": "2022-12-18T21:44:04.169024+00:00",
@@ -5981,6 +6257,9 @@
     "project_type": "mod",
     "slug": "what-durability",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "What Durability?",
     "description": "\u274c Removes all durability from items, allowing infinite uses. Similar to Terraria and Stardew Valley.",
     "categories": [
@@ -6021,7 +6300,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 134561,
+    "downloads": 134687,
     "follows": 117,
     "icon_url": "https://cdn.modrinth.com/data/lKY2kyjj/4e124d5111fb55510ab8768aedb2e7458fd0e963.png",
     "date_created": "2024-03-02T02:35:46.380837+00:00",
@@ -6039,6 +6318,9 @@
     "project_type": "mod",
     "slug": "mooshroom-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Mooshroom Spawn",
     "description": "\ud83d\udc2e\ud83c\udf44 Adds a chance for mooshrooms to spawn naturally everywhere in place of a cow.",
     "categories": [
@@ -6084,7 +6366,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 132811,
+    "downloads": 132826,
     "follows": 54,
     "icon_url": "https://cdn.modrinth.com/data/Gx3OPAlS/38a17c1a23b22d7640cfd05f23c38a1a6b56afc5_96.webp",
     "date_created": "2022-09-01T10:35:02.254866+00:00",
@@ -6102,6 +6384,9 @@
     "project_type": "mod",
     "slug": "respawning-shulkers",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Respawning Shulkers",
     "description": "\ud83d\udfea Shulkers will respawn at their death location after a configurable delay, farm shells sustainably.",
     "categories": [
@@ -6151,7 +6436,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 129685,
+    "downloads": 129718,
     "follows": 189,
     "icon_url": "https://cdn.modrinth.com/data/gHCmhGUV/8d0a0104b77a23983c17dd79f4f4b25af1ce2012_96.webp",
     "date_created": "2022-09-01T09:12:38.702510+00:00",
@@ -6169,6 +6454,9 @@
     "project_type": "mod",
     "slug": "always-a-wither-skull",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Always a Wither Skull",
     "description": "\u2620 Makes wither skeletons always drop their skull on death.",
     "categories": [
@@ -6214,7 +6502,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 129468,
+    "downloads": 129501,
     "follows": 131,
     "icon_url": "https://cdn.modrinth.com/data/RH07bruJ/1566cab377754714234d60772575643cad7ed951_96.webp",
     "date_created": "2022-09-01T15:48:11.515957+00:00",
@@ -6232,6 +6520,9 @@
     "project_type": "mod",
     "slug": "enchanting-commands",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Enchanting Commands",
     "description": "\ud83d\udcab Easy creation of (modded) enchanted items via commands with levels above the default limit.",
     "categories": [
@@ -6279,7 +6570,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 126261,
+    "downloads": 126297,
     "follows": 143,
     "icon_url": "https://cdn.modrinth.com/data/w8ljvewX/bd09d1e08287f4644202c967f4a5b3f0f2d9debe_96.webp",
     "date_created": "2022-09-01T14:19:10.306734+00:00",
@@ -6297,6 +6588,9 @@
     "project_type": "mod",
     "slug": "recast",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Recast",
     "description": "\ud83c\udfa3 Automatically re-casts the fishing rod line for a player when an item is caught.",
     "categories": [
@@ -6346,7 +6640,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 122783,
+    "downloads": 122814,
     "follows": 176,
     "icon_url": "https://cdn.modrinth.com/data/8TWzoOby/b1f81e775eb3aac9d175fd4834590c9b58e5be57_96.webp",
     "date_created": "2022-09-01T09:25:14.508719+00:00",
@@ -6364,6 +6658,9 @@
     "project_type": "mod",
     "slug": "persistent-inventory-search",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Persistent Inventory Search",
     "description": "\ud83d\udd0e Makes search queries remain inside the creative inventory during tab switching and closing.",
     "categories": [
@@ -6408,7 +6705,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 122197,
+    "downloads": 122271,
     "follows": 92,
     "icon_url": "https://cdn.modrinth.com/data/KYSUUp57/6b2508302241d3d68a493f788efd8e3011a89748.png",
     "date_created": "2023-06-25T02:22:26.951037+00:00",
@@ -6426,6 +6723,9 @@
     "project_type": "mod",
     "slug": "pet-names",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Pet Names",
     "description": "\ud83d\udc08 Gives tamable baby animals a pre-defined name.",
     "categories": [
@@ -6473,7 +6773,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 121782,
+    "downloads": 121811,
     "follows": 125,
     "icon_url": "https://cdn.modrinth.com/data/tOoh2eQm/3d1a0fd36bc55c1c64686c1dd1ed355c904625eb_96.webp",
     "date_created": "2022-09-01T09:58:02.609320+00:00",
@@ -6491,6 +6791,9 @@
     "project_type": "mod",
     "slug": "no-feather-trample",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "No Feather Trample",
     "description": "\ud83e\udeb6 Prevents farmland blocks from being trampled while having Feather/Slow Falling.",
     "categories": [
@@ -6532,7 +6835,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 121030,
+    "downloads": 121083,
     "follows": 181,
     "icon_url": "https://cdn.modrinth.com/data/VmGOLJeH/d5914c5b7fa4e030df4174aa6e55988f7b53d892_96.webp",
     "date_created": "2023-12-17T03:57:33.002519+00:00",
@@ -6550,6 +6853,9 @@
     "project_type": "mod",
     "slug": "gui-followers",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "GUI Followers",
     "description": "\ud83d\udc3a Shows a list in the GUI/HUD of all tamed non-sitting followers around.",
     "categories": [
@@ -6597,7 +6903,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 119975,
+    "downloads": 119998,
     "follows": 282,
     "icon_url": "https://cdn.modrinth.com/data/hTGmExq6/1f70beedd4d376b49b5e55c0b48a308f70865192_96.webp",
     "date_created": "2022-09-01T13:31:29.897995+00:00",
@@ -6615,6 +6921,9 @@
     "project_type": "mod",
     "slug": "hidden-recipe-book",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Hidden Recipe Book",
     "description": "\ud83d\udcd7 Toggle the visiblity of the recipe book icon in crafting GUI screens.",
     "categories": [
@@ -6662,7 +6971,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 118358,
+    "downloads": 118500,
     "follows": 59,
     "icon_url": "https://cdn.modrinth.com/data/NbPqFmZs/f1a464a6c994789e9c5849e3089fc9d4a0a06d28_96.webp",
     "date_created": "2022-09-01T13:22:52.758986+00:00",
@@ -6680,6 +6989,9 @@
     "project_type": "mod",
     "slug": "villager-death-messages",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Villager Death Messages",
     "description": "\u26b0 Broadcasts an informational death message whenever a villager passes away.",
     "categories": [
@@ -6727,7 +7039,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 117372,
+    "downloads": 117403,
     "follows": 215,
     "icon_url": "https://cdn.modrinth.com/data/9uICvZTr/3e5b59cac3eb74edb815126547bba7ea418377f8_96.webp",
     "date_created": "2022-08-31T17:49:59.845366+00:00",
@@ -6741,77 +7053,13 @@
     "color": 5588020
   },
   {
-    "project_id": "kpKchl4x",
-    "project_type": "mod",
-    "slug": "conduits-prevent-drowned",
-    "author": "Serilum",
-    "title": "Conduits Prevent Drowned",
-    "description": "\u274c Disables drowned zombie spawns around the player when the conduit effect is active.",
-    "categories": [
-      "fabric",
-      "forge",
-      "game-mechanics",
-      "mobs",
-      "neoforge",
-      "quilt",
-      "utility"
-    ],
-    "display_categories": [
-      "fabric",
-      "forge",
-      "game-mechanics",
-      "mobs",
-      "neoforge",
-      "quilt",
-      "utility"
-    ],
-    "versions": [
-      "1.16.5",
-      "1.18.2",
-      "1.19.2",
-      "1.19.3",
-      "1.19.4",
-      "1.20",
-      "1.20.1",
-      "1.20.2",
-      "1.20.3",
-      "1.20.4",
-      "1.20.5",
-      "1.20.6",
-      "1.21",
-      "1.21.1",
-      "1.21.2",
-      "1.21.3",
-      "1.21.4",
-      "1.21.5",
-      "1.21.6",
-      "1.21.7",
-      "1.21.8",
-      "1.21.9",
-      "1.21.10",
-      "1.21.11",
-      "26.1",
-      "26.1.1",
-      "26.1.2"
-    ],
-    "downloads": 114785,
-    "follows": 128,
-    "icon_url": "https://cdn.modrinth.com/data/kpKchl4x/0051edcc7bc699ae49a44b25212abae1e76cefd0_96.webp",
-    "date_created": "2022-09-01T15:04:51.206792+00:00",
-    "date_modified": "2026-04-10T00:12:36.885687+00:00",
-    "latest_version": "YPfD21mM",
-    "license": "LicenseRef-All-Rights-Reserved",
-    "client_side": "unsupported",
-    "server_side": "required",
-    "gallery": [],
-    "featured_gallery": null,
-    "color": 5787709
-  },
-  {
     "project_id": "7GxZi46W",
     "project_type": "mod",
     "slug": "transcending-trident",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Transcending Trident",
     "description": "\ud83d\udd31 Improves the trident. Hold a water bucket to use a more powerful riptide anywhere.",
     "categories": [
@@ -6861,7 +7109,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 114724,
+    "downloads": 114835,
     "follows": 95,
     "icon_url": "https://cdn.modrinth.com/data/7GxZi46W/6b5a395a171e0d4dfaf22f12fdc3df76309e0c8a_96.webp",
     "date_created": "2022-08-31T18:40:13.446667+00:00",
@@ -6875,10 +7123,83 @@
     "color": 2902947
   },
   {
+    "project_id": "kpKchl4x",
+    "project_type": "mod",
+    "slug": "conduits-prevent-drowned",
+    "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
+    "title": "Conduits Prevent Drowned",
+    "description": "\u274c Disables drowned zombie spawns around the player when the conduit effect is active.",
+    "categories": [
+      "fabric",
+      "forge",
+      "game-mechanics",
+      "mobs",
+      "neoforge",
+      "quilt",
+      "utility"
+    ],
+    "display_categories": [
+      "fabric",
+      "forge",
+      "game-mechanics",
+      "mobs",
+      "neoforge",
+      "quilt",
+      "utility"
+    ],
+    "versions": [
+      "1.16.5",
+      "1.18.2",
+      "1.19.2",
+      "1.19.3",
+      "1.19.4",
+      "1.20",
+      "1.20.1",
+      "1.20.2",
+      "1.20.3",
+      "1.20.4",
+      "1.20.5",
+      "1.20.6",
+      "1.21",
+      "1.21.1",
+      "1.21.2",
+      "1.21.3",
+      "1.21.4",
+      "1.21.5",
+      "1.21.6",
+      "1.21.7",
+      "1.21.8",
+      "1.21.9",
+      "1.21.10",
+      "1.21.11",
+      "26.1",
+      "26.1.1",
+      "26.1.2"
+    ],
+    "downloads": 114810,
+    "follows": 128,
+    "icon_url": "https://cdn.modrinth.com/data/kpKchl4x/0051edcc7bc699ae49a44b25212abae1e76cefd0_96.webp",
+    "date_created": "2022-09-01T15:04:51.206792+00:00",
+    "date_modified": "2026-04-10T00:12:36.885687+00:00",
+    "latest_version": "YPfD21mM",
+    "license": "LicenseRef-All-Rights-Reserved",
+    "client_side": "unsupported",
+    "server_side": "required",
+    "gallery": [],
+    "featured_gallery": null,
+    "color": 5787709
+  },
+  {
     "project_id": "gc78ZRwD",
     "project_type": "mod",
     "slug": "bareback-horse-riding",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Bareback Horse Riding",
     "description": "\ud83d\udc0e Allows riding horses without a saddle with tweaked game mechanics.",
     "categories": [
@@ -6922,7 +7243,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 114553,
+    "downloads": 114570,
     "follows": 62,
     "icon_url": "https://cdn.modrinth.com/data/gc78ZRwD/2670cc160c098a93cb56c5ede4d6be44e672b15b_96.webp",
     "date_created": "2023-12-16T09:03:11.773216+00:00",
@@ -6940,6 +7261,9 @@
     "project_type": "mod",
     "slug": "hoe-tweaks",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Hoe Tweaks",
     "description": "\ud83c\udf3e Faster crop block breaking, increased hoe radius and the ability to un-till soil.",
     "categories": [
@@ -6989,7 +7313,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 113582,
+    "downloads": 113635,
     "follows": 101,
     "icon_url": "https://cdn.modrinth.com/data/9vlChzlU/6834042b2052374cb162f5f915129a347e7da3bb_96.webp",
     "date_created": "2022-09-01T13:16:49.081179+00:00",
@@ -7007,6 +7331,9 @@
     "project_type": "mod",
     "slug": "end-portal-recipe",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "End Portal Recipe",
     "description": "\ud83d\udcdd Makes the end portal craftable, movable and available in survival plus other tweaks.",
     "categories": [
@@ -7056,7 +7383,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 109905,
+    "downloads": 109941,
     "follows": 123,
     "icon_url": "https://cdn.modrinth.com/data/VbCjkvcq/221946724620c23e1006e0126bc93a2947152fc4_96.webp",
     "date_created": "2022-09-01T14:16:32.820503+00:00",
@@ -7074,6 +7401,9 @@
     "project_type": "mod",
     "slug": "cave-spider-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Cave Spider Spawn",
     "description": "\ud83d\udd77\ufe0f Adds a chance for cave spiders to spawn naturally underground instead of a spider.",
     "categories": [
@@ -7115,7 +7445,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 108765,
+    "downloads": 108798,
     "follows": 93,
     "icon_url": "https://cdn.modrinth.com/data/9IUlkb2K/d7cc765d184b1b9f5ebdd57c22a1ef0b31f9ee90_96.webp",
     "date_created": "2023-12-24T06:35:19.413495+00:00",
@@ -7133,6 +7463,9 @@
     "project_type": "mod",
     "slug": "vanilla-zoom",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Vanilla Zoom",
     "description": "\ud83d\udd0d Adds an on-the-go zoom functionality hotkey using the spyglass item.",
     "categories": [
@@ -7181,8 +7514,8 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 108460,
-    "follows": 134,
+    "downloads": 108497,
+    "follows": 135,
     "icon_url": "https://cdn.modrinth.com/data/CDbpcSM6/36d7a167577e659624b02fe53b84e4efe73cafd1_96.webp",
     "date_created": "2022-10-31T04:55:40.676679+00:00",
     "date_modified": "2026-04-09T22:15:56.237144+00:00",
@@ -7199,6 +7532,9 @@
     "project_type": "mod",
     "slug": "stray-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Stray Spawn",
     "description": "\u2620 Adds a chance for strays to spawn naturally everywhere in place of a skeleton.",
     "categories": [
@@ -7246,7 +7582,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 108160,
+    "downloads": 108181,
     "follows": 77,
     "icon_url": "https://cdn.modrinth.com/data/2lg2mCPe/c0ac84636fd2c6a4bbba5611271605dc01993ba7_96.webp",
     "date_created": "2022-08-31T18:53:34.165958+00:00",
@@ -7264,6 +7600,9 @@
     "project_type": "mod",
     "slug": "hand-over-your-items",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Hand Over Your Items",
     "description": "\ud83e\udd1d Adds to ability for in-game players to give each other itemstacks without dropping/tossing them.",
     "categories": [
@@ -7313,7 +7652,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 100967,
+    "downloads": 100989,
     "follows": 154,
     "icon_url": "https://cdn.modrinth.com/data/Z9RMqaGu/6b7d7320570d622c9dc7789d9eb997e59f704bb5_96.webp",
     "date_created": "2022-09-01T13:29:15.716605+00:00",
@@ -7331,6 +7670,9 @@
     "project_type": "mod",
     "slug": "gui-effect-timer",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "GUI Effect Timer",
     "description": "\u231b Displays time remaining text inside the mob effect badge on the screen.",
     "categories": [
@@ -7363,7 +7705,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 98305,
+    "downloads": 98424,
     "follows": 66,
     "icon_url": "https://cdn.modrinth.com/data/R0GPb3QZ/0296bd85654fdefc68700f43fe982c32d921f26b.png",
     "date_created": "2025-02-21T10:08:04.280773+00:00",
@@ -7381,6 +7723,9 @@
     "project_type": "mod",
     "slug": "all-loot-drops",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "All Loot Drops",
     "description": "\ud83d\udc5d Living entities drop all their possible loot in a configurable amount, looting enchant supported.",
     "categories": [
@@ -7428,7 +7773,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 96761,
+    "downloads": 96799,
     "follows": 95,
     "icon_url": "https://cdn.modrinth.com/data/n7PBO6pb/89edebccfd267a698ddd9616d212509cc253934e_96.webp",
     "date_created": "2022-09-01T15:55:00.910665+00:00",
@@ -7446,6 +7791,9 @@
     "project_type": "mod",
     "slug": "village-bell-recipe",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Village Bell Recipe",
     "description": "\ud83d\udd14 Makes the village bell item craftable via a recipe.",
     "categories": [
@@ -7491,7 +7839,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 96142,
+    "downloads": 96171,
     "follows": 122,
     "icon_url": "https://cdn.modrinth.com/data/u692zai1/81d047b039175eae33a8f3d6baf9271b38e59d76_96.webp",
     "date_created": "2022-08-31T18:29:49.273101+00:00",
@@ -7509,6 +7857,9 @@
     "project_type": "mod",
     "slug": "improved-sign-editing",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Improved Sign Editing",
     "description": "\ud83e\udeb5 Better sign editing functionality. Shift to the next and previous line during typing.",
     "categories": [
@@ -7552,7 +7903,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 94047,
+    "downloads": 94080,
     "follows": 139,
     "icon_url": "https://cdn.modrinth.com/data/EWQifKYI/37386081a80cc0e3721baddf6032b3f3241b4378.png",
     "date_created": "2023-12-26T06:11:34.924303+00:00",
@@ -7570,6 +7921,9 @@
     "project_type": "mod",
     "slug": "death-backup",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Death Backup",
     "description": "\ud83d\udcbe Creates back-ups of player inventories before death, which can be loaded via commands.",
     "categories": [
@@ -7617,7 +7971,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 93543,
+    "downloads": 93577,
     "follows": 139,
     "icon_url": "https://cdn.modrinth.com/data/Ot5JFxuv/0cdc3bb5f8f3e371eb1176de72cb3f5d15c2395f_96.webp",
     "date_created": "2022-09-01T14:40:08.430843+00:00",
@@ -7635,6 +7989,9 @@
     "project_type": "mod",
     "slug": "custom-credits",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Custom Credits",
     "description": "\u00a9\ufe0f Allows changing the content and behaviour of the credits screen, including the end poem.",
     "categories": [
@@ -7677,7 +8034,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 93486,
+    "downloads": 93512,
     "follows": 36,
     "icon_url": "https://cdn.modrinth.com/data/GhWh8CAU/e23280c2e31c9b599b06c2d682dda20942098354_96.webp",
     "date_created": "2023-07-15T03:37:27.756307+00:00",
@@ -7695,6 +8052,9 @@
     "project_type": "mod",
     "slug": "nutritious-milk",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Nutritious Milk",
     "description": "\ud83e\udd5b Adds nutritious value to milk, filling up the food bar and saturation when consumed.",
     "categories": [
@@ -7740,7 +8100,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 93241,
+    "downloads": 93255,
     "follows": 113,
     "icon_url": "https://cdn.modrinth.com/data/V4iy0Bhx/2955b17645903403e6bbdd966fb2cd086a1f3798_96.webp",
     "date_created": "2022-09-01T10:13:12.837963+00:00",
@@ -7758,6 +8118,9 @@
     "project_type": "mod",
     "slug": "compact-help-command",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Compact Help Command",
     "description": "\ud83d\udddc Modifies the /help command to show all information, be colourful and have multiple pages.",
     "categories": [
@@ -7803,7 +8166,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 87026,
+    "downloads": 87042,
     "follows": 108,
     "icon_url": "https://cdn.modrinth.com/data/XdiGl7ZL/icon.png",
     "date_created": "2022-09-01T15:06:57.434593+00:00",
@@ -7821,6 +8184,9 @@
     "project_type": "mod",
     "slug": "fire-spread-tweaks",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Fire Spread Tweaks",
     "description": "\ud83d\udd25 Disables the default firespread and makes fire go out after a configurable delay.",
     "categories": [
@@ -7868,7 +8234,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 86979,
+    "downloads": 87007,
     "follows": 65,
     "icon_url": "https://cdn.modrinth.com/data/vgI7KTun/1956cf331abb24c942edb59ca07b1be7e3a37c9b_96.webp",
     "date_created": "2022-09-01T13:59:28.750702+00:00",
@@ -7886,6 +8252,9 @@
     "project_type": "mod",
     "slug": "edibles",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Edibles",
     "description": "\ud83c\udf7d Makes lots of ingredients edible, after which the player receives a short status effect.",
     "categories": [
@@ -7933,7 +8302,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 86973,
+    "downloads": 86987,
     "follows": 94,
     "icon_url": "https://cdn.modrinth.com/data/Rjl8pCZ9/4fb3b0568add2f75a9aab6471f177161f64c2100_96.webp",
     "date_created": "2022-09-01T14:24:04.644862+00:00",
@@ -7951,6 +8320,9 @@
     "project_type": "mod",
     "slug": "automatic-doors",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Automatic Doors",
     "description": "\ud83d\udeaa Automatically opens doors around the player and closes them with a configurable delay.",
     "categories": [
@@ -7998,7 +8370,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 84748,
+    "downloads": 84779,
     "follows": 129,
     "icon_url": "https://cdn.modrinth.com/data/PGBgocFc/ab4a9ebf783891a05375629452d2c787f1183832_96.webp",
     "date_created": "2022-09-01T15:40:47.075990+00:00",
@@ -8016,6 +8388,9 @@
     "project_type": "mod",
     "slug": "enchantment-level-cap-indicator",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Enchantment Level Cap Indicator",
     "description": "\u2b50 Displays a symbol next to enchanted item tooltips when they reach their max level.",
     "categories": [
@@ -8050,7 +8425,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 83323,
+    "downloads": 83376,
     "follows": 174,
     "icon_url": "https://cdn.modrinth.com/data/82BWabBj/b4d4d9cbfc75c82314d29886d5c77e99f0c43630.png",
     "date_created": "2025-02-21T18:52:05.912579+00:00",
@@ -8068,6 +8443,9 @@
     "project_type": "mod",
     "slug": "ice-prevents-crop-growth",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Ice Prevents Crop Growth",
     "description": "\ud83e\uddca Crops growing with ice underneath will remain in the same stage, for design purposes.",
     "categories": [
@@ -8115,7 +8493,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 82742,
+    "downloads": 82767,
     "follows": 82,
     "icon_url": "https://cdn.modrinth.com/data/6rPhicfw/508171193524b300d81393a39d9a1bf77d0a9c57_96.webp",
     "date_created": "2022-09-01T13:09:56.701701+00:00",
@@ -8133,6 +8511,9 @@
     "project_type": "mod",
     "slug": "passive-endermen",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Passive Endermen",
     "description": "\ud83d\udc4d Prevent an enderman from teleporting, placing/picking up blocks (griefing) and attacking when looked at.",
     "categories": [
@@ -8180,7 +8561,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 82438,
+    "downloads": 82476,
     "follows": 97,
     "icon_url": "https://cdn.modrinth.com/data/N7UFQA9x/72a3872e72d1b8e18685f109bdd6f5c34623ac48_96.webp",
     "date_created": "2022-09-01T10:06:07.097808+00:00",
@@ -8198,6 +8579,9 @@
     "project_type": "mod",
     "slug": "world-border",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "World Border",
     "description": "\ud83c\udf0e Allows the creation of a configurable world border, limiting the world size.",
     "categories": [
@@ -8245,7 +8629,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 82284,
+    "downloads": 82326,
     "follows": 134,
     "icon_url": "https://cdn.modrinth.com/data/nN96GjON/fb5c9e2f5a29ac7622880945e704f352aae5333a_96.webp",
     "date_created": "2022-08-31T17:13:51.693450+00:00",
@@ -8263,6 +8647,9 @@
     "project_type": "mod",
     "slug": "manure",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Manure",
     "description": "\ud83d\udca9 Animals periodically drop manure, by default twice a day. Can be used as a bone meal substitute.",
     "categories": [
@@ -8310,7 +8697,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 81135,
+    "downloads": 81160,
     "follows": 109,
     "icon_url": "https://cdn.modrinth.com/data/Vl1qd1sW/79388c02c9cb986000ad01e87afbec5c854bd392_96.webp",
     "date_created": "2022-11-07T16:46:48.883496+00:00",
@@ -8328,6 +8715,9 @@
     "project_type": "mod",
     "slug": "kelp-fertilizer",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Kelp Fertilizer",
     "description": "\ud83c\udf3f Kelp seaweed naturally filters sea water for rich nutrients. Kelp works like bone meal.",
     "categories": [
@@ -8373,7 +8763,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 80844,
+    "downloads": 80881,
     "follows": 110,
     "icon_url": "https://cdn.modrinth.com/data/eKxUpBGQ/bd1de7c4c3c2a2fc3fdf7686bf2794439cfd3bc7_96.webp",
     "date_created": "2022-09-01T10:42:47.154487+00:00",
@@ -8391,6 +8781,9 @@
     "project_type": "mod",
     "slug": "underground-beacons",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Underground Beacons",
     "description": "\ud83d\udd73\ufe0f Allows beacons to function underground, no matter how many solid blocks are above it.",
     "categories": [
@@ -8425,7 +8818,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 77540,
+    "downloads": 77559,
     "follows": 56,
     "icon_url": "https://cdn.modrinth.com/data/SMC0xf5E/51eac1abc1b4c165c3ff185fc105135f93178c35_96.webp",
     "date_created": "2025-02-24T08:02:39.123983+00:00",
@@ -8443,6 +8836,9 @@
     "project_type": "mod",
     "slug": "natural-charcoal",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Natural Charcoal",
     "description": "\ud83d\udd25\ud83c\udf33 Burned out logs have a chance to generate charcoal, which are immune to fire.",
     "categories": [
@@ -8477,7 +8873,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 74023,
+    "downloads": 74044,
     "follows": 74,
     "icon_url": "https://cdn.modrinth.com/data/19crKDsZ/0ceae25cab63f16955d7fcddb33705e0da7d0db4_96.webp",
     "date_created": "2025-02-19T07:27:08.195131+00:00",
@@ -8495,6 +8891,9 @@
     "project_type": "mod",
     "slug": "tnt-breaks-bedrock",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "TNT Breaks Bedrock",
     "description": "\ud83e\udde8 Allows TNT to break bedrock, easy access to the nether roof!",
     "categories": [
@@ -8540,7 +8939,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 72249,
+    "downloads": 72272,
     "follows": 72,
     "icon_url": "https://cdn.modrinth.com/data/eU2O6Xp1/772608f28e00bcff668e84d23b98dfdaced8c7ca_96.webp",
     "date_created": "2022-08-31T18:44:45.761075+00:00",
@@ -8558,6 +8957,9 @@
     "project_type": "mod",
     "slug": "set-world-spawn-point",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Set World Spawn Point",
     "description": "\ud83c\udf0e Allows setting an exact custom spawn point for (newly) created worlds and spawn tweaks.",
     "categories": [
@@ -8605,7 +9007,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 72055,
+    "downloads": 72067,
     "follows": 67,
     "icon_url": "https://cdn.modrinth.com/data/EL8fq1gi/fe135fdbe4fce5cf7d526a4f5485992e69d716e5_96.webp",
     "date_created": "2022-09-01T09:05:00.726279+00:00",
@@ -8623,6 +9025,9 @@
     "project_type": "mod",
     "slug": "thorny-bush-protection",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Thorny Bush Protection",
     "description": "\ud83e\uded0 Players walking through berry bushes won't receive damage while wearing leggings.",
     "categories": [
@@ -8662,7 +9067,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 71354,
+    "downloads": 71391,
     "follows": 116,
     "icon_url": "https://cdn.modrinth.com/data/hYGSXIE7/15f03d0ac55e5e8ab8d489994879c1754219088a_96.webp",
     "date_created": "2023-12-17T03:57:30.177808+00:00",
@@ -8680,6 +9085,9 @@
     "project_type": "mod",
     "slug": "configurable-mob-potion-effects",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Configurable Mob Potion Effects",
     "description": "\u270f\ufe0f Set potion effects for all living entities to have permanently and to inflict.",
     "categories": [
@@ -8729,7 +9137,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 71202,
+    "downloads": 71235,
     "follows": 32,
     "icon_url": "https://cdn.modrinth.com/data/FspL3NLJ/d2aa515b3aac57c934fb5f97e9abb7b3b4785ba5_96.webp",
     "date_created": "2022-09-01T14:53:44.034707+00:00",
@@ -8747,6 +9155,9 @@
     "project_type": "mod",
     "slug": "pumpkillagers-quest",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Pumpkillager's Quest",
     "description": "\ud83c\udf83 SpookyJam 2022: Help out the Pumpkillager! With custom encounters, rewards and a boss fight you'll get immersed in the story. Spawn him by breaking a pumpkin in this spooky scary Halloween style mod!",
     "categories": [
@@ -8795,7 +9206,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 71152,
+    "downloads": 71170,
     "follows": 63,
     "icon_url": "https://cdn.modrinth.com/data/KhJx1K92/884be864e883e8cf6e4de155c81569232ab57920_96.webp",
     "date_created": "2022-10-19T23:15:51.072324+00:00",
@@ -8813,6 +9224,9 @@
     "project_type": "mod",
     "slug": "rain-be-gone-ritual",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Rain Be Gone Ritual",
     "description": "\ud83c\udf27 Adds the ability to stop the rain via a multi-block structure ritual in survival.",
     "categories": [
@@ -8862,7 +9276,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 68481,
+    "downloads": 68499,
     "follows": 88,
     "icon_url": "https://cdn.modrinth.com/data/172ZQNmN/34ed8a2867c5c91445c2955127f012c2de691ba2_96.webp",
     "date_created": "2022-09-01T09:43:13.163752+00:00",
@@ -8880,6 +9294,9 @@
     "project_type": "mod",
     "slug": "inventory-mending",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Inventory Mending",
     "description": "\ud83d\udcd6\ud83d\udd27 Allows mending items inside the inventory to be repaired without being equipped.",
     "categories": [
@@ -8916,7 +9333,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 67807,
+    "downloads": 67851,
     "follows": 131,
     "icon_url": "https://cdn.modrinth.com/data/y6Ryy40D/e2d2abc4d064f1b120216f0e01ded7669ac5b274.gif",
     "date_created": "2025-02-19T02:04:57.750311+00:00",
@@ -8934,6 +9351,9 @@
     "project_type": "mod",
     "slug": "current-game-music-track",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Current Game Music Track",
     "description": "\ud83c\udfb5 Temporarily show the song title of what's currently playing via the GUI.",
     "categories": [
@@ -8975,7 +9395,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 66755,
+    "downloads": 66770,
     "follows": 89,
     "icon_url": "https://cdn.modrinth.com/data/YWZbIwtC/3bd2088bc7487466f2c57156e18c6dc91418dac3_96.webp",
     "date_created": "2023-11-07T19:36:28.235071+00:00",
@@ -8993,6 +9413,9 @@
     "project_type": "mod",
     "slug": "faster-crouching",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Faster Crouching",
     "description": "\ud83c\udfc3 Set the crouch/sneak speed of players to be the same as when walking and sprinting.",
     "categories": [
@@ -9040,7 +9463,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 66417,
+    "downloads": 66438,
     "follows": 42,
     "icon_url": "https://cdn.modrinth.com/data/lgEczyrc/af7c156863afa5a849a5d46d943cde0446b13ece_96.webp",
     "date_created": "2022-11-05T20:26:00.238758+00:00",
@@ -9058,6 +9481,9 @@
     "project_type": "mod",
     "slug": "sticky-enchanting-lapis",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Sticky Enchanting Lapis",
     "description": "\ud83d\udcd6\ud83d\udd37 Allows lapis lazuli to remain in the enchanting table and be shared among players.",
     "categories": [
@@ -9096,7 +9522,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 63689,
+    "downloads": 63721,
     "follows": 98,
     "icon_url": "https://cdn.modrinth.com/data/tH1zAs3C/db82eaf0a29da74afe3a0b86fa56276035bed96c_96.webp",
     "date_created": "2024-07-21T23:37:30.226252+00:00",
@@ -9114,6 +9540,9 @@
     "project_type": "mod",
     "slug": "configurable-despawn-timer",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Configurable Despawn Timer",
     "description": "\u270f\ufe0f Allows items and experience orbs to remain longer, shorter or infinitely on the ground",
     "categories": [
@@ -9161,7 +9590,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 63210,
+    "downloads": 63225,
     "follows": 116,
     "icon_url": "https://cdn.modrinth.com/data/9olMJ5Qp/cf2ca6592168d7ab20cc8eed021b1826bebc4d37_96.webp",
     "date_created": "2022-09-01T15:03:06.965649+00:00",
@@ -9179,6 +9608,9 @@
     "project_type": "mod",
     "slug": "omega-mute",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Omega Mute",
     "description": "\u03a9 The only mod you'll need to have full control over individual in-game sound.",
     "categories": [
@@ -9226,7 +9658,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 62850,
+    "downloads": 62878,
     "follows": 79,
     "icon_url": "https://cdn.modrinth.com/data/2ots5RF5/4f22bcd40c21a8d9edb3704f63f01c05d6e72c87_96.webp",
     "date_created": "2022-09-01T10:10:55.854519+00:00",
@@ -9244,6 +9676,9 @@
     "project_type": "mod",
     "slug": "random-sheep-colours",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Random Sheep Colours",
     "description": "\ud83c\udfb2 Gives new sheep spawns a random wool/fleece color based on a configurable list.",
     "categories": [
@@ -9291,7 +9726,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 62850,
+    "downloads": 62865,
     "follows": 64,
     "icon_url": "https://cdn.modrinth.com/data/SvQDJzPJ/7e28570e4586eb27f9ef7c298d50d35ec16d6b25_96.webp",
     "date_created": "2022-09-01T09:34:38.293670+00:00",
@@ -9309,6 +9744,9 @@
     "project_type": "mod",
     "slug": "eroding-stone-entities",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Eroding Stone Entities",
     "description": "\ud83c\udf0a Stone-type block entities left in flowing water turn into clay and sand.",
     "categories": [
@@ -9356,7 +9794,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 61389,
+    "downloads": 61399,
     "follows": 86,
     "icon_url": "https://cdn.modrinth.com/data/EwJ8fcSB/be947382ca2ad52a51f29d3e86c18402070efdff_96.webp",
     "date_created": "2022-09-01T14:11:19.406715+00:00",
@@ -9374,6 +9812,9 @@
     "project_type": "mod",
     "slug": "breedable-killer-rabbit",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Breedable Killer Rabbit",
     "description": "\ud83d\udc30 Makes the killer rabbit/bunny tamable and available by breeding.",
     "categories": [
@@ -9421,7 +9862,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 61209,
+    "downloads": 61219,
     "follows": 70,
     "icon_url": "https://cdn.modrinth.com/data/bhXPWTWy/52cf241c830dca229bdca566382b8ddc5668ba67_96.webp",
     "date_created": "2022-09-01T15:12:31.154788+00:00",
@@ -9439,6 +9880,9 @@
     "project_type": "mod",
     "slug": "quick-paths",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Quick Paths",
     "description": "\ud83d\udeb6 Create long paths instantly by setting a start and end point.",
     "categories": [
@@ -9486,7 +9930,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 59983,
+    "downloads": 59997,
     "follows": 76,
     "icon_url": "https://cdn.modrinth.com/data/IPbFTPzw/53c62179f970a268b7d60304c99888cb3c50c77c_96.webp",
     "date_created": "2022-09-01T09:45:53.732436+00:00",
@@ -9504,6 +9948,9 @@
     "project_type": "mod",
     "slug": "milk-all-the-mobs",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Milk All The Mobs",
     "description": "\ud83e\udd5b Allows sheep, llamas, pigs, donkeys, horses and mules to produce a bucket of milk.",
     "categories": [
@@ -9553,7 +10000,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 59084,
+    "downloads": 59097,
     "follows": 52,
     "icon_url": "https://cdn.modrinth.com/data/qRidloO4/b9bf03995d5df3e3c03d153d74fcc388a3835b4c_96.webp",
     "date_created": "2022-09-01T10:39:29.612377+00:00",
@@ -9571,6 +10018,9 @@
     "project_type": "mod",
     "slug": "paper-books",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Paper Books",
     "description": "\ud83d\udcd1\ud83d\udcd5 Allows the creation of books with 9 paper.",
     "categories": [
@@ -9616,7 +10066,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 53537,
+    "downloads": 53566,
     "follows": 58,
     "icon_url": "https://cdn.modrinth.com/data/QM2wt9X3/bda767d7cdd7df6130e1f02807b361ccc2b9d1f2_96.webp",
     "date_created": "2022-09-01T10:08:41.032130+00:00",
@@ -9634,6 +10084,9 @@
     "project_type": "mod",
     "slug": "beautified-chat-server",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Beautified Chat [Server]",
     "description": "\ud83d\udcac A highly configurable mod to change the style and colour of chat messages server-wide.",
     "categories": [
@@ -9679,7 +10132,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 51700,
+    "downloads": 51713,
     "follows": 132,
     "icon_url": "https://cdn.modrinth.com/data/C00Y5Ci9/2af014fa3aa2594f3a3b691920dea531a27259f2_96.webp",
     "date_created": "2022-09-01T15:36:39.210113+00:00",
@@ -9697,6 +10150,9 @@
     "project_type": "mod",
     "slug": "global-narration-toggle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Global Narration Toggle",
     "description": "\ud83d\udde3\ufe0f Makes the narrator setting global automatically, across instances. Turns the screen off and on. A better experience for all.",
     "categories": [
@@ -9737,7 +10193,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 49506,
+    "downloads": 49525,
     "follows": 14,
     "icon_url": "https://cdn.modrinth.com/data/UxJVewrJ/30596de6e8f67a93d1c771c8234d7e076ef24a36_96.webp",
     "date_created": "2023-12-11T20:43:22.006224+00:00",
@@ -9755,6 +10211,9 @@
     "project_type": "mod",
     "slug": "piglin-names",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Piglin Names",
     "description": "\ud83d\udc37 Gives all piglins a default or custom name to liven up the world.",
     "categories": [
@@ -9794,7 +10253,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 47329,
+    "downloads": 47354,
     "follows": 57,
     "icon_url": "https://cdn.modrinth.com/data/54plduvG/718b110f7dd687698e0654a745898b138e1d8364_96.webp",
     "date_created": "2024-07-21T03:39:17.178237+00:00",
@@ -9812,6 +10271,9 @@
     "project_type": "mod",
     "slug": "fall-through-slime",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Fall Through Slime",
     "description": "\ud83d\udfe9 Slime blocks no longer support your weight when idle, and you'll slowly fall through.",
     "categories": [
@@ -9857,7 +10319,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 46667,
+    "downloads": 46675,
     "follows": 56,
     "icon_url": "https://cdn.modrinth.com/data/nLMuJxdy/6e69ca8620ac5046e638fe93ccb401fa0b608804_96.webp",
     "date_created": "2022-09-01T14:01:34.398336+00:00",
@@ -9875,6 +10337,9 @@
     "project_type": "mod",
     "slug": "screenshot-compression",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Screenshot Compression",
     "description": "\ud83d\udcf8 Automatically compress screenshots taken in-game to lower file size with various config options.",
     "categories": [
@@ -9909,7 +10374,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 45737,
+    "downloads": 45903,
     "follows": 19,
     "icon_url": "https://cdn.modrinth.com/data/cfrxss4E/a870179c30f27070807da72a8563f4e488aa9b8c_96.webp",
     "date_created": "2025-02-19T07:27:19.653157+00:00",
@@ -9927,6 +10392,9 @@
     "project_type": "mod",
     "slug": "silkier-touch",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Silkier Touch",
     "description": "\u26cf\ufe0f\u2728 Extends Silk Touch functionality! Dragon eggs, spawners, cake, farmland and more!",
     "categories": [
@@ -9963,7 +10431,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 43888,
+    "downloads": 43907,
     "follows": 61,
     "icon_url": "https://cdn.modrinth.com/data/dUaXeoyM/e5dbaece5be51e58c72944eea9fd98c6f960a799_96.webp",
     "date_created": "2025-02-26T02:23:15.906344+00:00",
@@ -9981,6 +10449,9 @@
     "project_type": "mod",
     "slug": "alternative-world-save-location",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Alternative World Save Location",
     "description": "\ud83d\udccd Allows changing the default save file path of Minecraft worlds to outside instance scopes.",
     "categories": [
@@ -10026,7 +10497,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 43625,
+    "downloads": 43631,
     "follows": 40,
     "icon_url": "https://cdn.modrinth.com/data/ENWn9izD/b6f12aab062339662aab6762eb2d3980a8d172d5_96.webp",
     "date_created": "2022-09-01T15:50:30.094336+00:00",
@@ -10044,6 +10515,9 @@
     "project_type": "modpack",
     "slug": "the-vanilla-experience",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "The Vanilla Experience | TVE",
     "description": "\ud83c\udf33 A light custom-coded 26.1.1 vanilla+ modpack which is interchangeable with an unmodded save.",
     "categories": [
@@ -10080,7 +10554,7 @@
       "26.1",
       "26.1.1"
     ],
-    "downloads": 43415,
+    "downloads": 43426,
     "follows": 388,
     "icon_url": "https://cdn.modrinth.com/data/EnFnYkUj/f98ddbb4568d1a339db9592593e0f3f57f063236_96.webp",
     "date_created": "2022-09-02T15:19:27.503377+00:00",
@@ -10110,6 +10584,9 @@
     "project_type": "mod",
     "slug": "recipe-commands",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Recipe Commands",
     "description": "\ud83d\udcac Receive the pattern and ingredients of any item recipe via chat commands.",
     "categories": [
@@ -10157,7 +10634,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 41730,
+    "downloads": 41735,
     "follows": 32,
     "icon_url": "https://cdn.modrinth.com/data/AyzAtk54/7f43aca7f9f11e9822bd8c4a397a019581cf0588_96.webp",
     "date_created": "2022-09-01T09:21:32.370103+00:00",
@@ -10175,6 +10652,9 @@
     "project_type": "mod",
     "slug": "bogged-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Bogged Spawn",
     "description": "\ud83c\udff9\ud83c\udf44 Adds a chance for bogged to spawn naturally everywhere in place of a skeleton.",
     "categories": [
@@ -10212,7 +10692,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 40769,
+    "downloads": 40783,
     "follows": 48,
     "icon_url": "https://cdn.modrinth.com/data/1TyQZUcH/88ec36fe61664d54ec857af9194f5763aaf6ea82_96.webp",
     "date_created": "2024-06-14T17:46:38.983386+00:00",
@@ -10230,6 +10710,9 @@
     "project_type": "mod",
     "slug": "cycle-title-screen-splash",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Cycle Title Screen Splash",
     "description": "\ud83d\udca6 The splash text on the main menu will keep changing after a configurable delay.",
     "categories": [
@@ -10273,7 +10756,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 40421,
+    "downloads": 40450,
     "follows": 43,
     "icon_url": "https://cdn.modrinth.com/data/ubb2Lt4u/4c4041cdd76e3d65f507d744b34977e448d7dc9e_96.webp",
     "date_created": "2023-12-17T03:57:27.291996+00:00",
@@ -10291,6 +10774,9 @@
     "project_type": "mod",
     "slug": "easy-elevators",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Easy Elevators",
     "description": "\ud83d\uded7 Easily go up and down fast via multiblock elevators! Highly configurable, using existing resources.",
     "categories": [
@@ -10330,7 +10816,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 35820,
+    "downloads": 35850,
     "follows": 66,
     "icon_url": "https://cdn.modrinth.com/data/3uQY8yaJ/c100ed4b17114e52beac55fabd6d6c0c3913881f_96.webp",
     "date_created": "2024-07-15T22:01:30.666852+00:00",
@@ -10348,6 +10834,9 @@
     "project_type": "mod",
     "slug": "save-and-load-inventories",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Save and Load Inventories",
     "description": "\ud83d\udcbe Save and load player inventories or kits to self and others by using commands.",
     "categories": [
@@ -10395,7 +10884,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 31432,
+    "downloads": 31459,
     "follows": 53,
     "icon_url": "https://cdn.modrinth.com/data/W0UVc3e9/be1b0e54760fa9a074215fe7c2568328faeb8a56_96.webp",
     "date_created": "2022-09-01T09:09:34.430668+00:00",
@@ -10413,6 +10902,9 @@
     "project_type": "mod",
     "slug": "wandering-trader-may-leave",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Wandering Trader May Leave",
     "description": "\ud83d\udca8 Adds a button to the Wandering Trader's screen which makes it disappear without violence.",
     "categories": [
@@ -10449,7 +10941,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 31312,
+    "downloads": 31326,
     "follows": 54,
     "icon_url": "https://cdn.modrinth.com/data/kj7dPTJo/cfeb3dca4464908b0acd481e6b31e5f8a489b924_96.webp",
     "date_created": "2025-03-04T09:48:11.879013+00:00",
@@ -10467,6 +10959,9 @@
     "project_type": "mod",
     "slug": "random-mob-effects",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Random Mob Effects",
     "description": "\ud83c\udfb2 Randomly assign a (modded) potion effect to all hostile mobs in the world.",
     "categories": [
@@ -10516,7 +11011,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 29156,
+    "downloads": 29171,
     "follows": 49,
     "icon_url": "https://cdn.modrinth.com/data/eaEY6D9a/16a5d45db6536cdd463f63ef8b1c84cc74d6ae63_96.webp",
     "date_created": "2022-09-01T09:37:34.724576+00:00",
@@ -10534,6 +11029,9 @@
     "project_type": "mod",
     "slug": "breeze-spawn",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Breeze Spawn",
     "description": "\ud83d\udca8 Adds a chance for breezes to spawn naturally everywhere in place of a blaze.",
     "categories": [
@@ -10571,7 +11069,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 28775,
+    "downloads": 28785,
     "follows": 18,
     "icon_url": "https://cdn.modrinth.com/data/fxCEHNcr/23a16af26440f640ec71a89ac4a6af9abff50ec6_96.webp",
     "date_created": "2024-06-14T17:52:00.597860+00:00",
@@ -10589,6 +11087,9 @@
     "project_type": "mod",
     "slug": "april-fools",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "April Fools",
     "description": "\ud83c\udccf Enables various silly and funny configurable features on April Fools' day!",
     "categories": [
@@ -10631,7 +11132,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 28720,
+    "downloads": 28726,
     "follows": 40,
     "icon_url": "https://cdn.modrinth.com/data/Pgepow0I/8efa8ed170eb54d08ab23cce5517c0a318ec684f_96.webp",
     "date_created": "2024-03-07T07:15:36.666942+00:00",
@@ -10649,6 +11150,9 @@
     "project_type": "mod",
     "slug": "player-tracking",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Player Tracking",
     "description": "\ud83d\udd0e [PvP Mod] Allows the tracking of players via special trackers.",
     "categories": [
@@ -10696,7 +11200,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 27864,
+    "downloads": 27880,
     "follows": 22,
     "icon_url": "https://cdn.modrinth.com/data/7d1moRSC/5379c8bd0cc900894166560cd89e5d1c0443a39f_96.webp",
     "date_created": "2022-09-01T09:50:31.616719+00:00",
@@ -10714,6 +11218,9 @@
     "project_type": "mod",
     "slug": "serilums-client-bundle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Serilum's Client Bundle",
     "description": "\ud83d\udce6 A mod bundle of all client mods Serilum has released, create your own experience!",
     "categories": [
@@ -10743,7 +11250,7 @@
       "1.21.11",
       "26.1.2"
     ],
-    "downloads": 27067,
+    "downloads": 27073,
     "follows": 36,
     "icon_url": "https://cdn.modrinth.com/data/wHVvdn1m/a49af7539ef185bd3d424b7d48cd243f669f12a4_96.webp",
     "date_created": "2024-07-25T03:54:49.341459+00:00",
@@ -10761,6 +11268,9 @@
     "project_type": "mod",
     "slug": "silence-mobs",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Silence Mobs",
     "description": "\ud83d\ude4a Silence or mute mobs and villager with The Silence Stick.",
     "categories": [
@@ -10810,7 +11320,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 26672,
+    "downloads": 26681,
     "follows": 78,
     "icon_url": "https://cdn.modrinth.com/data/rpmGvDKs/85e5147b644eca5296070ddc18a3a74261b11df1_96.webp",
     "date_created": "2022-09-01T08:59:37.538713+00:00",
@@ -10828,6 +11338,9 @@
     "project_type": "mod",
     "slug": "placeable-blaze-rods",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Placeable Blaze Rods",
     "description": "\ud83d\udd6f Makes blaze rods placeable as a custom block in the world, like end rods.",
     "categories": [
@@ -10873,7 +11386,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 26597,
+    "downloads": 26604,
     "follows": 70,
     "icon_url": "https://cdn.modrinth.com/data/oVrn4xsC/02a9d6cd92c0711e930b79e0c327ee8b7ebcd6c4_96.webp",
     "date_created": "2022-09-01T09:55:45.113760+00:00",
@@ -10891,6 +11404,9 @@
     "project_type": "mod",
     "slug": "where-did-i-die",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Where Did I Die?",
     "description": "\ud83e\udea6 Shows and screenshots the player's coordinates in the chat after death, fully client-side!",
     "categories": [
@@ -10927,7 +11443,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 24875,
+    "downloads": 24890,
     "follows": 46,
     "icon_url": "https://cdn.modrinth.com/data/bzsPcleL/4f13c96b40b82a181bcf0ab1878482f27ba9ccda_96.webp",
     "date_created": "2025-02-21T10:06:53.056652+00:00",
@@ -10945,6 +11461,9 @@
     "project_type": "mod",
     "slug": "creative-block-replacer",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Creative Block Replacer",
     "description": "\ud83d\udd04 Allows easy switching in between placing and replacing blocks in creative mode.",
     "categories": [
@@ -10992,7 +11511,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 23993,
+    "downloads": 23995,
     "follows": 45,
     "icon_url": "https://cdn.modrinth.com/data/XKW2Xxpk/a35c8e5bad4e1eb646d1bea5e2ed7d290f04558d_96.webp",
     "date_created": "2022-09-01T14:50:51.870041+00:00",
@@ -11010,6 +11529,9 @@
     "project_type": "mod",
     "slug": "healing-soup",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Healing Soup",
     "description": "\ud83c\udf72 [PvP Mod] Soup heals hearts. Adds recipes for chocolate milk, cactus soup and stew.",
     "categories": [
@@ -11059,7 +11581,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 22141,
+    "downloads": 22152,
     "follows": 45,
     "icon_url": "https://cdn.modrinth.com/data/ZERrEy8d/86a6e5378641aef9d68b53e1bfe8ace41b559302_96.webp",
     "date_created": "2022-09-01T13:24:42.600014+00:00",
@@ -11077,6 +11599,9 @@
     "project_type": "mod",
     "slug": "player-tracking-compass",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Player Tracking Compass",
     "description": "\ud83e\udded [PvP Mod] Adds a Tracking Compass, which can track the nearest player's location.",
     "categories": [
@@ -11106,7 +11631,7 @@
       "1.20",
       "1.20.1"
     ],
-    "downloads": 20846,
+    "downloads": 20854,
     "follows": 32,
     "icon_url": "https://cdn.modrinth.com/data/mSuqFRIc/834e0c32217ba450092fc2b0ef4fa018859fa001_96.webp",
     "date_created": "2022-09-01T09:48:25.369923+00:00",
@@ -11124,6 +11649,9 @@
     "project_type": "mod",
     "slug": "ore-discovery-broadcast",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Ore Discovery Broadcast",
     "description": "\u26cf\ufe0f Broadcasts a message to the server whenever a player finds an ore vein.",
     "categories": [
@@ -11184,6 +11712,9 @@
     "project_type": "mod",
     "slug": "chorus-fruit-drops-nearby",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Chorus Fruit Drops Nearby",
     "description": "\ud83c\udf47 When breaking chorus plants, all chorus fruit will drop at the base position.",
     "categories": [
@@ -11218,7 +11749,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 18822,
+    "downloads": 18830,
     "follows": 33,
     "icon_url": "https://cdn.modrinth.com/data/iXK7LqxS/4335fc7e10fedf1854dd0311ab29c62f4dbf2687.png",
     "date_created": "2025-02-19T07:27:30.298040+00:00",
@@ -11236,6 +11767,9 @@
     "project_type": "mod",
     "slug": "automatic-operator",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Automatic Operator",
     "description": "\ud83e\udd16 Automatically makes all or specific players OP in server environments when they log in.",
     "categories": [
@@ -11280,7 +11814,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 16470,
+    "downloads": 16485,
     "follows": 24,
     "icon_url": "https://cdn.modrinth.com/data/wmbF3trP/b2c3ff008d6d800d312bd0f91f32d823c49df68f.png",
     "date_created": "2023-07-13T03:47:50.463755+00:00",
@@ -11298,6 +11832,9 @@
     "project_type": "mod",
     "slug": "lets-parkour",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Let's Parkour",
     "description": "\ud83e\udd98 Adds various parkour related blocks to create an awesome track, made for ModFest: Carnival.",
     "categories": [
@@ -11336,7 +11873,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 16462,
+    "downloads": 16472,
     "follows": 23,
     "icon_url": "https://cdn.modrinth.com/data/yCBnCQ6f/44d609d4d6d58b37eae70acb955c871ae32be5f9_96.webp",
     "date_created": "2024-06-24T11:04:02.982155+00:00",
@@ -11354,6 +11891,9 @@
     "project_type": "mod",
     "slug": "daily-quests",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Daily Quests",
     "description": "\ud83e\udded Complete randomly generated quests each day for experience and loot!",
     "categories": [
@@ -11391,7 +11931,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 16249,
+    "downloads": 16263,
     "follows": 87,
     "icon_url": "https://cdn.modrinth.com/data/saq81j96/02dd55eac401b3ccae88a70fae150cdf561c5919.png",
     "date_created": "2024-09-27T06:49:37.766270+00:00",
@@ -11409,6 +11949,9 @@
     "project_type": "mod",
     "slug": "configurable-furnace-burn-time",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Configurable Furnace Burn Time",
     "description": "\u270f\ufe0f Allows changing the fuel burn time in furnaces globally via a config modifier.",
     "categories": [
@@ -11458,7 +12001,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 12266,
+    "downloads": 12269,
     "follows": 31,
     "icon_url": "https://cdn.modrinth.com/data/JMUrNIAu/0903d51214bddf2c016e598e7e93a31f0a03195f_96.webp",
     "date_created": "2022-09-01T14:56:11.417197+00:00",
@@ -11476,6 +12019,9 @@
     "project_type": "mod",
     "slug": "serilums-qol-bundle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Serilum's QoL Bundle",
     "description": "\ud83d\udce6 A mod bundle of all quality of life mods Serilum has released, lovely convenience!",
     "categories": [
@@ -11505,7 +12051,7 @@
       "1.21.11",
       "26.1.2"
     ],
-    "downloads": 11539,
+    "downloads": 11564,
     "follows": 73,
     "icon_url": "https://cdn.modrinth.com/data/QC7wpUjM/bac29d95b9b4d20efa84128df618c2576575cebe_96.webp",
     "date_created": "2024-07-25T03:55:27.255888+00:00",
@@ -11523,6 +12069,9 @@
     "project_type": "mod",
     "slug": "humbling-bundle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Humbling Bundle",
     "description": "\u2716\ufe0f2\ufe0f\u20e3 Doubles all entity loot, to increase the speed of early game progress and late-game grinds. Inspired by the identically titled item in the binding of Isaac.",
     "categories": [
@@ -11568,7 +12117,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 11477,
+    "downloads": 11478,
     "follows": 31,
     "icon_url": "https://cdn.modrinth.com/data/9SSpOrIb/35c36c0e54a19f2ed7f8087e2ab22ffe4af5388c_96.webp",
     "date_created": "2022-09-01T13:14:51.420963+00:00",
@@ -11586,6 +12135,9 @@
     "project_type": "mod",
     "slug": "respawn-delay",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Respawn Delay",
     "description": "\u23f3 [PvP Mod] Players enter spectator mode on death for a configurable amount of time.",
     "categories": [
@@ -11635,7 +12187,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 11247,
+    "downloads": 11249,
     "follows": 54,
     "icon_url": "https://cdn.modrinth.com/data/5Yxg7cHy/488fc3e62ee935e97d047302a08fa84a7aa2d7b9_96.webp",
     "date_created": "2022-09-01T09:15:09.918087+00:00",
@@ -11653,6 +12205,9 @@
     "project_type": "mod",
     "slug": "altered-damage",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Altered Damage",
     "description": "\ud83d\udd2a Alters damage taken and dealt by players and other entities with a modifier.",
     "categories": [
@@ -11702,7 +12257,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 10162,
+    "downloads": 10169,
     "follows": 28,
     "icon_url": "https://cdn.modrinth.com/data/SWS2Fl4W/f95929c08447279eea998ba22a64d39576366652_96.webp",
     "date_created": "2022-09-01T15:52:47.804562+00:00",
@@ -11720,6 +12275,9 @@
     "project_type": "mod",
     "slug": "serilums-rpg-bundle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Serilum's RPG Bundle",
     "description": "\ud83d\udce6 A mod bundle of all RPG mods Serilum has released, add realism and immersion!",
     "categories": [
@@ -11749,7 +12307,7 @@
       "1.21.11",
       "26.1.2"
     ],
-    "downloads": 9091,
+    "downloads": 9117,
     "follows": 59,
     "icon_url": "https://cdn.modrinth.com/data/rzhyiRjl/7593114c9609512df13185e2ae2cb87743fcf225_96.webp",
     "date_created": "2024-07-25T03:55:05.807736+00:00",
@@ -11767,6 +12325,9 @@
     "project_type": "mod",
     "slug": "player-death-kick",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Player Death Kick",
     "description": "\ud83d\udc80 Kicks players on death with a customizable disconnect message.",
     "categories": [
@@ -11814,7 +12375,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 7163,
+    "downloads": 7168,
     "follows": 17,
     "icon_url": "https://cdn.modrinth.com/data/FNZ2aXiV/aa629802ce39396334de0b0527f28f81e1a5834f_96.webp",
     "date_created": "2022-09-01T09:53:24.050627+00:00",
@@ -11832,6 +12393,9 @@
     "project_type": "mod",
     "slug": "shadow-mounts",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Shadow Mounts",
     "description": "\ud83d\udc0e SpookyJam 2024: Turn horses into their Shadow Variant via a unique saddle!",
     "categories": [
@@ -11869,7 +12433,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 6872,
+    "downloads": 6873,
     "follows": 27,
     "icon_url": "https://cdn.modrinth.com/data/UmzhjNIU/e8db5108284fec59012af70b63018f006910d27e_96.webp",
     "date_created": "2024-11-03T22:30:43.335713+00:00",
@@ -11887,6 +12451,9 @@
     "project_type": "mod",
     "slug": "entity-information",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Entity Information",
     "description": "\u2139\ufe0f Displays entity information on hit with the Information Stick. Useful for debugging and developing.",
     "categories": [
@@ -11932,7 +12499,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 6618,
+    "downloads": 6619,
     "follows": 14,
     "icon_url": "https://cdn.modrinth.com/data/8SrsIkt3/578d1858abd137b13966858866975024e11af8fa_96.webp",
     "date_created": "2022-09-01T14:13:32.368907+00:00",
@@ -11950,6 +12517,9 @@
     "project_type": "mod",
     "slug": "vote-command",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Vote Command",
     "description": "\ud83d\uddf3 Adds a configurable /vote command which tells players how and where to vote.",
     "categories": [
@@ -11997,7 +12567,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 6327,
+    "downloads": 6328,
     "follows": 29,
     "icon_url": "https://cdn.modrinth.com/data/k1ztTaVt/icon.png",
     "date_created": "2022-08-31T17:34:04.191902+00:00",
@@ -12015,6 +12585,9 @@
     "project_type": "mod",
     "slug": "serilums-spawn-bundle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Serilum's Spawn Bundle",
     "description": "\ud83d\udce6 A mod bundle of all spawn mods Serilum has released, see different mob types!",
     "categories": [
@@ -12046,7 +12619,7 @@
       "1.21.11",
       "26.1.2"
     ],
-    "downloads": 5838,
+    "downloads": 5863,
     "follows": 29,
     "icon_url": "https://cdn.modrinth.com/data/EJYYAJ4W/e960218143540ef6656a7ccbf8762176ae65753d_96.webp",
     "date_created": "2024-07-25T03:55:14.163261+00:00",
@@ -12064,6 +12637,9 @@
     "project_type": "mod",
     "slug": "quicksaving",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Quicksaving",
     "description": "\ud83d\udcbe Adds quicksave and quickload capabilities via F6/F8. Works interdimensionally and optionally client-side only.",
     "categories": [
@@ -12103,7 +12679,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 4597,
+    "downloads": 4599,
     "follows": 33,
     "icon_url": "https://cdn.modrinth.com/data/s15IKiG7/1d9f95c32538f81784bebdf7f3c3c8af28ea834c_96.webp",
     "date_created": "2024-06-29T21:52:21.551898+00:00",
@@ -12121,6 +12697,9 @@
     "project_type": "mod",
     "slug": "trample-everything",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Trample Everything",
     "description": "\ud83e\udd7e A highly configurable mod which makes players trample everything, not just crops.",
     "categories": [
@@ -12166,7 +12745,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 4587,
+    "downloads": 4588,
     "follows": 18,
     "icon_url": "https://cdn.modrinth.com/data/go7dtCv4/9beff4173e0f8d250bbe0557a279abf4c27cf06d_96.webp",
     "date_created": "2022-08-31T18:42:21.944754+00:00",
@@ -12184,6 +12763,9 @@
     "project_type": "mod",
     "slug": "serilums-extra-bundle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Serilum's Extra Bundle",
     "description": "\ud83d\udce6 A mod bundle of some uncategorized mods Serilum has released, add spice and silliness!",
     "categories": [
@@ -12233,6 +12815,9 @@
     "project_type": "mod",
     "slug": "serilums-customization-bundle",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Serilum's Customization Bundle",
     "description": "\ud83d\udce6 A mod bundle of customization mods Serilum has released, set up your modpack instance!",
     "categories": [
@@ -12280,6 +12865,9 @@
     "project_type": "mod",
     "slug": "extended-creative-inventory",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Extended Creative Inventory",
     "description": "\ud83d\udc5c Adds all items which by default aren't in the creative inventory to a tab.",
     "categories": [
@@ -12319,6 +12907,9 @@
     "project_type": "mod",
     "slug": "adventure-mode-tweaks",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Adventure Mode Tweaks",
     "description": "\ud83c\udff0 Various Adventure Mode mechanic improvements! Paintings, Item Frames, Minecarts, Boats and more.",
     "categories": [
@@ -12355,7 +12946,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 1862,
+    "downloads": 1863,
     "follows": 5,
     "icon_url": "https://cdn.modrinth.com/data/Mjf9G522/18e1be6fa8a8ffd6fbcf390c493a4c7757b2e440.png",
     "date_created": "2025-02-24T08:02:22.468516+00:00",
@@ -12373,6 +12964,9 @@
     "project_type": "mod",
     "slug": "spooky-jams",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Spooky Jams",
     "description": "\ud83e\uded9 SpookyJam 2025: Adds various craftable \"Spooky Jams\", which give effects when consumed.",
     "categories": [
@@ -12403,7 +12997,7 @@
       "26.1.1",
       "26.1.2"
     ],
-    "downloads": 787,
+    "downloads": 789,
     "follows": 8,
     "icon_url": "https://cdn.modrinth.com/data/bwor8Pc7/3727ce369a40ee22ece2d13ac017a05fc538d52a_96.webp",
     "date_created": "2025-11-03T09:13:28.786378+00:00",
@@ -12421,6 +13015,9 @@
     "project_type": "mod",
     "slug": "op-permission-fallback",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "OP Permission Fallback",
     "description": "\ud83c\udf40 Players with the \"minecraft.op\" permission will be seen as /op(erators) in-game. Compatible with LuckPerms.",
     "categories": [
@@ -12452,6 +13049,9 @@
     "project_type": "mod",
     "slug": "void-vanguards",
     "author": "Serilum",
+    "author_id": "NIbuUGD2",
+    "organization": null,
+    "organization_id": null,
     "title": "Void Vanguards",
     "description": "\ud83d\udef0\ufe0f ModJam 2025: A lore filled quest mod about conflict between The Vanguard and Voidborn.",
     "categories": [
