@@ -1,6 +1,24 @@
 {
   "data": {
     "mod-feature": {
+      "3704": {
+        "id": 4329764276,
+        "number": 3704,
+        "title": "Ability to send more than one message",
+        "opened_by": "coreyderg",
+        "creation_date": "2026-04-26",
+        "labels": [
+          "Feature Request",
+          "Mod: First Join Message"
+        ],
+        "mod_name": "First Join Message",
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3669": {
         "id": 4203882336,
         "number": 3669,
@@ -14769,6 +14787,10 @@
       2
     ],
     [
+      3704,
+      2
+    ],
+    [
       181,
       1
     ],
@@ -17113,5 +17135,5 @@
       1
     ]
   ],
-  "last_updated": "2026-05-01 08:27:05"
+  "last_updated": "2026-05-01 13:57:44"
 }
