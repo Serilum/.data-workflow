@@ -1604,7 +1604,9 @@
           "Mod: Starter Kit"
         ],
         "mod_name": "Starter Kit",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -17135,5 +17137,5 @@
       1
     ]
   ],
-  "last_updated": "2026-05-01 19:42:26"
+  "last_updated": "2026-05-02 03:54:39"
 }

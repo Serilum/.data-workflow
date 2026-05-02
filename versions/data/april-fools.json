@@ -1,9 +1,9 @@
 {
   "26.1.2": {
-    "Fabric": "1.8",
-    "Forge": "1.8",
-    "NeoForge": "1.8",
-    "Quilt": "1.8"
+    "Fabric": "1.9",
+    "Forge": "1.9",
+    "NeoForge": "1.9",
+    "Quilt": "1.9"
   },
   "26.1.1": {
     "Fabric": "1.8",
