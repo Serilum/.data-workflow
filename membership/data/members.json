@@ -1,6 +1,5 @@
 {
     "github": [
-        "akanealw",
         "aternosorg"
     ],
     "patreon": [
@@ -11,7 +10,6 @@
         "XAgent"
     ],
     "combined": [
-        "akanealw",
         "Andrean Olgo",
         "aternosorg",
         "Cherriesaurus",
@@ -20,7 +18,6 @@
         "XAgent"
     ],
     "combined_specific": {
-        "akanealw": "Github Sponsors",
         "Andrean Olgo": "Patreon",
         "aternosorg": "Github Sponsors",
         "Cherriesaurus": "Patreon",
