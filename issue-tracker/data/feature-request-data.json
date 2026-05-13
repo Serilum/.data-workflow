@@ -175,8 +175,10 @@
           "Mod: Starter Kit"
         ],
         "mod_name": "Starter Kit",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 2
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -12455,13 +12457,13 @@
         ],
         "mod_name": "Starter Kit",
         "reactions": {
-          "+1": 21,
-          "eyes": 4,
-          "heart": 2
+          "+1": 22,
+          "eyes": 5,
+          "heart": 3
         },
-        "reaction_count": 24,
-        "total_comment_count": 4,
-        "user_comment_count": 2
+        "reaction_count": 25,
+        "total_comment_count": 5,
+        "user_comment_count": 3
       },
       "438": {
         "id": 807997258,
@@ -13850,7 +13852,7 @@
   "issues_sorted_reaction_count": [
     [
       441,
-      24
+      25
     ],
     [
       2397,
@@ -14786,6 +14788,10 @@
     ],
     [
       3594,
+      2
+    ],
+    [
+      3611,
       2
     ],
     [
@@ -17097,10 +17103,6 @@
       1
     ],
     [
-      3611,
-      1
-    ],
-    [
       3613,
       1
     ],
@@ -17137,5 +17139,5 @@
       1
     ]
   ],
-  "last_updated": "2026-05-12 20:12:34"
+  "last_updated": "2026-05-13 04:15:25"
 }
