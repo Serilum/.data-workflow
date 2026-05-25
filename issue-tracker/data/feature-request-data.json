@@ -4828,7 +4828,7 @@
         "id": 2313571471,
         "number": 2382,
         "title": "[World Border] Wrapping only on X coord",
-        "opened_by": "Farix2",
+        "opened_by": "ghost",
         "creation_date": "2024-05-23",
         "labels": [
           "Feature Request",
@@ -17139,5 +17139,5 @@
       1
     ]
   ],
-  "last_updated": "2026-05-24 19:43:29"
+  "last_updated": "2026-05-25 04:55:29"
 }
