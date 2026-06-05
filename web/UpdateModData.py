@@ -19,6 +19,8 @@ loaderIds = { 1 : "forge", 4 : "fabric", 6 : "neoforge" }
 
 logoTargets = [64, 128, 256, 512]
 
+projectTypes = { 5 : "plugin", 6 : "mod", 4471 : "modpack" }
+
 def main(mainPath):
 	fprefix = " [Update Mod Data] "
 
@@ -145,6 +147,7 @@ def main(mainPath):
 		specificData["curseforge_projectid"] = mod.get("id", -1)
 		specificData["curseforge_legacy_fabric_projectid"] = fabricProjectId
 		specificData["environment"] = environment
+		specificData["project_type"] = projectTypes.get(mod.get("classId", 0), "other")
 
 		modData[modName] = specificData
 		print(fprefix + "Processed: " + modName)
