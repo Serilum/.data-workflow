@@ -47,3 +47,6 @@ venv.bak/
 
 # Idea
 .idea/*
+
+# Raw API fetch output (intermediate, regenerated each run)
+/api/data/

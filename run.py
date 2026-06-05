@@ -12,6 +12,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "membership"))
 import UpdateMembershipData
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "versions"))
 import UpdateLatestModVersions
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "web"))
+import UpdateModData
 
 def main():
     fprefix = " [Main] "
@@ -30,6 +32,9 @@ def main():
 
     # Update latest mod versions
     UpdateLatestModVersions.main(rootPath)
+
+    # Generate the website mod data
+    UpdateModData.main(rootPath)
 
     if os.environ['IS_PRODUCTION'] == "true":
         # Process the requests from the .issue-tracker repo on GitHub:

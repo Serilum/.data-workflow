@@ -24,6 +24,7 @@ def main(mainPath):
 
 	fetchCurseForge(fprefix, dataPath)
 	fetchModrinth(fprefix, dataPath)
+	fetchModrinthProjects(fprefix, dataPath)
 	fetchPatreon(fprefix, dataPath)
 	fetchYoutube(fprefix, dataPath)
 
@@ -60,11 +61,22 @@ def fetchCurseForge(fprefix, dataPath):
 					continue
 				modsChecked.append(modName)
 
+				requiredDependencies = []
+				for latestFile in entry.get("latestFiles", []):
+					for dependency in latestFile.get("dependencies", []):
+						if dependency.get("relationType") == 3: # Required dependency
+							dependencyId = dependency.get("modId", 0)
+							if dependencyId != 0 and dependencyId not in requiredDependencies:
+								requiredDependencies.append(dependencyId)
+
 				mods.append({
 					"id": entry.get("id", 0),
 					"name": modName,
 					"slug": entry.get("slug", ""),
+					"summary": entry.get("summary", ""),
+					"status": entry.get("status", 0),
 					"downloadCount": entry.get("downloadCount", 0),
+					"dependencies": requiredDependencies,
 					"latestFilesIndexes": entry.get("latestFilesIndexes", []),
 				})
 
@@ -83,9 +95,6 @@ def fetchCurseForge(fprefix, dataPath):
 
 	with open(dataPath + sep + "curseforge.json", 'w') as f:
 		json.dump(mods, f, indent=2)
-
-	with open(dataPath + sep + "curseforge.min.json", 'w') as f:
-		json.dump(mods, f)
 
 	print(fprefix + "Saved CurseForge data for " + str(len(mods)) + " mods.")
 
@@ -117,13 +126,58 @@ def fetchModrinth(fprefix, dataPath):
 		with open(dataPath + sep + "modrinth.json", 'w') as f:
 			json.dump(hits, f, indent=2)
 
-		with open(dataPath + sep + "modrinth.min.json", 'w') as f:
-			json.dump(hits, f)
-
 		print(fprefix + "Saved Modrinth data for " + str(len(hits)) + " mods.")
 
 	except Exception as e:
 		print(fprefix + "Error fetching Modrinth data: " + str(e))
+
+def fetchModrinthProjects(fprefix, dataPath):
+	print(fprefix + "Fetching Modrinth project data.")
+
+	try:
+		with open(dataPath + sep + "modrinth.json", 'r') as f:
+			hits = json.load(f)
+	except Exception:
+		print(fprefix + "Could not read Modrinth search data. Skipping project fetch.")
+		return
+
+	slugs = []
+	for hit in hits:
+		slug = hit.get("slug", "")
+		if slug != "" and slug not in slugs:
+			slugs.append(slug)
+
+	if len(slugs) == 0:
+		print(fprefix + "No Modrinth slugs to fetch.")
+		return
+
+	try:
+		projects = []
+		batchSize = 100
+
+		for index in range(0, len(slugs), batchSize):
+			batch = slugs[index:index + batchSize]
+
+			mrResponse = requests.get(
+				"https://api.modrinth.com/v3/projects",
+				params = { "ids": json.dumps(batch) },
+				headers = {
+					"Authorization": os.environ["MODRINTH_API_KEY"],
+					"User-Agent": "Serilum/.data-workflow (serilum.com)"
+				},
+				timeout=15
+			)
+			projects.extend(mrResponse.json())
+
+			time.sleep(0.1)
+
+		with open(dataPath + sep + "modrinth_projects.json", 'w') as f:
+			json.dump(projects, f, indent=2)
+
+		print(fprefix + "Saved Modrinth project data for " + str(len(projects)) + " mods.")
+
+	except Exception as e:
+		print(fprefix + "Error fetching Modrinth project data: " + str(e))
 
 def fetchPatreon(fprefix, dataPath):
 	print(fprefix + "Fetching Patreon data.")
@@ -149,9 +203,6 @@ def fetchPatreon(fprefix, dataPath):
 
 		with open(dataPath + sep + "patreon.json", 'w') as f:
 			json.dump({"memberCount": memberCount}, f, indent=2)
-
-		with open(dataPath + sep + "patreon.min.json", 'w') as f:
-			json.dump({"memberCount": memberCount}, f)
 
 		print(fprefix + "Saved Patreon data: " + str(memberCount) + " members.")
 
@@ -181,9 +232,6 @@ def fetchYoutube(fprefix, dataPath):
 
 		with open(dataPath + sep + "youtube.json", 'w') as f:
 			json.dump({"subscriberCount": subscriberCount}, f, indent=2)
-
-		with open(dataPath + sep + "youtube.min.json", 'w') as f:
-			json.dump({"subscriberCount": subscriberCount}, f)
 
 		print(fprefix + "Saved YouTube data: " + str(subscriberCount) + " subscribers.")
 
