@@ -184,15 +184,10 @@ def saveLogo(fprefix, iconUrl, logoPath, slug):
 		print(fprefix + "Error fetching logo for " + slug + ": " + str(e))
 		return ".png", []
 
-	sourceMax = min(image.width, image.height)
-	sizes = [target for target in logoTargets if target < sourceMax]
-	sizes.append(min(512, sourceMax))
-	sizes = sorted(set(sizes))
-
 	isAnimated = iconUrl.lower().endswith(".gif") and getattr(image, "is_animated", False)
 	fileType = ".gif" if isAnimated else ".png"
 
-	for size in sizes:
+	for size in logoTargets:
 		sizeFolder = logoPath + sep + str(size)
 		Path(sizeFolder).mkdir(parents=True, exist_ok=True)
 		outPath = sizeFolder + sep + slug + fileType
@@ -201,8 +196,7 @@ def saveLogo(fprefix, iconUrl, logoPath, slug):
 			if isAnimated:
 				frames = []
 				for frame in ImageSequence.Iterator(image):
-					newFrame = frame.copy()
-					newFrame.thumbnail((size, size), Image.Resampling.LANCZOS)
+					newFrame = frame.copy().convert("RGBA").resize((size, size), Image.Resampling.LANCZOS)
 					frames.append(newFrame)
 
 				frames[0].save(outPath, save_all=True, append_images=frames[1:], **image.info)
@@ -214,7 +208,7 @@ def saveLogo(fprefix, iconUrl, logoPath, slug):
 		except Exception as e:
 			print(fprefix + "Error saving logo for " + slug + " at " + str(size) + ": " + str(e))
 
-	return fileType, sizes
+	return fileType, list(logoTargets)
 
 def findExistingLogo(logoPath, slug):
 	if not os.path.isdir(logoPath):
