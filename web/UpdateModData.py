@@ -4,6 +4,7 @@ from pathlib 						import Path
 from PIL 						import Image, ImageSequence
 from io 						import BytesIO
 import requests
+import subprocess
 import json
 import time
 import re
@@ -15,6 +16,8 @@ sep = os.path.sep
 skipMods = ["OP Permission Fallback"]
 
 loaderIds = { 1 : "forge", 4 : "fabric", 6 : "neoforge" }
+
+logoTargets = [64, 128, 256, 512]
 
 def main(mainPath):
 	fprefix = " [Update Mod Data] "
@@ -115,12 +118,14 @@ def main(mainPath):
 
 		mrProject = mrByName.get(modName)
 		environment = "both"
-		iconUrl = ""
 		if mrProject is not None:
 			environment = simplifyEnvironment(mrProject.get("environment", []))
+
+		iconUrl = mod.get("logo", "") or ""
+		if iconUrl == "" and mrProject is not None:
 			iconUrl = mrProject.get("icon_url", "") or ""
 
-		logoFileType = saveLogo(fprefix, iconUrl, logoPath, slug)
+		logoFileType, logoSizes = saveLogo(fprefix, iconUrl, logoPath, slug)
 
 		specificData = {}
 		specificData["description"] = mod.get("summary", "")
@@ -133,6 +138,7 @@ def main(mainPath):
 		specificData["fabric_version_latest"] = fabricVersionLatest
 		specificData["dependencies"] = dependencies
 		specificData["logo_file_type"] = logoFileType
+		specificData["logo_sizes"] = logoSizes
 		specificData["published"] = mod.get("status", 0) == 4
 		specificData["is_bundle"] = isBundle
 		specificData["bundle_category"] = bundleCategories.get(modName, "")
@@ -163,39 +169,80 @@ def fetchBundleCategories(fprefix):
 		return {}
 
 def saveLogo(fprefix, iconUrl, logoPath, slug):
-	pngPath = logoPath + sep + slug + ".png"
-	gifPath = logoPath + sep + slug + ".gif"
-
-	if os.path.isfile(pngPath):
-		return ".png"
-	if os.path.isfile(gifPath):
-		return ".gif"
+	existing = findExistingLogo(logoPath, slug)
+	if existing is not None:
+		return existing
 
 	if iconUrl == "":
-		print(fprefix + slug + " has no Modrinth icon.")
-		return ".png"
+		print(fprefix + slug + " has no icon.")
+		return ".png", []
 
 	try:
 		response = requests.get(iconUrl, timeout=15)
 		image = Image.open(BytesIO(response.content))
-
-		if iconUrl.lower().endswith(".gif") and getattr(image, "is_animated", False):
-			frames = []
-			for frame in ImageSequence.Iterator(image):
-				newFrame = frame.copy()
-				newFrame.thumbnail((100, 100), Image.Resampling.LANCZOS)
-				frames.append(newFrame)
-
-			frames[0].save(gifPath, save_all=True, append_images=frames[1:], **image.info)
-			return ".gif"
-
-		resized = image.convert("RGBA").resize((100, 100))
-		resized.save(pngPath)
-		return ".png"
-
 	except Exception as e:
-		print(fprefix + "Error saving logo for " + slug + ": " + str(e))
-		return ".png"
+		print(fprefix + "Error fetching logo for " + slug + ": " + str(e))
+		return ".png", []
+
+	sourceMax = min(image.width, image.height)
+	sizes = [target for target in logoTargets if target < sourceMax]
+	sizes.append(min(512, sourceMax))
+	sizes = sorted(set(sizes))
+
+	isAnimated = iconUrl.lower().endswith(".gif") and getattr(image, "is_animated", False)
+	fileType = ".gif" if isAnimated else ".png"
+
+	for size in sizes:
+		sizeFolder = logoPath + sep + str(size)
+		Path(sizeFolder).mkdir(parents=True, exist_ok=True)
+		outPath = sizeFolder + sep + slug + fileType
+
+		try:
+			if isAnimated:
+				frames = []
+				for frame in ImageSequence.Iterator(image):
+					newFrame = frame.copy()
+					newFrame.thumbnail((size, size), Image.Resampling.LANCZOS)
+					frames.append(newFrame)
+
+				frames[0].save(outPath, save_all=True, append_images=frames[1:], **image.info)
+			else:
+				resized = image.convert("RGBA").resize((size, size), Image.Resampling.LANCZOS)
+				resized.save(outPath)
+				compressLogo(outPath)
+
+		except Exception as e:
+			print(fprefix + "Error saving logo for " + slug + " at " + str(size) + ": " + str(e))
+
+	return fileType, sizes
+
+def findExistingLogo(logoPath, slug):
+	if not os.path.isdir(logoPath):
+		return None
+
+	sizes = []
+	fileType = ".png"
+	for entry in os.listdir(logoPath):
+		folder = logoPath + sep + entry
+		if not (entry.isdigit() and os.path.isdir(folder)):
+			continue
+
+		if os.path.isfile(folder + sep + slug + ".gif"):
+			sizes.append(int(entry))
+			fileType = ".gif"
+		elif os.path.isfile(folder + sep + slug + ".png"):
+			sizes.append(int(entry))
+
+	if not sizes:
+		return None
+
+	return fileType, sorted(sizes)
+
+def compressLogo(pngPath):
+	try:
+		subprocess.run(["pngquant", "--force", "--skip-if-larger", "--quality=65-90", "--output", pngPath, pngPath], check=False)
+	except FileNotFoundError:
+		pass
 
 def simplifyEnvironment(environment):
 	if not environment:

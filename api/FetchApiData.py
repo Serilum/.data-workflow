@@ -75,6 +75,7 @@ def fetchCurseForge(fprefix, dataPath):
 					"slug": entry.get("slug", ""),
 					"summary": entry.get("summary", ""),
 					"status": entry.get("status", 0),
+					"logo": (entry.get("logo") or {}).get("url", ""),
 					"downloadCount": entry.get("downloadCount", 0),
 					"dependencies": requiredDependencies,
 					"latestFilesIndexes": entry.get("latestFilesIndexes", []),

@@ -21,7 +21,10 @@ jobs:
       - name: install python packages
         run: |
           pip install -r requirements.txt
-          
+
+      - name: install pngquant
+        run: sudo apt-get update && sudo apt-get install -y pngquant
+
       - name: execute py script
         env:
           CURSEFORGE_API_KEY: ${{ secrets.CURSEFORGE_API_KEY }}
