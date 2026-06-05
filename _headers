@@ -1,2 +1,5 @@
 /*
   Access-Control-Allow-Origin: https://serilum.com
+
+/web/logo/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=2592000
