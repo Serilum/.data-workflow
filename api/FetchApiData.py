@@ -27,6 +27,7 @@ def main(mainPath):
 	fetchModrinthProjects(fprefix, dataPath)
 	fetchPatreon(fprefix, dataPath)
 	fetchYoutube(fprefix, dataPath)
+	fetchTranslations(fprefix, dataPath)
 
 	print(fprefix + "Done fetching all API data!")
 
@@ -239,6 +240,26 @@ def fetchYoutube(fprefix, dataPath):
 
 	except Exception as e:
 		print(fprefix + "Error fetching YouTube data: " + str(e))
+
+def fetchTranslations(fprefix, dataPath):
+	print(fprefix + "Fetching Translations data.")
+
+	try:
+		translationsRequest = requests.get(
+			"https://translations.serilum.com/manifest.min.json",
+			timeout=15
+		)
+		manifest = translationsRequest.json()
+
+		languageCount = len(manifest.get("languages", {}))
+
+		with open(dataPath + sep + "translations.json", 'w') as f:
+			json.dump(manifest, f, indent=2)
+
+		print(fprefix + "Saved Translations data: " + str(languageCount) + " languages.")
+
+	except Exception as e:
+		print(fprefix + "Error fetching Translations data: " + str(e))
 
 if __name__ == "__main__":
 	main("")

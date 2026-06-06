@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="200" height="43" viewBox="0 0 140 30" role="img" aria-label="LANGUAGES" xmlns="http://www.w3.org/2000/svg">
+  <style> g:not(.noshadow) { filter: drop-shadow(0.5px 0.5px 1.0px black); } </style>
+  <title>LANGUAGES</title>
+  <g class="noshadow" shape-rendering="crispEdges" style="" transform="matrix(1.074564, 0, 0, 1, 0, 0)">
+    <rect x="1" y="1" width="128" height="28" style="fill: #0e7490;" />
+    <rect x="1" y="1" width="128" height="28" style="fill: rgba(0, 0, 0, 0.2);" />
+    <rect x="2" y="2" width="126" height="26" style="fill: none; stroke-width:2px; stroke: rgba(211, 255, 255, 0.5);"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1, 0, 0, 1, 4.114, 0)">
+    <path d="M11 9 A6 6 0 1 1 11 21 A6 6 0 1 1 11 9 Z"/>
+    <path d="M5 15 H17"/>
+    <path d="M11 9 A3 6 0 1 1 11 21 A3 6 0 1 1 11 9 Z"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100" transform="matrix(1, 0, 0, 1, 13, 0)">
+    <text style="font-size: 80px; font-weight: 700; white-space: pre;" transform="matrix(0.1, 0, 0, 0.120296, 0, -3.678133)" x="662" y="185" letter-spacing="5">0 LANGUAGES</text>
+  </g>
+</svg>

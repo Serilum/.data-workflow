@@ -93,6 +93,24 @@ def main(mainPath):
 		print(fprefix + "The Youtube count returned < 0. Ignoring.")
 
 
+
+	print("\n" + fprefix + "Starting the SVG file creation for Translations.")
+
+	translatedLanguageCount = getTranslatedLanguageCount(apiDataPath)
+	formattedTranslatedLanguageCount = formatToReadableNumber(translatedLanguageCount)
+
+	if translatedLanguageCount > 0:
+		with open(rootPath + sep + "templates" + sep + "translations.svg", 'r') as translationsSvgTemplateFile:
+			translationsSvgTemplate = translationsSvgTemplateFile.read()
+
+		with open(rootPath + sep + "svg" + sep + "translations.svg", 'w') as translationsSvgFile:
+			translationsSvgFile.write(translationsSvgTemplate.replace("%N", formattedTranslatedLanguageCount.upper()))
+
+		print(fprefix + "Created the Translations SVG file with " + formattedTranslatedLanguageCount + " languages.")
+	else:
+		print(fprefix + "The Translations count returned < 0. Ignoring.")
+
+
 	print("\n" + fprefix + "Done with generating the SVG badges!")
 	return
 
@@ -140,6 +158,18 @@ def getYoutubeSubscriberCount(apiDataPath):
 			data = json.load(f)
 
 		return data.get("subscriberCount", -1)
+
+	except Exception:
+		return -1
+
+def getTranslatedLanguageCount(apiDataPath):
+	try:
+		with open(apiDataPath + sep + "translations.json", 'r') as f:
+			data = json.load(f)
+
+		languageCount = len(data.get("languages", {}))
+
+		return languageCount if languageCount > 0 else -1
 
 	except Exception:
 		return -1
