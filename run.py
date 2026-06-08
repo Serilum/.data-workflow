@@ -13,6 +13,8 @@ import UpdateMembershipData
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "versions"))
 import UpdateLatestModVersions
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "web"))
+import UpdateModLogos
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "mods"))
 import UpdateModData
 
 def main():
@@ -32,6 +34,9 @@ def main():
 
     # Update latest mod versions
     UpdateLatestModVersions.main(rootPath)
+
+    # Save the mod logos
+    UpdateModLogos.main(rootPath)
 
     # Generate the website mod data
     UpdateModData.main(rootPath)

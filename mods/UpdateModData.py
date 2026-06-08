@@ -1,12 +1,8 @@
 # -*- coding: utf-8 -*-
 #!/usr/bin/env python
 from pathlib 						import Path
-from PIL 						import Image, ImageSequence
-from io 						import BytesIO
 import requests
-import subprocess
 import json
-import time
 import re
 import os
 import sys
@@ -16,8 +12,6 @@ sep = os.path.sep
 skipMods = ["OP Permission Fallback"]
 
 loaderIds = { 1 : "forge", 4 : "fabric", 6 : "neoforge" }
-
-logoTargets = [64, 128, 256, 512]
 
 projectTypes = { 5 : "plugin", 6 : "mod", 4471 : "modpack" }
 
@@ -36,7 +30,6 @@ def main(mainPath):
 
 	logoPath = webPath + sep + "logo"
 	Path(dataPath).mkdir(parents=True, exist_ok=True)
-	Path(logoPath).mkdir(parents=True, exist_ok=True)
 
 	try:
 		with open(apiDataPath + sep + "curseforge.json", 'r') as f:
@@ -158,11 +151,7 @@ def main(mainPath):
 		if mrProject is not None:
 			environment = simplifyEnvironment(mrProject.get("environment", []))
 
-		iconUrl = mod.get("logo", "") or ""
-		if iconUrl == "" and mrProject is not None:
-			iconUrl = mrProject.get("icon_url", "") or ""
-
-		logoFileType, logoSizes = saveLogo(fprefix, iconUrl, logoPath, slug)
+		logoFileType, logoSizes = getLogoInfo(logoPath, slug)
 
 		specificData = {}
 		specificData["description"] = mod.get("summary", "")
@@ -192,8 +181,6 @@ def main(mainPath):
 		modData[modName] = specificData
 		print(fprefix + "Processed: " + modName)
 
-		time.sleep(0.05)
-
 	with open(dataPath + sep + "mod_data.json", 'w') as f:
 		json.dump(modData, f, indent=2)
 
@@ -211,51 +198,9 @@ def fetchBundleCategories(fprefix):
 		print(fprefix + "Error fetching bundle categories: " + str(e))
 		return {}
 
-def saveLogo(fprefix, iconUrl, logoPath, slug):
-	existing = findExistingLogo(logoPath, slug)
-	if existing is not None:
-		return existing
-
-	if iconUrl == "":
-		print(fprefix + slug + " has no icon.")
-		return ".png", []
-
-	try:
-		response = requests.get(iconUrl, timeout=15)
-		image = Image.open(BytesIO(response.content))
-	except Exception as e:
-		print(fprefix + "Error fetching logo for " + slug + ": " + str(e))
-		return ".png", []
-
-	isAnimated = iconUrl.lower().endswith(".gif") and getattr(image, "is_animated", False)
-	fileType = ".gif" if isAnimated else ".png"
-
-	for size in logoTargets:
-		sizeFolder = logoPath + sep + str(size)
-		Path(sizeFolder).mkdir(parents=True, exist_ok=True)
-		outPath = sizeFolder + sep + slug + fileType
-
-		try:
-			if isAnimated:
-				frames = []
-				for frame in ImageSequence.Iterator(image):
-					newFrame = frame.copy().convert("RGBA").resize((size, size), Image.Resampling.LANCZOS)
-					frames.append(newFrame)
-
-				frames[0].save(outPath, save_all=True, append_images=frames[1:], **image.info)
-			else:
-				resized = image.convert("RGBA").resize((size, size), Image.Resampling.LANCZOS)
-				resized.save(outPath)
-				compressLogo(outPath)
-
-		except Exception as e:
-			print(fprefix + "Error saving logo for " + slug + " at " + str(size) + ": " + str(e))
-
-	return fileType, list(logoTargets)
-
-def findExistingLogo(logoPath, slug):
+def getLogoInfo(logoPath, slug):
 	if not os.path.isdir(logoPath):
-		return None
+		return ".png", []
 
 	sizes = []
 	fileType = ".png"
@@ -270,16 +215,7 @@ def findExistingLogo(logoPath, slug):
 		elif os.path.isfile(folder + sep + slug + ".png"):
 			sizes.append(int(entry))
 
-	if not sizes:
-		return None
-
 	return fileType, sorted(sizes)
-
-def compressLogo(pngPath):
-	try:
-		subprocess.run(["pngquant", "--force", "--skip-if-larger", "--quality=65-90", "--output", pngPath, pngPath], check=False)
-	except FileNotFoundError:
-		pass
 
 def simplifyEnvironment(environment):
 	if not environment:
