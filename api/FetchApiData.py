@@ -3,8 +3,10 @@
 from pathlib 						import Path
 import cloudscraper
 import requests
+import zipfile
 import json
 import time
+import io
 import os
 import sys
 
@@ -23,6 +25,7 @@ def main(mainPath):
 	Path(dataPath).mkdir(parents=True, exist_ok=True)
 
 	fetchCurseForge(fprefix, dataPath)
+	fetchTveModpack(fprefix, dataPath)
 	fetchModrinth(fprefix, dataPath)
 	fetchModrinthProjects(fprefix, dataPath)
 	fetchPatreon(fprefix, dataPath)
@@ -100,6 +103,81 @@ def fetchCurseForge(fprefix, dataPath):
 		json.dump(mods, f, indent=2)
 
 	print(fprefix + "Saved CurseForge data for " + str(len(mods)) + " mods.")
+
+def fetchTveModpack(fprefix, dataPath):
+	print(fprefix + "Fetching The Vanilla Experience modpack mod list.")
+
+	tveProjectId = 347455
+	headers = {
+		"x-api-key": os.environ["CURSEFORGE_API_KEY"],
+		"Accept": "application/json"
+	}
+
+	try:
+		modResponse = requests.get(
+			"https://api.curseforge.com/v1/mods/" + str(tveProjectId),
+			headers = headers,
+			timeout = 15
+		)
+		modJson = modResponse.json().get("data", {})
+
+		latestFiles = modJson.get("latestFiles", [])
+		if len(latestFiles) == 0:
+			print(fprefix + "No modpack files found for The Vanilla Experience.")
+			return
+
+		latestFile = max(latestFiles, key = lambda f: f.get("id", 0))
+
+		downloadUrl = latestFile.get("downloadUrl", "") or ""
+		if downloadUrl == "":
+			print(fprefix + "The latest modpack file has no download URL.")
+			return
+
+		packResponse = requests.get(downloadUrl, timeout = 30)
+		packZip = zipfile.ZipFile(io.BytesIO(packResponse.content))
+		manifest = json.loads(packZip.read("manifest.json"))
+
+		projectIds = []
+		for fileEntry in manifest.get("files", []):
+			projectId = fileEntry.get("projectID", 0)
+			if projectId != 0 and projectId not in projectIds:
+				projectIds.append(projectId)
+
+		includedMods = resolveTveMods(headers, projectIds)
+
+	except Exception as e:
+		print(fprefix + "Error fetching The Vanilla Experience modpack: " + str(e))
+		return
+
+	with open(dataPath + sep + "tve_mods.json", 'w') as f:
+		json.dump(includedMods, f, indent=2)
+
+	print(fprefix + "Saved The Vanilla Experience mod list for " + str(len(includedMods)) + " mods.")
+
+def resolveTveMods(headers, projectIds):
+	includedMods = []
+
+	batchSize = 50
+	for index in range(0, len(projectIds), batchSize):
+		batch = projectIds[index:index + batchSize]
+
+		modsResponse = requests.post(
+			"https://api.curseforge.com/v1/mods",
+			headers = headers,
+			json = { "modIds": batch },
+			timeout = 20
+		)
+
+		for entry in modsResponse.json().get("data", []):
+			includedMods.append({
+				"id": entry.get("id", 0),
+				"name": entry.get("name", ""),
+				"slug": entry.get("slug", ""),
+			})
+
+		time.sleep(0.1)
+
+	return includedMods
 
 def fetchModrinth(fprefix, dataPath):
 	print(fprefix + "Fetching Modrinth data.")
@@ -257,6 +335,17 @@ def fetchTranslations(fprefix, dataPath):
 			json.dump(manifest, f, indent=2)
 
 		print(fprefix + "Saved Translations data: " + str(languageCount) + " languages.")
+
+		englishRequest = requests.get(
+			"https://translations.serilum.com/lang/en_us.json",
+			timeout=15
+		)
+		englishLang = englishRequest.json()
+
+		with open(dataPath + sep + "translations_en_us.json", 'w') as f:
+			json.dump(englishLang, f, indent=2)
+
+		print(fprefix + "Saved English translation keys: " + str(len(englishLang)) + " entries.")
 
 	except Exception as e:
 		print(fprefix + "Error fetching Translations data: " + str(e))

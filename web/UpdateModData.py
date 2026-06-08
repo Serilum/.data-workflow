@@ -26,14 +26,15 @@ def main(mainPath):
 
 	print("\n" + fprefix + "Starting the generation.")
 
-	rootPath = "." + sep + "web"
+	webPath = "." + sep + "web"
+	dataPath = "." + sep + "mods" + sep + "data"
 	apiDataPath = "." + sep + "api" + sep + "data"
 	if os.environ['IS_PRODUCTION'] == "false": # For dev
-		rootPath = mainPath + sep + "web"
+		webPath = mainPath + sep + "web"
+		dataPath = mainPath + sep + "mods" + sep + "data"
 		apiDataPath = mainPath + sep + "api" + sep + "data"
 
-	dataPath = rootPath + sep + "data"
-	logoPath = rootPath + sep + "logo"
+	logoPath = webPath + sep + "logo"
 	Path(dataPath).mkdir(parents=True, exist_ok=True)
 	Path(logoPath).mkdir(parents=True, exist_ok=True)
 
@@ -50,6 +51,26 @@ def main(mainPath):
 			modrinthProjects = json.load(f)
 	except Exception:
 		print(fprefix + "Could not read Modrinth project data. Continuing without it.")
+
+	tveMods = []
+	try:
+		with open(apiDataPath + sep + "tve_mods.json", 'r') as f:
+			tveMods = json.load(f)
+	except Exception:
+		print(fprefix + "Could not read The Vanilla Experience mod list. Continuing without it.")
+
+	translatedModIds = set()
+	try:
+		with open(apiDataPath + sep + "translations_en_us.json", 'r') as f:
+			englishLang = json.load(f)
+
+		commentPrefix = "_comment_modname_"
+		for key in englishLang:
+			if key.startswith(commentPrefix):
+				translatedModIds.add(key[len(commentPrefix):])
+		translatedModIds.discard("shared")
+	except Exception:
+		print(fprefix + "Could not read English translation keys. Continuing without it.")
 
 	bundleCategories = fetchBundleCategories(fprefix)
 
@@ -78,6 +99,20 @@ def main(mainPath):
 		name = project.get("name", "")
 		if name:
 			mrByName[name] = project
+
+	tveProjectId = 347455
+	tveProjectIds = set()
+	tveIncludedMods = []
+	for tveMod in tveMods:
+		modId = tveMod.get("id", 0)
+		tveProjectIds.add(modId)
+		tveIncludedMods.append({
+			"name": tveMod.get("name", ""),
+			"slug": tveMod.get("slug", ""),
+			"curseforge_projectid": modId,
+			"is_serilum": modId in cfById,
+		})
+	tveIncludedMods = sorted(tveIncludedMods, key = lambda m: m["name"].lower())
 
 	print(fprefix + "Processing " + str(len(mainByName)) + " mods.")
 
@@ -148,6 +183,11 @@ def main(mainPath):
 		specificData["curseforge_legacy_fabric_projectid"] = fabricProjectId
 		specificData["environment"] = environment
 		specificData["project_type"] = projectTypes.get(mod.get("classId", 0), "other")
+		specificData["is_in_tve"] = mod.get("id", 0) in tveProjectIds or fabricProjectId in tveProjectIds
+		specificData["has_translations"] = slug.replace("-", "") in translatedModIds
+
+		if mod.get("id", 0) == tveProjectId:
+			specificData["included_mods"] = tveIncludedMods
 
 		modData[modName] = specificData
 		print(fprefix + "Processed: " + modName)
