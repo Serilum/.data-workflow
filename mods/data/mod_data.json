@@ -747,7 +747,7 @@
     ],
     "published": true,
     "is_bundle": false,
-    "bundle_category": "",
+    "bundle_category": "client",
     "curseforge_projectid": 514797,
     "curseforge_legacy_fabric_projectid": 541771,
     "environment": "client",

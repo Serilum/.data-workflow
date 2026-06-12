@@ -1,0 +1,1 @@
+<p>Simple plugin that removes the invisibility effect when a player moves.<br><br></p><p>Permission nodes: - deleteinvis.bypass (players with this permission can be invisible)<br><br></p><p>I made this plugin for my server McCombat.</p>
