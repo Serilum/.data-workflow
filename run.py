@@ -42,7 +42,7 @@ def main():
     # Generate the website mod data
     UpdateModData.main(rootPath)
 
-    # Save the stripped mod descriptions
+    # Save the full mod descriptions
     UpdateModDescriptions.main(rootPath)
 
     if os.environ['IS_PRODUCTION'] == "true":

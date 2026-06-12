@@ -16,9 +16,6 @@ sep = os.path.sep
 
 skipMods = ["OP Permission Fallback"]
 
-aboutPlateUrl = 'cdn.serilum.com/description/nameplate/about-the-mod.svg'
-footerPlateUrl = 'cdn.serilum.com/description/nameplate/notes-n-links.svg'
-
 def main(mainPath):
 	fprefix = " [Update Mod Descriptions] "
 
@@ -78,51 +75,13 @@ def main(mainPath):
 		typePath = descriptionsPath + sep + projectType
 		Path(typePath).mkdir(parents=True, exist_ok=True)
 		with open(typePath + sep + slug + ".txt", 'w', encoding='utf-8') as f:
-			f.write(normalizeEditor(rewriteLinkouts(extractDescription(description))))
+			f.write(normalizeEditor(rewriteLinkouts(description)))
 
 		print(fprefix + "Processed: " + modName)
 
 		time.sleep(0.05)
 
 	print(fprefix + "Done!")
-
-def extractDescription(html):
-	plateStart = html.find(aboutPlateUrl)
-	footerStart = html.find(footerPlateUrl, plateStart + 1)
-	if plateStart == -1 or footerStart == -1:
-		return stripDescription(html)
-
-	contentStart = html.find("</p>", plateStart)
-	if contentStart == -1:
-		return stripDescription(html)
-	contentStart += len("</p>")
-
-	contentEnd = html.rfind("<p", contentStart, footerStart)
-	if contentEnd == -1:
-		contentEnd = footerStart
-
-	return html[contentStart:contentEnd].strip()
-
-def stripDescription(html):
-	m = re.search(r'badges/svg/youtube\.svg.*?</p>', html, flags=re.DOTALL)
-	if m:
-		html = html[m.end():]
-
-	html = re.split(r'(?:<p[^>]*>)?(?:\s|<br\s*/?>|&nbsp;)*-{8,}<br', html, maxsplit=1)[0]
-
-	html = re.sub(r'<strong><span style="font-size:24px">Requires the library mod.*?</a>\.?(?:\s|<br\s*/?>|&nbsp;)*(?:</span>)?(?:\s|<br\s*/?>)*</strong>', '', html, count=1, flags=re.DOTALL)
-	html = re.sub(r'<strong>(?:(?!</strong>).)*?This mod is part of(?:(?!</strong>).)*?</strong>', '', html, count=1, flags=re.DOTALL)
-
-	html = re.sub(r'^\s*<p>(?:\s|<br\s*/?>|&nbsp;|<strong>\s*</strong>)*', '<p>', html, count=1)
-	html = re.sub(r'^(?:\s*<p[^>]*>(?:\s|&nbsp;|<br\s*/?>)*</p>)+', '', html)
-	html = re.sub(r'(?:<p[^>]*>(?:\s|&nbsp;|<br\s*/?>)*</p>\s*)+$', '', html)
-
-	html = html.strip()
-
-	if html.rfind('<p') > html.rfind('</p>'):
-		html += '</p>'
-
-	return html
 
 def normalizeEditor(html):
 	html = re.sub(r'>[\r\n]+<', '><', html)
