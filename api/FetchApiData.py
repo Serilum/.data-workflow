@@ -10,6 +10,9 @@ import io
 import os
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import Constants
+
 sep = os.path.sep
 
 def main(mainPath):
@@ -107,7 +110,6 @@ def fetchCurseForge(fprefix, dataPath):
 def fetchTveModpack(fprefix, dataPath):
 	print(fprefix + "Fetching The Vanilla Experience modpack mod list.")
 
-	tveProjectId = 347455
 	headers = {
 		"x-api-key": os.environ["CURSEFORGE_API_KEY"],
 		"Accept": "application/json"
@@ -115,7 +117,7 @@ def fetchTveModpack(fprefix, dataPath):
 
 	try:
 		modResponse = requests.get(
-			"https://api.curseforge.com/v1/mods/" + str(tveProjectId),
+			"https://api.curseforge.com/v1/mods/" + str(Constants.tveProjectId),
 			headers = headers,
 			timeout = 15
 		)

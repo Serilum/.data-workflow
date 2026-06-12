@@ -7,13 +7,12 @@ import re
 import os
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import Constants
+
 sep = os.path.sep
 
 skipMods = ["OP Permission Fallback"]
-
-loaderIds = { 1 : "forge", 4 : "fabric", 6 : "neoforge" }
-
-projectTypes = { 5 : "plugin", 6 : "mod", 4471 : "modpack" }
 
 def main(mainPath):
 	fprefix = " [Update Mod Data] "
@@ -93,7 +92,6 @@ def main(mainPath):
 		if name:
 			mrByName[name] = project
 
-	tveProjectId = 347455
 	tveProjectIds = set()
 	tveIncludedMods = []
 	for tveMod in tveMods:
@@ -167,15 +165,15 @@ def main(mainPath):
 		specificData["logo_sizes"] = logoSizes
 		specificData["published"] = mod.get("status", 0) == 4
 		specificData["is_bundle"] = isBundle
-		specificData["bundle_category"] = bundleCategories.get(modName, "")
+		specificData["bundle_category"] = bundleCategories.get(modName.replace("[", "").replace("]", ""), "")
 		specificData["curseforge_projectid"] = mod.get("id", -1)
 		specificData["curseforge_legacy_fabric_projectid"] = fabricProjectId
 		specificData["environment"] = environment
-		specificData["project_type"] = projectTypes.get(mod.get("classId", 0), "other")
+		specificData["project_type"] = Constants.projectTypes.get(mod.get("classId", 0), "other")
 		specificData["is_in_tve"] = mod.get("id", 0) in tveProjectIds or fabricProjectId in tveProjectIds
 		specificData["has_translations"] = slug.replace("-", "") in translatedModIds
 
-		if mod.get("id", 0) == tveProjectId:
+		if mod.get("id", 0) == Constants.tveProjectId:
 			specificData["included_mods"] = tveIncludedMods
 
 		modData[modName] = specificData
@@ -250,7 +248,7 @@ def getLoaderVersions(moddata):
 		return loaderVersions
 
 	for entry in moddata["latestFilesIndexes"]:
-		loaderKey = loaderIds.get(entry.get("modLoader"))
+		loaderKey = Constants.loaderIds.get(entry.get("modLoader"))
 		if loaderKey is None:
 			continue
 

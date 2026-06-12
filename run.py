@@ -16,6 +16,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "web"))
 import UpdateModLogos
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "mods"))
 import UpdateModData
+import UpdateModDescriptions
 
 def main():
     fprefix = " [Main] "
@@ -40,6 +41,9 @@ def main():
 
     # Generate the website mod data
     UpdateModData.main(rootPath)
+
+    # Save the stripped mod descriptions
+    UpdateModDescriptions.main(rootPath)
 
     if os.environ['IS_PRODUCTION'] == "true":
         # Process the requests from the .issue-tracker repo on GitHub:
