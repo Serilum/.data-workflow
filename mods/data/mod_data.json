@@ -7939,7 +7939,7 @@
     "has_translations": true
   },
   "Quick Right-Click": {
-    "description": "\u270b Adds a portable functionality to certain items, which allows for quick access without placement . Works with beds, crafting tables, ender chests and shulker boxes among others.",
+    "description": "\u270b Adds a portable functionality to certain items, which allows for quick access without placement. Works with beds, crafting tables, ender chests and shulker boxes among others.",
     "slug": "quick-right-click",
     "fabric_slug": "",
     "fabric_versions": [
