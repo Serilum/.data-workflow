@@ -166,7 +166,7 @@ def getPatreonNames(allPledges, pledgesResponse, names):
 		patronId = pledge.relationship('patron').id()
 		patron = pledgesResponse.find_resource_by_type_and_id('user', patronId)
 		names.append(patron.attribute('full_name'))
-		
+
 	return
 
 def naturalsort(l): 

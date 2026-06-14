@@ -10,6 +10,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), "issue-tracker"))
 import ProcessFeatureRequests
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "membership"))
 import UpdateMembershipData
+import GenerateMemberBadges
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "versions"))
 import UpdateLatestModVersions
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "web"))
@@ -29,6 +30,9 @@ def main():
 
     # Process GitHub Sponsors and Patreon members:
     UpdateMembershipData.main(rootPath)
+
+    # Generate the per-member supporter badges:
+    GenerateMemberBadges.main(rootPath)
 
     # Generate project description badges:
     GenerateBadges.main(rootPath)
