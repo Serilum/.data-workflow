@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="231" height="49" viewBox="-2 -2 162 34" role="img" aria-label="Michelle Smith (Patreon)">
+  <style> g.shadow { filter: drop-shadow(0.5px 0.5px 1.0px black); } </style>
+  <title>Michelle Smith (Patreon)</title>
+  <!-- layout: pad-right=14 -->
+  <g class="noshadow">
+    <rect x="1" y="1" width="156" height="28" rx="6" style="fill: #372e2b;"/>
+    <rect x="1" y="1" width="156" height="28" rx="6" style="fill: rgba(0, 0, 0, 0.2);"/>
+    <rect x="2" y="2" width="154" height="26" rx="5" style="fill: none; stroke-width:2px; stroke: rgba(211, 255, 255, 0.5);"/>
+  </g>
+  <g class="shadow" fill="#fff">
+    <g transform="translate(10, 7) scale(0.0148148)"><path d="M1033.05,324.45c-0.19-137.9-107.59-250.92-233.6-291.7c-156.48-50.64-362.86-43.3-512.28,27.2C106.07,145.41,49.18,332.61,47.06,519.31c-1.74,153.5,13.58,557.79,241.62,560.67c169.44,2.15,194.67-216.18,273.07-321.33c55.78-74.81,127.6-95.94,216.01-117.82C929.71,603.22,1033.27,483.3,1033.05,324.45z"/></g>
+  </g>
+  <g class="shadow" fill="#fff" text-anchor="start" text-rendering="geometricPrecision" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text x="38" y="19.5" font-size="13" font-weight="700" textLength="105" lengthAdjust="spacingAndGlyphs">Michelle Smith</text>
+  </g>
+</svg>
