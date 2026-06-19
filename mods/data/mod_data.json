@@ -11125,10 +11125,11 @@
     "has_translations": false
   },
   "The Vanilla Experience | TVE": {
-    "description": "\ud83c\udf33 A light custom-coded 26.1.1 vanilla+ modpack which is interchangeable with an unmodded save.",
+    "description": "\ud83c\udf33 A light custom-coded 26.2 vanilla+ modpack which is interchangeable with an unmodded save.",
     "slug": "the-vanilla-experience",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
       "26.1",
       "1.21",
       "1.20"
@@ -11140,6 +11141,7 @@
     ],
     "neoforge_versions": [],
     "version_latest": {
+      "26.2": "26.2",
       "26.1": "26.1.1",
       "1.21": "1.21.11",
       "1.20": "1.20.6",
@@ -11649,12 +11651,6 @@
         "slug": "mineral-chance",
         "curseforge_projectid": 412956,
         "is_serilum": true
-      },
-      {
-        "name": "Mod Menu",
-        "slug": "modmenu",
-        "curseforge_projectid": 308702,
-        "is_serilum": false
       },
       {
         "name": "Mooshroom Spawn",
