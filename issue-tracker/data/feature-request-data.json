@@ -9821,10 +9821,10 @@
         "mod_name": "World Border",
         "reactions": {
           "laugh": 2,
-          "+1": 6,
+          "+1": 7,
           "hooray": 1
         },
-        "reaction_count": 7,
+        "reaction_count": 8,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -13875,15 +13875,15 @@
       9
     ],
     [
+      1183,
+      8
+    ],
+    [
       2392,
       8
     ],
     [
       496,
-      7
-    ],
-    [
-      1183,
       7
     ],
     [
@@ -17139,5 +17139,5 @@
       1
     ]
   ],
-  "last_updated": "2026-06-19 20:07:24"
+  "last_updated": "2026-06-20 04:44:07"
 }
