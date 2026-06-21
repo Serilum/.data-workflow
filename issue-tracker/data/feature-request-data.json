@@ -1,6 +1,192 @@
 {
   "data": {
     "mod-feature": {
+      "3774": {
+        "id": 4709817133,
+        "number": 3774,
+        "title": "Starter Kit should be able to have the ui open for players after running a command and not on world creation/join",
+        "opened_by": "williamgouveia65-glitch",
+        "creation_date": "2026-06-21",
+        "labels": [
+          "Feature Request",
+          "Mod: Starter Kit"
+        ],
+        "mod_name": "Starter Kit",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3770": {
+        "id": 4682719914,
+        "number": 3770,
+        "title": "Keybind toggle for Stack Refill",
+        "opened_by": "Quinosaur",
+        "creation_date": "2026-06-17",
+        "labels": [
+          "Feature Request",
+          "Mod: Stack Refill"
+        ],
+        "mod_name": "Stack Refill",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3769": {
+        "id": 4671131125,
+        "number": 3769,
+        "title": "please exclude buckets",
+        "opened_by": "Zero4793",
+        "creation_date": "2026-06-16",
+        "labels": [
+          "Feature Request",
+          "Mod: Stack Refill"
+        ],
+        "mod_name": "Stack Refill",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3761": {
+        "id": 4653976674,
+        "number": 3761,
+        "title": "Add the Baby Giant Zombie",
+        "opened_by": "fleetag",
+        "creation_date": "2026-06-13",
+        "labels": [
+          "Feature Request",
+          "Mod: Giant Spawn"
+        ],
+        "mod_name": "Giant Spawn",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3760": {
+        "id": 4645753813,
+        "number": 3760,
+        "title": "Suggestion -- This or That",
+        "opened_by": "NathaelPMCleary",
+        "creation_date": "2026-06-12",
+        "labels": [
+          "Feature Request",
+          "Mod: Configurable Extra Mob Drops"
+        ],
+        "mod_name": "Configurable Extra Mob Drops",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3750": {
+        "id": 4552866555,
+        "number": 3750,
+        "title": "Trapdoor, doors and armor stand configs",
+        "opened_by": "ItsRileyNJ",
+        "creation_date": "2026-05-30",
+        "labels": [
+          "Feature Request",
+          "Mod: Adventure Mode Tweaks"
+        ],
+        "mod_name": "Adventure Mode Tweaks",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3749": {
+        "id": 4549608919,
+        "number": 3749,
+        "title": "Add game mode selection to Difficulty Lock mod",
+        "opened_by": "tokiponaenjoyer",
+        "creation_date": "2026-05-29",
+        "labels": [
+          "Feature Request",
+          "Mod: Difficulty Lock"
+        ],
+        "mod_name": "Difficulty Lock",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3736": {
+        "id": 4462889599,
+        "number": 3736,
+        "title": "Feature ideas: biome tags and difficulty specification",
+        "opened_by": "MythicHH",
+        "creation_date": "2026-05-17",
+        "labels": [
+          "Feature Request",
+          "Mod: Biome Spawn Point"
+        ],
+        "mod_name": "Biome Spawn Point",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3731": {
+        "id": 4435623339,
+        "number": 3731,
+        "title": "Extended Bone meal Extended Range",
+        "opened_by": "ReddPyramid",
+        "creation_date": "2026-05-13",
+        "labels": [
+          "Feature Request",
+          "Mod: Extended Bone Meal"
+        ],
+        "mod_name": "Extended Bone Meal",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3725": {
+        "id": 4395015238,
+        "number": 3725,
+        "title": "Have a single, particular, block that still blocks the beam",
+        "opened_by": "MicheleBosio99",
+        "creation_date": "2026-05-06",
+        "labels": [
+          "Feature Request",
+          "Mod: Underground Beacons"
+        ],
+        "mod_name": "Underground Beacons",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3720": {
+        "id": 4377388182,
+        "number": 3720,
+        "title": "Add Config option to make the rank coloured seperate from username",
+        "opened_by": "opee2012",
+        "creation_date": "2026-05-04",
+        "labels": [
+          "Feature Request",
+          "Mod: Beautified Chat Server"
+        ],
+        "mod_name": "Beautified Chat Server",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3704": {
         "id": 4329764276,
         "number": 3704,
@@ -14799,6 +14985,26 @@
       2
     ],
     [
+      3725,
+      2
+    ],
+    [
+      3731,
+      2
+    ],
+    [
+      3760,
+      2
+    ],
+    [
+      3769,
+      2
+    ],
+    [
+      3774,
+      2
+    ],
+    [
       181,
       1
     ],
@@ -17137,7 +17343,31 @@
     [
       3669,
       1
+    ],
+    [
+      3720,
+      1
+    ],
+    [
+      3736,
+      1
+    ],
+    [
+      3749,
+      1
+    ],
+    [
+      3750,
+      1
+    ],
+    [
+      3761,
+      1
+    ],
+    [
+      3770,
+      1
     ]
   ],
-  "last_updated": "2026-06-21 05:21:45"
+  "last_updated": "2026-06-21 10:09:21"
 }
