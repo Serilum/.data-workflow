@@ -9576,18 +9576,22 @@
     "slug": "serilums-client-bundle",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "forge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "neoforge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "version_latest": {
+      "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11"
     },
@@ -9617,18 +9621,22 @@
     "slug": "serilums-customization-bundle",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "forge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "neoforge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "version_latest": {
+      "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11"
     },
@@ -9658,18 +9666,22 @@
     "slug": "serilums-extra-bundle",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "forge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "neoforge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "version_latest": {
+      "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11"
     },
@@ -9699,18 +9711,22 @@
     "slug": "serilums-qol-bundle",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "forge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "neoforge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "version_latest": {
+      "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11"
     },
@@ -9740,18 +9756,22 @@
     "slug": "serilums-rpg-bundle",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "forge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "neoforge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "version_latest": {
+      "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11"
     },
@@ -9781,18 +9801,22 @@
     "slug": "serilums-spawn-bundle",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "forge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "neoforge_versions": [
+      "26.2",
       "26.1",
       "1.21"
     ],
     "version_latest": {
+      "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11"
     },

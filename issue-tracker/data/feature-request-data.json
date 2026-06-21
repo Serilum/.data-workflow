@@ -64,7 +64,9 @@
           "Mod: Giant Spawn"
         ],
         "mod_name": "Giant Spawn",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -17369,5 +17371,5 @@
       1
     ]
   ],
-  "last_updated": "2026-06-21 10:09:21"
+  "last_updated": "2026-06-21 14:35:53"
 }
