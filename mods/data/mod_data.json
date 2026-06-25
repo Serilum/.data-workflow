@@ -1450,19 +1450,27 @@
     "slug": "brand-new-day",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.2",
+      "26.1",
       "1.21",
       "1.20"
     ],
     "forge_versions": [
+      "26.2",
+      "26.1",
       "1.21",
       "1.20"
     ],
     "neoforge_versions": [
+      "26.2",
+      "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
-      "1.21": "1.21.1",
+      "26.2": "26.2",
+      "26.1": "26.1.2",
+      "1.21": "1.21.11",
       "1.20": "1.20.1"
     },
     "fabric_version_latest": {},
@@ -1481,7 +1489,7 @@
     "bundle_category": "",
     "curseforge_projectid": 1587464,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "client",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -2788,7 +2796,7 @@
     "bundle_category": "",
     "curseforge_projectid": 46539,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "plugin",
     "is_in_tve": false,
     "has_translations": false
@@ -3294,7 +3302,7 @@
     "bundle_category": "",
     "curseforge_projectid": 344530,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -3331,7 +3339,7 @@
     "bundle_category": "",
     "curseforge_projectid": 349953,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -3368,7 +3376,7 @@
     "bundle_category": "",
     "curseforge_projectid": 344532,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -3405,7 +3413,7 @@
     "bundle_category": "",
     "curseforge_projectid": 344500,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -4017,7 +4025,7 @@
     "bundle_category": "",
     "curseforge_projectid": 375509,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -7075,7 +7083,7 @@
     "bundle_category": "",
     "curseforge_projectid": 342777,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -9424,7 +9432,7 @@
     "bundle_category": "",
     "curseforge_projectid": 376891,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
@@ -11184,7 +11192,7 @@
     "bundle_category": "",
     "curseforge_projectid": 454414,
     "curseforge_legacy_fabric_projectid": -1,
-    "environment": "both",
+    "environment": "",
     "project_type": "mod",
     "is_in_tve": false,
     "has_translations": false
