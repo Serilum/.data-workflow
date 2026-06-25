@@ -1445,6 +1445,47 @@
     "is_in_tve": true,
     "has_translations": false
   },
+  "Brand New Day": {
+    "description": "\ud83c\udf05 Shows statistics and a header image whenever a new Minecraft day starts!",
+    "slug": "brand-new-day",
+    "fabric_slug": "",
+    "fabric_versions": [
+      "1.21",
+      "1.20"
+    ],
+    "forge_versions": [
+      "1.21",
+      "1.20"
+    ],
+    "neoforge_versions": [
+      "1.21",
+      "1.20"
+    ],
+    "version_latest": {
+      "1.21": "1.21.1",
+      "1.20": "1.20.1"
+    },
+    "fabric_version_latest": {},
+    "dependencies": [
+      "collective"
+    ],
+    "logo_file_type": ".png",
+    "logo_sizes": [
+      64,
+      128,
+      256,
+      512
+    ],
+    "published": true,
+    "is_bundle": false,
+    "bundle_category": "",
+    "curseforge_projectid": 1587464,
+    "curseforge_legacy_fabric_projectid": -1,
+    "environment": "both",
+    "project_type": "mod",
+    "is_in_tve": false,
+    "has_translations": false
+  },
   "Breedable Killer Rabbit": {
     "description": "\ud83d\udc30 Makes the killer rabbit/bunny tamable and available by breeding.",
     "slug": "breedable-killer-rabbit",
