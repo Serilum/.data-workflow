@@ -145,9 +145,11 @@ def main(mainPath):
 			dependencies = naturalSort(dependencies)
 
 		mrProject = mrByName.get(modName)
-		environment = "both"
+		environment = ""
 		if mrProject is not None:
 			environment = simplifyEnvironment(mrProject.get("environment", []))
+		elif mod.get("status", 0) == 4:
+			print(fprefix + "No Modrinth project matched '" + modName + "'; environment left undetermined.")
 
 		logoFileType, logoSizes = getLogoInfo(logoPath, slug)
 
@@ -217,7 +219,7 @@ def getLogoInfo(logoPath, slug):
 
 def simplifyEnvironment(environment):
 	if not environment:
-		return "both"
+		return ""
 
 	value = environment[0]
 
@@ -239,7 +241,7 @@ def simplifyEnvironment(environment):
 	if hasServer:
 		return "server"
 
-	return "both"
+	return ""
 
 def getLoaderVersions(moddata):
 	loaderVersions = { "forge" : set(), "fabric" : set(), "neoforge" : set() }

@@ -230,6 +230,24 @@ def fetchModrinthProjects(fprefix, dataPath):
 		if slug != "" and slug not in slugs:
 			slugs.append(slug)
 
+	try:
+		userResponse = requests.get(
+			"https://api.modrinth.com/v2/user/Serilum/projects",
+			headers = {
+				"Authorization": os.environ["MODRINTH_API_KEY"],
+				"User-Agent": "Serilum/.data-workflow (serilum.com)"
+			},
+			timeout=15
+		)
+		ownedProjects = userResponse.json()
+		if isinstance(ownedProjects, list):
+			for project in ownedProjects:
+				slug = project.get("slug", "")
+				if slug != "" and slug not in slugs:
+					slugs.append(slug)
+	except Exception as e:
+		print(fprefix + "Could not fetch owned Modrinth projects: " + str(e))
+
 	if len(slugs) == 0:
 		print(fprefix + "No Modrinth slugs to fetch.")
 		return
