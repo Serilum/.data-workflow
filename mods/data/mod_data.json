@@ -64,7 +64,7 @@
     "curseforge_legacy_fabric_projectid": 550889,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Adventure Mode Tweaks": {
@@ -180,7 +180,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Altered Damage": {
@@ -312,7 +312,7 @@
     "curseforge_legacy_fabric_projectid": 552429,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Always a Wither Skull": {
@@ -382,7 +382,7 @@
     "curseforge_legacy_fabric_projectid": 531469,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Anvil Restoration": {
@@ -446,7 +446,7 @@
     "curseforge_legacy_fabric_projectid": 531465,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "April Fools": {
@@ -498,7 +498,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Areas": {
@@ -563,7 +563,7 @@
     "curseforge_legacy_fabric_projectid": 681975,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Automatic Doors": {
@@ -633,7 +633,7 @@
     "curseforge_legacy_fabric_projectid": 531461,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Automatic Operator": {
@@ -740,7 +740,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Beautified Chat [Client]": {
@@ -804,7 +804,7 @@
     "curseforge_legacy_fabric_projectid": 541771,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Beautified Chat [Server]": {
@@ -938,7 +938,7 @@
     "curseforge_legacy_fabric_projectid": 531310,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Better Conduit Placement": {
@@ -1004,7 +1004,7 @@
     "curseforge_legacy_fabric_projectid": 531305,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Better Spawner Control": {
@@ -1074,7 +1074,7 @@
     "curseforge_legacy_fabric_projectid": 541470,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Bigger Sponge Absorption Radius": {
@@ -1140,7 +1140,7 @@
     "curseforge_legacy_fabric_projectid": 580857,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Biome Spawn Point": {
@@ -1244,7 +1244,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Bottle Your Xp": {
@@ -1314,7 +1314,7 @@
     "curseforge_legacy_fabric_projectid": 531299,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Bottled Air": {
@@ -1378,7 +1378,7 @@
     "curseforge_legacy_fabric_projectid": 531296,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Bouncier Beds": {
@@ -1442,7 +1442,7 @@
     "curseforge_legacy_fabric_projectid": 541289,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Brand New Day": {
@@ -1561,7 +1561,7 @@
     "curseforge_legacy_fabric_projectid": 541281,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Breeze Spawn": {
@@ -1606,7 +1606,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Campfire Spawn and Tweaks": {
@@ -1672,7 +1672,7 @@
     "curseforge_legacy_fabric_projectid": 541268,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Cave Spider Spawn": {
@@ -1724,7 +1724,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Chorus Fruit Drops Nearby": {
@@ -1773,7 +1773,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Collective": {
@@ -1839,7 +1839,7 @@
     "curseforge_legacy_fabric_projectid": 526606,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Compact Help Command": {
@@ -1903,7 +1903,7 @@
     "curseforge_legacy_fabric_projectid": 531291,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Conduits Prevent Drowned": {
@@ -1971,7 +1971,7 @@
     "curseforge_legacy_fabric_projectid": 541257,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Configurable Despawn Timer": {
@@ -2038,7 +2038,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Configurable Extra Mob Drops": {
@@ -2369,7 +2369,7 @@
     "curseforge_legacy_fabric_projectid": 531273,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Crying Portals": {
@@ -2431,7 +2431,7 @@
     "curseforge_legacy_fabric_projectid": 547861,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Current Game Music Track": {
@@ -2486,7 +2486,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Custom Credits": {
@@ -2611,7 +2611,7 @@
     "curseforge_legacy_fabric_projectid": 531272,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Cycle Title Screen Splash": {
@@ -2776,7 +2776,7 @@
     "curseforge_legacy_fabric_projectid": 531270,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Delete Invisibility On Movement (Bukkit)": {
@@ -2868,7 +2868,7 @@
     "curseforge_legacy_fabric_projectid": 541248,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Difficulty Lock": {
@@ -3006,7 +3006,7 @@
     "curseforge_legacy_fabric_projectid": 531265,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Double Doors": {
@@ -3076,7 +3076,7 @@
     "curseforge_legacy_fabric_projectid": 541214,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Dragon Drops Elytra": {
@@ -3148,7 +3148,7 @@
     "curseforge_legacy_fabric_projectid": 530658,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Easy Elevators": {
@@ -3197,7 +3197,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Easy Elytra Takeoff": {
@@ -3267,7 +3267,7 @@
     "curseforge_legacy_fabric_projectid": 530654,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Edible Blaze Powder (Forge)": {
@@ -3483,7 +3483,7 @@
     "curseforge_legacy_fabric_projectid": 530648,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Enchanting Commands": {
@@ -3553,7 +3553,7 @@
     "curseforge_legacy_fabric_projectid": 530645,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Enchantment Level Cap Indicator": {
@@ -3602,7 +3602,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "End Portal Recipe": {
@@ -3672,7 +3672,7 @@
     "curseforge_legacy_fabric_projectid": 577002,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Entity Information": {
@@ -3810,7 +3810,7 @@
     "curseforge_legacy_fabric_projectid": 530619,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Extended Bone Meal": {
@@ -3878,7 +3878,7 @@
     "curseforge_legacy_fabric_projectid": 541198,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Extended Creative Inventory": {
@@ -3994,7 +3994,7 @@
     "curseforge_legacy_fabric_projectid": 530618,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "FAB Library (Forge)": {
@@ -4097,7 +4097,7 @@
     "curseforge_legacy_fabric_projectid": 530614,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Faster Crouching": {
@@ -4156,7 +4156,7 @@
     "curseforge_legacy_fabric_projectid": 698000,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Fire Spread Tweaks": {
@@ -4224,7 +4224,7 @@
     "curseforge_legacy_fabric_projectid": 541191,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "First Join Message": {
@@ -4292,7 +4292,7 @@
     "curseforge_legacy_fabric_projectid": 530613,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Fish On The Line": {
@@ -4358,7 +4358,7 @@
     "curseforge_legacy_fabric_projectid": 530391,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Fixed Anvil Repair Cost": {
@@ -4426,7 +4426,7 @@
     "curseforge_legacy_fabric_projectid": 536752,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Flower Mimics": {
@@ -4481,7 +4481,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Followers Teleport Too": {
@@ -4540,7 +4540,7 @@
     "curseforge_legacy_fabric_projectid": 682212,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Full Brightness Toggle": {
@@ -4668,7 +4668,7 @@
     "curseforge_legacy_fabric_projectid": 551146,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Giant Spawn": {
@@ -4734,7 +4734,7 @@
     "curseforge_legacy_fabric_projectid": 541186,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Global Narration Toggle": {
@@ -4783,7 +4783,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Grabby Mobs": {
@@ -4838,7 +4838,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Grass Seeds": {
@@ -4908,7 +4908,7 @@
     "curseforge_legacy_fabric_projectid": 530225,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Grindstone Sharper Tools": {
@@ -4974,7 +4974,7 @@
     "curseforge_legacy_fabric_projectid": 530222,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "GUI Clock": {
@@ -5044,7 +5044,7 @@
     "curseforge_legacy_fabric_projectid": 541178,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "GUI Compass": {
@@ -5114,7 +5114,7 @@
     "curseforge_legacy_fabric_projectid": 541177,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "GUI Effect Timer": {
@@ -5163,7 +5163,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "GUI Followers": {
@@ -5231,7 +5231,7 @@
     "curseforge_legacy_fabric_projectid": 539849,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Hand Over Your Items": {
@@ -5299,7 +5299,7 @@
     "curseforge_legacy_fabric_projectid": 530057,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Healing Campfire": {
@@ -5365,7 +5365,7 @@
     "curseforge_legacy_fabric_projectid": 530031,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Healing Soup": {
@@ -5622,7 +5622,7 @@
     "curseforge_legacy_fabric_projectid": 539845,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Hoe Tweaks": {
@@ -5686,7 +5686,7 @@
     "curseforge_legacy_fabric_projectid": 539835,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Humbling Bundle": {
@@ -5821,7 +5821,7 @@
     "curseforge_legacy_fabric_projectid": 530019,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Ice Prevents Crop Growth": {
@@ -5889,7 +5889,7 @@
     "curseforge_legacy_fabric_projectid": 539830,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Improved Sign Editing": {
@@ -5941,7 +5941,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Infinite Trading": {
@@ -6011,7 +6011,7 @@
     "curseforge_legacy_fabric_projectid": 529960,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Inventory Mending": {
@@ -6060,7 +6060,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Inventory Totem": {
@@ -6130,7 +6130,7 @@
     "curseforge_legacy_fabric_projectid": 529954,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Just Mob Heads": {
@@ -6200,7 +6200,7 @@
     "curseforge_legacy_fabric_projectid": 529950,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Just Player Heads": {
@@ -6272,7 +6272,7 @@
     "curseforge_legacy_fabric_projectid": 529942,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Keep My Soil Tilled": {
@@ -6334,7 +6334,7 @@
     "curseforge_legacy_fabric_projectid": 547964,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Kelp Fertilizer": {
@@ -6400,7 +6400,7 @@
     "curseforge_legacy_fabric_projectid": 539824,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Let's Parkour": {
@@ -6574,7 +6574,7 @@
     "curseforge_legacy_fabric_projectid": 529926,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Mineral Chance": {
@@ -6642,7 +6642,7 @@
     "curseforge_legacy_fabric_projectid": 529925,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Mooshroom Spawn": {
@@ -6710,7 +6710,7 @@
     "curseforge_legacy_fabric_projectid": 529923,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Mooshroom Tweaks": {
@@ -6776,7 +6776,7 @@
     "curseforge_legacy_fabric_projectid": 529922,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "More Zombie Villagers": {
@@ -6846,7 +6846,7 @@
     "curseforge_legacy_fabric_projectid": 529921,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Move Boats": {
@@ -6913,7 +6913,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Move Minecarts": {
@@ -6980,7 +6980,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Name Tag Tweaks": {
@@ -7048,7 +7048,7 @@
     "curseforge_legacy_fabric_projectid": 539820,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Named Areas (Forge)": {
@@ -7134,7 +7134,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Naturally Charged Creepers": {
@@ -7204,7 +7204,7 @@
     "curseforge_legacy_fabric_projectid": 529919,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Nether Portal Spread": {
@@ -7274,7 +7274,7 @@
     "curseforge_legacy_fabric_projectid": 529673,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "No Animal Tempt Delay": {
@@ -7326,7 +7326,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "No Feather Trample": {
@@ -7378,7 +7378,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "No Hostiles Around Campfire": {
@@ -7444,7 +7444,7 @@
     "curseforge_legacy_fabric_projectid": 539639,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Nutritious Milk": {
@@ -7511,7 +7511,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Omega Mute": {
@@ -7577,7 +7577,7 @@
     "curseforge_legacy_fabric_projectid": 539632,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Ore Discovery Broadcast": {
@@ -7681,7 +7681,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Overworld Piglins": {
@@ -7736,7 +7736,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Paper Books": {
@@ -7806,7 +7806,7 @@
     "curseforge_legacy_fabric_projectid": 529666,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Passive Endermen": {
@@ -7874,7 +7874,7 @@
     "curseforge_legacy_fabric_projectid": 580907,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Passive Shield": {
@@ -7940,7 +7940,7 @@
     "curseforge_legacy_fabric_projectid": 585934,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Persistent Inventory Search": {
@@ -7995,7 +7995,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Pet Names": {
@@ -8065,7 +8065,7 @@
     "curseforge_legacy_fabric_projectid": 539627,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Piglin Names": {
@@ -8114,7 +8114,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Placeable Blaze Rods": {
@@ -8428,7 +8428,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Quick Paths": {
@@ -8496,7 +8496,7 @@
     "curseforge_legacy_fabric_projectid": 539614,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Quick Right-Click": {
@@ -8551,7 +8551,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Quicksaving": {
@@ -8668,7 +8668,7 @@
     "curseforge_legacy_fabric_projectid": 529593,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Random Bone Meal Flowers": {
@@ -8738,7 +8738,7 @@
     "curseforge_legacy_fabric_projectid": 539610,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Random Mob Effects": {
@@ -8874,7 +8874,7 @@
     "curseforge_legacy_fabric_projectid": 528385,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Random Shulker Colours": {
@@ -8940,7 +8940,7 @@
     "curseforge_legacy_fabric_projectid": 539606,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Random Village Names": {
@@ -9006,7 +9006,7 @@
     "curseforge_legacy_fabric_projectid": 682142,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Realistic Bees": {
@@ -9065,7 +9065,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Recast": {
@@ -9133,7 +9133,7 @@
     "curseforge_legacy_fabric_projectid": 539600,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Recipe Commands": {
@@ -9199,7 +9199,7 @@
     "curseforge_legacy_fabric_projectid": 528383,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Replanting Crops": {
@@ -9267,7 +9267,7 @@
     "curseforge_legacy_fabric_projectid": 528380,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Respawn Delay": {
@@ -9403,7 +9403,7 @@
     "curseforge_legacy_fabric_projectid": 539544,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "SAM Library (Forge)": {
@@ -9568,7 +9568,7 @@
     "curseforge_legacy_fabric_projectid": 528272,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Screenshot Compression": {
@@ -9955,7 +9955,7 @@
     "curseforge_legacy_fabric_projectid": 528270,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Shadow Mounts": {
@@ -10074,7 +10074,7 @@
     "curseforge_legacy_fabric_projectid": 575694,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Silence Mobs": {
@@ -10195,7 +10195,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Simple Menu": {
@@ -10244,7 +10244,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Skeleton Horse Spawn": {
@@ -10312,7 +10312,7 @@
     "curseforge_legacy_fabric_projectid": 528077,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Sleep Sooner": {
@@ -10384,7 +10384,7 @@
     "curseforge_legacy_fabric_projectid": 528073,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Smaller Nether Portals": {
@@ -10454,7 +10454,7 @@
     "curseforge_legacy_fabric_projectid": 528061,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Snowballs Freeze Mobs": {
@@ -10524,7 +10524,7 @@
     "curseforge_legacy_fabric_projectid": 528048,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Softer Hay Bales": {
@@ -10594,7 +10594,7 @@
     "curseforge_legacy_fabric_projectid": 527908,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Spiders Produce Webs": {
@@ -10664,7 +10664,7 @@
     "curseforge_legacy_fabric_projectid": 527896,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Spooky Jams": {
@@ -10781,7 +10781,7 @@
     "curseforge_legacy_fabric_projectid": 580682,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Starter Kit": {
@@ -10849,7 +10849,7 @@
     "curseforge_legacy_fabric_projectid": 527822,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Starter Structure": {
@@ -10955,7 +10955,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Stray Spawn": {
@@ -11023,7 +11023,7 @@
     "curseforge_legacy_fabric_projectid": 527818,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Superflat World No Slimes": {
@@ -11093,7 +11093,7 @@
     "curseforge_legacy_fabric_projectid": 527781,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Surface Mushrooms": {
@@ -11155,7 +11155,7 @@
     "curseforge_legacy_fabric_projectid": 550966,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "The Vanilla Experience (Mod) (Forge)": {
@@ -11244,7 +11244,908 @@
     "project_type": "modpack",
     "is_in_tve": false,
     "has_translations": false,
-    "included_mods": []
+    "included_mods": [
+      {
+        "name": "Advancement Screenshot",
+        "slug": "advancement-screenshot",
+        "curseforge_projectid": 414086,
+        "is_serilum": true
+      },
+      {
+        "name": "All Loot Drops",
+        "slug": "all-loot-drops",
+        "curseforge_projectid": 324863,
+        "is_serilum": true
+      },
+      {
+        "name": "Alternative World Save Location",
+        "slug": "alternative-world-save-location",
+        "curseforge_projectid": 552418,
+        "is_serilum": true
+      },
+      {
+        "name": "Always a Wither Skull",
+        "slug": "always-a-wither-skull",
+        "curseforge_projectid": 342495,
+        "is_serilum": true
+      },
+      {
+        "name": "Anvil Restoration",
+        "slug": "anvil-restoration",
+        "curseforge_projectid": 523801,
+        "is_serilum": true
+      },
+      {
+        "name": "April Fools",
+        "slug": "april-fools",
+        "curseforge_projectid": 982952,
+        "is_serilum": true
+      },
+      {
+        "name": "Areas",
+        "slug": "areas",
+        "curseforge_projectid": 391701,
+        "is_serilum": true
+      },
+      {
+        "name": "Automatic Doors",
+        "slug": "automatic-doors",
+        "curseforge_projectid": 347635,
+        "is_serilum": true
+      },
+      {
+        "name": "Bareback Horse Riding",
+        "slug": "bareback-horse-riding",
+        "curseforge_projectid": 949932,
+        "is_serilum": true
+      },
+      {
+        "name": "Beautified Chat [Client]",
+        "slug": "beautified-chat-client",
+        "curseforge_projectid": 514797,
+        "is_serilum": true
+      },
+      {
+        "name": "Better Beacon Placement",
+        "slug": "better-beacon-placement",
+        "curseforge_projectid": 350018,
+        "is_serilum": true
+      },
+      {
+        "name": "Better Conduit Placement",
+        "slug": "better-conduit-placement",
+        "curseforge_projectid": 366997,
+        "is_serilum": true
+      },
+      {
+        "name": "Better Spawner Control",
+        "slug": "better-spawner-control",
+        "curseforge_projectid": 344036,
+        "is_serilum": true
+      },
+      {
+        "name": "Bigger Sponge Absorption Radius",
+        "slug": "bigger-sponge-absorption-radius",
+        "curseforge_projectid": 391896,
+        "is_serilum": true
+      },
+      {
+        "name": "Bogged Spawn",
+        "slug": "bogged-spawn",
+        "curseforge_projectid": 1036810,
+        "is_serilum": true
+      },
+      {
+        "name": "Bottle Your Xp",
+        "slug": "bottle-your-xp",
+        "curseforge_projectid": 344020,
+        "is_serilum": true
+      },
+      {
+        "name": "Bottled Air",
+        "slug": "bottled-air",
+        "curseforge_projectid": 514444,
+        "is_serilum": true
+      },
+      {
+        "name": "Bouncier Beds",
+        "slug": "bouncier-beds",
+        "curseforge_projectid": 514725,
+        "is_serilum": true
+      },
+      {
+        "name": "Breedable Killer Rabbit",
+        "slug": "breedable-killer-rabbit",
+        "curseforge_projectid": 342154,
+        "is_serilum": true
+      },
+      {
+        "name": "Breeze Spawn",
+        "slug": "breeze-spawn",
+        "curseforge_projectid": 1036823,
+        "is_serilum": true
+      },
+      {
+        "name": "Campfire Spawn and Tweaks",
+        "slug": "campfire-spawn-and-tweaks",
+        "curseforge_projectid": 452484,
+        "is_serilum": true
+      },
+      {
+        "name": "Cave Spider Spawn",
+        "slug": "cave-spider-spawn",
+        "curseforge_projectid": 952294,
+        "is_serilum": true
+      },
+      {
+        "name": "Chorus Fruit Drops Nearby",
+        "slug": "chorus-fruit-drops-nearby",
+        "curseforge_projectid": 1203247,
+        "is_serilum": true
+      },
+      {
+        "name": "Collective",
+        "slug": "collective",
+        "curseforge_projectid": 342584,
+        "is_serilum": true
+      },
+      {
+        "name": "Compact Help Command",
+        "slug": "compact-help-command",
+        "curseforge_projectid": 515753,
+        "is_serilum": true
+      },
+      {
+        "name": "Conduits Prevent Drowned",
+        "slug": "conduits-prevent-drowned",
+        "curseforge_projectid": 345819,
+        "is_serilum": true
+      },
+      {
+        "name": "Configurable Despawn Timer",
+        "slug": "configurable-despawn-timer",
+        "curseforge_projectid": 347751,
+        "is_serilum": true
+      },
+      {
+        "name": "Crying Ghasts",
+        "slug": "crying-ghasts",
+        "curseforge_projectid": 344360,
+        "is_serilum": true
+      },
+      {
+        "name": "Crying Portals",
+        "slug": "crying-portals",
+        "curseforge_projectid": 547844,
+        "is_serilum": true
+      },
+      {
+        "name": "Current Game Music Track",
+        "slug": "current-game-music-track",
+        "curseforge_projectid": 933960,
+        "is_serilum": true
+      },
+      {
+        "name": "Cycle Paintings",
+        "slug": "cycle-paintings",
+        "curseforge_projectid": 345973,
+        "is_serilum": true
+      },
+      {
+        "name": "Death Backup",
+        "slug": "death-backup",
+        "curseforge_projectid": 411571,
+        "is_serilum": true
+      },
+      {
+        "name": "Despawning Eggs Hatch",
+        "slug": "despawning-eggs-hatch",
+        "curseforge_projectid": 347608,
+        "is_serilum": true
+      },
+      {
+        "name": "Dismount Entity",
+        "slug": "dismount-entity",
+        "curseforge_projectid": 348262,
+        "is_serilum": true
+      },
+      {
+        "name": "Double Doors",
+        "slug": "double-doors",
+        "curseforge_projectid": 348831,
+        "is_serilum": true
+      },
+      {
+        "name": "Dragon Drops Elytra",
+        "slug": "dragon-drops-elytra",
+        "curseforge_projectid": 302422,
+        "is_serilum": true
+      },
+      {
+        "name": "Easy Elevators",
+        "slug": "easy-elevators",
+        "curseforge_projectid": 1064344,
+        "is_serilum": true
+      },
+      {
+        "name": "Easy Elytra Takeoff",
+        "slug": "easy-elytra-takeoff",
+        "curseforge_projectid": 347898,
+        "is_serilum": true
+      },
+      {
+        "name": "Edibles",
+        "slug": "edibles",
+        "curseforge_projectid": 374240,
+        "is_serilum": true
+      },
+      {
+        "name": "Enchanting Commands",
+        "slug": "enchanting-commands",
+        "curseforge_projectid": 341721,
+        "is_serilum": true
+      },
+      {
+        "name": "Enchantment Level Cap Indicator",
+        "slug": "enchantment-level-cap-indicator",
+        "curseforge_projectid": 1204463,
+        "is_serilum": true
+      },
+      {
+        "name": "End Portal Recipe",
+        "slug": "end-portal-recipe",
+        "curseforge_projectid": 346030,
+        "is_serilum": true
+      },
+      {
+        "name": "Eroding Stone Entities",
+        "slug": "eroding-stone-entities",
+        "curseforge_projectid": 413431,
+        "is_serilum": true
+      },
+      {
+        "name": "Extended Bone Meal",
+        "slug": "extended-bone-meal",
+        "curseforge_projectid": 367534,
+        "is_serilum": true
+      },
+      {
+        "name": "Extract Poison",
+        "slug": "extract-poison",
+        "curseforge_projectid": 344991,
+        "is_serilum": true
+      },
+      {
+        "name": "Fabric API",
+        "slug": "fabric-api",
+        "curseforge_projectid": 306612,
+        "is_serilum": false
+      },
+      {
+        "name": "Fall Through Slime",
+        "slug": "fall-through-slime",
+        "curseforge_projectid": 344421,
+        "is_serilum": true
+      },
+      {
+        "name": "Faster Crouching",
+        "slug": "faster-crouching",
+        "curseforge_projectid": 697998,
+        "is_serilum": true
+      },
+      {
+        "name": "Fire Spread Tweaks",
+        "slug": "fire-spread-tweaks",
+        "curseforge_projectid": 446366,
+        "is_serilum": true
+      },
+      {
+        "name": "First Join Message",
+        "slug": "first-join-message",
+        "curseforge_projectid": 390733,
+        "is_serilum": true
+      },
+      {
+        "name": "Fish On The Line",
+        "slug": "fish-on-the-line",
+        "curseforge_projectid": 450603,
+        "is_serilum": true
+      },
+      {
+        "name": "Fixed Anvil Repair Cost",
+        "slug": "fixed-anvil-repair-cost",
+        "curseforge_projectid": 390913,
+        "is_serilum": true
+      },
+      {
+        "name": "Flower Mimics",
+        "slug": "flower-mimics",
+        "curseforge_projectid": 930056,
+        "is_serilum": true
+      },
+      {
+        "name": "Followers Teleport Too",
+        "slug": "followers-teleport-too",
+        "curseforge_projectid": 682198,
+        "is_serilum": true
+      },
+      {
+        "name": "Furnace Recycle",
+        "slug": "furnace-recycle",
+        "curseforge_projectid": 551140,
+        "is_serilum": true
+      },
+      {
+        "name": "Giant Spawn",
+        "slug": "giant-spawn",
+        "curseforge_projectid": 347921,
+        "is_serilum": true
+      },
+      {
+        "name": "Global Narration Toggle",
+        "slug": "global-narration-toggle",
+        "curseforge_projectid": 948704,
+        "is_serilum": true
+      },
+      {
+        "name": "Grabby Mobs",
+        "slug": "grabby-mobs",
+        "curseforge_projectid": 881030,
+        "is_serilum": true
+      },
+      {
+        "name": "Grass Seeds",
+        "slug": "grass-seeds",
+        "curseforge_projectid": 345981,
+        "is_serilum": true
+      },
+      {
+        "name": "Grindstone Sharper Tools",
+        "slug": "grindstone-sharper-tools",
+        "curseforge_projectid": 347346,
+        "is_serilum": true
+      },
+      {
+        "name": "GUI Clock",
+        "slug": "gui-clock",
+        "curseforge_projectid": 347529,
+        "is_serilum": true
+      },
+      {
+        "name": "GUI Compass",
+        "slug": "gui-compass",
+        "curseforge_projectid": 347595,
+        "is_serilum": true
+      },
+      {
+        "name": "GUI Effect Timer",
+        "slug": "gui-effect-timer",
+        "curseforge_projectid": 1203979,
+        "is_serilum": true
+      },
+      {
+        "name": "GUI Followers",
+        "slug": "gui-followers",
+        "curseforge_projectid": 410911,
+        "is_serilum": true
+      },
+      {
+        "name": "Hand Over Your Items",
+        "slug": "hand-over-your-items",
+        "curseforge_projectid": 450270,
+        "is_serilum": true
+      },
+      {
+        "name": "Healing Campfire",
+        "slug": "healing-campfire",
+        "curseforge_projectid": 342623,
+        "is_serilum": true
+      },
+      {
+        "name": "Hide Hands",
+        "slug": "hide-hands",
+        "curseforge_projectid": 379688,
+        "is_serilum": true
+      },
+      {
+        "name": "Hoe Tweaks",
+        "slug": "hoe-tweaks",
+        "curseforge_projectid": 523830,
+        "is_serilum": true
+      },
+      {
+        "name": "Husk Spawn",
+        "slug": "husk-spawn",
+        "curseforge_projectid": 348176,
+        "is_serilum": true
+      },
+      {
+        "name": "Ice Prevents Crop Growth",
+        "slug": "ice-prevents-crop-growth",
+        "curseforge_projectid": 390161,
+        "is_serilum": true
+      },
+      {
+        "name": "Improved Sign Editing",
+        "slug": "improved-sign-editing",
+        "curseforge_projectid": 952629,
+        "is_serilum": true
+      },
+      {
+        "name": "Infinite Trading",
+        "slug": "infinite-trading",
+        "curseforge_projectid": 348964,
+        "is_serilum": true
+      },
+      {
+        "name": "Inventory Mending",
+        "slug": "inventory-mending",
+        "curseforge_projectid": 1202499,
+        "is_serilum": true
+      },
+      {
+        "name": "Inventory Totem",
+        "slug": "inventory-totem",
+        "curseforge_projectid": 349071,
+        "is_serilum": true
+      },
+      {
+        "name": "Just Mob Heads",
+        "slug": "just-mob-heads",
+        "curseforge_projectid": 293320,
+        "is_serilum": true
+      },
+      {
+        "name": "Just Player Heads",
+        "slug": "just-player-heads",
+        "curseforge_projectid": 303441,
+        "is_serilum": true
+      },
+      {
+        "name": "Keep My Soil Tilled",
+        "slug": "keep-my-soil-tilled",
+        "curseforge_projectid": 547961,
+        "is_serilum": true
+      },
+      {
+        "name": "Kelp Fertilizer",
+        "slug": "kelp-fertilizer",
+        "curseforge_projectid": 367598,
+        "is_serilum": true
+      },
+      {
+        "name": "Milk All The Mobs",
+        "slug": "milk-all-the-mobs",
+        "curseforge_projectid": 345023,
+        "is_serilum": true
+      },
+      {
+        "name": "Mineral Chance",
+        "slug": "mineral-chance",
+        "curseforge_projectid": 412956,
+        "is_serilum": true
+      },
+      {
+        "name": "Mooshroom Spawn",
+        "slug": "mooshroom-spawn",
+        "curseforge_projectid": 325013,
+        "is_serilum": true
+      },
+      {
+        "name": "Mooshroom Tweaks",
+        "slug": "mooshroom-tweaks",
+        "curseforge_projectid": 324553,
+        "is_serilum": true
+      },
+      {
+        "name": "More Zombie Villagers",
+        "slug": "more-zombie-villagers",
+        "curseforge_projectid": 347338,
+        "is_serilum": true
+      },
+      {
+        "name": "Move Boats",
+        "slug": "move-boats",
+        "curseforge_projectid": 344801,
+        "is_serilum": true
+      },
+      {
+        "name": "Move Minecarts",
+        "slug": "move-minecarts",
+        "curseforge_projectid": 344821,
+        "is_serilum": true
+      },
+      {
+        "name": "Name Tag Tweaks",
+        "slug": "name-tag-tweaks",
+        "curseforge_projectid": 391972,
+        "is_serilum": true
+      },
+      {
+        "name": "Natural Charcoal",
+        "slug": "natural-charcoal",
+        "curseforge_projectid": 1203418,
+        "is_serilum": true
+      },
+      {
+        "name": "Naturally Charged Creepers",
+        "slug": "naturally-charged-creepers",
+        "curseforge_projectid": 324586,
+        "is_serilum": true
+      },
+      {
+        "name": "Nether Portal Spread",
+        "slug": "nether-portal-spread",
+        "curseforge_projectid": 342097,
+        "is_serilum": true
+      },
+      {
+        "name": "No Animal Tempt Delay",
+        "slug": "no-animal-tempt-delay",
+        "curseforge_projectid": 952356,
+        "is_serilum": true
+      },
+      {
+        "name": "No Feather Trample",
+        "slug": "no-feather-trample",
+        "curseforge_projectid": 950746,
+        "is_serilum": true
+      },
+      {
+        "name": "No Hostiles Around Campfire",
+        "slug": "no-hostiles-around-campfire",
+        "curseforge_projectid": 347394,
+        "is_serilum": true
+      },
+      {
+        "name": "Nutritious Milk",
+        "slug": "nutritious-milk",
+        "curseforge_projectid": 345184,
+        "is_serilum": true
+      },
+      {
+        "name": "Omega Mute",
+        "slug": "omega-mute",
+        "curseforge_projectid": 374828,
+        "is_serilum": true
+      },
+      {
+        "name": "Ore Harvester",
+        "slug": "ore-harvester",
+        "curseforge_projectid": 1022944,
+        "is_serilum": true
+      },
+      {
+        "name": "Overworld Piglins",
+        "slug": "overworld-piglins",
+        "curseforge_projectid": 881363,
+        "is_serilum": true
+      },
+      {
+        "name": "Paper Books",
+        "slug": "paper-books",
+        "curseforge_projectid": 348756,
+        "is_serilum": true
+      },
+      {
+        "name": "Passive Endermen",
+        "slug": "passive-endermen",
+        "curseforge_projectid": 378921,
+        "is_serilum": true
+      },
+      {
+        "name": "Passive Shield",
+        "slug": "passive-shield",
+        "curseforge_projectid": 447359,
+        "is_serilum": true
+      },
+      {
+        "name": "Persistent Inventory Search",
+        "slug": "persistent-inventory-search",
+        "curseforge_projectid": 880052,
+        "is_serilum": true
+      },
+      {
+        "name": "Pet Names",
+        "slug": "pet-names",
+        "curseforge_projectid": 344884,
+        "is_serilum": true
+      },
+      {
+        "name": "Piglin Names",
+        "slug": "piglin-names",
+        "curseforge_projectid": 1067331,
+        "is_serilum": true
+      },
+      {
+        "name": "Pumpkillager's Quest",
+        "slug": "pumpkillagers-quest",
+        "curseforge_projectid": 689943,
+        "is_serilum": true
+      },
+      {
+        "name": "Quick Paths",
+        "slug": "quick-paths",
+        "curseforge_projectid": 382877,
+        "is_serilum": true
+      },
+      {
+        "name": "Quick Right-Click",
+        "slug": "quick-right-click",
+        "curseforge_projectid": 880596,
+        "is_serilum": true
+      },
+      {
+        "name": "Rain Be Gone Ritual",
+        "slug": "rain-be-gone-ritual",
+        "curseforge_projectid": 412060,
+        "is_serilum": true
+      },
+      {
+        "name": "Random Bone Meal Flowers",
+        "slug": "random-bone-meal-flowers",
+        "curseforge_projectid": 345572,
+        "is_serilum": true
+      },
+      {
+        "name": "Random Sheep Colours",
+        "slug": "random-sheep-colours",
+        "curseforge_projectid": 390873,
+        "is_serilum": true
+      },
+      {
+        "name": "Random Shulker Colours",
+        "slug": "random-shulker-colours",
+        "curseforge_projectid": 450589,
+        "is_serilum": true
+      },
+      {
+        "name": "Random Village Names",
+        "slug": "random-village-names",
+        "curseforge_projectid": 452299,
+        "is_serilum": true
+      },
+      {
+        "name": "Realistic Bees",
+        "slug": "realistic-bees",
+        "curseforge_projectid": 410743,
+        "is_serilum": true
+      },
+      {
+        "name": "Recast",
+        "slug": "recast",
+        "curseforge_projectid": 444729,
+        "is_serilum": true
+      },
+      {
+        "name": "Recipe Commands",
+        "slug": "recipe-commands",
+        "curseforge_projectid": 446886,
+        "is_serilum": true
+      },
+      {
+        "name": "Replanting Crops",
+        "slug": "replanting-crops",
+        "curseforge_projectid": 367051,
+        "is_serilum": true
+      },
+      {
+        "name": "Respawning Shulkers",
+        "slug": "respawning-shulkers",
+        "curseforge_projectid": 450144,
+        "is_serilum": true
+      },
+      {
+        "name": "Scaffolding Drops Nearby",
+        "slug": "scaffolding-drops-nearby",
+        "curseforge_projectid": 412742,
+        "is_serilum": true
+      },
+      {
+        "name": "Set World Spawn Point",
+        "slug": "set-world-spawn-point",
+        "curseforge_projectid": 366916,
+        "is_serilum": true
+      },
+      {
+        "name": "Shulker Drops Two",
+        "slug": "shulker-drops-two",
+        "curseforge_projectid": 302548,
+        "is_serilum": true
+      },
+      {
+        "name": "Silkier Touch",
+        "slug": "silkier-touch",
+        "curseforge_projectid": 1207422,
+        "is_serilum": true
+      },
+      {
+        "name": "Simple Menu",
+        "slug": "simple-menu",
+        "curseforge_projectid": 977300,
+        "is_serilum": true
+      },
+      {
+        "name": "Skeleton Horse Spawn",
+        "slug": "skeleton-horse-spawn",
+        "curseforge_projectid": 346219,
+        "is_serilum": true
+      },
+      {
+        "name": "Sleep Sooner",
+        "slug": "sleep-sooner",
+        "curseforge_projectid": 302544,
+        "is_serilum": true
+      },
+      {
+        "name": "Smaller Nether Portals",
+        "slug": "smaller-nether-portals",
+        "curseforge_projectid": 345614,
+        "is_serilum": true
+      },
+      {
+        "name": "Snowballs Freeze Mobs",
+        "slug": "snowballs-freeze-mobs",
+        "curseforge_projectid": 344436,
+        "is_serilum": true
+      },
+      {
+        "name": "Softer Hay Bales",
+        "slug": "softer-hay-bales",
+        "curseforge_projectid": 344178,
+        "is_serilum": true
+      },
+      {
+        "name": "Spiders Produce Webs",
+        "slug": "spiders-produce-webs",
+        "curseforge_projectid": 345298,
+        "is_serilum": true
+      },
+      {
+        "name": "Stack Refill",
+        "slug": "stack-refill",
+        "curseforge_projectid": 411813,
+        "is_serilum": true
+      },
+      {
+        "name": "Starter Kit",
+        "slug": "starter-kit",
+        "curseforge_projectid": 390717,
+        "is_serilum": true
+      },
+      {
+        "name": "Sticky Enchanting Lapis",
+        "slug": "sticky-enchanting-lapis",
+        "curseforge_projectid": 1068275,
+        "is_serilum": true
+      },
+      {
+        "name": "Stray Spawn",
+        "slug": "stray-spawn",
+        "curseforge_projectid": 348172,
+        "is_serilum": true
+      },
+      {
+        "name": "Superflat World No Slimes",
+        "slug": "superflat-world-no-slimes",
+        "curseforge_projectid": 344185,
+        "is_serilum": true
+      },
+      {
+        "name": "Surface Mushrooms",
+        "slug": "surface-mushrooms",
+        "curseforge_projectid": 550963,
+        "is_serilum": true
+      },
+      {
+        "name": "Thorny Bush Protection",
+        "slug": "thorny-bush-protection",
+        "curseforge_projectid": 950546,
+        "is_serilum": true
+      },
+      {
+        "name": "TNT Breaks Bedrock",
+        "slug": "tnt-breaks-bedrock",
+        "curseforge_projectid": 344219,
+        "is_serilum": true
+      },
+      {
+        "name": "Transcending Trident",
+        "slug": "transcending-trident",
+        "curseforge_projectid": 378618,
+        "is_serilum": true
+      },
+      {
+        "name": "Tree Harvester",
+        "slug": "tree-harvester",
+        "curseforge_projectid": 367178,
+        "is_serilum": true
+      },
+      {
+        "name": "Underground Beacons",
+        "slug": "underground-beacons",
+        "curseforge_projectid": 1206250,
+        "is_serilum": true
+      },
+      {
+        "name": "Vanilla Zoom",
+        "slug": "vanilla-zoom",
+        "curseforge_projectid": 695354,
+        "is_serilum": true
+      },
+      {
+        "name": "Village Bell Recipe",
+        "slug": "village-bell-recipe",
+        "curseforge_projectid": 450614,
+        "is_serilum": true
+      },
+      {
+        "name": "Village Spawn Point",
+        "slug": "village-spawn-point",
+        "curseforge_projectid": 347381,
+        "is_serilum": true
+      },
+      {
+        "name": "Villager Death Messages",
+        "slug": "villager-death-messages",
+        "curseforge_projectid": 341777,
+        "is_serilum": true
+      },
+      {
+        "name": "Villager Names",
+        "slug": "villager-names",
+        "curseforge_projectid": 345854,
+        "is_serilum": true
+      },
+      {
+        "name": "Wandering Trader May Leave",
+        "slug": "wandering-trader-may-leave",
+        "curseforge_projectid": 1210658,
+        "is_serilum": true
+      },
+      {
+        "name": "Weaker Spiderwebs",
+        "slug": "weaker-spiderwebs",
+        "curseforge_projectid": 345293,
+        "is_serilum": true
+      },
+      {
+        "name": "Where Did I Die?",
+        "slug": "where-did-i-die",
+        "curseforge_projectid": 1203866,
+        "is_serilum": true
+      },
+      {
+        "name": "Wool Tweaks",
+        "slug": "wool-tweaks",
+        "curseforge_projectid": 414111,
+        "is_serilum": true
+      },
+      {
+        "name": "Your Items Are Safe",
+        "slug": "your-items-are-safe",
+        "curseforge_projectid": 525792,
+        "is_serilum": true
+      },
+      {
+        "name": "Zombie Horse Spawn",
+        "slug": "zombie-horse-spawn",
+        "curseforge_projectid": 345692,
+        "is_serilum": true
+      },
+      {
+        "name": "Zombie Proof Doors",
+        "slug": "zombie-proof-doors",
+        "curseforge_projectid": 390741,
+        "is_serilum": true
+      },
+      {
+        "name": "Zombie Villagers From Spawner",
+        "slug": "zombie-villagers-from-spawner",
+        "curseforge_projectid": 345039,
+        "is_serilum": true
+      }
+    ]
   },
   "Thorny Bush Protection": {
     "description": "\ud83e\uded0 Players walking through berry bushes won't receive damage while wearing leggings.",
@@ -11295,7 +12196,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "TNT Breaks Bedrock": {
@@ -11365,7 +12266,7 @@
     "curseforge_legacy_fabric_projectid": 527766,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Trample Everything": {
@@ -11499,7 +12400,7 @@
     "curseforge_legacy_fabric_projectid": 549261,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Tree Harvester": {
@@ -11567,7 +12468,7 @@
     "curseforge_legacy_fabric_projectid": 527685,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Underground Beacons": {
@@ -11616,7 +12517,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Underwater Enchanting": {
@@ -11732,7 +12633,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Village Bell Recipe": {
@@ -11798,7 +12699,7 @@
     "curseforge_legacy_fabric_projectid": 527675,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Village Spawn Point": {
@@ -11868,7 +12769,7 @@
     "curseforge_legacy_fabric_projectid": 527653,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Villager Death Messages": {
@@ -11938,7 +12839,7 @@
     "curseforge_legacy_fabric_projectid": 527643,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Villager Names": {
@@ -12008,7 +12909,7 @@
     "curseforge_legacy_fabric_projectid": 527638,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": true
   },
   "Void Vanguards": {
@@ -12164,7 +13065,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "both",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Weaker Spiderwebs": {
@@ -12234,7 +13135,7 @@
     "curseforge_legacy_fabric_projectid": 527588,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Welcome Message": {
@@ -12397,7 +13298,7 @@
     "curseforge_legacy_fabric_projectid": -1,
     "environment": "client",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Wool Tweaks": {
@@ -12463,7 +13364,7 @@
     "curseforge_legacy_fabric_projectid": 527586,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "World Border": {
@@ -12597,7 +13498,7 @@
     "curseforge_legacy_fabric_projectid": 575667,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Zombie Horse Spawn": {
@@ -12665,7 +13566,7 @@
     "curseforge_legacy_fabric_projectid": 527350,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Zombie Proof Doors": {
@@ -12733,7 +13634,7 @@
     "curseforge_legacy_fabric_projectid": 527322,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   },
   "Zombie Villagers From Spawner": {
@@ -12803,7 +13704,7 @@
     "curseforge_legacy_fabric_projectid": 528285,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": false,
+    "is_in_tve": true,
     "has_translations": false
   }
 }
