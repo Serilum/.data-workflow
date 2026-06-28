@@ -29,6 +29,7 @@ def main(mainPath):
 
 	fetchCurseForge(fprefix, dataPath)
 	fetchTveModpack(fprefix, dataPath)
+	fetchTenfoldModpack(fprefix, dataPath)
 	fetchModrinth(fprefix, dataPath)
 	fetchModrinthProjects(fprefix, dataPath)
 	fetchPatreon(fprefix, dataPath)
@@ -155,6 +156,55 @@ def fetchTveModpack(fprefix, dataPath):
 		json.dump(includedMods, f, indent=2)
 
 	print(fprefix + "Saved The Vanilla Experience mod list for " + str(len(includedMods)) + " mods.")
+
+def fetchTenfoldModpack(fprefix, dataPath):
+	print(fprefix + "Fetching Tenfold modpack mod list.")
+
+	headers = {
+		"x-api-key": os.environ["CURSEFORGE_API_KEY"],
+		"Accept": "application/json"
+	}
+
+	try:
+		modResponse = requests.get(
+			"https://api.curseforge.com/v1/mods/" + str(Constants.tenfoldProjectId),
+			headers = headers,
+			timeout = 15
+		)
+		modJson = modResponse.json().get("data", {})
+
+		latestFiles = modJson.get("latestFiles", [])
+		if len(latestFiles) == 0:
+			print(fprefix + "No modpack files found for Tenfold (not public yet).")
+			return
+
+		latestFile = max(latestFiles, key = lambda f: f.get("id", 0))
+
+		downloadUrl = latestFile.get("downloadUrl", "") or ""
+		if downloadUrl == "":
+			print(fprefix + "The latest modpack file has no download URL.")
+			return
+
+		packResponse = requests.get(downloadUrl, timeout = 30)
+		packZip = zipfile.ZipFile(io.BytesIO(packResponse.content))
+		manifest = json.loads(packZip.read("manifest.json"))
+
+		projectIds = []
+		for fileEntry in manifest.get("files", []):
+			projectId = fileEntry.get("projectID", 0)
+			if projectId != 0 and projectId not in projectIds:
+				projectIds.append(projectId)
+
+		includedMods = resolveTveMods(headers, projectIds)
+
+	except Exception as e:
+		print(fprefix + "Error fetching Tenfold modpack: " + str(e))
+		return
+
+	with open(dataPath + sep + "tenfold_mods.json", 'w') as f:
+		json.dump(includedMods, f, indent=2)
+
+	print(fprefix + "Saved Tenfold mod list for " + str(len(includedMods)) + " mods.")
 
 def resolveTveMods(headers, projectIds):
 	includedMods = []

@@ -6,3 +6,5 @@ projectTypes = { 5 : "plugin", 6 : "mod", 4471 : "modpack" }
 loaderIds = { 1 : "forge", 4 : "fabric", 6 : "neoforge" }
 
 tveProjectId = 347455
+
+tenfoldProjectId = 1585380

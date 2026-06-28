@@ -14,6 +14,10 @@ sep = os.path.sep
 
 skipMods = ["OP Permission Fallback"]
 
+modDataOverrides = {
+	"Brand New Day": { "is_in_tenfold": True },
+}
+
 def main(mainPath):
 	fprefix = " [Update Mod Data] "
 
@@ -50,6 +54,13 @@ def main(mainPath):
 			tveMods = json.load(f)
 	except Exception:
 		print(fprefix + "Could not read The Vanilla Experience mod list. Continuing without it.")
+
+	tenfoldMods = []
+	try:
+		with open(apiDataPath + sep + "tenfold_mods.json", 'r') as f:
+			tenfoldMods = json.load(f)
+	except Exception:
+		print(fprefix + "Could not read the Tenfold mod list. Continuing without it.")
 
 	translatedModIds = set()
 	try:
@@ -104,6 +115,19 @@ def main(mainPath):
 			"is_serilum": modId in cfById,
 		})
 	tveIncludedMods = sorted(tveIncludedMods, key = lambda m: m["name"].lower())
+
+	tenfoldProjectIds = set()
+	tenfoldIncludedMods = []
+	for tenfoldMod in tenfoldMods:
+		modId = tenfoldMod.get("id", 0)
+		tenfoldProjectIds.add(modId)
+		tenfoldIncludedMods.append({
+			"name": tenfoldMod.get("name", ""),
+			"slug": tenfoldMod.get("slug", ""),
+			"curseforge_projectid": modId,
+			"is_serilum": modId in cfById,
+		})
+	tenfoldIncludedMods = sorted(tenfoldIncludedMods, key = lambda m: m["name"].lower())
 
 	print(fprefix + "Processing " + str(len(mainByName)) + " mods.")
 
@@ -173,10 +197,16 @@ def main(mainPath):
 		specificData["environment"] = environment
 		specificData["project_type"] = Constants.projectTypes.get(mod.get("classId", 0), "other")
 		specificData["is_in_tve"] = mod.get("id", 0) in tveProjectIds or fabricProjectId in tveProjectIds
+		specificData["is_in_tenfold"] = mod.get("id", 0) in tenfoldProjectIds or fabricProjectId in tenfoldProjectIds
 		specificData["has_translations"] = slug.replace("-", "") in translatedModIds
 
 		if mod.get("id", 0) == Constants.tveProjectId:
 			specificData["included_mods"] = tveIncludedMods
+
+		if mod.get("id", 0) == Constants.tenfoldProjectId:
+			specificData["included_mods"] = tenfoldIncludedMods
+
+		specificData.update(modDataOverrides.get(modName, {}))
 
 		modData[modName] = specificData
 		print(fprefix + "Processed: " + modName)
