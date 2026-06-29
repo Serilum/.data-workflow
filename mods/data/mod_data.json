@@ -1838,9 +1838,9 @@
     ],
     "version_latest": {
       "26.2": "26.2",
-      "26.1": "26.1.2",
       "1.21": "1.21.11",
       "1.20": "1.20.6",
+      "26.1": "26.1.2",
       "1.19": "1.19.4",
       "1.18": "1.18.2",
       "1.16": "1.16.5",
@@ -1869,7 +1869,7 @@
     "environment": "both",
     "project_type": "mod",
     "is_in_tve": true,
-    "is_in_tenfold": false,
+    "is_in_tenfold": true,
     "has_translations": true
   },
   "Compact Help Command": {
@@ -10412,7 +10412,7 @@
     "environment": "client",
     "project_type": "mod",
     "is_in_tve": true,
-    "is_in_tenfold": false,
+    "is_in_tenfold": true,
     "has_translations": false
   },
   "Skeleton Horse Spawn": {
