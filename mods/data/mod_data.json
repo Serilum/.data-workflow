@@ -9776,6 +9776,52 @@
     "is_in_tenfold": false,
     "has_translations": true
   },
+  "Seaworthy Boats": {
+    "description": "\u26f5 Reinforce boats into faster, tougher tiers from copper to netherite, and repair them with planks at a shipyard.",
+    "slug": "seaworthy-boats",
+    "fabric_slug": "",
+    "fabric_versions": [
+      "26.2",
+      "1.21",
+      "1.20"
+    ],
+    "forge_versions": [
+      "26.2",
+      "1.21",
+      "1.20"
+    ],
+    "neoforge_versions": [
+      "26.2",
+      "1.21",
+      "1.20"
+    ],
+    "version_latest": {
+      "26.2": "26.2",
+      "1.21": "1.21.1",
+      "1.20": "1.20.1"
+    },
+    "fabric_version_latest": {},
+    "dependencies": [
+      "collective"
+    ],
+    "logo_file_type": ".png",
+    "logo_sizes": [
+      64,
+      128,
+      256,
+      512
+    ],
+    "published": true,
+    "is_bundle": false,
+    "bundle_category": "",
+    "curseforge_projectid": 1592014,
+    "curseforge_legacy_fabric_projectid": -1,
+    "environment": "both",
+    "project_type": "mod",
+    "is_in_tve": false,
+    "is_in_tenfold": false,
+    "has_translations": true
+  },
   "Serilum's Client Bundle": {
     "description": "\ud83d\udce6 A mod bundle of all client mods Serilum has released, create your own experience!",
     "slug": "serilums-client-bundle",
