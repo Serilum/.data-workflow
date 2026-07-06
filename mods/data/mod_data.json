@@ -1869,7 +1869,7 @@
     "environment": "both",
     "project_type": "mod",
     "is_in_tve": true,
-    "is_in_tenfold": true,
+    "is_in_tenfold": false,
     "has_translations": true
   },
   "Compact Help Command": {
@@ -10458,7 +10458,7 @@
     "environment": "client",
     "project_type": "mod",
     "is_in_tve": true,
-    "is_in_tenfold": true,
+    "is_in_tenfold": false,
     "has_translations": false
   },
   "Skeleton Horse Spawn": {
