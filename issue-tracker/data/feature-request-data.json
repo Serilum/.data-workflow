@@ -12651,11 +12651,12 @@
         ],
         "mod_name": "Starter Kit",
         "reactions": {
-          "+1": 23,
-          "eyes": 5,
-          "heart": 3
+          "+1": 24,
+          "eyes": 6,
+          "heart": 4,
+          "hooray": 1
         },
-        "reaction_count": 26,
+        "reaction_count": 27,
         "total_comment_count": 5,
         "user_comment_count": 3
       },
@@ -14046,7 +14047,7 @@
   "issues_sorted_reaction_count": [
     [
       441,
-      26
+      27
     ],
     [
       2397,
@@ -17377,5 +17378,5 @@
       1
     ]
   ],
-  "last_updated": "2026-07-08 08:47:13"
+  "last_updated": "2026-07-08 14:45:24"
 }
