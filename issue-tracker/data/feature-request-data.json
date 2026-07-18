@@ -2873,7 +2873,7 @@
         "id": 2866182796,
         "number": 2930,
         "title": "Item Drops Nearby option for Tree Harvester",
-        "opened_by": "sternschnaube",
+        "opened_by": "venaminecraft",
         "creation_date": "2025-02-20",
         "labels": [
           "Feature Request",
@@ -2889,7 +2889,7 @@
         "id": 2866176014,
         "number": 2929,
         "title": "Allow custom blocks",
-        "opened_by": "sternschnaube",
+        "opened_by": "venaminecraft",
         "creation_date": "2025-02-20",
         "labels": [
           "Feature Request",
@@ -6124,7 +6124,7 @@
         "id": 2060492696,
         "number": 2140,
         "title": "Make Realistic Bees server-side only",
-        "opened_by": "sternschnaube",
+        "opened_by": "venaminecraft",
         "creation_date": "2023-12-30",
         "labels": [
           "Feature Request",
@@ -6142,7 +6142,7 @@
         "id": 2060491002,
         "number": 2139,
         "title": "Spiders Produce Webs improvement",
-        "opened_by": "sternschnaube",
+        "opened_by": "venaminecraft",
         "creation_date": "2023-12-30",
         "labels": [
           "Feature Request",
@@ -7726,7 +7726,7 @@
         "id": 1705832982,
         "number": 1763,
         "title": "Just Mob Heads: Coloured Shulker Heads",
-        "opened_by": "sternschnaube",
+        "opened_by": "venaminecraft",
         "creation_date": "2023-05-11",
         "labels": [
           "Feature Request",
@@ -17378,5 +17378,5 @@
       1
     ]
   ],
-  "last_updated": "2026-07-18 08:12:32"
+  "last_updated": "2026-07-18 13:53:31"
 }
