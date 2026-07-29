@@ -2258,7 +2258,7 @@
         "id": 3032682022,
         "number": 3077,
         "title": "loadinventory inventoryname @p?",
-        "opened_by": "Thalia-the-nerd",
+        "opened_by": "thaliawebb",
         "creation_date": "2025-04-30",
         "labels": [
           "Feature Request",
@@ -17378,5 +17378,5 @@
       1
     ]
   ],
-  "last_updated": "2026-07-29 03:45:45"
+  "last_updated": "2026-07-29 09:13:11"
 }
