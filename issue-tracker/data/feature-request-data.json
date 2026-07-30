@@ -1,6 +1,157 @@
 {
   "data": {
     "mod-feature": {
+      "3812": {
+        "id": 4987314457,
+        "number": 3812,
+        "title": "Obtaining spawn eggs",
+        "opened_by": "Omni35",
+        "creation_date": "2026-07-27",
+        "labels": [
+          "Feature Request",
+          "Mod: Silkier Touch"
+        ],
+        "mod_name": "Silkier Touch",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3811": {
+        "id": 4982251949,
+        "number": 3811,
+        "title": "Permission instead of op / see all users deaths",
+        "opened_by": "TimxSan",
+        "creation_date": "2026-07-26",
+        "labels": [
+          "Feature Request",
+          "Mod: Death Backup"
+        ],
+        "mod_name": "Death Backup",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3804": {
+        "id": 4872360676,
+        "number": 3804,
+        "title": "Enchantment only way to cause player head drops",
+        "opened_by": "coldreindeer",
+        "creation_date": "2026-07-13",
+        "labels": [
+          "Feature Request",
+          "Mod: Just Player Heads"
+        ],
+        "mod_name": "Just Player Heads",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3802": {
+        "id": 4861988479,
+        "number": 3802,
+        "title": "Request for feature to Refill from Shulker boxes/enderchests",
+        "opened_by": "Popupkiller",
+        "creation_date": "2026-07-11",
+        "labels": [
+          "Feature Request",
+          "Mod: Stack Refill"
+        ],
+        "mod_name": "Stack Refill",
+        "reactions": {
+          "rocket": 1,
+          "heart": 1
+        },
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3799": {
+        "id": 4852218483,
+        "number": 3799,
+        "title": "Campfire Exclusivity Configuration",
+        "opened_by": "hiddenfox789",
+        "creation_date": "2026-07-10",
+        "labels": [
+          "Feature Request",
+          "Mod: Campfire Spawn and Tweaks"
+        ],
+        "mod_name": "Campfire Spawn and Tweaks",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3798": {
+        "id": 4849254218,
+        "number": 3798,
+        "title": "[Mineral Chance] Configurable Drop Weights for Individual Minerals",
+        "opened_by": "Advaera",
+        "creation_date": "2026-07-09",
+        "labels": [
+          "Feature Request",
+          "Mod: Mineral Chance"
+        ],
+        "mod_name": "Mineral Chance",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3797": {
+        "id": 4849116252,
+        "number": 3797,
+        "title": "Quick Right-Click in inventory",
+        "opened_by": "jarant06",
+        "creation_date": "2026-07-09",
+        "labels": [
+          "Feature Request",
+          "Mod: Quick Right-Click"
+        ],
+        "mod_name": "Quick Right-Click",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3796": {
+        "id": 4830322983,
+        "number": 3796,
+        "title": "Config to make piglins only survive in the overworld by giving them golden apples",
+        "opened_by": "double-pi",
+        "creation_date": "2026-07-07",
+        "labels": [
+          "Feature Request",
+          "Mod: Overworld Piglins"
+        ],
+        "mod_name": "Overworld Piglins",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3781": {
+        "id": 4754561710,
+        "number": 3781,
+        "title": "Add config option to not drop name tag on death",
+        "opened_by": "Hikiru",
+        "creation_date": "2026-06-26",
+        "labels": [
+          "Feature Request",
+          "Mod: Name Tag Tweaks"
+        ],
+        "mod_name": "Name Tag Tweaks",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3774": {
         "id": 4709817133,
         "number": 3774,
@@ -933,9 +1084,9 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4587,9 +4738,9 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -7118,11 +7269,11 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "+1": 6,
+          "+1": 7,
           "heart": 5,
           "eyes": 2
         },
-        "reaction_count": 10,
+        "reaction_count": 11,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -12364,9 +12515,9 @@
         ],
         "mod_name": "Stack Refill",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -14055,7 +14206,7 @@
     ],
     [
       1908,
-      10
+      11
     ],
     [
       426,
@@ -14250,6 +14401,10 @@
       3
     ],
     [
+      514,
+      3
+    ],
+    [
       650,
       3
     ],
@@ -14322,6 +14477,10 @@
       3
     ],
     [
+      2519,
+      3
+    ],
+    [
       2790,
       3
     ],
@@ -14351,6 +14510,10 @@
     ],
     [
       3279,
+      3
+    ],
+    [
+      3462,
       3
     ],
     [
@@ -14415,10 +14578,6 @@
     ],
     [
       469,
-      2
-    ],
-    [
-      514,
       2
     ],
     [
@@ -14794,10 +14953,6 @@
       2
     ],
     [
-      2519,
-      2
-    ],
-    [
       2559,
       2
     ],
@@ -14974,10 +15129,6 @@
       2
     ],
     [
-      3462,
-      2
-    ],
-    [
       3463,
       2
     ],
@@ -15031,6 +15182,14 @@
     ],
     [
       3774,
+      2
+    ],
+    [
+      3797,
+      2
+    ],
+    [
+      3798,
       2
     ],
     [
@@ -17376,7 +17535,35 @@
     [
       3770,
       1
+    ],
+    [
+      3781,
+      1
+    ],
+    [
+      3796,
+      1
+    ],
+    [
+      3799,
+      1
+    ],
+    [
+      3802,
+      1
+    ],
+    [
+      3804,
+      1
+    ],
+    [
+      3811,
+      1
+    ],
+    [
+      3812,
+      1
     ]
   ],
-  "last_updated": "2026-07-30 09:06:27"
+  "last_updated": "2026-07-30 14:35:38"
 }
