@@ -3262,8 +3262,10 @@
           "Mod: Advancement Screenshot"
         ],
         "mod_name": "Advancement Screenshot",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 2
+        },
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -14489,6 +14491,10 @@
       3
     ],
     [
+      2861,
+      3
+    ],
+    [
       2921,
       3
     ],
@@ -16997,10 +17003,6 @@
       1
     ],
     [
-      2861,
-      1
-    ],
-    [
       2863,
       1
     ],
@@ -17565,5 +17567,5 @@
       1
     ]
   ],
-  "last_updated": "2026-08-04 20:01:18"
+  "last_updated": "2026-08-05 03:36:52"
 }
