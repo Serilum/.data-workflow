@@ -5689,9 +5689,9 @@
         ],
         "mod_name": "Fixed Anvil Repair Cost",
         "reactions": {
-          "heart": 1
+          "heart": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -10417,9 +10417,9 @@
         ],
         "mod_name": "Fixed Anvil Repair Cost",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 1,
+        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -14477,6 +14477,10 @@
       3
     ],
     [
+      2246,
+      3
+    ],
+    [
       2507,
       3
     ],
@@ -14670,6 +14674,10 @@
     ],
     [
       1098,
+      2
+    ],
+    [
+      1116,
       2
     ],
     [
@@ -14910,10 +14918,6 @@
     ],
     [
       2235,
-      2
-    ],
-    [
-      2246,
       2
     ],
     [
@@ -15826,10 +15830,6 @@
     ],
     [
       1113,
-      1
-    ],
-    [
-      1116,
       1
     ],
     [
@@ -17569,5 +17569,5 @@
       1
     ]
   ],
-  "last_updated": "2026-08-08 13:16:46"
+  "last_updated": "2026-08-08 19:02:51"
 }
