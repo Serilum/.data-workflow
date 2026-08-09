@@ -3024,7 +3024,7 @@
         "id": 2866182796,
         "number": 2930,
         "title": "Item Drops Nearby option for Tree Harvester",
-        "opened_by": "venaminecraft",
+        "opened_by": "ghost",
         "creation_date": "2025-02-20",
         "labels": [
           "Feature Request",
@@ -3040,7 +3040,7 @@
         "id": 2866176014,
         "number": 2929,
         "title": "Allow custom blocks",
-        "opened_by": "venaminecraft",
+        "opened_by": "ghost",
         "creation_date": "2025-02-20",
         "labels": [
           "Feature Request",
@@ -6279,7 +6279,7 @@
         "id": 2060492696,
         "number": 2140,
         "title": "Make Realistic Bees server-side only",
-        "opened_by": "venaminecraft",
+        "opened_by": "ghost",
         "creation_date": "2023-12-30",
         "labels": [
           "Feature Request",
@@ -6287,7 +6287,7 @@
         ],
         "mod_name": "Realistic Bees",
         "reactions": {
-          "heart": 4
+          "heart": 2
         },
         "reaction_count": 2,
         "total_comment_count": 3,
@@ -6297,16 +6297,14 @@
         "id": 2060491002,
         "number": 2139,
         "title": "Spiders Produce Webs improvement",
-        "opened_by": "venaminecraft",
+        "opened_by": "ghost",
         "creation_date": "2023-12-30",
         "labels": [
           "Feature Request",
           "Mod: Spiders Produce Webs"
         ],
         "mod_name": "Spiders Produce Webs",
-        "reactions": {
-          "heart": 1
-        },
+        "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -7881,16 +7879,14 @@
         "id": 1705832982,
         "number": 1763,
         "title": "Just Mob Heads: Coloured Shulker Heads",
-        "opened_by": "venaminecraft",
+        "opened_by": "ghost",
         "creation_date": "2023-05-11",
         "labels": [
           "Feature Request",
           "Mod: Just Mob Heads"
         ],
         "mod_name": "Just Mob Heads",
-        "reactions": {
-          "heart": 1
-        },
+        "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -17569,5 +17565,5 @@
       1
     ]
   ],
-  "last_updated": "2026-08-09 07:19:49"
+  "last_updated": "2026-08-09 13:18:54"
 }
