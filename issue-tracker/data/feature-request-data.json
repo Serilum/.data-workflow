@@ -1316,9 +1316,9 @@
         ],
         "mod_name": "Placeable Blaze Rods",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -14525,6 +14525,10 @@
       3
     ],
     [
+      3342,
+      3
+    ],
+    [
       3462,
       3
     ],
@@ -15134,10 +15138,6 @@
     ],
     [
       3320,
-      2
-    ],
-    [
-      3342,
       2
     ],
     [
@@ -17569,5 +17569,5 @@
       1
     ]
   ],
-  "last_updated": "2026-08-17 01:58:47"
+  "last_updated": "2026-08-17 07:20:13"
 }
