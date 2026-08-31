@@ -734,8 +734,10 @@
           "Mod: Campfire Spawn and Tweaks"
         ],
         "mod_name": "Campfire Spawn and Tweaks",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "+1": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -15165,6 +15167,10 @@
       2
     ],
     [
+      3552,
+      2
+    ],
+    [
       3564,
       2
     ],
@@ -17445,10 +17451,6 @@
       1
     ],
     [
-      3552,
-      1
-    ],
-    [
       3554,
       1
     ],
@@ -17569,5 +17571,5 @@
       1
     ]
   ],
-  "last_updated": "2026-08-31 05:41:13"
+  "last_updated": "2026-08-31 13:57:56"
 }
