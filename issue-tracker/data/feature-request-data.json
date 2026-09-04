@@ -283,8 +283,10 @@
           "Mod: Biome Spawn Point"
         ],
         "mod_name": "Biome Spawn Point",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -15203,6 +15205,10 @@
       2
     ],
     [
+      3736,
+      2
+    ],
+    [
       3760,
       2
     ],
@@ -17523,10 +17529,6 @@
       1
     ],
     [
-      3736,
-      1
-    ],
-    [
       3749,
       1
     ],
@@ -17571,5 +17573,5 @@
       1
     ]
   ],
-  "last_updated": "2026-09-04 04:39:37"
+  "last_updated": "2026-09-04 11:23:28"
 }
