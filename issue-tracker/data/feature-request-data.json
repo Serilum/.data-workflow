@@ -8479,23 +8479,6 @@
         "total_comment_count": 3,
         "user_comment_count": 2
       },
-      "1629": {
-        "id": 1589155323,
-        "number": 1629,
-        "title": "[Beautified Chat] Display tooltips when hovering over the name",
-        "opened_by": "PRO-2684",
-        "creation_date": "2023-02-17",
-        "labels": [
-          "Feature Request",
-          "Mod: Beautified Chat [Server]",
-          "Mod: Beautified Chat [Client]"
-        ],
-        "mod_name": "Beautified Chat [Client]",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "1622": {
         "id": 1584897724,
         "number": 1622,
@@ -16157,10 +16140,6 @@
       1
     ],
     [
-      1629,
-      1
-    ],
-    [
       1635,
       1
     ],
@@ -17573,5 +17552,5 @@
       1
     ]
   ],
-  "last_updated": "2026-09-08 11:24:52"
+  "last_updated": "2026-09-08 16:43:10"
 }
