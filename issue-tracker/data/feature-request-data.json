@@ -10760,8 +10760,8 @@
         "mod_name": "Zombie Horse Spawn",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
+        "total_comment_count": 4,
+        "user_comment_count": 2
       },
       "999": {
         "id": 1176145396,
@@ -17552,5 +17552,5 @@
       1
     ]
   ],
-  "last_updated": "2026-09-13 16:22:18"
+  "last_updated": "2026-09-13 20:56:01"
 }
