@@ -272,24 +272,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3736": {
-        "id": 4462889599,
-        "number": 3736,
-        "title": "Feature ideas: biome tags and difficulty specification",
-        "opened_by": "MythicHH",
-        "creation_date": "2026-05-17",
-        "labels": [
-          "Feature Request",
-          "Mod: Biome Spawn Point"
-        ],
-        "mod_name": "Biome Spawn Point",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3731": {
         "id": 4435623339,
         "number": 3731,
@@ -15188,10 +15170,6 @@
       2
     ],
     [
-      3736,
-      2
-    ],
-    [
       3760,
       2
     ],
@@ -17552,5 +17530,5 @@
       1
     ]
   ],
-  "last_updated": "2026-09-14 05:03:04"
+  "last_updated": "2026-09-14 12:55:42"
 }
