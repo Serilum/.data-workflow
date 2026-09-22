@@ -4,6 +4,7 @@
     "slug": "advancement-screenshot",
     "fabric_slug": "advancement-screenshot-fabric",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -12,6 +13,7 @@
       "1.18"
     ],
     "forge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -25,12 +27,14 @@
       "1.12"
     ],
     "neoforge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11",
@@ -485,6 +489,7 @@
     "slug": "april-fools",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -492,6 +497,7 @@
       "1.19"
     ],
     "forge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -499,12 +505,14 @@
       "1.19"
     ],
     "neoforge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11",
@@ -538,6 +546,7 @@
     "slug": "areas",
     "fabric_slug": "areas-fabric",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -546,6 +555,7 @@
       "1.18"
     ],
     "forge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -558,12 +568,14 @@
       "1.14"
     ],
     "neoforge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "1.21": "1.21.11",
       "1.20": "1.20.6",
@@ -1484,6 +1496,7 @@
     "slug": "bouncier-beds",
     "fabric_slug": "bouncier-beds-fabric",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -1492,6 +1505,7 @@
       "1.18"
     ],
     "forge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -1503,12 +1517,14 @@
       "1.12"
     ],
     "neoforge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11",
@@ -2123,6 +2139,7 @@
     "slug": "configurable-despawn-timer",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -2131,6 +2148,7 @@
       "1.18"
     ],
     "forge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -2145,12 +2163,14 @@
       "1.12"
     ],
     "neoforge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11",
@@ -2262,6 +2282,7 @@
     "slug": "configurable-furnace-burn-time",
     "fabric_slug": "configurable-furnace-burn-time-fabric",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -2270,6 +2291,7 @@
       "1.18"
     ],
     "forge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -2280,12 +2302,14 @@
       "1.16"
     ],
     "neoforge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11",
@@ -2972,7 +2996,7 @@
     "curseforge_legacy_fabric_projectid": 531270,
     "environment": "server",
     "project_type": "mod",
-    "is_in_tve": true,
+    "is_in_tve": false,
     "is_in_tenfold": false,
     "has_translations": true
   },
@@ -9609,6 +9633,7 @@
     "slug": "random-village-names",
     "fabric_slug": "random-village-names-fabric",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -9617,6 +9642,7 @@
       "1.18"
     ],
     "forge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -9629,12 +9655,14 @@
       "1.14"
     ],
     "neoforge_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
       "1.20"
     ],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.2",
       "1.21": "1.21.11",
@@ -12055,10 +12083,11 @@
     "has_translations": false
   },
   "The Vanilla Experience | TVE": {
-    "description": "\ud83c\udf33 A light custom-coded 26.2 vanilla+ modpack which is interchangeable with an unmodded save.",
+    "description": "\ud83c\udf33 A light custom-coded 26.3 vanilla+ modpack which is interchangeable with an unmodded save.",
     "slug": "the-vanilla-experience",
     "fabric_slug": "",
     "fabric_versions": [
+      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -12071,6 +12100,7 @@
     ],
     "neoforge_versions": [],
     "version_latest": {
+      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.1",
       "1.21": "1.21.11",
@@ -12287,12 +12317,6 @@
         "name": "Cycle Paintings",
         "slug": "cycle-paintings",
         "curseforge_projectid": 345973,
-        "is_serilum": true
-      },
-      {
-        "name": "Death Backup",
-        "slug": "death-backup",
-        "curseforge_projectid": 411571,
         "is_serilum": true
       },
       {
@@ -12582,6 +12606,12 @@
         "slug": "mineral-chance",
         "curseforge_projectid": 412956,
         "is_serilum": true
+      },
+      {
+        "name": "Mod Menu",
+        "slug": "modmenu",
+        "curseforge_projectid": 308702,
+        "is_serilum": false
       },
       {
         "name": "Mooshroom Spawn",
