@@ -12087,7 +12087,6 @@
     "slug": "the-vanilla-experience",
     "fabric_slug": "",
     "fabric_versions": [
-      "26.3",
       "26.2",
       "26.1",
       "1.21",
@@ -12100,7 +12099,6 @@
     ],
     "neoforge_versions": [],
     "version_latest": {
-      "26.3": "26.3",
       "26.2": "26.2",
       "26.1": "26.1.1",
       "1.21": "1.21.11",
