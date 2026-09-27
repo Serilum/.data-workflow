@@ -307,7 +307,7 @@ def getLatestFullVersions(moddata):
 		if major not in latest or compareVersions(gameVersion, latest[major]) > 0:
 			latest[major] = gameVersion
 
-	return latest
+	return {major: latest[major] for major in sortVersionsDesc(latest.keys())}
 
 def majorVersion(gameVersion):
 	spl = gameVersion.split(".")
