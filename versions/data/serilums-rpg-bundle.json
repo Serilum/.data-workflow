@@ -1,9 +1,15 @@
 {
+  "26.3": {
+    "Fabric": "3.1",
+    "Forge": "3.1",
+    "NeoForge": "3.1",
+    "Quilt": "3.1"
+  },
   "26.2": {
-    "Fabric": "2.9",
-    "Forge": "2.9",
-    "NeoForge": "2.9",
-    "Quilt": "2.9"
+    "Fabric": "3.1",
+    "Forge": "3.1",
+    "NeoForge": "3.1",
+    "Quilt": "3.1"
   },
   "26.1.2": {
     "Fabric": "2.9",
