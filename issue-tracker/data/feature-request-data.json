@@ -8332,8 +8332,10 @@
           "Mod: Quick Paths"
         ],
         "mod_name": "Quick Paths",
-        "reactions": {},
-        "reaction_count": 1,
+        "reactions": {
+          "heart": 2
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -11765,9 +11767,10 @@
         ],
         "mod_name": "Quick Paths",
         "reactions": {
-          "+1": 1
+          "+1": 1,
+          "heart": 3
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -14387,6 +14390,10 @@
       3
     ],
     [
+      705,
+      3
+    ],
+    [
       707,
       3
     ],
@@ -14591,10 +14598,6 @@
       2
     ],
     [
-      705,
-      2
-    ],
-    [
       721,
       2
     ],
@@ -14760,6 +14763,10 @@
     ],
     [
       1644,
+      2
+    ],
+    [
+      1648,
       2
     ],
     [
@@ -16128,10 +16135,6 @@
     ],
     [
       1637,
-      1
-    ],
-    [
-      1648,
       1
     ],
     [
@@ -17531,5 +17534,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-02 12:42:29"
+  "last_updated": "2026-10-02 22:19:53"
 }
