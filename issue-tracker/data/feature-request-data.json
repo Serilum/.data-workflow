@@ -1,6 +1,274 @@
 {
   "data": {
     "mod-feature": {
+      "3883": {
+        "id": 5603910146,
+        "number": 3883,
+        "title": "Command block compatibility/ config option for multiple kits",
+        "opened_by": "Maxthecoolly",
+        "creation_date": "2026-09-27",
+        "labels": [
+          "Feature Request",
+          "Mod: Starter Kit"
+        ],
+        "mod_name": "Starter Kit",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3873": {
+        "id": 5521414621,
+        "number": 3873,
+        "title": "Sup bro, your mods are so good, but can you make the dispenser work with bonemeal in the sugar cane please?",
+        "opened_by": "samuelmadrigalu-sudo",
+        "creation_date": "2026-09-21",
+        "labels": [
+          "Feature Request",
+          "Mod: Extended Bone Meal"
+        ],
+        "mod_name": "Extended Bone Meal",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3868": {
+        "id": 5507685762,
+        "number": 3868,
+        "title": "Mounts Teleport Too",
+        "opened_by": "AdamM72",
+        "creation_date": "2026-09-19",
+        "labels": [
+          "Feature Request",
+          "Mod: Followers Teleport Too"
+        ],
+        "mod_name": "Followers Teleport Too",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3867": {
+        "id": 5477584640,
+        "number": 3867,
+        "title": "Replanting Crops feature",
+        "opened_by": "Steame090",
+        "creation_date": "2026-09-16",
+        "labels": [
+          "Feature Request",
+          "Mod: Replanting Crops"
+        ],
+        "mod_name": "Replanting Crops",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3848": {
+        "id": 5286117584,
+        "number": 3848,
+        "title": "Tree Harvester wood type/max tree size config",
+        "opened_by": "shyinka",
+        "creation_date": "2026-08-29",
+        "labels": [
+          "Feature Request",
+          "Mod: Tree Harvester"
+        ],
+        "mod_name": "Tree Harvester",
+        "reactions": {
+          "rocket": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 3,
+        "user_comment_count": 2
+      },
+      "3842": {
+        "id": 5254710754,
+        "number": 3842,
+        "title": "Client shows full durability on servers without the mod, and breaks other mods",
+        "opened_by": "NebulaTechs",
+        "creation_date": "2026-08-26",
+        "labels": [
+          "Feature Request",
+          "Mod: What Durability?"
+        ],
+        "mod_name": "What Durability?",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3836": {
+        "id": 5170873040,
+        "number": 3836,
+        "title": "Hide the hands while we are breaking any block with our empty hand.",
+        "opened_by": "LubRex-BG",
+        "creation_date": "2026-08-17",
+        "labels": [
+          "Feature Request",
+          "Mod: Hide Hands"
+        ],
+        "mod_name": "Hide Hands",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3835": {
+        "id": 5163025355,
+        "number": 3835,
+        "title": "GUI Clock - Please add an option to remove it from screenshots",
+        "opened_by": "DereC4",
+        "creation_date": "2026-08-16",
+        "labels": [
+          "Feature Request",
+          "Mod: GUI Clock"
+        ],
+        "mod_name": "GUI Clock",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3834": {
+        "id": 5160253160,
+        "number": 3834,
+        "title": "[Fabric 1.20.1] [All Loot Drops] Mob Blacklist",
+        "opened_by": "ITSLOCKED",
+        "creation_date": "2026-08-15",
+        "labels": [
+          "Feature Request",
+          "Mod: All Loot Drops"
+        ],
+        "mod_name": "All Loot Drops",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3831": {
+        "id": 5149475536,
+        "number": 3831,
+        "title": "Option to lock select kit pop up.",
+        "opened_by": "FkillerGR",
+        "creation_date": "2026-08-14",
+        "labels": [
+          "Feature Request",
+          "Mod: Starter Kit"
+        ],
+        "mod_name": "Starter Kit",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3827": {
+        "id": 5126743084,
+        "number": 3827,
+        "title": "Millager compatibility and entity blacklist",
+        "opened_by": "soapsopaaa",
+        "creation_date": "2026-08-12",
+        "labels": [
+          "Feature Request",
+          "Mod: Villager Names"
+        ],
+        "mod_name": "Villager Names",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3823": {
+        "id": 5098379791,
+        "number": 3823,
+        "title": "[Areas] Add support for square shaped Areas",
+        "opened_by": "AshCat31",
+        "creation_date": "2026-08-08",
+        "labels": [
+          "Feature Request",
+          "Mod: Areas"
+        ],
+        "mod_name": "Areas",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3822": {
+        "id": 5096251653,
+        "number": 3822,
+        "title": "make credits show command work in commands structures and functions for modpacking",
+        "opened_by": "quaoar-laboratory",
+        "creation_date": "2026-08-08",
+        "labels": [
+          "Feature Request",
+          "Mod: Custom Credits"
+        ],
+        "mod_name": "Custom Credits",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3821": {
+        "id": 5091659840,
+        "number": 3821,
+        "title": "Configurable Dimension Blacklists for Campfire Spawn and Tweaks",
+        "opened_by": "jdpratt15-spec",
+        "creation_date": "2026-08-07",
+        "labels": [
+          "Feature Request",
+          "Mod: Campfire Spawn and Tweaks"
+        ],
+        "mod_name": "Campfire Spawn and Tweaks",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3820": {
+        "id": 5090475516,
+        "number": 3820,
+        "title": "credits with command blocks?",
+        "opened_by": "nickcleppe666-stack",
+        "creation_date": "2026-08-07",
+        "labels": [
+          "Feature Request",
+          "Mod: Custom Credits"
+        ],
+        "mod_name": "Custom Credits",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3817": {
+        "id": 5048757720,
+        "number": 3817,
+        "title": "Hide Hands: Customizable HideDelay Variable",
+        "opened_by": "Altomun",
+        "creation_date": "2026-08-03",
+        "labels": [
+          "Feature Request",
+          "Mod: Hide Hands"
+        ],
+        "mod_name": "Hide Hands",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3812": {
         "id": 4987314457,
         "number": 3812,
@@ -136,6 +404,22 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
+      "3788": {
+        "id": 4790483637,
+        "number": 3788,
+        "title": "[Brand New Day] Milestones in exact days.",
+        "opened_by": "seriousfreezing",
+        "creation_date": "2026-07-02",
+        "labels": [
+          "Feature Request",
+          "Mod: Brand New Day"
+        ],
+        "mod_name": "Brand New Day",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3781": {
         "id": 4754561710,
         "number": 3781,
@@ -149,6 +433,40 @@
         "mod_name": "Name Tag Tweaks",
         "reactions": {},
         "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3778": {
+        "id": 4743053796,
+        "number": 3778,
+        "title": "Asking for permission to backport your daily quest mod",
+        "opened_by": "hampedumpee-byte",
+        "creation_date": "2026-06-25",
+        "labels": [
+          "Feature Request",
+          "Mod: Daily Quests"
+        ],
+        "mod_name": "Daily Quests",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3777": {
+        "id": 4738811795,
+        "number": 3777,
+        "title": "[Request] Add Optional Overenchantment Indicators",
+        "opened_by": "TanookiSam",
+        "creation_date": "2026-06-24",
+        "labels": [
+          "Feature Request",
+          "Mod: Enchantment Level Cap Indicator"
+        ],
+        "mod_name": "Enchantment Level Cap Indicator",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -201,6 +519,22 @@
           "heart": 1
         },
         "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3768": {
+        "id": 4670062764,
+        "number": 3768,
+        "title": "Create Aeronautics Compat",
+        "opened_by": "TheFairFields",
+        "creation_date": "2026-06-16",
+        "labels": [
+          "Feature Request",
+          "Mod: World Border"
+        ],
+        "mod_name": "World Border",
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -272,6 +606,22 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
+      "3740": {
+        "id": 4493573433,
+        "number": 3740,
+        "title": "Adding compatibility with Luckperms prefixes and suffixes",
+        "opened_by": "schabpiotr",
+        "creation_date": "2026-05-21",
+        "labels": [
+          "Feature Request",
+          "Mod: Beautified Chat [Server]"
+        ],
+        "mod_name": "Beautified Chat [Server]",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3731": {
         "id": 4435623339,
         "number": 3731,
@@ -287,6 +637,22 @@
           "heart": 1
         },
         "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3728": {
+        "id": 4415115211,
+        "number": 3728,
+        "title": "Underground Beacons Idea/Interaction?",
+        "opened_by": "Thunderkeeper",
+        "creation_date": "2026-05-10",
+        "labels": [
+          "Feature Request",
+          "Mod: Underground Beacons"
+        ],
+        "mod_name": "Underground Beacons",
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -324,6 +690,22 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
+      "3714": {
+        "id": 4362877601,
+        "number": 3714,
+        "title": "add way to delete saved inventory",
+        "opened_by": "zen6e",
+        "creation_date": "2026-05-01",
+        "labels": [
+          "Feature Request",
+          "Mod: Save and Load Inventories"
+        ],
+        "mod_name": "Save and Load Inventories",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3704": {
         "id": 4329764276,
         "number": 3704,
@@ -339,6 +721,22 @@
           "+1": 1
         },
         "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3683": {
+        "id": 4247977836,
+        "number": 3683,
+        "title": "Add the ability to remap the button press that activates the elytra from spacebar",
+        "opened_by": "linuzzx",
+        "creation_date": "2026-04-12",
+        "labels": [
+          "Feature Request",
+          "Mod: Easy Elytra Takeoff"
+        ],
+        "mod_name": "Easy Elytra Takeoff",
+        "reactions": {},
+        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -15190,11 +15588,39 @@
       2
     ],
     [
+      3777,
+      2
+    ],
+    [
       3797,
       2
     ],
     [
       3798,
+      2
+    ],
+    [
+      3821,
+      2
+    ],
+    [
+      3823,
+      2
+    ],
+    [
+      3827,
+      2
+    ],
+    [
+      3835,
+      2
+    ],
+    [
+      3848,
+      2
+    ],
+    [
+      3873,
       2
     ],
     [
@@ -17486,7 +17912,23 @@
       1
     ],
     [
+      3683,
+      1
+    ],
+    [
+      3714,
+      1
+    ],
+    [
       3720,
+      1
+    ],
+    [
+      3728,
+      1
+    ],
+    [
+      3740,
       1
     ],
     [
@@ -17502,11 +17944,23 @@
       1
     ],
     [
+      3768,
+      1
+    ],
+    [
       3770,
       1
     ],
     [
+      3778,
+      1
+    ],
+    [
       3781,
+      1
+    ],
+    [
+      3788,
       1
     ],
     [
@@ -17532,7 +17986,47 @@
     [
       3812,
       1
+    ],
+    [
+      3817,
+      1
+    ],
+    [
+      3820,
+      1
+    ],
+    [
+      3822,
+      1
+    ],
+    [
+      3831,
+      1
+    ],
+    [
+      3834,
+      1
+    ],
+    [
+      3836,
+      1
+    ],
+    [
+      3842,
+      1
+    ],
+    [
+      3867,
+      1
+    ],
+    [
+      3868,
+      1
+    ],
+    [
+      3883,
+      1
     ]
   ],
-  "last_updated": "2026-10-03 05:24:48"
+  "last_updated": "2026-10-03 11:45:05"
 }
