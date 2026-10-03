@@ -129,7 +129,8 @@
         ],
         "mod_name": "GUI Clock",
         "reactions": {
-          "heart": 1
+          "heart": 2,
+          "+1": 2
         },
         "reaction_count": 2,
         "total_comment_count": 2,
@@ -415,7 +416,9 @@
           "Mod: Brand New Day"
         ],
         "mod_name": "Brand New Day",
-        "reactions": {},
+        "reactions": {
+          "+1": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -18028,5 +18031,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-03 16:22:35"
+  "last_updated": "2026-10-03 21:22:47"
 }
