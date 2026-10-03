@@ -2575,12 +2575,12 @@
         ],
         "mod_name": "Villager Names",
         "reactions": {
-          "+1": 1,
+          "+1": 2,
           "heart": 1,
           "rocket": 1,
           "eyes": 1
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4540,9 +4540,9 @@
         ],
         "mod_name": "Realistic Bees",
         "reactions": {
-          "+1": 1
+          "+1": 2
         },
-        "reaction_count": 2,
+        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -5299,9 +5299,9 @@
         ],
         "mod_name": "Areas",
         "reactions": {
-          "+1": 6
+          "+1": 7
         },
-        "reaction_count": 5,
+        "reaction_count": 6,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -13763,12 +13763,12 @@
         ],
         "mod_name": "Villager Names",
         "reactions": {
-          "+1": 4,
+          "+1": 5,
           "eyes": 1,
           "heart": 1,
           "rocket": 1
         },
-        "reaction_count": 4,
+        "reaction_count": 5,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -14652,8 +14652,16 @@
       6
     ],
     [
+      2460,
+      6
+    ],
+    [
       2587,
       6
+    ],
+    [
+      307,
+      5
     ],
     [
       407,
@@ -14672,10 +14680,6 @@
       5
     ],
     [
-      2460,
-      5
-    ],
-    [
       2555,
       5
     ],
@@ -14689,10 +14693,6 @@
     ],
     [
       302,
-      4
-    ],
-    [
-      307,
       4
     ],
     [
@@ -14868,6 +14868,10 @@
       3
     ],
     [
+      2660,
+      3
+    ],
+    [
       2790,
       3
     ],
@@ -14897,6 +14901,10 @@
     ],
     [
       3097,
+      3
+    ],
+    [
+      3134,
       3
     ],
     [
@@ -15364,10 +15372,6 @@
       2
     ],
     [
-      2660,
-      2
-    ],
-    [
       2687,
       2
     ],
@@ -15457,10 +15461,6 @@
     ],
     [
       3114,
-      2
-    ],
-    [
-      3134,
       2
     ],
     [
@@ -18028,5 +18028,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-03 11:45:05"
+  "last_updated": "2026-10-03 16:22:35"
 }
