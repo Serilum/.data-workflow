@@ -4,7 +4,6 @@ from datetime						import datetime
 from pytz 							import timezone
 import json
 import requests
-import patreon
 import re
 import os
 import sys
@@ -47,7 +46,12 @@ def main(mainPath):
 							githubSponsors.append(ghLogin)
 
 
-	patreonResult = queryPatreon()
+	try:
+		patreonResult = queryPatreon()
+	except Exception as e:
+		print(fprefix + "Unable to receive Patreon members, keeping the previous list. " + str(e))
+		patreonResult = previousMembers["patreon"]
+
 	for pResult in patreonResult:
 		patrons.append(pResult.strip())
 
@@ -144,28 +148,34 @@ def queryGithub():
 	return {}
 
 def queryPatreon():
-	apiClient = patreon.API(os.environ['PATREON_SERILUM_API_KEY'])
-	campaignId = apiClient.fetch_campaign().data()[0].id()
-	cursor = None
+	patreonApiUrl = "https://www.patreon.com/api/oauth2/v2/"
+	patreonHeaders = {"Authorization": "Bearer " + os.environ['PATREON_SERILUM_API_KEY']}
+
+	campaignRequest = requests.get(patreonApiUrl + "campaigns", headers=patreonHeaders)
+	campaignRequest.raise_for_status()
+	campaignId = campaignRequest.json()['data'][0]['id']
+
 	names = []
-	while True:
-		pledgesResponse = apiClient.fetch_page_of_pledges(
-			campaignId,
-			25,
-			cursor=cursor,
-		)
-		getPatreonNames(pledgesResponse.data(), pledgesResponse, names)
-		cursor = apiClient.extract_cursor(pledgesResponse)
-		if not cursor:
-			break
+	membersUrl = patreonApiUrl + "campaigns/" + campaignId + "/members"
+	membersParams = {"fields[member]": "full_name,patron_status", "page[count]": 100}
+	while membersUrl:
+		membersRequest = requests.get(membersUrl, headers=patreonHeaders, params=membersParams)
+		membersRequest.raise_for_status()
+		membersJson = membersRequest.json()
+		getPatreonNames(membersJson['data'], names)
+
+		membersUrl = membersJson.get('links', {}).get('next')
+		membersParams = None
 
 	return names
 
-def getPatreonNames(allPledges, pledgesResponse, names):
-	for pledge in allPledges:
-		patronId = pledge.relationship('patron').id()
-		patron = pledgesResponse.find_resource_by_type_and_id('user', patronId)
-		names.append(patron.attribute('full_name'))
+def getPatreonNames(members, names):
+	for member in members:
+		memberAttributes = member['attributes']
+		if memberAttributes.get('patron_status') != "active_patron":
+			continue
+
+		names.append(memberAttributes['full_name'])
 
 	return
 
