@@ -84,7 +84,8 @@ def main(mainPath):
 	print(fprefix + "Done!")
 
 def normalizeEditor(html):
-	html = re.sub(r'>[\r\n]+<', '><', html)
+	html = re.sub(r'>[\r\n]+<', '>\n<', html)
+	html = html.replace("\r\n", "\n")
 	return html.replace("&#x27;", "'").replace("&#39;", "'")
 
 def rewriteLinkouts(html):
