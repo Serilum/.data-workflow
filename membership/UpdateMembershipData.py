@@ -28,22 +28,13 @@ def main(mainPath):
 		previousMembers["patreon"] = []
 
 
-	githubSponsors = []
 	patrons = []
 
-	githubResult = queryGithub()
-	if 'data' in githubResult:
-		ghData = githubResult['data']
-		if 'organization' in ghData:
-			ghUser = ghData['organization']
-			if 'sponsors' in ghUser:
-				ghSponsorData = ghUser['sponsors']
-				if 'nodes' in ghSponsorData:
-					ghNodes = ghSponsorData['nodes']
-					for ghNode in ghNodes:
-						if 'login' in ghNode:
-							ghLogin = ghNode['login']
-							githubSponsors.append(ghLogin)
+	try:
+		githubSponsors = queryGithub()
+	except Exception as e:
+		print(fprefix + "Unable to receive Github Sponsors, keeping the previous list. " + str(e))
+		githubSponsors = list(previousMembers["github"])
 
 
 	try:
@@ -141,11 +132,20 @@ def queryGithub():
 	request = requests.post('https://api.github.com/graphql', json={'query': githubQuery}, headers=githubHeaders)
 	
 	# print("GitHub API response:", request.json())
-	
-	if request.status_code == 200:
-		return request.json()
 
-	return {}
+	request.raise_for_status()
+	githubJson = request.json()
+	if githubJson.get('errors'):
+		raise Exception(str(githubJson['errors']))
+
+	sponsorNodes = githubJson['data']['organization']['sponsors']['nodes']
+
+	githubSponsors = []
+	for sponsorNode in sponsorNodes:
+		if 'login' in sponsorNode:
+			githubSponsors.append(sponsorNode['login'])
+
+	return githubSponsors
 
 def queryPatreon():
 	patreonApiUrl = "https://www.patreon.com/api/oauth2/v2/"
