@@ -1,15 +1,15 @@
 {
   "26.3": {
-    "Fabric": "8.42",
-    "Forge": "8.42",
-    "NeoForge": "8.42",
-    "Quilt": "8.42"
+    "Fabric": "8.43",
+    "Forge": "8.43",
+    "NeoForge": "8.43",
+    "Quilt": "8.43"
   },
   "26.2": {
-    "Fabric": "8.42",
-    "Forge": "8.42",
-    "NeoForge": "8.42",
-    "Quilt": "8.42"
+    "Fabric": "8.43",
+    "Forge": "8.43",
+    "NeoForge": "8.43",
+    "Quilt": "8.43"
   },
   "26.1.2": {
     "Fabric": "8.32",
@@ -89,16 +89,16 @@
     "Quilt": "7.89"
   },
   "1.21.1": {
-    "Fabric": "8.42",
-    "Forge": "8.42",
-    "NeoForge": "8.42",
-    "Quilt": "8.42"
+    "Fabric": "8.43",
+    "Forge": "8.43",
+    "NeoForge": "8.43",
+    "Quilt": "8.43"
   },
   "1.21": {
-    "Fabric": "8.42",
-    "Forge": "8.42",
-    "NeoForge": "8.42",
-    "Quilt": "8.42"
+    "Fabric": "8.43",
+    "Forge": "8.43",
+    "NeoForge": "8.43",
+    "Quilt": "8.43"
   },
   "1.20.6": {
     "Fabric": "7.84",
@@ -130,10 +130,10 @@
     "Quilt": "7.30"
   },
   "1.20.1": {
-    "Fabric": "8.42",
-    "Forge": "8.42",
-    "NeoForge": "8.42",
-    "Quilt": "8.42"
+    "Fabric": "8.43",
+    "Forge": "8.43",
+    "NeoForge": "8.43",
+    "Quilt": "8.43"
   },
   "1.20": {
     "Fabric": "6.57",

@@ -1,6 +1,90 @@
 {
   "data": {
     "mod-feature": {
+      "3905": {
+        "id": 5792897997,
+        "number": 3905,
+        "title": "Allow more than Max Y 256 for compat with Height Increase Mods and Datapacks",
+        "opened_by": "WilsonDK",
+        "creation_date": "2026-10-10",
+        "labels": [
+          "Feature Request",
+          "Mod: Set World Spawn Point"
+        ],
+        "mod_name": "Set World Spawn Point",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3899": {
+        "id": 5735616578,
+        "number": 3899,
+        "title": "Shulker box items mending",
+        "opened_by": "AKA-Kira",
+        "creation_date": "2026-10-06",
+        "labels": [
+          "Feature Request",
+          "Mod: Inventory Mending"
+        ],
+        "mod_name": "Inventory Mending",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3897": {
+        "id": 5712540600,
+        "number": 3897,
+        "title": "tree harvester breaking with silk touch gives leaves instead of saplings",
+        "opened_by": "baturax",
+        "creation_date": "2026-10-05",
+        "labels": [
+          "Feature Request",
+          "Mod: Tree Harvester"
+        ],
+        "mod_name": "Tree Harvester",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3896": {
+        "id": 5712369750,
+        "number": 3896,
+        "title": "[Feature Request] Config option to delay the despawning of giants & to tweak how close they spawn to a player",
+        "opened_by": "Manahoz",
+        "creation_date": "2026-10-05",
+        "labels": [
+          "Feature Request",
+          "Mod: Giant Spawn"
+        ],
+        "mod_name": "Giant Spawn",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3893": {
+        "id": 5691465116,
+        "number": 3893,
+        "title": "Allow dimension based multipliers for Altered Damage",
+        "opened_by": "MelonBoiDev",
+        "creation_date": "2026-10-03",
+        "labels": [
+          "Feature Request",
+          "Mod: Altered Damage"
+        ],
+        "mod_name": "Altered Damage",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3883": {
         "id": 5603910146,
         "number": 3883,
@@ -674,22 +758,6 @@
           "heart": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3720": {
-        "id": 4377388182,
-        "number": 3720,
-        "title": "Add Config option to make the rank coloured seperate from username",
-        "opened_by": "opee2012",
-        "creation_date": "2026-05-04",
-        "labels": [
-          "Feature Request",
-          "Mod: Beautified Chat Server"
-        ],
-        "mod_name": "Beautified Chat Server",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -14070,6 +14138,21 @@
       }
     },
     "standalone-feature": {
+      "3720": {
+        "id": 4377388182,
+        "number": 3720,
+        "title": "Add Config option to make the rank coloured seperate from username",
+        "opened_by": "opee2012",
+        "creation_date": "2026-05-04",
+        "labels": [
+          "Feature Request"
+        ],
+        "mod_name": "",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "2681": {
         "id": 2564855188,
         "number": 2681,
@@ -15624,6 +15707,10 @@
     ],
     [
       3873,
+      2
+    ],
+    [
+      3899,
       2
     ],
     [
@@ -18029,7 +18116,23 @@
     [
       3883,
       1
+    ],
+    [
+      3893,
+      1
+    ],
+    [
+      3896,
+      1
+    ],
+    [
+      3897,
+      1
+    ],
+    [
+      3905,
+      1
     ]
   ],
-  "last_updated": "2026-10-10 13:46:13"
+  "last_updated": "2026-10-10 21:49:44"
 }
