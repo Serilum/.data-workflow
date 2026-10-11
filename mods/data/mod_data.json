@@ -4881,7 +4881,7 @@
     ],
     "published": true,
     "is_bundle": false,
-    "bundle_category": "",
+    "bundle_category": "qol",
     "curseforge_projectid": 682198,
     "curseforge_legacy_fabric_projectid": 682212,
     "environment": "server",
