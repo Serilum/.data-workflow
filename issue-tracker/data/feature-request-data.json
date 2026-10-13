@@ -575,24 +575,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3769": {
-        "id": 4671131125,
-        "number": 3769,
-        "title": "please exclude buckets",
-        "opened_by": "Zero4793",
-        "creation_date": "2026-06-16",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3768": {
         "id": 4670062764,
         "number": 3768,
@@ -690,6 +672,24 @@
         "mod_name": "Beautified Chat [Server]",
         "reactions": {},
         "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
+      "3736": {
+        "id": 4462889599,
+        "number": 3736,
+        "title": "Feature ideas: biome tags and difficulty specification",
+        "opened_by": "MythicHH",
+        "creation_date": "2026-05-17",
+        "labels": [
+          "Feature Request",
+          "Mod: Biome Spawn Point"
+        ],
+        "mod_name": "Biome Spawn Point",
+        "reactions": {
+          "heart": 1
+        },
+        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -2993,24 +2993,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "3040": {
-        "id": 2992827668,
-        "number": 3040,
-        "title": "Configurability For Stack Refill",
-        "opened_by": "artimanzero",
-        "creation_date": "2025-04-14",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3037": {
         "id": 2991416523,
         "number": 3037,
@@ -3607,22 +3589,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2866": {
-        "id": 2800344866,
-        "number": 2866,
-        "title": "Add support for Splash Potions to refill in hotbar",
-        "opened_by": "purejosh",
-        "creation_date": "2025-01-20",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2865": {
         "id": 2799389056,
         "number": 2865,
@@ -3827,24 +3793,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2823": {
-        "id": 2759293201,
-        "number": 2823,
-        "title": "[GUI Followers] Allow to Scale Fonts",
-        "opened_by": "latipun7",
-        "creation_date": "2024-12-26",
-        "labels": [
-          "Feature Request",
-          "Mod: GUI Followers"
-        ],
-        "mod_name": "GUI Followers",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2822": {
         "id": 2758354902,
         "number": 2822,
@@ -3940,40 +3888,6 @@
           "Mod: Fire Spread Tweaks"
         ],
         "mod_name": "Fire Spread Tweaks",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2795": {
-        "id": 2734856065,
-        "number": 2795,
-        "title": "[Stack Refill]: Whitelist items idea",
-        "opened_by": "Looodon",
-        "creation_date": "2024-12-12",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 3,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2794": {
-        "id": 2734062384,
-        "number": 2794,
-        "title": "Blacklist for GUI Followers",
-        "opened_by": "ImReallyCreative",
-        "creation_date": "2024-12-11",
-        "labels": [
-          "Feature Request",
-          "Mod: GUI Followers"
-        ],
-        "mod_name": "GUI Followers",
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -5459,25 +5373,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2397": {
-        "id": 2323690285,
-        "number": 2397,
-        "title": "CONFIGURATION SUPPORT PLEASE",
-        "opened_by": "BlankSBG",
-        "creation_date": "2024-05-29",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {
-          "+1": 15,
-          "rocket": 2
-        },
-        "reaction_count": 13,
-        "total_comment_count": 3,
-        "user_comment_count": 2
-      },
       "2392": {
         "id": 2317413129,
         "number": 2392,
@@ -6754,22 +6649,6 @@
           "heart": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2112": {
-        "id": 2049750341,
-        "number": 2112,
-        "title": "Stack Refill for Bottle O' enchanting",
-        "opened_by": "almasmoot",
-        "creation_date": "2023-12-20",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -9126,26 +9005,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "1505": {
-        "id": 1519729708,
-        "number": 1505,
-        "title": "Is there a config for the \"Stack Refill\" mod?",
-        "opened_by": "simpl1city",
-        "creation_date": "2023-01-04",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {
-          "+1": 4,
-          "hooray": 2,
-          "heart": 1
-        },
-        "reaction_count": 6,
-        "total_comment_count": 5,
-        "user_comment_count": 4
-      },
       "1500": {
         "id": 1517003707,
         "number": 1500,
@@ -10495,22 +10354,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "1181": {
-        "id": 1307243547,
-        "number": 1181,
-        "title": "Make the words resizable",
-        "opened_by": "FelixRobotics",
-        "creation_date": "2022-07-17",
-        "labels": [
-          "Feature Request",
-          "Mod: GUI Followers"
-        ],
-        "mod_name": "GUI Followers",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "1165": {
         "id": 1301372723,
         "number": 1165,
@@ -11040,24 +10883,6 @@
         "mod_name": "Anvil Restoration",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 4,
-        "user_comment_count": 2
-      },
-      "1016": {
-        "id": 1188007525,
-        "number": 1016,
-        "title": "GUI Followers [Forge/Fabric] - Several feature requests",
-        "opened_by": "Abbanon",
-        "creation_date": "2022-03-31",
-        "labels": [
-          "Feature Request",
-          "Mod: GUI Followers"
-        ],
-        "mod_name": "GUI Followers",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
         "total_comment_count": 4,
         "user_comment_count": 2
       },
@@ -11628,22 +11453,6 @@
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 4,
-        "user_comment_count": 1
-      },
-      "842": {
-        "id": 1077858144,
-        "number": 842,
-        "title": "[Suggestion] *GUI Followers* X Coord Offsets? + A shadow behind the font.",
-        "opened_by": "SonicX8000",
-        "creation_date": "2021-12-12",
-        "labels": [
-          "Feature Request",
-          "Mod: GUI Followers"
-        ],
-        "mod_name": "GUI Followers",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
         "user_comment_count": 1
       },
       "833": {
@@ -12810,24 +12619,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "514": {
-        "id": 837823294,
-        "number": 514,
-        "title": "Stack Refill make features toggleable with config",
-        "opened_by": "ricksouth",
-        "creation_date": "2021-03-22",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 3,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "509": {
         "id": 836831154,
         "number": 509,
@@ -13311,25 +13102,6 @@
         "mod_name": "Eroding Stone Entities",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
-      "407": {
-        "id": 800477746,
-        "number": 407,
-        "title": "Config file to Stack Refill",
-        "opened_by": "gamelamp",
-        "creation_date": "2021-02-03",
-        "labels": [
-          "Feature Request",
-          "Mod: Stack Refill"
-        ],
-        "mod_name": "Stack Refill",
-        "reactions": {
-          "hooray": 2,
-          "+1": 2
-        },
-        "reaction_count": 5,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -14523,10 +14295,6 @@
       29
     ],
     [
-      2397,
-      13
-    ],
-    [
       1908,
       11
     ],
@@ -14587,10 +14355,6 @@
       6
     ],
     [
-      1505,
-      6
-    ],
-    [
       1853,
       6
     ],
@@ -14612,10 +14376,6 @@
     ],
     [
       307,
-      5
-    ],
-    [
-      407,
       5
     ],
     [
@@ -14719,10 +14479,6 @@
       3
     ],
     [
-      514,
-      3
-    ],
-    [
       650,
       3
     ],
@@ -14816,10 +14572,6 @@
     ],
     [
       2790,
-      3
-    ],
-    [
-      2795,
       3
     ],
     [
@@ -14984,10 +14736,6 @@
     ],
     [
       994,
-      2
-    ],
-    [
-      1016,
       2
     ],
     [
@@ -15375,10 +15123,6 @@
       2
     ],
     [
-      3040,
-      2
-    ],
-    [
       3059,
       2
     ],
@@ -15507,11 +15251,11 @@
       2
     ],
     [
-      3760,
+      3736,
       2
     ],
     [
-      3769,
+      3760,
       2
     ],
     [
@@ -16007,10 +15751,6 @@
       1
     ],
     [
-      842,
-      1
-    ],
-    [
       849,
       1
     ],
@@ -16224,10 +15964,6 @@
     ],
     [
       1165,
-      1
-    ],
-    [
-      1181,
       1
     ],
     [
@@ -16843,10 +16579,6 @@
       1
     ],
     [
-      2112,
-      1
-    ],
-    [
       2137,
       1
     ],
@@ -17283,10 +17015,6 @@
       1
     ],
     [
-      2794,
-      1
-    ],
-    [
       2801,
       1
     ],
@@ -17300,10 +17028,6 @@
     ],
     [
       2820,
-      1
-    ],
-    [
-      2823,
       1
     ],
     [
@@ -17340,10 +17064,6 @@
     ],
     [
       2865,
-      1
-    ],
-    [
-      2866,
       1
     ],
     [
@@ -17963,5 +17683,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-13 14:19:15"
+  "last_updated": "2026-10-13 22:50:10"
 }

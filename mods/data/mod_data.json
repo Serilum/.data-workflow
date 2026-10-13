@@ -11672,7 +11672,7 @@
     "project_type": "mod",
     "is_in_tve": true,
     "is_in_tenfold": false,
-    "has_translations": false
+    "has_translations": true
   },
   "Starter Kit": {
     "description": "\ud83d\udce6 Give all new players joining the world configurable starter gear, items and/or potion effects. It can overwrite the initial inventory, or add the items after. Compatible with FTB Team Islands.",
