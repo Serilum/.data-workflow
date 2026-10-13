@@ -4827,7 +4827,7 @@
     "has_translations": false
   },
   "Followers Teleport Too": {
-    "description": "\ud83d\udc3a Whenever a player is teleported via a command, pets will be teleported alongside them.",
+    "description": "\ud83d\udc3a While teleporting via commands, portals or Waystones, pets and mounts will be teleported too!",
     "slug": "followers-teleport-too",
     "fabric_slug": "followers-teleport-too-fabric",
     "fabric_versions": [

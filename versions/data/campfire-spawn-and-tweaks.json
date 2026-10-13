@@ -89,16 +89,16 @@
     "Quilt": "3.9"
   },
   "1.21.1": {
-    "Fabric": "4.3",
-    "Forge": "4.3",
-    "NeoForge": "4.3",
-    "Quilt": "4.3"
+    "Fabric": "4.4",
+    "Forge": "4.4",
+    "NeoForge": "4.4",
+    "Quilt": "4.4"
   },
   "1.21": {
-    "Fabric": "4.3",
-    "Forge": "4.3",
-    "NeoForge": "4.3",
-    "Quilt": "4.3"
+    "Fabric": "4.4",
+    "Forge": "4.4",
+    "NeoForge": "4.4",
+    "Quilt": "4.4"
   },
   "1.20.6": {
     "Fabric": "3.9",
