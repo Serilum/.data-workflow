@@ -1543,22 +1543,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3438": {
-        "id": 3703226721,
-        "number": 3438,
-        "title": "(Feature Suggestion) Your Items Are Safe - Accessories Compatibility?",
-        "opened_by": "BrandonPotter0",
-        "creation_date": "2025-12-07",
-        "labels": [
-          "Feature Request",
-          "Mod: Your Items Are Safe"
-        ],
-        "mod_name": "Your Items Are Safe",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3400": {
         "id": 3604480745,
         "number": 3400,
@@ -1770,22 +1754,6 @@
           "heart": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3308": {
-        "id": 3464963405,
-        "number": 3308,
-        "title": "Accessory Support for Your Items Are Safe?",
-        "opened_by": "BrandonPotter0",
-        "creation_date": "2025-09-29",
-        "labels": [
-          "Feature Request",
-          "Mod: Your Items Are Safe"
-        ],
-        "mod_name": "Your Items Are Safe",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -3585,22 +3553,6 @@
           "Mod: Player Tracking Compass"
         ],
         "mod_name": "Player Tracking Compass",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2855": {
-        "id": 2791661703,
-        "number": 2855,
-        "title": "Whitelist and Blacklist for Your Items Are Safe",
-        "opened_by": "WaveSmashies",
-        "creation_date": "2025-01-16",
-        "labels": [
-          "Feature Request",
-          "Mod: Your Items Are Safe"
-        ],
-        "mod_name": "Your Items Are Safe",
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -5466,24 +5418,6 @@
         "mod_name": "Beautified Chat [Client]",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2313": {
-        "id": 2249698397,
-        "number": 2313,
-        "title": "Add support to Curios in Your Items Are Safe",
-        "opened_by": "Igor-Fam",
-        "creation_date": "2024-04-18",
-        "labels": [
-          "Feature Request",
-          "Mod: Your Items Are Safe"
-        ],
-        "mod_name": "Your Items Are Safe",
-        "reactions": {
-          "+1": 4
-        },
-        "reaction_count": 4,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -10445,24 +10379,6 @@
         "total_comment_count": 4,
         "user_comment_count": 2
       },
-      "1078": {
-        "id": 1244086161,
-        "number": 1078,
-        "title": "[YIAS] [Feature Idea] Name the chest with owner name",
-        "opened_by": "Julienraptor01",
-        "creation_date": "2022-05-21",
-        "labels": [
-          "Feature Request",
-          "Mod: Your Items Are Safe"
-        ],
-        "mod_name": "Your Items Are Safe",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "1076": {
         "id": 1242948760,
         "number": 1076,
@@ -11266,7 +11182,7 @@
         "id": 1069597451,
         "number": 807,
         "title": "Unlimited messages",
-        "opened_by": "AmibeSkyfy16",
+        "opened_by": "Harlewm",
         "creation_date": "2021-12-02",
         "labels": [
           "Feature Request",
@@ -14226,10 +14142,6 @@
       4
     ],
     [
-      2313,
-      4
-    ],
-    [
       2373,
       4
     ],
@@ -15642,10 +15554,6 @@
       1
     ],
     [
-      1078,
-      1
-    ],
-    [
       1083,
       1
     ],
@@ -16782,10 +16690,6 @@
       1
     ],
     [
-      2855,
-      1
-    ],
-    [
       2858,
       1
     ],
@@ -17090,10 +16994,6 @@
       1
     ],
     [
-      3308,
-      1
-    ],
-    [
       3326,
       1
     ],
@@ -17131,10 +17031,6 @@
     ],
     [
       3379,
-      1
-    ],
-    [
-      3438,
       1
     ],
     [
@@ -17406,5 +17302,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-14 17:17:13"
+  "last_updated": "2026-10-14 21:47:07"
 }
