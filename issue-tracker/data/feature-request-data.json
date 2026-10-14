@@ -135,24 +135,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3848": {
-        "id": 5286117584,
-        "number": 3848,
-        "title": "Tree Harvester wood type/max tree size config",
-        "opened_by": "shyinka",
-        "creation_date": "2026-08-29",
-        "labels": [
-          "Feature Request",
-          "Mod: Tree Harvester"
-        ],
-        "mod_name": "Tree Harvester",
-        "reactions": {
-          "rocket": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 3,
-        "user_comment_count": 2
-      },
       "3842": {
         "id": 5254710754,
         "number": 3842,
@@ -1370,22 +1352,6 @@
         "reactions": {
           "+1": 1
         },
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3470": {
-        "id": 3750237104,
-        "number": 3470,
-        "title": "Configurable Maximum of ore blocks broken, and per pickaxe? via config? :)",
-        "opened_by": "sowby911",
-        "creation_date": "2025-12-20",
-        "labels": [
-          "Feature Request",
-          "Mod: Ore Harvester"
-        ],
-        "mod_name": "Ore Harvester",
-        "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -3096,22 +3062,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "2995": {
-        "id": 2958022741,
-        "number": 2995,
-        "title": "how can I add block in ore harvester",
-        "opened_by": "LuckyAstraeus",
-        "creation_date": "2025-03-29",
-        "labels": [
-          "Feature Request",
-          "Mod: Ore Harvester"
-        ],
-        "mod_name": "Ore Harvester",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "2991": {
         "id": 2955934223,
         "number": 2991,
@@ -3422,24 +3372,6 @@
         "mod_name": "Tree Harvester",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2929": {
-        "id": 2866176014,
-        "number": 2929,
-        "title": "Allow custom blocks",
-        "opened_by": "ghost",
-        "creation_date": "2025-02-20",
-        "labels": [
-          "Feature Request",
-          "Mod: Ore Harvester"
-        ],
-        "mod_name": "Ore Harvester",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 3,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4175,25 +4107,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2737": {
-        "id": 2630466846,
-        "number": 2737,
-        "title": "Block/Ore Harvester",
-        "opened_by": "yuk75",
-        "creation_date": "2024-11-02",
-        "labels": [
-          "Feature Request",
-          "Mod: Ore Harvester"
-        ],
-        "mod_name": "Ore Harvester",
-        "reactions": {
-          "+1": 2,
-          "heart": 2
-        },
-        "reaction_count": 2,
-        "total_comment_count": 5,
-        "user_comment_count": 4
-      },
       "2735": {
         "id": 2625927316,
         "number": 2735,
@@ -4393,22 +4306,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2677": {
-        "id": 2555010938,
-        "number": 2677,
-        "title": "Add Items to ore harvester",
-        "opened_by": "GottesGamer",
-        "creation_date": "2024-09-29",
-        "labels": [
-          "Feature Request",
-          "Mod: Ore Harvester"
-        ],
-        "mod_name": "Ore Harvester",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2666": {
         "id": 2549813799,
         "number": 2666,
@@ -4458,24 +4355,6 @@
         "mod_name": "Biome Spawn Point",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2653": {
-        "id": 2530918463,
-        "number": 2653,
-        "title": "Log blacklist / Block tag blacklist [Tree Harvester]",
-        "opened_by": "supermassimo",
-        "creation_date": "2024-09-17",
-        "labels": [
-          "Feature Request",
-          "Mod: Tree Harvester"
-        ],
-        "mod_name": "Tree Harvester",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4968,22 +4847,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2529": {
-        "id": 2417357083,
-        "number": 2529,
-        "title": "Vein Mining Glowstone",
-        "opened_by": "xardius",
-        "creation_date": "2024-07-18",
-        "labels": [
-          "Feature Request",
-          "Mod: Ore Harvester"
-        ],
-        "mod_name": "Ore Harvester",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2520": {
         "id": 2407162470,
         "number": 2520,
@@ -5372,26 +5235,6 @@
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
-      },
-      "2392": {
-        "id": 2317413129,
-        "number": 2392,
-        "title": "Ore Harvester - Ore Whitelist/Blacklist",
-        "opened_by": "Acenthus",
-        "creation_date": "2024-05-26",
-        "labels": [
-          "Feature Request",
-          "Mod: Ore Harvester"
-        ],
-        "mod_name": "Ore Harvester",
-        "reactions": {
-          "heart": 1,
-          "rocket": 1,
-          "+1": 5
-        },
-        "reaction_count": 8,
-        "total_comment_count": 5,
-        "user_comment_count": 3
       },
       "2389": {
         "id": 2317069999,
@@ -7823,22 +7666,6 @@
           "Mod: Mineral Chance"
         ],
         "mod_name": "Mineral Chance",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "1833": {
-        "id": 1774507423,
-        "number": 1833,
-        "title": "Tree Harvester custom axes",
-        "opened_by": "ghost",
-        "creation_date": "2023-06-26",
-        "labels": [
-          "Feature Request",
-          "Mod: Tree Harvester"
-        ],
-        "mod_name": "Tree Harvester",
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -14315,10 +14142,6 @@
       8
     ],
     [
-      2392,
-      8
-    ],
-    [
       496,
       7
     ],
@@ -14580,10 +14403,6 @@
     ],
     [
       2921,
-      3
-    ],
-    [
-      2929,
       3
     ],
     [
@@ -15059,19 +14878,11 @@
       2
     ],
     [
-      2653,
-      2
-    ],
-    [
       2687,
       2
     ],
     [
       2708,
-      2
-    ],
-    [
-      2737,
       2
     ],
     [
@@ -15288,10 +15099,6 @@
     ],
     [
       3835,
-      2
-    ],
-    [
-      3848,
       2
     ],
     [
@@ -16359,10 +16166,6 @@
       1
     ],
     [
-      1833,
-      1
-    ],
-    [
       1835,
       1
     ],
@@ -16823,10 +16626,6 @@
       1
     ],
     [
-      2529,
-      1
-    ],
-    [
       2530,
       1
     ],
@@ -16912,10 +16711,6 @@
     ],
     [
       2666,
-      1
-    ],
-    [
-      2677,
       1
     ],
     [
@@ -17144,10 +16939,6 @@
     ],
     [
       2991,
-      1
-    ],
-    [
-      2995,
       1
     ],
     [
@@ -17439,10 +17230,6 @@
       1
     ],
     [
-      3470,
-      1
-    ],
-    [
       3486,
       1
     ],
@@ -17683,5 +17470,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-13 22:50:10"
+  "last_updated": "2026-10-14 05:00:45"
 }

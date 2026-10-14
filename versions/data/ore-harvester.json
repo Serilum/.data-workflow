@@ -1,15 +1,15 @@
 {
   "26.3": {
-    "Fabric": "1.7",
-    "Forge": "1.7",
-    "NeoForge": "1.7",
-    "Quilt": "1.7"
+    "Fabric": "2.0",
+    "Forge": "2.0",
+    "NeoForge": "2.0",
+    "Quilt": "2.0"
   },
   "26.2": {
-    "Fabric": "1.7",
-    "Forge": "1.7",
-    "NeoForge": "1.7",
-    "Quilt": "1.7"
+    "Fabric": "2.0",
+    "Forge": "2.0",
+    "NeoForge": "2.0",
+    "Quilt": "2.0"
   },
   "26.1.2": {
     "Fabric": "1.6",
