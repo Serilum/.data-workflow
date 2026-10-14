@@ -1295,7 +1295,7 @@
     "project_type": "mod",
     "is_in_tve": false,
     "is_in_tenfold": false,
-    "has_translations": false
+    "has_translations": true
   },
   "Bogged Spawn": {
     "description": "\ud83c\udff9\ud83c\udf44 Adds a chance for bogged to spawn naturally everywhere in place of a skeleton.",
