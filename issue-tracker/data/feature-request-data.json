@@ -1176,6 +1176,22 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
+      "3534": {
+        "id": 3824693654,
+        "number": 3534,
+        "title": "No achievement when picking up a new head",
+        "opened_by": "Wisefish8",
+        "creation_date": "2026-01-17",
+        "labels": [
+          "Feature Request",
+          "Mod: Just Mob Heads"
+        ],
+        "mod_name": "Just Mob Heads",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
       "3527": {
         "id": 3814497890,
         "number": 3527,
@@ -10395,22 +10411,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "1074": {
-        "id": 1242106084,
-        "number": 1074,
-        "title": "Better Just Mob Heads WTHIT compatibility ",
-        "opened_by": "NealSavage",
-        "creation_date": "2022-05-19",
-        "labels": [
-          "Feature Request",
-          "Mod: Just Mob Heads"
-        ],
-        "mod_name": "Just Mob Heads",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "1072": {
         "id": 1237860102,
         "number": 1072,
@@ -15546,10 +15546,6 @@
       1
     ],
     [
-      1074,
-      1
-    ],
-    [
       1076,
       1
     ],
@@ -17102,6 +17098,10 @@
       1
     ],
     [
+      3534,
+      1
+    ],
+    [
       3550,
       1
     ],
@@ -17302,5 +17302,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-14 21:47:07"
+  "last_updated": "2026-10-15 04:46:16"
 }
