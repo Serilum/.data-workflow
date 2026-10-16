@@ -1,9 +1,13 @@
 .git
+.gitattributes
 .github
+.gitignore
 .idea
+.wrangler
 venv
 __pycache__
 *.py
 requirements.txt
 README.md
 badges/templates
+wrangler.toml
