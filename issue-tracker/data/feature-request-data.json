@@ -4141,22 +4141,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2711": {
-        "id": 2600956944,
-        "number": 2711,
-        "title": "Choose when trades need to be stocked",
-        "opened_by": "Wertyhappy27",
-        "creation_date": "2024-10-20",
-        "labels": [
-          "Feature Request",
-          "Mod: Infinite Trading"
-        ],
-        "mod_name": "Infinite Trading",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2708": {
         "id": 2590163912,
         "number": 2708,
@@ -4529,23 +4513,6 @@
         "reaction_count": 6,
         "total_comment_count": 4,
         "user_comment_count": 3
-      },
-      "2575": {
-        "id": 2459419566,
-        "number": 2575,
-        "title": "Compatibility with Goblin Traders",
-        "opened_by": "polykatt",
-        "creation_date": "2024-08-11",
-        "labels": [
-          "Feature Request",
-          "Mod: Infinite Trading",
-          "Incompatibility"
-        ],
-        "mod_name": "Infinite Trading",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
       },
       "2570": {
         "id": 2455420695,
@@ -5488,22 +5455,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "2299": {
-        "id": 2226933877,
-        "number": 2299,
-        "title": "Infinite Trading Fabric server 1.20.4 10x the vanilla amount",
-        "opened_by": "Jarrose37",
-        "creation_date": "2024-04-05",
-        "labels": [
-          "Feature Request",
-          "Mod: Infinite Trading"
-        ],
-        "mod_name": "Infinite Trading",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "2296": {
         "id": 2220119531,
         "number": 2296,
@@ -6030,22 +5981,6 @@
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 4,
-        "user_comment_count": 1
-      },
-      "2180": {
-        "id": 2091442578,
-        "number": 2180,
-        "title": "Does Infinite Trading remove demand?",
-        "opened_by": "clmc99",
-        "creation_date": "2024-01-19",
-        "labels": [
-          "Feature Request",
-          "Mod: Infinite Trading"
-        ],
-        "mod_name": "Infinite Trading",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
         "user_comment_count": 1
       },
       "2176": {
@@ -7170,24 +7105,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "1916": {
-        "id": 1848802345,
-        "number": 1916,
-        "title": "Infinite trades, Compatibility with Easy Villagers, ",
-        "opened_by": "ItzDingus",
-        "creation_date": "2023-08-14",
-        "labels": [
-          "Feature Request",
-          "Mod: Infinite Trading"
-        ],
-        "mod_name": "Infinite Trading",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "1914": {
         "id": 1847194818,
         "number": 1914,
@@ -8004,22 +7921,6 @@
           "+1": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "1700": {
-        "id": 1652504657,
-        "number": 1700,
-        "title": "/modname reload",
-        "opened_by": "KKolyanGGWP",
-        "creation_date": "2023-04-03",
-        "labels": [
-          "Feature Request",
-          "Mod: Vote Command"
-        ],
-        "mod_name": "Vote Command",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -10506,24 +10407,6 @@
         "mod_name": "Starter Kit",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
-      "1039": {
-        "id": 1210492161,
-        "number": 1039,
-        "title": "Ability to reload welcome config",
-        "opened_by": "zachthedev",
-        "creation_date": "2022-04-21",
-        "labels": [
-          "Feature Request",
-          "Mod: Welcome Message"
-        ],
-        "mod_name": "Welcome Message",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -14418,10 +14301,6 @@
       2
     ],
     [
-      1039,
-      2
-    ],
-    [
       1041,
       2
     ],
@@ -14587,10 +14466,6 @@
     ],
     [
       1912,
-      2
-    ],
-    [
-      1916,
       2
     ],
     [
@@ -15938,10 +15813,6 @@
       1
     ],
     [
-      1700,
-      1
-    ],
-    [
       1702,
       1
     ],
@@ -16270,10 +16141,6 @@
       1
     ],
     [
-      2180,
-      1
-    ],
-    [
       2187,
       1
     ],
@@ -16347,10 +16214,6 @@
     ],
     [
       2296,
-      1
-    ],
-    [
-      2299,
       1
     ],
     [
@@ -16514,10 +16377,6 @@
       1
     ],
     [
-      2575,
-      1
-    ],
-    [
       2599,
       1
     ],
@@ -16575,10 +16434,6 @@
     ],
     [
       2707,
-      1
-    ],
-    [
-      2711,
       1
     ],
     [
@@ -17302,5 +17157,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-18 11:13:58"
+  "last_updated": "2026-10-18 15:58:04"
 }
