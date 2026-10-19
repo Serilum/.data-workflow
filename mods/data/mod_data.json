@@ -11675,7 +11675,7 @@
     "has_translations": true
   },
   "Starter Kit": {
-    "description": "\ud83d\udce6 Give all new players joining the world configurable starter gear, items and/or potion effects. It can overwrite the initial inventory, or add the items after. Compatible with FTB Team Islands.",
+    "description": "\ud83d\udce6 Give all new players joining the world configurable starter gear, items, potion effects, Curios and Trinkets slots and/or commands. Compatible with FTB Team Islands.",
     "slug": "starter-kit",
     "fabric_slug": "starter-kit-fabric",
     "fabric_versions": [

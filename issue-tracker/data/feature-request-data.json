@@ -85,22 +85,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3883": {
-        "id": 5603910146,
-        "number": 3883,
-        "title": "Command block compatibility/ config option for multiple kits",
-        "opened_by": "Maxthecoolly",
-        "creation_date": "2026-09-27",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 2
-      },
       "3873": {
         "id": 5521414621,
         "number": 3873,
@@ -197,22 +181,6 @@
           "Mod: All Loot Drops"
         ],
         "mod_name": "All Loot Drops",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3831": {
-        "id": 5149475536,
-        "number": 3831,
-        "title": "Option to lock select kit pop up.",
-        "opened_by": "FkillerGR",
-        "creation_date": "2026-08-14",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -516,24 +484,6 @@
           "Mod: Enchantment Level Cap Indicator"
         ],
         "mod_name": "Enchantment Level Cap Indicator",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3774": {
-        "id": 4709817133,
-        "number": 3774,
-        "title": "Starter Kit should be able to have the ui open for players after running a command and not on world creation/join",
-        "opened_by": "williamgouveia65-glitch",
-        "creation_date": "2026-06-21",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
         "reactions": {
           "heart": 1
         },
@@ -922,24 +872,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3611": {
-        "id": 3989205322,
-        "number": 3611,
-        "title": "Add Curios compatibility to Starter Kit 1.21.1",
-        "opened_by": "AnyankaT",
-        "creation_date": "2026-02-25",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3610": {
         "id": 3986808094,
         "number": 3610,
@@ -1206,22 +1138,6 @@
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 3,
-        "user_comment_count": 1
-      },
-      "3525": {
-        "id": 3811048158,
-        "number": 3525,
-        "title": "[Fabric][1.20.1][Macaw's Doors] Sliding Doors",
-        "opened_by": "NFLD99",
-        "creation_date": "2026-01-14",
-        "labels": [
-          "Feature Request",
-          "Mod: Double Doors"
-        ],
-        "mod_name": "Double Doors",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
         "user_comment_count": 1
       },
       "3512": {
@@ -1895,22 +1811,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3277": {
-        "id": 3373344588,
-        "number": 3277,
-        "title": "Add commands into the kits",
-        "opened_by": "Galysso",
-        "creation_date": "2025-09-01",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3276": {
         "id": 3373273222,
         "number": 3276,
@@ -2291,42 +2191,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3196": {
-        "id": 3229091337,
-        "number": 3196,
-        "title": "[Feature] Starter Kit - random kit Weight",
-        "opened_by": "the-soy-coder",
-        "creation_date": "2025-07-14",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3194": {
-        "id": 3226594038,
-        "number": 3194,
-        "title": "[Feature] Starter Kit - Execute Command",
-        "opened_by": "Ashuntoi",
-        "creation_date": "2025-07-13",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3189": {
         "id": 3214505699,
         "number": 3189,
@@ -2673,24 +2537,6 @@
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
-      },
-      "3097": {
-        "id": 3044093375,
-        "number": 3097,
-        "title": "Configure order starter kits appear on selection screen",
-        "opened_by": "Naixatloz",
-        "creation_date": "2025-05-06",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 3,
-        "total_comment_count": 3,
-        "user_comment_count": 2
       },
       "3096": {
         "id": 3043262508,
@@ -3222,24 +3068,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2961": {
-        "id": 2905180204,
-        "number": 2961,
-        "title": "respawn with kit",
-        "opened_by": "leedbutter",
-        "creation_date": "2025-03-09",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "2960": {
         "id": 2904935473,
         "number": 2960,
@@ -3652,24 +3480,6 @@
           "Mod: GUI Clock"
         ],
         "mod_name": "GUI Clock",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2841": {
-        "id": 2773905722,
-        "number": 2841,
-        "title": "Essential mod compatibility",
-        "opened_by": "Torvailius",
-        "creation_date": "2025-01-07",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
         "reactions": {
           "+1": 1
         },
@@ -5404,25 +5214,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2311": {
-        "id": 2246863231,
-        "number": 2311,
-        "title": "[Feature Request] [Starter Kit] Starter kits on respawn",
-        "opened_by": "TheGeorginator",
-        "creation_date": "2024-04-16",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "+1": 2,
-          "hooray": 1
-        },
-        "reaction_count": 3,
-        "total_comment_count": 5,
-        "user_comment_count": 1
-      },
       "2310": {
         "id": 2245858495,
         "number": 2310,
@@ -5741,24 +5532,6 @@
           "heart": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2230": {
-        "id": 2158187235,
-        "number": 2230,
-        "title": "Curios support for starter kit mod",
-        "opened_by": "JustKenjiX",
-        "creation_date": "2024-02-28",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "+1": 3
-        },
-        "reaction_count": 4,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -8072,28 +7845,6 @@
         "reaction_count": 1,
         "total_comment_count": 3,
         "user_comment_count": 2
-      },
-      "1675": {
-        "id": 1630967320,
-        "number": 1675,
-        "title": "Blacklist for Double Doors",
-        "opened_by": "Kasprenius",
-        "creation_date": "2023-03-19",
-        "labels": [
-          "Feature Request",
-          "Mod: Double Doors"
-        ],
-        "mod_name": "Double Doors",
-        "reactions": {
-          "+1": 6,
-          "laugh": 1,
-          "hooray": 1,
-          "heart": 3,
-          "eyes": 2
-        },
-        "reaction_count": 9,
-        "total_comment_count": 4,
-        "user_comment_count": 3
       },
       "1668": {
         "id": 1624518181,
@@ -12462,27 +12213,6 @@
         "total_comment_count": 4,
         "user_comment_count": 1
       },
-      "441": {
-        "id": 808091737,
-        "number": 441,
-        "title": "[Sterter Kit] Curios compatibility",
-        "opened_by": "AlleCraft-alterego",
-        "creation_date": "2021-02-15",
-        "labels": [
-          "Feature Request",
-          "Mod: Starter Kit"
-        ],
-        "mod_name": "Starter Kit",
-        "reactions": {
-          "+1": 26,
-          "eyes": 6,
-          "heart": 4,
-          "hooray": 1
-        },
-        "reaction_count": 29,
-        "total_comment_count": 5,
-        "user_comment_count": 3
-      },
       "438": {
         "id": 807997258,
         "number": 438,
@@ -13865,10 +13595,6 @@
   },
   "issues_sorted_reaction_count": [
     [
-      441,
-      29
-    ],
-    [
       1908,
       11
     ],
@@ -13878,10 +13604,6 @@
     ],
     [
       1266,
-      9
-    ],
-    [
-      1675,
       9
     ],
     [
@@ -14017,10 +13739,6 @@
       4
     ],
     [
-      2230,
-      4
-    ],
-    [
       2275,
       4
     ],
@@ -14121,10 +13839,6 @@
       3
     ],
     [
-      2311,
-      3
-    ],
-    [
       2507,
       3
     ],
@@ -14154,10 +13868,6 @@
     ],
     [
       3047,
-      3
-    ],
-    [
-      3097,
       3
     ],
     [
@@ -14633,19 +14343,11 @@
       2
     ],
     [
-      2841,
-      2
-    ],
-    [
       2846,
       2
     ],
     [
       2954,
-      2
-    ],
-    [
-      2961,
       2
     ],
     [
@@ -14702,10 +14404,6 @@
     ],
     [
       3189,
-      2
-    ],
-    [
-      3194,
       2
     ],
     [
@@ -14773,10 +14471,6 @@
       2
     ],
     [
-      3611,
-      2
-    ],
-    [
       3704,
       2
     ],
@@ -14794,10 +14488,6 @@
     ],
     [
       3760,
-      2
-    ],
-    [
-      3774,
       2
     ],
     [
@@ -16745,10 +16435,6 @@
       1
     ],
     [
-      3196,
-      1
-    ],
-    [
       3197,
       1
     ],
@@ -16822,10 +16508,6 @@
     ],
     [
       3276,
-      1
-    ],
-    [
-      3277,
       1
     ],
     [
@@ -16942,10 +16624,6 @@
     ],
     [
       3512,
-      1
-    ],
-    [
-      3525,
       1
     ],
     [
@@ -17117,10 +16795,6 @@
       1
     ],
     [
-      3831,
-      1
-    ],
-    [
       3834,
       1
     ],
@@ -17134,10 +16808,6 @@
     ],
     [
       3867,
-      1
-    ],
-    [
-      3883,
       1
     ],
     [
@@ -17157,5 +16827,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-19 13:24:27"
+  "last_updated": "2026-10-19 22:26:24"
 }
