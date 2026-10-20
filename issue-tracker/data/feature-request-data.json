@@ -1,6 +1,22 @@
 {
   "data": {
     "mod-feature": {
+      "3919": {
+        "id": 5908973658,
+        "number": 3919,
+        "title": "Ability to disable the automatic fire disabling",
+        "opened_by": "Hadeles",
+        "creation_date": "2026-10-18",
+        "labels": [
+          "Feature Request",
+          "Mod: Fire Spread Tweaks"
+        ],
+        "mod_name": "Fire Spread Tweaks",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 3,
+        "user_comment_count": 1
+      },
       "3905": {
         "id": 5792897997,
         "number": 3905,
@@ -49,22 +65,6 @@
         "reactions": {
           "heart": 1
         },
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3896": {
-        "id": 5712369750,
-        "number": 3896,
-        "title": "[Feature Request] Config option to delay the despawning of giants & to tweak how close they spawn to a player",
-        "opened_by": "Manahoz",
-        "creation_date": "2026-10-05",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -519,24 +519,6 @@
         ],
         "mod_name": "World Border",
         "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3761": {
-        "id": 4653976674,
-        "number": 3761,
-        "title": "Add the Baby Giant Zombie",
-        "opened_by": "fleetag",
-        "creation_date": "2026-06-13",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "+1": 1
-        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -2446,24 +2428,6 @@
         "mod_name": "Campfire Spawn and Tweaks",
         "reactions": {
           "eyes": 1,
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3113": {
-        "id": 3070176452,
-        "number": 3113,
-        "title": "GiantSpawn config for drops",
-        "opened_by": "Reed-012",
-        "creation_date": "2025-05-17",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
           "+1": 1
         },
         "reaction_count": 2,
@@ -5772,24 +5736,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2175": {
-        "id": 2088153799,
-        "number": 2175,
-        "title": "Make the giant use the zombie sound like was added and removed in the 1.14 snapshot",
-        "opened_by": "SvveetMavis",
-        "creation_date": "2024-01-18",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2173": {
         "id": 2084986662,
         "number": 2173,
@@ -6780,24 +6726,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "1949": {
-        "id": 1884800551,
-        "number": 1949,
-        "title": "Pulling Collective's hard-coded GlobalVariables into a JSON",
-        "opened_by": "SeymourGx",
-        "creation_date": "2023-09-06",
-        "labels": [
-          "Feature Request",
-          "Library: Collective"
-        ],
-        "mod_name": "",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "1947": {
         "id": 1881315148,
         "number": 1947,
@@ -7094,22 +7022,6 @@
           "+1": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "1875": {
-        "id": 1802007043,
-        "number": 1875,
-        "title": "Centralization of config files",
-        "opened_by": "ColonelGerdauf",
-        "creation_date": "2023-07-13",
-        "labels": [
-          "Feature Request",
-          "Library: Collective"
-        ],
-        "mod_name": "",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -7987,24 +7899,6 @@
         "total_comment_count": 3,
         "user_comment_count": 2
       },
-      "1643": {
-        "id": 1597844991,
-        "number": 1643,
-        "title": "Configurable XP for Giant Spawn",
-        "opened_by": "4zy1",
-        "creation_date": "2023-02-24",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 3,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "1638": {
         "id": 1594706276,
         "number": 1638,
@@ -8525,22 +8419,6 @@
           "Mod: Healing Campfire"
         ],
         "mod_name": "Healing Campfire",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "1462": {
-        "id": 1490884185,
-        "number": 1462,
-        "title": "[Feature Request] All configs in one folder",
-        "opened_by": "lamoyrl90",
-        "creation_date": "2022-12-12",
-        "labels": [
-          "Feature Request",
-          "Library: Collective"
-        ],
-        "mod_name": "",
         "reactions": {},
         "reaction_count": 1,
         "total_comment_count": 2,
@@ -9456,24 +9334,6 @@
         "mod_name": "Grindstone Sharper Tools",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
-      "1230": {
-        "id": 1330697983,
-        "number": 1230,
-        "title": "[Suggestion] [Giant Spawn] Giants spawning with equipment",
-        "opened_by": "Nevrai",
-        "creation_date": "2022-08-06",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -11528,48 +11388,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "650": {
-        "id": 962085023,
-        "number": 650,
-        "title": "Giant Spawn Drop",
-        "opened_by": "General-Radek",
-        "creation_date": "2021-08-05",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "+1": 2
-        },
-        "reaction_count": 3,
-        "total_comment_count": 5,
-        "user_comment_count": 3
-      },
-      "646": {
-        "id": 960672431,
-        "number": 646,
-        "title": "Zombie villager textures should be biome specific (like vanilla zombie villagers)",
-        "opened_by": "Wedge1453",
-        "creation_date": "2021-08-04",
-        "labels": [
-          "Feature Request",
-          "Mod: More Zombie Villagers",
-          "Mod: Zombie Villagers From Spawner"
-        ],
-        "mod_name": "Zombie Villagers From Spawner",
-        "reactions": {
-          "+1": 1,
-          "laugh": 1,
-          "heart": 1,
-          "hooray": 1,
-          "rocket": 1,
-          "eyes": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
       "644": {
         "id": 957740477,
         "number": 644,
@@ -12303,24 +12121,6 @@
         "total_comment_count": 4,
         "user_comment_count": 2
       },
-      "431": {
-        "id": 807473668,
-        "number": 431,
-        "title": "Giant Spawn features",
-        "opened_by": "ricksouth",
-        "creation_date": "2021-02-12",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "+1": 4
-        },
-        "reaction_count": 5,
-        "total_comment_count": 8,
-        "user_comment_count": 5
-      },
       "430": {
         "id": 807472725,
         "number": 430,
@@ -12422,24 +12222,6 @@
         "mod_name": "Creative Block Replacer",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 1
-      },
-      "397": {
-        "id": 797375141,
-        "number": 397,
-        "title": "Some ideas",
-        "opened_by": "48004800",
-        "creation_date": "2021-01-30",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "heart": 2
-        },
-        "reaction_count": 3,
         "total_comment_count": 3,
         "user_comment_count": 1
       },
@@ -12915,24 +12697,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "239": {
-        "id": 684948351,
-        "number": 239,
-        "title": "Restrict giant spawns to specific dimensions",
-        "opened_by": "HatTrkPatrk",
-        "creation_date": "2020-08-24",
-        "labels": [
-          "Feature Request",
-          "Mod: Giant Spawn"
-        ],
-        "mod_name": "Giant Spawn",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 1,
-        "total_comment_count": 4,
-        "user_comment_count": 2
-      },
       "234": {
         "id": 682400310,
         "number": 234,
@@ -12967,22 +12731,6 @@
         "reaction_count": 1,
         "total_comment_count": 5,
         "user_comment_count": 2
-      },
-      "227": {
-        "id": 679583109,
-        "number": 227,
-        "title": "Add Dimensional Spawning Control",
-        "opened_by": "MokahTGS",
-        "creation_date": "2020-08-15",
-        "labels": [
-          "Feature Request",
-          "Library: Collective"
-        ],
-        "mod_name": "",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 4,
-        "user_comment_count": 1
       },
       "203": {
         "id": 664265376,
@@ -13671,10 +13419,6 @@
       5
     ],
     [
-      431,
-      5
-    ],
-    [
       438,
       5
     ],
@@ -13759,14 +13503,6 @@
       3
     ],
     [
-      397,
-      3
-    ],
-    [
-      650,
-      3
-    ],
-    [
       683,
       3
     ],
@@ -13816,10 +13552,6 @@
     ],
     [
       1512,
-      3
-    ],
-    [
-      1643,
       3
     ],
     [
@@ -13955,10 +13687,6 @@
       2
     ],
     [
-      646,
-      2
-    ],
-    [
       656,
       2
     ],
@@ -14036,10 +13764,6 @@
     ],
     [
       1186,
-      2
-    ],
-    [
-      1230,
       2
     ],
     [
@@ -14243,10 +13967,6 @@
       2
     ],
     [
-      2175,
-      2
-    ],
-    [
       2190,
       2
     ],
@@ -14376,10 +14096,6 @@
     ],
     [
       3109,
-      2
-    ],
-    [
-      3113,
       2
     ],
     [
@@ -14531,19 +14247,11 @@
       1
     ],
     [
-      227,
-      1
-    ],
-    [
       229,
       1
     ],
     [
       234,
-      1
-    ],
-    [
-      239,
       1
     ],
     [
@@ -15371,10 +15079,6 @@
       1
     ],
     [
-      1462,
-      1
-    ],
-    [
       1463,
       1
     ],
@@ -15607,10 +15311,6 @@
       1
     ],
     [
-      1875,
-      1
-    ],
-    [
       1881,
       1
     ],
@@ -15664,10 +15364,6 @@
     ],
     [
       1947,
-      1
-    ],
-    [
-      1949,
       1
     ],
     [
@@ -16735,10 +16431,6 @@
       1
     ],
     [
-      3761,
-      1
-    ],
-    [
       3768,
       1
     ],
@@ -16815,17 +16507,17 @@
       1
     ],
     [
-      3896,
-      1
-    ],
-    [
       3897,
       1
     ],
     [
       3905,
       1
+    ],
+    [
+      3919,
+      1
     ]
   ],
-  "last_updated": "2026-10-20 04:57:37"
+  "last_updated": "2026-10-20 11:45:25"
 }
