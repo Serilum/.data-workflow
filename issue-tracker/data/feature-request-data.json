@@ -119,22 +119,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3842": {
-        "id": 5254710754,
-        "number": 3842,
-        "title": "Client shows full durability on servers without the mod, and breaks other mods",
-        "opened_by": "NebulaTechs",
-        "creation_date": "2026-08-26",
-        "labels": [
-          "Feature Request",
-          "Mod: What Durability?"
-        ],
-        "mod_name": "What Durability?",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3836": {
         "id": 5170873040,
         "number": 3836,
@@ -2107,24 +2091,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3202": {
-        "id": 3242801145,
-        "number": 3202,
-        "title": "Config durability off\\on",
-        "opened_by": "MstDominik",
-        "creation_date": "2025-07-18",
-        "labels": [
-          "Feature Request",
-          "Mod: What Durability?"
-        ],
-        "mod_name": "What Durability?",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 3,
-        "user_comment_count": 2
-      },
       "3200": {
         "id": 3239418065,
         "number": 3200,
@@ -2219,25 +2185,6 @@
         ],
         "mod_name": "Rain Be Gone Ritual",
         "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3180": {
-        "id": 3196820416,
-        "number": 3180,
-        "title": "Durability Key bind",
-        "opened_by": "TheDarkPanther",
-        "creation_date": "2025-07-02",
-        "labels": [
-          "Feature Request",
-          "Mod: What Durability?"
-        ],
-        "mod_name": "What Durability?",
-        "reactions": {
-          "+1": 1,
-          "laugh": 1
-        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -4270,24 +4217,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2587": {
-        "id": 2468929882,
-        "number": 2587,
-        "title": "[What Durability] Add an item blacklist for the mod",
-        "opened_by": "Exell42",
-        "creation_date": "2024-08-15",
-        "labels": [
-          "Feature Request",
-          "Mod: What Durability?"
-        ],
-        "mod_name": "What Durability?",
-        "reactions": {
-          "+1": 5
-        },
-        "reaction_count": 6,
-        "total_comment_count": 4,
-        "user_comment_count": 3
-      },
       "2570": {
         "id": 2455420695,
         "number": 2570,
@@ -4990,24 +4919,6 @@
         "mod_name": "World Border",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2373": {
-        "id": 2304461522,
-        "number": 2373,
-        "title": "[What Durability] Disable Unbreaking and Mending when the mod is installed",
-        "opened_by": "Desempregago",
-        "creation_date": "2024-05-19",
-        "labels": [
-          "Feature Request",
-          "Mod: What Durability?"
-        ],
-        "mod_name": "What Durability?",
-        "reactions": {
-          "+1": 3
-        },
-        "reaction_count": 4,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -13411,10 +13322,6 @@
       6
     ],
     [
-      2587,
-      6
-    ],
-    [
       307,
       5
     ],
@@ -13484,10 +13391,6 @@
     ],
     [
       2275,
-      4
-    ],
-    [
-      2373,
       4
     ],
     [
@@ -14120,10 +14023,6 @@
     ],
     [
       3189,
-      2
-    ],
-    [
-      3202,
       2
     ],
     [
@@ -16119,10 +16018,6 @@
       1
     ],
     [
-      3180,
-      1
-    ],
-    [
       3185,
       1
     ],
@@ -16495,10 +16390,6 @@
       1
     ],
     [
-      3842,
-      1
-    ],
-    [
       3867,
       1
     ],
@@ -16519,5 +16410,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-20 17:14:50"
+  "last_updated": "2026-10-20 21:42:11"
 }
