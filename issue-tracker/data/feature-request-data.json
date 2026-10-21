@@ -1,6 +1,22 @@
 {
   "data": {
     "mod-feature": {
+      "3923": {
+        "id": 5948767679,
+        "number": 3923,
+        "title": "Endermen teleports only when angry",
+        "opened_by": "rompeballer",
+        "creation_date": "2026-10-20",
+        "labels": [
+          "Feature Request",
+          "Mod: Passive Endermen"
+        ],
+        "mod_name": "Passive Endermen",
+        "reactions": {},
+        "reaction_count": 1,
+        "total_comment_count": 2,
+        "user_comment_count": 1
+      },
       "3919": {
         "id": 5908973658,
         "number": 3919,
@@ -771,22 +787,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3618": {
-        "id": 4014712864,
-        "number": 3618,
-        "title": "Wandering Trader May Leave compatible with [Let's Do] Vinery?",
-        "opened_by": "BigAl607",
-        "creation_date": "2026-03-03",
-        "labels": [
-          "Feature Request",
-          "Mod: Wandering Trader May Leave"
-        ],
-        "mod_name": "Wandering Trader May Leave",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3617": {
         "id": 4007287917,
         "number": 3617,
@@ -1438,22 +1438,6 @@
           "heart": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3379": {
-        "id": 3566807670,
-        "number": 3379,
-        "title": "Areas could have a height as well as a radius",
-        "opened_by": "RemingtonRyder",
-        "creation_date": "2025-10-29",
-        "labels": [
-          "Feature Request",
-          "Mod: Areas"
-        ],
-        "mod_name": "Areas",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -2913,22 +2897,6 @@
         "total_comment_count": 4,
         "user_comment_count": 1
       },
-      "2969": {
-        "id": 2919380032,
-        "number": 2969,
-        "title": "May Leave suport for Rats",
-        "opened_by": "2el222",
-        "creation_date": "2025-03-14",
-        "labels": [
-          "Feature Request",
-          "Mod: Wandering Trader May Leave"
-        ],
-        "mod_name": "Wandering Trader May Leave",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2966": {
         "id": 2912896509,
         "number": 2966,
@@ -4297,25 +4265,6 @@
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
-      },
-      "2555": {
-        "id": 2438877910,
-        "number": 2555,
-        "title": "[Areas Mod] Config for Area/Zone/Region",
-        "opened_by": "Entchenbrot",
-        "creation_date": "2024-07-31",
-        "labels": [
-          "Feature Request",
-          "Mod: Areas"
-        ],
-        "mod_name": "Areas",
-        "reactions": {
-          "heart": 4,
-          "+1": 5
-        },
-        "reaction_count": 5,
-        "total_comment_count": 3,
-        "user_comment_count": 2
       },
       "2544": {
         "id": 2433655022,
@@ -13125,10 +13074,6 @@
       5
     ],
     [
-      2555,
-      5
-    ],
-    [
       2558,
       5
     ],
@@ -15649,10 +15594,6 @@
       1
     ],
     [
-      2969,
-      1
-    ],
-    [
       2971,
       1
     ],
@@ -15901,10 +15842,6 @@
       1
     ],
     [
-      3379,
-      1
-    ],
-    [
       3440,
       1
     ],
@@ -16014,10 +15951,6 @@
     ],
     [
       3617,
-      1
-    ],
-    [
-      3618,
       1
     ],
     [
@@ -16155,7 +16088,11 @@
     [
       3919,
       1
+    ],
+    [
+      3923,
+      1
     ]
   ],
-  "last_updated": "2026-10-21 11:56:06"
+  "last_updated": "2026-10-21 17:17:49"
 }
