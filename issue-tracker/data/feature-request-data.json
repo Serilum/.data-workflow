@@ -2865,22 +2865,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2974": {
-        "id": 2929185838,
-        "number": 2974,
-        "title": "Inventory Totem applies to any death protection item",
-        "opened_by": "BetaSigmaOmega",
-        "creation_date": "2025-03-18",
-        "labels": [
-          "Feature Request",
-          "Mod: Inventory Totem"
-        ],
-        "mod_name": "Inventory Totem",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2971": {
         "id": 2922955761,
         "number": 2971,
@@ -15598,10 +15582,6 @@
       1
     ],
     [
-      2974,
-      1
-    ],
-    [
       2991,
       1
     ],
@@ -16094,5 +16074,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-21 17:17:49"
+  "last_updated": "2026-10-21 21:48:03"
 }
