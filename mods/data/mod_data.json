@@ -9633,7 +9633,7 @@
     "has_translations": false
   },
   "Random Village Names": {
-    "description": "\ud83c\udf06 All villages receive a randomized name, shown in the GUI via the Areas mod.",
+    "description": "\ud83c\udf06 All villages receive a randomized name from a configurable list, shown in the GUI via the Areas mod.",
     "slug": "random-village-names",
     "fabric_slug": "random-village-names-fabric",
     "fabric_versions": [
