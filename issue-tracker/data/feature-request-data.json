@@ -170,24 +170,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3827": {
-        "id": 5126743084,
-        "number": 3827,
-        "title": "Millager compatibility and entity blacklist",
-        "opened_by": "soapsopaaa",
-        "creation_date": "2026-08-12",
-        "labels": [
-          "Feature Request",
-          "Mod: Villager Names"
-        ],
-        "mod_name": "Villager Names",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3823": {
         "id": 5098379791,
         "number": 3823,
@@ -4146,24 +4128,6 @@
         "mod_name": "Beautified Chat [Client]",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2601": {
-        "id": 2479678868,
-        "number": 2601,
-        "title": "[Villager Names] Please allow an entity blacklist in the configs",
-        "opened_by": "zenithBemusement",
-        "creation_date": "2024-08-22",
-        "labels": [
-          "Feature Request",
-          "Mod: Villager Names"
-        ],
-        "mod_name": "Villager Names",
-        "reactions": {
-          "heart": 1
-        },
-        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -13926,10 +13890,6 @@
       2
     ],
     [
-      2601,
-      2
-    ],
-    [
       2620,
       2
     ],
@@ -14123,10 +14083,6 @@
     ],
     [
       3823,
-      2
-    ],
-    [
-      3827,
       2
     ],
     [
@@ -16410,5 +16366,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-20 21:42:11"
+  "last_updated": "2026-10-21 04:55:53"
 }
