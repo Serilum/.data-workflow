@@ -33,22 +33,6 @@
         "total_comment_count": 3,
         "user_comment_count": 1
       },
-      "3905": {
-        "id": 5792897997,
-        "number": 3905,
-        "title": "Allow more than Max Y 256 for compat with Height Increase Mods and Datapacks",
-        "opened_by": "WilsonDK",
-        "creation_date": "2026-10-10",
-        "labels": [
-          "Feature Request",
-          "Mod: Set World Spawn Point"
-        ],
-        "mod_name": "Set World Spawn Point",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3899": {
         "id": 5735616578,
         "number": 3899,
@@ -167,22 +151,6 @@
           "+1": 2
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3834": {
-        "id": 5160253160,
-        "number": 3834,
-        "title": "[Fabric 1.20.1] [All Loot Drops] Mob Blacklist",
-        "opened_by": "ITSLOCKED",
-        "creation_date": "2026-08-15",
-        "labels": [
-          "Feature Request",
-          "Mod: All Loot Drops"
-        ],
-        "mod_name": "All Loot Drops",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -16042,10 +16010,6 @@
       1
     ],
     [
-      3834,
-      1
-    ],
-    [
       3836,
       1
     ],
@@ -16062,10 +16026,6 @@
       1
     ],
     [
-      3905,
-      1
-    ],
-    [
       3919,
       1
     ],
@@ -16074,5 +16034,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-22 04:55:23"
+  "last_updated": "2026-10-22 12:00:51"
 }
