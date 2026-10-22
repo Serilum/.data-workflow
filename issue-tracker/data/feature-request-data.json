@@ -12,7 +12,10 @@
           "Mod: Passive Endermen"
         ],
         "mod_name": "Passive Endermen",
-        "reactions": {},
+        "reactions": {
+          "laugh": 1,
+          "eyes": 1
+        },
         "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
@@ -8327,14 +8330,14 @@
         ],
         "mod_name": "Just Player Heads",
         "reactions": {
-          "+1": 6,
-          "rocket": 2,
+          "+1": 7,
+          "rocket": 3,
           "laugh": 1,
           "hooray": 1,
           "heart": 1,
           "eyes": 1
         },
-        "reaction_count": 7,
+        "reaction_count": 8,
         "total_comment_count": 4,
         "user_comment_count": 3
       },
@@ -12967,7 +12970,7 @@
     ],
     [
       1389,
-      7
+      8
     ],
     [
       1445,
@@ -16034,5 +16037,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-22 12:00:51"
+  "last_updated": "2026-10-22 17:17:05"
 }
