@@ -1962,22 +1962,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "3216": {
-        "id": 3266254467,
-        "number": 3216,
-        "title": "No Hostiles Around Campfire Whitelist/Blacklist",
-        "opened_by": "moderninity",
-        "creation_date": "2025-07-26",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "3211": {
         "id": 3253849752,
         "number": 3211,
@@ -1993,22 +1977,6 @@
           "heart": 1
         },
         "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3209": {
-        "id": 3249307334,
-        "number": 3209,
-        "title": "Setting to make campfires only block spawns if there is skylight.",
-        "opened_by": "Edulml",
-        "creation_date": "2025-07-21",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {},
-        "reaction_count": 1,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -2205,42 +2173,6 @@
         "mod_name": "Configurable Extra Mob Drops",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3147": {
-        "id": 3135095884,
-        "number": 3147,
-        "title": "Whitelist and blacklist for preventing mob spawns with campfire",
-        "opened_by": "johalun",
-        "creation_date": "2025-06-11",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "3146": {
-        "id": 3135088780,
-        "number": 3146,
-        "title": "Require sky access for campfire to prevent hostile mob spawn",
-        "opened_by": "johalun",
-        "creation_date": "2025-06-10",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -3419,26 +3351,6 @@
         "total_comment_count": 2,
         "user_comment_count": 1
       },
-      "2790": {
-        "id": 2727836321,
-        "number": 2790,
-        "title": "No Hostiles Around Campfire : Add configuration for mob Blacklist.",
-        "opened_by": "Akinesis",
-        "creation_date": "2024-12-09",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {
-          "eyes": 1,
-          "+1": 1,
-          "heart": 1
-        },
-        "reaction_count": 3,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
       "2787": {
         "id": 2724522021,
         "number": 2787,
@@ -3484,24 +3396,6 @@
         "mod_name": "Quick Right-Click",
         "reactions": {},
         "reaction_count": 1,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "2777": {
-        "id": 2703364605,
-        "number": 2777,
-        "title": "Request that AlexsMobs Crocodile be added to list of mob spawn prevention in No Hostiles Around Campfire",
-        "opened_by": "warrentode",
-        "creation_date": "2024-11-28",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {
-          "+1": 1
-        },
-        "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
       },
@@ -4456,22 +4350,6 @@
         "reaction_count": 2,
         "total_comment_count": 2,
         "user_comment_count": 1
-      },
-      "2473": {
-        "id": 2381872462,
-        "number": 2473,
-        "title": "Feature Request: Requires Skylight",
-        "opened_by": "krlsmnk",
-        "creation_date": "2024-06-29",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {},
-        "reaction_count": 1,
-        "total_comment_count": 3,
-        "user_comment_count": 2
       },
       "2472": {
         "id": 2381269234,
@@ -6999,24 +6877,6 @@
         "mod_name": "Tree Harvester",
         "reactions": {
           "+1": 2
-        },
-        "reaction_count": 2,
-        "total_comment_count": 2,
-        "user_comment_count": 1
-      },
-      "1826": {
-        "id": 1768559593,
-        "number": 1826,
-        "title": "No hostiles around campfire question/idea.",
-        "opened_by": "Dr-Rumack",
-        "creation_date": "2023-06-21",
-        "labels": [
-          "Feature Request",
-          "Mod: No Hostiles Around Campfire"
-        ],
-        "mod_name": "No Hostiles Around Campfire",
-        "reactions": {
-          "+1": 1
         },
         "reaction_count": 2,
         "total_comment_count": 2,
@@ -13173,10 +13033,6 @@
       3
     ],
     [
-      2790,
-      3
-    ],
-    [
       2861,
       3
     ],
@@ -13465,10 +13321,6 @@
       2
     ],
     [
-      1826,
-      2
-    ],
-    [
       1828,
       2
     ],
@@ -13633,10 +13485,6 @@
       2
     ],
     [
-      2777,
-      2
-    ],
-    [
       2802,
       2
     ],
@@ -13686,14 +13534,6 @@
     ],
     [
       3141,
-      2
-    ],
-    [
-      3146,
-      2
-    ],
-    [
-      3147,
       2
     ],
     [
@@ -15245,10 +15085,6 @@
       1
     ],
     [
-      2473,
-      1
-    ],
-    [
       2477,
       1
     ],
@@ -15681,14 +15517,6 @@
       1
     ],
     [
-      3209,
-      1
-    ],
-    [
-      3216,
-      1
-    ],
-    [
       3217,
       1
     ],
@@ -16037,5 +15865,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-22 17:17:05"
+  "last_updated": "2026-10-22 21:42:09"
 }
