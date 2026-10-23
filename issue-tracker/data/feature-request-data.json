@@ -4151,7 +4151,7 @@
         "id": 2430883488,
         "number": 2537,
         "title": "Allow for adding block data to blocks in spreadsettings | NPS",
-        "opened_by": "ShadyPlar",
+        "opened_by": "PlarCurander",
         "creation_date": "2024-07-25",
         "labels": [
           "Feature Request",
@@ -15865,5 +15865,5 @@
       1
     ]
   ],
-  "last_updated": "2026-10-23 17:14:40"
+  "last_updated": "2026-10-23 21:29:16"
 }
